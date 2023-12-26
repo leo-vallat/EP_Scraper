@@ -1,0 +1,24 @@
+Rang,Equipe,Match Joué,Points,Victoire,Défaite,Victoire en Prolongation,Défaite en Prolongation,Buts Marqués,Buts Encaissés,Point Par Match,Ville,Latitude Ville,Longitude Ville
+1,Spartak Moskva,30,43,19,7,1,3,109,80,1.43,Moskva,55.75222,37.61556
+2,Dynamo Moskva,28,42,15,6,5,2,88,61,1.5,Moskva,55.75222,37.61556
+1,Lada Togliatti,31,41,15,8,3,5,79,72,1.32,Togliatti,53.5303,49.3461
+2,Metallurg Magnitogorsk,30,40,15,8,3,4,94,79,1.33,Magnitogorsk,53.41861,59.04722
+3,Ak Bars Kazan,29,38,13,9,5,2,86,69,1.31,Kazan,55.78874,49.12214
+3,Torpedo Nizhny Novgorod,29,38,16,9,2,2,87,65,1.31,Nizhny Novgorod,56.32867,44.00205
+4,Avangard Omsk,28,37,11,8,6,3,80,77,1.32,Omsk,54.99244,73.36859
+5,Avtomobilist Yekaterinburg,31,36,12,11,4,4,70,67,1.16,Yekaterinburg,56.8519,60.6122
+4,Lokomotiv Yaroslavl,28,36,16,9,1,2,71,57,1.29,Yaroslavl,57.62987,39.87368
+7,Traktor Chelyabinsk,29,35,11,10,5,3,76,64,1.21,Chelyabinsk,55.15402,61.42915
+6,Salavat Yulaev Ufa,28,35,16,10,1,1,79,52,1.25,Ufa,54.74306,55.96779
+5,Dinamo Minsk,27,32,9,9,5,4,78,69,1.19,Minsk,53.9,27.56667
+7,CSKA Moskva,28,30,11,12,3,2,86,67,1.07,Moskva,55.75222,37.61556
+8,Severstal Cherepovets,27,30,11,10,2,4,91,80,1.11,Cherepovets,59.13333,37.9
+6,SKA St. Petersburg,28,30,13,13,2,0,81,66,1.07,St. Petersburg,59.93863,30.31413
+8,Neftekhimik Nizhnekamsk,29,29,9,12,3,5,68,94,1.0,Nizhnekamsk,55.63657,51.82447
+9,Sibir Novosibirsk,29,29,7,13,6,3,65,85,1.0,Novosibirsk,55.0415,82.9346
+10,Amur Khabarovsk,28,28,10,11,1,6,63,74,1.0,Khabarovsk,48.48271,135.08379
+9,HK Sochi,29,26,10,15,2,2,75,106,0.9,Sochi,43.59917,39.72569
+10,Kunlun Red Star,33,25,4,18,6,5,67,111,0.76,Beijing,39.9075,116.39723
+11,Barys Astana,30,23,4,15,4,7,68,94,0.77,Astana,51.1801,71.44598
+11,Vityaz Moscow Region,29,20,4,17,4,4,55,103,0.69,Balashikha,55.79479,37.94794
+12,Admiral Vladivostok,26,18,4,15,3,4,55,79,0.69,Vladivostok,43.10562,131.87353

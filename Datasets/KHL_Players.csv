@@ -1,0 +1,746 @@
+Ligue,Equipe,Joueur,Position,Age,Taille,Poids,Ville de Naissance,Pays de Naissance,Club Formateur,Shoot,Année de Draft,Ronde de Draft,Position de Draft,Equipe de Draft,Salaire NHL,Match Joué,But,Assist,Point,Pénalités,Plus/Minus,GAA,SVP,Latitude Ville,Longitude Ville,Latitude Pays,Longitude Pays
+KHL,Admiral Vladivostok,Sergei Ivanov,G,19,180,75,Chernushka,Russia,Gazovik Tyumen,L,2022,5,138,Columbus Blue Jackets,None,8,None,None,None,None,None,2.74,0.92,57.6373,62.40394,60.0,100.0
+KHL,Admiral Vladivostok,Pavel Khomchenko,G,29,185,82,Saratov,Russia,Kristall Saratov,L,None,None,None,None,None,15,None,None,None,None,None,3.07,0.916,51.54056,46.00861,60.0,100.0
+KHL,Admiral Vladivostok,Arseni Tsyba,G,22,187,76,Chaikovsky,Russia,Oktan Perm,L,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,60.0,100.0
+KHL,Admiral Vladivostok,Maxim Chudinov,D,33,180,95,Cherepovets,Russia,Severstal Cherepovets,R,2010,7,195,Boston Bruins,None,18,2,4,6,12,-4,None,None,59.13333,37.9,60.0,100.0
+KHL,Admiral Vladivostok,Ruslan Ibatullin,D,29,178,79,Chishmy,Russia,Salavat Yulaev Ufa,L,None,None,None,None,None,15,1,0,1,6,-5,None,None,54.57648,55.37642,60.0,100.0
+KHL,Admiral Vladivostok,Yevgeni Lisovets,D,28,182,86,Grodno,Belarus,Neman Grodno,L,None,None,None,None,None,17,1,4,5,2,-4,None,None,53.6884,23.8258,53.0,28.0
+KHL,Admiral Vladivostok,Leonid Metalnikov,D,33,182,85,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,26,2,3,5,6,-1,None,None,49.97143,82.60586,48.0,68.0
+KHL,Admiral Vladivostok,Yegor Nikitin,D,19,179,82,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,R,None,None,None,None,None,13,1,0,1,0,0,None,None,55.63657,51.82447,60.0,100.0
+KHL,Admiral Vladivostok,Ilya Pastukhov,D,22,186,92,Novosibirsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,2,0,0,0,0,-1,None,None,55.0415,82.9346,60.0,100.0
+KHL,Admiral Vladivostok,Yuri Pautov,D,28,191,93,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,24,1,3,4,8,0,None,None,57.62987,39.87368,60.0,100.0
+KHL,Admiral Vladivostok,Alexey Solovyev,D,29,188,92,Moskva,Russia,None,L,None,None,None,None,None,26,4,8,12,10,-8,None,None,55.75222,37.61556,60.0,100.0
+KHL,Admiral Vladivostok,Mark Yanchevsky,D,25,199,93,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,8,0,0,0,0,-3,None,None,53.41861,59.04722,60.0,100.0
+KHL,Admiral Vladivostok,Nikita Anokhovsky,F,24,183,91,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,11,1,2,3,2,-1,None,None,57.62987,39.87368,60.0,100.0
+KHL,Admiral Vladivostok,Anton Berlyov,F,29,177,82,St. Petersburg,Russia,SKA-Petergof St. Petersburg,R,None,None,None,None,None,20,3,2,5,4,-6,None,None,59.93863,30.31413,60.0,100.0
+KHL,Admiral Vladivostok,Dmitri Buchelnikov,F,20,179,77,Nizhny Tagil,Russia,Gazovik Tyumen,R,2022,2,52,Detroit Red Wings,None,13,2,2,4,0,-5,None,None,57.91944,59.965,60.0,100.0
+KHL,Admiral Vladivostok,Nikolai Chebykin,F,26,195,101,Chita,Russia,Dynamo Moskva,L,2016,7,182,Toronto Maple Leafs,None,24,1,2,3,8,-6,None,None,52.03171,113.50087,60.0,100.0
+KHL,Admiral Vladivostok,Danil Faizullin,F,29,185,86,Kazan,Russia,Ak Bars Kazan,R,None,None,None,None,None,18,1,0,1,0,-2,None,None,55.78874,49.12214,60.0,100.0
+KHL,Admiral Vladivostok,Giovanni Fiore,F,27,185,93,Laval,Canada,AHM Laval,L,None,None,None,None,None,24,6,5,11,10,-1,None,None,45.56995,-73.692,60.10867,-113.64258
+KHL,Admiral Vladivostok,Denis Golubev,F,32,181,92,Magnitogorsk,Russia,Metallurg Magnitogorsk,R,None,None,None,None,None,17,1,1,2,4,-4,None,None,53.41861,59.04722,60.0,100.0
+KHL,Admiral Vladivostok,Alexander Gorshkov,F,32,173,73,Surgut,Russia,Olimpiyets Surgut,R,None,None,None,None,None,23,2,10,12,8,-1,None,None,61.25,73.41667,60.0,100.0
+KHL,Admiral Vladivostok,Tyler Graovac,F,30,195,94,Brampton,Canada,None,L,2011,7,191,Minnesota Wild,None,20,3,1,4,42,-3,None,None,43.68341,-79.76633,60.10867,-113.64258
+KHL,Admiral Vladivostok,Daniil Gutik,F,22,191,86,Khabarovsk,Russia,Amur Khabarovsk,R,None,None,None,None,None,26,6,13,19,16,-3,None,None,48.48271,135.08379,60.0,100.0
+KHL,Admiral Vladivostok,Prokhor Korbit,F,21,190,83,Podolsk,Russia,Vityaz Chekhov,L,None,None,None,None,None,23,6,3,9,2,-8,None,None,55.42419,37.55472,60.0,100.0
+KHL,Admiral Vladivostok,Pavel Makhanovsky,F,30,191,97,Mezhdurechensk,Russia,None,L,None,None,None,None,None,18,0,2,2,12,-3,None,None,53.69417,88.06028,60.0,100.0
+KHL,Admiral Vladivostok,Kirill Maximov,F,24,190,87,Moskva,Russia,CSKA Moskva,R,2017,5,146,Edmonton Oilers,None,2,0,0,0,4,-1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Admiral Vladivostok,Yegor Morozov,F,28,188,95,Togliatti,Russia,Lada Togliatti,L,None,None,None,None,None,2,0,0,0,0,-1,None,None,53.5303,49.3461,60.0,100.0
+KHL,Admiral Vladivostok,Anton Nazarevich,F,25,178,81,Sevastopol,Russia,Severnaya Zvezda Moskva,L,None,None,None,None,None,3,0,0,0,0,-2,None,None,51.7688,59.0399,60.0,100.0
+KHL,Admiral Vladivostok,Semyon Pankratov,F,25,184,88,Moskva,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,None,None,None,None,None,None,None,None,55.75222,37.61556,60.0,100.0
+KHL,Admiral Vladivostok,Nikita Rtishchev,F,23,188,89,Elektrostal,Russia,Kristall Elektrostal,L,None,None,None,None,None,None,None,None,None,None,None,None,None,55.78647,38.45713,60.0,100.0
+KHL,Admiral Vladivostok,Pavel Shen,F,24,183,88,Ufa,Russia,Salavat Yulaev Ufa,L,2018,7,212,Boston Bruins,None,26,4,4,8,6,-4,None,None,54.74306,55.96779,60.0,100.0
+KHL,Admiral Vladivostok,Alexander Shevchenko,F,31,186,88,Belgorod,Russia,HK Belgorod,L,None,None,None,None,None,25,4,4,8,10,-4,None,None,50.61074,36.58015,60.0,100.0
+KHL,Admiral Vladivostok,Pavel Varfolomeyev,F,28,176,85,Magnitogorsk,Russia,Metallurg Magnitogorsk,R,None,None,None,None,None,15,2,5,7,6,-2,None,None,53.41861,59.04722,60.0,100.0
+KHL,Admiral Vladivostok,Ivan Yemets,F,26,180,75,Novokuznetsk,Russia,Metallurg Novokuznetsk,R,None,None,None,None,None,8,0,0,0,0,-2,None,None,53.7557,87.1099,60.0,100.0
+KHL,Ak Bars Kazan,Artur Akhtyamov,G,22,185,76,Kazan,Russia,Ak Bars Kazan,L,2020,4,106,Toronto Maple Leafs,851667,16,None,None,None,None,None,2.39,0.923,55.78874,49.12214,60.0,100.0
+KHL,Ak Bars Kazan,Maxim Arefyev,G,20,194,83,Orsk,Russia,Yuzhny Ural Orsk,L,None,None,None,None,None,0,None,None,None,None,None,None,None,51.20487,58.56685,60.0,100.0
+KHL,Ak Bars Kazan,Timur Bilyalov,G,28,179,79,Kazan,Russia,Ak Bars Kazan,L,None,None,None,None,None,16,None,None,None,None,None,2.15,0.924,55.78874,49.12214,60.0,100.0
+KHL,Ak Bars Kazan,Amir Miftakhov,G,23,183,75,Kazan,Russia,Ak Bars Kazan,L,2020,6,186,Tampa Bay Lightning,None,1,None,None,None,None,None,3.12,0.875,55.78874,49.12214,60.0,100.0
+KHL,Ak Bars Kazan,Bulat Mukhamov,G,19,184,84,Kazan,Russia,Ak Bars Kazan,L,None,None,None,None,None,None,None,None,None,None,None,None,None,55.78874,49.12214,60.0,100.0
+KHL,Ak Bars Kazan,Kirill Adamchuk,D,29,190,91,Tyumen,Russia,Gazovik Tyumen,L,None,None,None,None,None,29,0,4,4,27,4,None,None,57.15222,65.52722,60.0,100.0
+KHL,Ak Bars Kazan,Vsevolod Almetkin,D,20,189,89,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,3,0,0,0,0,2,None,None,55.63657,51.82447,60.0,100.0
+KHL,Ak Bars Kazan,Kristian Khenkel,D,28,186,90,Minsk,Belarus,Yunost Minsk,L,None,None,None,None,None,19,0,2,2,6,6,None,None,53.9,27.56667,53.0,28.0
+KHL,Ak Bars Kazan,Konstantin Luchevnikov,D,28,188,87,Chelyabinsk,Russia,Mechel Chelyabinsk,L,None,None,None,None,None,29,1,4,5,17,5,None,None,55.15402,61.42915,60.0,100.0
+KHL,Ak Bars Kazan,Nikita Lyamkin,D,27,196,97,Barnaul,Russia,Motor Barnaul,L,None,None,None,None,None,29,2,14,16,6,4,None,None,53.36056,83.76361,60.0,100.0
+KHL,Ak Bars Kazan,Karim Vaziyev,D,17,179,68,Kazan,Russia,Ak Bars Kazan,L,None,None,None,None,None,1,0,0,0,0,0,None,None,55.78874,49.12214,60.0,100.0
+KHL,Ak Bars Kazan,Vyacheslav Voynov,D,33,182,87,Chelyabinsk,Russia,Traktor Chelyabinsk,R,2008,2,32,Los Angeles Kings,None,12,0,7,7,6,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,Ak Bars Kazan,Nikita Yevseyev,D,19,186,85,Almetievsk,Russia,Neftyanik Almetievsk,L,2022,6,190,Edmonton Oilers,None,19,1,2,3,6,2,None,None,None,None,60.0,100.0
+KHL,Ak Bars Kazan,Dmitri Yudin,D,28,183,90,Nizhny Tagil,Russia,Sputnik Nizhny Tagil,L,None,None,None,None,None,28,4,10,14,12,-1,None,None,57.91944,59.965,60.0,100.0
+KHL,Ak Bars Kazan,Daniil Zhuravlyov,D,23,183,74,Nizhny Novgorod,Russia,Torpedo Nizhny Novgorod,L,2018,5,146,Colorado Avalanche,None,28,2,6,8,6,6,None,None,56.32867,44.00205,60.0,100.0
+KHL,Ak Bars Kazan,Maxim Bykov,F,21,185,81,Naberezhnye Chelny,Russia,HK Chelny,R,None,None,None,None,None,14,1,1,2,2,2,None,None,55.72545,52.41122,60.0,100.0
+KHL,Ak Bars Kazan,Nikita Dynyak,F,26,182,83,St. Petersburg,Russia,SKA St. Petersburg,R,None,None,None,None,None,24,3,5,8,11,7,None,None,59.93863,30.31413,60.0,100.0
+KHL,Ak Bars Kazan,Artyom Galimov,F,24,180,80,Samara,Russia,CSK VVS Samara,L,2020,5,129,Anaheim Ducks,None,17,1,2,3,6,3,None,None,53.20007,50.15,60.0,100.0
+KHL,Ak Bars Kazan,Stanislav Galiyev,F,31,186,89,Moskva,Russia,Dynamo Moskva,R,2010,3,86,Washington Capitals,None,24,4,4,8,2,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,Ak Bars Kazan,Dmitrij Jaskin,F,30,190,102,Omsk,Czechia,HC Vsetin,L,2011,2,41,St. Louis Blues,None,29,16,5,21,22,0,None,None,None,None,49.75,15.0
+KHL,Ak Bars Kazan,Dmitri Kagarlitsky,F,34,177,74,Cherepovets,Russia,Severstal Cherepovets,R,None,None,None,None,None,28,7,6,13,6,2,None,None,59.13333,37.9,60.0,100.0
+KHL,Ak Bars Kazan,Dmitri Katelevsky,F,20,182,79,Orenburg,Russia,Orenburzhye Orenburg,L,None,None,None,None,None,29,4,3,7,6,7,None,None,51.7727,55.0988,60.0,100.0
+KHL,Ak Bars Kazan,Artyom Lukoyanov,F,34,182,92,Almetievsk,Russia,Neftyanik Almetievsk,L,None,None,None,None,None,27,3,2,5,14,6,None,None,None,None,60.0,100.0
+KHL,Ak Bars Kazan,Kirill Petrov,F,33,191,106,Kazan,Russia,Ak Bars Kazan,L,2008,3,73,New York Islanders,None,25,1,7,8,6,0,None,None,55.78874,49.12214,60.0,100.0
+KHL,Ak Bars Kazan,Alexander Radulov,F,37,186,93,Nizhny Tagil,Russia,Sputnik Nizhny Tagil,L,2004,1,15,Nashville Predators,None,27,9,17,26,20,0,None,None,57.91944,59.965,60.0,100.0
+KHL,Ak Bars Kazan,Ilya Safonov,F,22,193,93,Murmansk,Russia,Belye Medvedi Moskva,L,2021,6,172,Chicago Blackhawks,None,29,7,4,11,10,-4,None,None,68.97917,33.09251,60.0,100.0
+KHL,Ak Bars Kazan,Kirill Semyonov,F,29,185,80,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,29,6,13,19,14,8,None,None,54.99244,73.36859,60.0,100.0
+KHL,Ak Bars Kazan,Vadim Shipachyov,F,36,184,86,Cherepovets,Russia,Severstal Cherepovets,L,None,None,None,None,None,26,9,16,25,10,2,None,None,59.13333,37.9,60.0,100.0
+KHL,Ak Bars Kazan,Yevgeni Svechnikov,F,27,190,94,Yuzhno-Sakhalinsk,Russia,Motor Barnaul,L,2015,1,19,Detroit Red Wings,None,12,2,2,4,12,0,None,None,46.95407,142.73603,60.0,100.0
+KHL,Ak Bars Kazan,Semyon Terekhov,F,21,188,80,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,12,2,1,3,0,1,None,None,55.15402,61.42915,60.0,100.0
+KHL,Ak Bars Kazan,Damir Zhafyarov,F,29,174,77,Moskva,Russia,Rus Moskva,L,None,None,None,None,None,14,1,1,2,6,2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Amur Khabarovsk,Igor Bobkov,G,32,198,110,Surgut,Russia,Olimpiyets Surgut,L,2009,3,76,Anaheim Ducks,None,8,None,None,None,None,None,1.98,0.935,61.25,73.41667,60.0,100.0
+KHL,Amur Khabarovsk,Janis Kalnins,G,31,182,87,Limbazi,Latvia,Metalurgs Liepaja,L,None,None,None,None,None,6,None,None,None,None,None,3.18,0.897,57.51287,24.71941,57.0,25.0
+KHL,Amur Khabarovsk,Dmitri Lozebnikov,G,25,190,91,Tyumen,Russia,Gazovik Tyumen,L,None,None,None,None,None,16,None,None,None,None,None,2.35,0.922,57.15222,65.52722,60.0,100.0
+KHL,Amur Khabarovsk,Viktor Baldayev,D,28,191,95,Elektrostal,Russia,Kristall Elektrostal,L,None,None,None,None,None,21,0,1,1,23,-2,None,None,55.78647,38.45713,60.0,100.0
+KHL,Amur Khabarovsk,Alexander Bryntsev,D,28,193,97,Seversk,Russia,Yantar Seversk,L,None,None,None,None,None,26,0,5,5,10,1,None,None,56.60056,84.88639,60.0,100.0
+KHL,Amur Khabarovsk,Yevgeni Kulik,D,30,184,93,Moskva,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,15,1,3,4,8,6,None,None,55.75222,37.61556,60.0,100.0
+KHL,Amur Khabarovsk,Cam Lee,D,26,183,84,Ferguson's Cove,Canada,None,L,None,None,None,None,None,26,1,10,11,14,-7,None,None,48.60059,-123.392,60.10867,-113.64258
+KHL,Amur Khabarovsk,Ivan Mischenko,D,28,185,85,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,26,1,4,5,14,5,None,None,54.99244,73.36859,60.0,100.0
+KHL,Amur Khabarovsk,Yakov Rylov,D,38,179,89,Kirovo-Chepetsk,Russia,Olimpiya Kirovo-Chepetsk,L,None,None,None,None,None,25,1,9,10,14,5,None,None,58.55386,50.03986,60.0,100.0
+KHL,Amur Khabarovsk,Sergei Ryzhikov,D,19,183,75,Chegdomyn,Russia,Amur Khabarovsk,L,None,None,None,None,None,4,0,0,0,0,0,None,None,51.12853,133.00827,60.0,100.0
+KHL,Amur Khabarovsk,Alexander Shchemerov,D,26,181,90,Yekaterinburg,Russia,Yunost Yekaterinburg,R,None,None,None,None,None,15,1,1,2,12,-2,None,None,56.8519,60.6122,60.0,100.0
+KHL,Amur Khabarovsk,Kirill Spitsenko,D,23,188,93,Omsk,Russia,Avangard Omsk,R,None,None,None,None,None,None,None,None,None,None,None,None,None,54.99244,73.36859,60.0,100.0
+KHL,Amur Khabarovsk,Alexei Volgin,D,33,182,88,Samara,Russia,CSK VVS Samara,L,None,None,None,None,None,14,1,3,4,8,-10,None,None,53.20007,50.15,60.0,100.0
+KHL,Amur Khabarovsk,Vladislav Barulin,F,27,183,88,Moskva,Russia,None,R,None,None,None,None,None,22,2,2,4,0,-4,None,None,55.75222,37.61556,60.0,100.0
+KHL,Amur Khabarovsk,Stanislav Bocharov,F,32,181,93,Khabarovsk,Russia,Amur Khabarovsk,L,None,None,None,None,None,27,5,5,10,8,3,None,None,48.48271,135.08379,60.0,100.0
+KHL,Amur Khabarovsk,Alex Broadhurst,F,30,180,82,Orland Park,USA,None,L,2011,7,199,Chicago Blackhawks,None,3,2,2,4,0,-1,None,None,41.63031,-87.85394,-14.60485,-57.65625
+KHL,Amur Khabarovsk,Jan Drozg,F,24,188,79,Maribor,Slovenia,None,R,2017,5,152,Pittsburgh Penguins,None,14,3,4,7,2,0,None,None,46.55472,15.64667,46.08333,15.0
+KHL,Amur Khabarovsk,Artur Gizdatullin,F,26,183,87,Almetievsk,Russia,Neftyanik Almetievsk,L,None,None,None,None,None,28,6,2,8,12,0,None,None,None,None,60.0,100.0
+KHL,Amur Khabarovsk,Yevgeni Grachyov,F,33,194,96,Khabarovsk,Russia,Lokomotiv Yaroslavl,L,2008,3,75,New York Rangers,None,28,5,6,11,16,-3,None,None,48.48271,135.08379,60.0,100.0
+KHL,Amur Khabarovsk,Vyacheslav Gretsky,F,26,195,99,Grodno,Belarus,None,L,None,None,None,None,None,9,1,0,1,4,1,None,None,53.6884,23.8258,53.0,28.0
+KHL,Amur Khabarovsk,Kirill Kapustin,F,30,186,90,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,28,6,2,8,8,1,None,None,57.62987,39.87368,60.0,100.0
+KHL,Amur Khabarovsk,Alexander Khokhlachev,F,30,178,89,Moskva,Russia,Spartak Moskva,L,2011,2,40,Boston Bruins,None,27,5,8,13,10,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Amur Khabarovsk,Pyotr Khokhryakov,F,33,185,85,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,12,1,2,3,0,-1,None,None,55.63657,51.82447,60.0,100.0
+KHL,Amur Khabarovsk,Sergei Kolesnikov,F,24,187,92,Novocheboksarsk,Russia,Sokol Novocheboksarsk,L,None,None,None,None,None,3,1,0,1,0,2,None,None,56.11095,47.47755,60.0,100.0
+KHL,Amur Khabarovsk,Ignat Korotkikh,F,21,188,83,Vanino,Russia,Amur Khabarovsk,L,None,None,None,None,None,9,0,1,1,6,-3,None,None,49.09848,140.25313,60.0,100.0
+KHL,Amur Khabarovsk,Yegor Korshkov,F,27,194,97,Novosibirsk,Russia,Kazakhmys Karaganda,L,2016,2,31,Toronto Maple Leafs,None,28,5,8,13,18,-4,None,None,55.0415,82.9346,60.0,100.0
+KHL,Amur Khabarovsk,Sergei Lapin,F,27,177,81,Angarsk,Russia,Yermak Angarsk,L,None,None,None,None,None,26,1,2,3,6,-1,None,None,52.53667,103.88639,60.0,100.0
+KHL,Amur Khabarovsk,Alexander Lazarev,F,20,184,82,Angarsk,Russia,Yermak Angarsk,L,None,None,None,None,None,11,0,0,0,2,0,None,None,52.53667,103.88639,60.0,100.0
+KHL,Amur Khabarovsk,Anatoli Nikontsev,F,33,185,88,Yekaterinburg,Russia,Spartakovets Yekaterinburg,L,None,None,None,None,None,15,1,1,2,2,-2,None,None,56.8519,60.6122,60.0,100.0
+KHL,Amur Khabarovsk,Kirill Panyukov,F,26,186,87,Astana,Kazakhstan,None,R,None,None,None,None,None,3,1,0,1,0,1,None,None,51.1801,71.44598,48.0,68.0
+KHL,Amur Khabarovsk,Dmitri Shevchenko,F,27,195,98,Voskresensk,Kazakhstan,Khimik Voskresensk,L,None,None,None,None,None,27,8,7,15,10,2,None,None,None,None,48.0,68.0
+KHL,Amur Khabarovsk,Kirill Slepets,F,24,178,75,Khabarovsk,Russia,Amur Khabarovsk,L,2019,5,152,Carolina Hurricanes,None,27,3,8,11,6,4,None,None,48.48271,135.08379,60.0,100.0
+KHL,Avangard Omsk,Stanislav Berezhnoy,G,20,194,99,Novokuznetsk,Russia,Metallurg Novokuznetsk,L,None,None,None,None,None,0,None,None,None,None,None,None,None,53.7557,87.1099,60.0,100.0
+KHL,Avangard Omsk,Vasili Demchenko,G,29,185,85,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,11,None,None,None,None,None,3.28,0.872,55.15402,61.42915,60.0,100.0
+KHL,Avangard Omsk,Andrei Mishurov,G,22,182,94,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,13,None,None,None,None,None,2.84,0.912,54.99244,73.36859,60.0,100.0
+KHL,Avangard Omsk,Nikita Podlyagin,G,19,190,78,Ussuriysk,Russia,Armada Ussuriysk,L,None,None,None,None,None,None,None,None,None,None,None,None,None,43.80291,131.94578,60.0,100.0
+KHL,Avangard Omsk,Ilya Proskuryakov,G,36,182,81,Surgut,Russia,Olimpiyets Surgut,L,None,None,None,None,None,9,None,None,None,None,None,1.36,0.947,61.25,73.41667,60.0,100.0
+KHL,Avangard Omsk,Roman Abrosimov,D,29,195,101,Kazan,Russia,Ak Bars Kazan,L,None,None,None,None,None,18,0,1,1,16,-3,None,None,55.78874,49.12214,60.0,100.0
+KHL,Avangard Omsk,Sergei Boikov,D,27,186,92,Khabarovsk,Russia,Amur Khabarovsk,L,2015,6,161,Colorado Avalanche,None,3,1,0,1,2,0,None,None,48.48271,135.08379,60.0,100.0
+KHL,Avangard Omsk,Semyon Chistyakov,D,22,181,90,Nizhny Tagil,Russia,Sputnik Nizhny Tagil,L,2019,4,117,Nashville Predators,None,20,1,5,6,6,3,None,None,57.91944,59.965,60.0,100.0
+KHL,Avangard Omsk,Artyom Chmykhov,D,25,189,93,Kostroma,Russia,CSKA Moskva,L,None,None,None,None,None,6,0,0,0,0,1,None,None,57.76647,40.92686,60.0,100.0
+KHL,Avangard Omsk,Mikhail Gulyayev,D,18,179,78,Novosibirsk,Russia,Sibir Novosibirsk,L,2023,1,31,Colorado Avalanche,None,28,2,4,6,2,4,None,None,55.0415,82.9346,60.0,100.0
+KHL,Avangard Omsk,Bogdan Kiselevich,D,33,184,94,Cherepovets,Russia,Severstal Cherepovets,L,None,None,None,None,None,25,0,3,3,18,-4,None,None,59.13333,37.9,60.0,100.0
+KHL,Avangard Omsk,Ziyat Paigin,D,28,199,101,Togliatti,Russia,Dizel Penza,L,2015,7,209,Edmonton Oilers,None,20,0,1,1,16,-4,None,None,53.5303,49.3461,60.0,100.0
+KHL,Avangard Omsk,Damir Sharipzyanov,D,27,188,96,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,27,5,9,14,10,4,None,None,55.63657,51.82447,60.0,100.0
+KHL,Avangard Omsk,Libor Sulak,D,29,189,86,Pelhrimov,Czechia,HC Pelhrimov,L,None,None,None,None,None,28,4,7,11,10,-2,None,None,49.41667,15.16667,49.75,15.0
+KHL,Avangard Omsk,Mikhail Belyayev,F,25,190,88,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,16,3,2,5,8,3,None,None,57.62987,39.87368,60.0,100.0
+KHL,Avangard Omsk,Reid Boucher,F,30,180,87,Grand Ledge,USA,None,L,2011,4,99,New Jersey Devils,None,27,19,11,30,16,12,None,None,42.75337,-84.74638,-14.60485,-57.65625
+KHL,Avangard Omsk,Alexander Filatyev,F,19,178,77,Komsomolsk-na-Amure,Russia,Amur Komsomolsk-na-Amure,L,None,None,None,None,None,10,0,2,2,6,1,None,None,50.55034,137.00995,60.0,100.0
+KHL,Avangard Omsk,Igor Geraskin,F,25,173,74,Klin,Russia,Titan Klin,L,None,None,None,None,None,28,3,7,10,15,-8,None,None,56.33333,36.73333,60.0,100.0
+KHL,Avangard Omsk,Ivan Igumnov,F,27,178,86,Moskva,Russia,Tsentr Moskva,L,None,None,None,None,None,27,2,2,4,6,-5,None,None,55.75222,37.61556,60.0,100.0
+KHL,Avangard Omsk,Nikita Kholodilin,F,21,185,84,Barnaul,Russia,Altay Barnaul,L,None,None,None,None,None,21,2,3,5,8,3,None,None,53.36056,83.76361,60.0,100.0
+KHL,Avangard Omsk,Yegor Kruzhenkov,F,24,183,76,Kasimov,Russia,Snezhnye Barsy Moskva,L,None,None,None,None,None,5,0,0,0,0,0,None,None,54.94111,41.39528,60.0,100.0
+KHL,Avangard Omsk,Igor Martynov,F,24,181,83,Krasnoye,Belarus,DYUSSH-5 Gomel,L,None,None,None,None,None,28,4,2,6,8,0,None,None,53.31085,24.76887,53.0,28.0
+KHL,Avangard Omsk,Ivan Nikolishin,F,27,176,80,Hartford,Russia,CSKA Moskva,L,None,None,None,None,None,28,4,4,8,10,-2,None,None,None,None,60.0,100.0
+KHL,Avangard Omsk,Valentin Pyanov,F,32,186,82,Novosibirsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,22,4,6,10,6,-11,None,None,55.0415,82.9346,60.0,100.0
+KHL,Avangard Omsk,Ilya Reingardt,F,20,185,80,Pavlodar,Russia,Avangard Omsk,L,None,None,None,None,None,8,0,1,1,0,-3,None,None,51.73342,42.0849,60.0,100.0
+KHL,Avangard Omsk,Ryan Spooner,F,31,182,90,Ottawa,Canada,Kanata MHA,L,2010,2,45,Boston Bruins,None,26,10,22,32,2,1,None,None,45.41117,-75.69812,60.10867,-113.64258
+KHL,Avangard Omsk,Ivan Telegin,F,31,193,96,Novokuznetsk,Russia,Metallurg Novokuznetsk,L,2010,4,101,Atlanta Thrashers,None,3,0,0,0,0,0,None,None,53.7557,87.1099,60.0,100.0
+KHL,Avangard Omsk,Vladimir Tkachyov,F,28,177,72,Omsk,Russia,Avangard Omsk,R,None,None,None,None,None,28,10,28,38,12,5,None,None,54.99244,73.36859,60.0,100.0
+KHL,Avangard Omsk,Gleb Trikozov,F,19,186,87,Omsk,Russia,Avangard Omsk,R,2022,2,60,Carolina Hurricanes,None,1,0,0,0,0,-1,None,None,54.99244,73.36859,60.0,100.0
+KHL,Avangard Omsk,Denis Vengryzhanovsky,F,22,188,89,Gremyachevo,Russia,Kulebaki,R,None,None,None,None,None,28,4,2,6,4,-3,None,None,55.39193,43.02734,60.0,100.0
+KHL,Avangard Omsk,Mark Verba,F,25,183,90,Moskva,Russia,Dynamo Moskva,L,None,None,None,None,None,4,0,0,0,5,-1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Yevgeni Alikin,G,29,180,91,Perm,Russia,Molot Perm,L,None,None,None,None,None,18,None,None,None,None,None,2.06,0.92,58.01046,56.25017,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Vladimir Galkin,G,23,181,77,Kopeysk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,14,None,None,None,None,None,1.77,0.938,55.11722,61.62823,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Denis Barantsev,D,31,184,84,Togliatti,Russia,Lada Togliatti,L,None,None,None,None,None,7,0,2,2,0,1,None,None,53.5303,49.3461,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Jesse Blacker,D,32,182,86,Toronto,Kazakhstan,None,R,2009,2,58,Toronto Maple Leafs,None,18,3,5,8,8,5,None,None,None,None,48.0,68.0
+KHL,Avtomobilist Yekaterinburg,Nick Ebert,D,29,185,93,Livingston,USA,None,R,2012,7,211,Los Angeles Kings,None,1,0,1,1,0,0,None,None,30.4874,-90.95753,-14.60485,-57.65625
+KHL,Avtomobilist Yekaterinburg,Yefim Gurkin,D,30,184,85,Ufa,Russia,Salavat Yulaev Ufa,L,None,None,None,None,None,26,2,2,4,6,-7,None,None,54.74306,55.96779,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Vladislav Leontyev,D,23,192,98,Saratov,Russia,Kristall Saratov,L,None,None,None,None,None,11,0,2,2,4,0,None,None,51.54056,46.00861,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Maxim Osipov,D,30,187,92,Yaroslavl,Russia,Lokomotiv Yaroslavl,R,None,None,None,None,None,29,2,5,7,8,-2,None,None,57.62987,39.87368,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Alexander Sevostyanov,D,25,180,82,Yekaterinburg,Russia,Yunost Yekaterinburg,R,None,None,None,None,None,17,2,2,4,12,1,None,None,56.8519,60.6122,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Nikita Tryamkin,D,29,202,117,Yekaterinburg,Russia,Spartakovets Yekaterinburg,L,2014,3,66,Vancouver Canucks,None,30,0,9,9,14,4,None,None,56.8519,60.6122,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Kirill Vorobyov,D,28,187,89,Demikhovo,Russia,Pingviny Moskva,L,None,None,None,None,None,29,1,2,3,14,3,None,None,58.38385,33.4103,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Sergei Zborovsky,D,26,193,94,Moskva,Russia,Severnaya Zvezda Moskva,R,2015,3,79,New York Rangers,None,29,2,3,5,10,7,None,None,55.75222,37.61556,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Alexei Byvaltsev,F,29,181,87,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,31,5,5,10,12,-3,None,None,53.41861,59.04722,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Stéphane Da Costa,F,34,181,80,Paris,France,Dammarie,R,None,None,None,None,None,25,5,11,16,16,0,None,None,48.85341,2.3488,46.0,2.0
+KHL,Avtomobilist Yekaterinburg,Maxim Denezhkin,F,22,177,75,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,2019,7,193,Edmonton Oilers,None,8,1,1,2,4,2,None,None,57.62987,39.87368,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Vasili Filyayev,F,24,191,87,Zhlobin,Belarus,Metallurg Zhlobin,L,None,None,None,None,None,11,1,1,2,4,0,None,None,52.8926,30.024,53.0,28.0
+KHL,Avtomobilist Yekaterinburg,Anatoli Golyshev,F,28,174,86,Perm,Russia,Molot Perm,L,2016,4,95,New York Islanders,None,28,5,10,15,2,-1,None,None,58.01046,56.25017,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Stepan Khripunov,F,28,185,84,Yekaterinburg,Russia,Avtomobilist Yekaterinburg,L,None,None,None,None,None,29,5,3,8,10,3,None,None,56.8519,60.6122,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Semyon Kizimov,F,23,183,84,Togliatti,Russia,Lada Togliatti,L,2018,7,211,Toronto Maple Leafs,None,6,0,0,0,6,-2,None,None,53.5303,49.3461,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Vladimir Kuznetsov,F,25,189,92,Yekaterinburg,Russia,Yunost Yekaterinburg,L,None,None,None,None,None,19,3,4,7,0,1,None,None,56.8519,60.6122,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Oleg Li,F,32,182,89,Volgograd,Russia,Dynamo Moskva,L,None,None,None,None,None,28,2,1,3,8,-9,None,None,48.71939,44.50183,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Brooks Macek,F,31,180,91,Winnipeg,Germany,Assiniboine Park MHA,R,2010,6,171,Detroit Red Wings,None,31,10,9,19,25,-5,None,None,None,None,51.5,10.5
+KHL,Avtomobilist Yekaterinburg,Alexei Makeyev,F,31,174,84,Novouralsk,Russia,Kedr Novouralsk,L,None,None,None,None,None,31,8,8,16,8,8,None,None,57.24389,60.08389,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Andrei Obidin,F,26,182,87,Krasnokamsk,Russia,None,L,None,None,None,None,None,24,5,4,9,6,11,None,None,58.0796,55.7552,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Vladislav Razdyakonov,F,19,178,68,Yekaterinburg,Russia,Spartakovets Yekaterinburg,L,None,None,None,None,None,12,1,0,1,0,0,None,None,56.8519,60.6122,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Danil Romantsev,F,30,191,101,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,30,2,5,7,10,0,None,None,57.62987,39.87368,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Sergei Shirokov,F,37,179,92,Ozery,Russia,CSKA Moskva,R,2006,6,163,Vancouver Canucks,None,26,1,9,10,10,0,None,None,62.01692,129.69365,60.0,100.0
+KHL,Avtomobilist Yekaterinburg,Curtis Valk,F,30,175,77,Medicine Hat,Kazakhstan,Medicine Hat MHA,L,None,None,None,None,None,24,3,5,8,12,3,None,None,None,None,48.0,68.0
+KHL,Avtomobilist Yekaterinburg,Pavel Voronkov,F,25,182,84,Moskva,Russia,None,L,None,None,None,None,None,8,0,2,2,2,1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Barys Astana,Nikita Boyarkin,G,25,190,96,Karaganda,Kazakhstan,Yunost Karaganda,L,None,None,None,None,None,0,None,None,None,None,None,None,None,49.80187,73.10211,48.0,68.0
+KHL,Barys Astana,Edward Pasquale,G,32,191,99,Toronto,Canada,Toronto Jr. Canadians MHA,L,2009,4,117,Atlanta Thrashers,None,16,None,None,None,None,None,3.12,0.9,43.70011,-79.4163,60.10867,-113.64258
+KHL,Barys Astana,Andrei Shutov,G,25,189,90,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,17,None,None,None,None,None,2.72,0.913,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Adil Beketayev,D,25,193,93,Petropavlovsk,Kazakhstan,None,L,None,None,None,None,None,23,2,6,8,14,-4,None,None,54.86667,69.15,48.0,68.0
+KHL,Barys Astana,Samat Daniyar,D,24,183,75,Astana,Kazakhstan,Astana,R,None,None,None,None,None,20,1,5,6,4,-3,None,None,51.1801,71.44598,48.0,68.0
+KHL,Barys Astana,Tamirlan Gaitamirov,D,23,193,93,Astana,Kazakhstan,HK Astana,L,None,None,None,None,None,26,1,0,1,6,-7,None,None,51.1801,71.44598,48.0,68.0
+KHL,Barys Astana,Alex Grant,D,34,191,95,Antigonish,Canada,Antigonish MHA,R,2007,4,118,Pittsburgh Penguins,None,3,1,1,2,2,-1,None,None,45.66685,-61.91528,60.10867,-113.64258
+KHL,Barys Astana,Artyom Korolyov,D,22,185,86,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,5,0,0,0,0,-1,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Kirill Nikitin,D,20,187,82,Astana,Kazakhstan,None,L,None,None,None,None,None,13,0,1,1,2,-3,None,None,51.1801,71.44598,48.0,68.0
+KHL,Barys Astana,Nelson Nogier,D,27,191,94,Saskatoon,Canada,Clavet MHA,R,2014,4,101,Winnipeg Jets,None,30,3,1,4,16,-8,None,None,52.13238,-106.66892,60.10867,-113.64258
+KHL,Barys Astana,Emil Nurgaliyev,D,27,183,80,Abai (South Kazakhstan),Kazakhstan,Salavat Yulaev Ufa,L,None,None,None,None,None,29,1,3,4,4,-3,None,None,None,None,48.0,68.0
+KHL,Barys Astana,Kirill Polokhov,D,25,191,91,Karaganda,Kazakhstan,Yunost Karaganda,L,None,None,None,None,None,17,0,0,0,2,-5,None,None,49.80187,73.10211,48.0,68.0
+KHL,Barys Astana,Yegor Shalapov,D,28,181,89,Kusa,Kazakhstan,None,R,None,None,None,None,None,26,0,3,3,4,-3,None,None,None,None,48.0,68.0
+KHL,Barys Astana,David Sklenicka,D,27,183,93,Rakovnik,Czechia,HC Berounsti Medvedi,L,None,None,None,None,None,28,3,14,17,20,-6,None,None,50.1,13.7,49.75,15.0
+KHL,Barys Astana,Daniil Apalkov,F,31,185,94,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,None,None,None,None,None,None,None,None,53.41861,59.04722,60.0,100.0
+KHL,Barys Astana,Alikhan Asetov,F,27,186,88,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,19,0,1,1,30,-8,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Riley Barber,F,29,183,90,Pittsburgh,USA,None,R,2012,6,167,Washington Capitals,None,24,10,13,23,4,-4,None,None,40.44062,-79.99589,-14.60485,-57.65625
+KHL,Barys Astana,Alexander Borisevich,F,25,168,61,Karaganda,Kazakhstan,Yunost Karaganda,R,None,None,None,None,None,17,0,2,2,6,1,None,None,49.80187,73.10211,48.0,68.0
+KHL,Barys Astana,Anthony Camara,F,30,184,89,Toronto,Canada,Greater Toronto MHA,L,2011,3,81,Boston Bruins,None,None,None,None,None,None,None,None,None,43.70011,-79.4163,60.10867,-113.64258
+KHL,Barys Astana,Rudolf Cerveny,F,34,182,85,Ceske Budejovice,Czechia,HC Ceske Budejovice,L,None,None,None,None,None,22,2,3,5,19,0,None,None,48.97447,14.47434,49.75,15.0
+KHL,Barys Astana,Dmitri Gurkov,F,27,186,78,Moskva,Kazakhstan,Dynamo Moskva,L,None,None,None,None,None,8,0,0,0,2,-3,None,None,54.01667,68.45,48.0,68.0
+KHL,Barys Astana,Dinmukhamed Kaiyrzhan,F,20,181,79,Almaty,Kazakhstan,None,R,None,None,None,None,None,15,0,0,0,0,-1,None,None,43.25,76.91667,48.0,68.0
+KHL,Barys Astana,Joseph LaBate,F,30,195,95,Eagan,USA,None,L,2011,4,101,Vancouver Canucks,None,30,5,7,12,26,-9,None,None,44.80413,-93.16689,-14.60485,-57.65625
+KHL,Barys Astana,Vsevolod Logvin,F,19,186,79,Ust-Kamenogorsk,Kazakhstan,None,L,None,None,None,None,None,18,2,0,2,2,1,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Batyrlan Muratov,F,24,185,76,Satpaev,Kazakhstan,None,R,None,None,None,None,None,23,3,4,7,4,-2,None,None,47.90409,67.54112,48.0,68.0
+KHL,Barys Astana,Maxim Musorov,F,22,182,84,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,R,None,None,None,None,None,14,2,1,3,0,-6,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Alikhan Omirbekov,F,22,175,70,Satpaev,Kazakhstan,Barys Astana,L,None,None,None,None,None,26,1,3,4,8,-1,None,None,47.90409,67.54112,48.0,68.0
+KHL,Barys Astana,Ruslan Ospanov,F,19,182,83,Ust-Kamenogorsk,Kazakhstan,None,L,None,None,None,None,None,3,0,0,0,0,-2,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Mikhail Rakhmanov,F,31,176,75,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,25,2,4,6,14,-6,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Yevgeni Rymarev,F,35,175,78,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,None,None,None,None,None,None,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Kirill Savitsky,F,28,183,91,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,25,5,4,9,6,-1,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Ansar Shaikhmeddenov,F,21,190,88,Uralsk,Kazakhstan,None,L,None,None,None,None,None,14,1,2,3,2,-4,None,None,51.23333,51.36667,48.0,68.0
+KHL,Barys Astana,Arkadi Shestakov,F,28,181,81,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,30,3,4,7,6,-9,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Roman Starchenko,F,37,179,88,Ust-Kamenogorsk,Kazakhstan,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,14,3,6,9,8,3,None,None,49.97143,82.60586,48.0,68.0
+KHL,Barys Astana,Pontus Åberg,F,30,183,88,Stockholm,Sweden,FoC Farsta,R,2012,2,37,Nashville Predators,None,30,13,7,20,16,-11,None,None,59.32938,18.06871,62.0,15.0
+KHL,CSKA Moskva,Ivan Fedotov,G,26,202,96,Lappeenranta,Russia,None,L,2015,7,188,Philadelphia Flyers,925000,16,None,None,None,None,None,2.34,0.907,None,None,60.0,100.0
+KHL,CSKA Moskva,Dmitri Gamzin,G,20,188,72,Moskva,Russia,Belye Medvedi Moskva,L,None,None,None,None,None,3,None,None,None,None,None,1.95,0.926,55.75222,37.61556,60.0,100.0
+KHL,CSKA Moskva,Alexander Sharychenkov,G,32,194,94,Nizhny Novgorod,Russia,Torpedo Nizhny Novgorod,L,None,None,None,None,None,9,None,None,None,None,None,2.24,0.908,56.32867,44.00205,60.0,100.0
+KHL,CSKA Moskva,Yegor Bryutov,D,22,180,79,Tyumen,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,5,0,0,0,2,1,None,None,57.15222,65.52722,60.0,100.0
+KHL,CSKA Moskva,Fredrik Claesson,D,30,185,93,Stockholm,Sweden,Haninge HF,L,2011,5,126,Ottawa Senators,None,21,0,1,1,4,5,None,None,59.32938,18.06871,62.0,15.0
+KHL,CSKA Moskva,Darren Dietz,D,30,187,95,Medicine Hat,Kazakhstan,None,R,2011,5,138,Montréal Canadiens,None,27,5,9,14,16,0,None,None,None,None,48.0,68.0
+KHL,CSKA Moskva,Yaroslav Dyblenko,D,29,186,88,Surgut,Russia,Olimpiyets Surgut,L,None,None,None,None,None,27,1,5,6,4,6,None,None,61.25,73.41667,60.0,100.0
+KHL,CSKA Moskva,Marsel Ibragimov,D,26,190,92,Kazan,Russia,Ak Bars Kazan,R,None,None,None,None,None,19,1,2,3,2,1,None,None,55.78874,49.12214,60.0,100.0
+KHL,CSKA Moskva,Roman Kalinichenko,D,23,190,87,Moskva,Russia,Serebryanye Akuly Moskva,L,None,None,None,None,None,1,0,0,0,2,1,None,None,55.75222,37.61556,60.0,100.0
+KHL,CSKA Moskva,Nikolai Makarov,D,20,186,88,Perm,Russia,Molot Perm,L,2021,5,132,Columbus Blue Jackets,None,23,0,2,2,8,10,None,None,58.01046,56.25017,60.0,100.0
+KHL,CSKA Moskva,Nikita Nesterov,D,30,181,90,Chelyabinsk,Russia,Traktor Chelyabinsk,L,2011,5,148,Tampa Bay Lightning,None,28,5,14,19,2,7,None,None,55.15402,61.42915,60.0,100.0
+KHL,CSKA Moskva,Vladislav Provolnev,D,28,191,88,Voronezh,Russia,Buran Voronezh,L,None,None,None,None,None,26,2,2,4,18,1,None,None,51.67204,39.1843,60.0,100.0
+KHL,CSKA Moskva,Ivan Rogov,D,22,183,81,Cherepovets,Russia,Severstal Cherepovets,L,None,None,None,None,None,8,0,0,0,4,-2,None,None,59.13333,37.9,60.0,100.0
+KHL,CSKA Moskva,Matvei Shuravin,D,17,189,78,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,8,0,2,2,2,5,None,None,55.75222,37.61556,60.0,100.0
+KHL,CSKA Moskva,Colby Williams,D,28,183,88,Regina,Canada,None,R,2015,6,173,Washington Capitals,None,None,None,None,None,None,None,None,None,50.45008,-104.6178,60.10867,-113.64258
+KHL,CSKA Moskva,Vitali Abramov,F,25,178,81,Chelyabinsk,Russia,Traktor Chelyabinsk,L,2016,3,65,Columbus Blue Jackets,None,28,8,9,17,12,10,None,None,55.15402,61.42915,60.0,100.0
+KHL,CSKA Moskva,Kirill Dolzhenkov,F,19,199,106,Moskva,Russia,Spartak Moskva,L,2022,4,109,Columbus Blue Jackets,None,5,0,0,0,0,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,CSKA Moskva,Vasili Dronyk,F,20,195,95,Moskva,Russia,Spartak Moskva,R,None,None,None,None,None,6,0,0,0,0,1,None,None,55.75222,37.61556,60.0,100.0
+KHL,CSKA Moskva,Yegor Fateyev,F,26,189,87,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,11,2,1,3,4,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,CSKA Moskva,Mikhail Grigorenko,F,29,191,91,Khabarovsk,Russia,CSKA Moskva,L,2012,1,12,Buffalo Sabres,None,26,9,12,21,6,5,None,None,48.48271,135.08379,60.0,100.0
+KHL,CSKA Moskva,Vladislav Kamenev,F,27,189,84,Orsk,Russia,Yuzhny Ural Orsk,L,2014,2,42,Nashville Predators,None,22,4,7,11,12,-8,None,None,51.20487,58.56685,60.0,100.0
+KHL,CSKA Moskva,Pavel Karnaukhov,F,26,189,96,Minsk,Russia,Yunost Minsk,L,2015,5,136,Calgary Flames,None,28,7,7,14,8,2,None,None,57.0989,93.33372,60.0,100.0
+KHL,CSKA Moskva,Maxim Mamin,F,28,189,95,Moskva,Russia,None,L,2016,6,175,Florida Panthers,None,28,6,8,14,12,2,None,None,55.75222,37.61556,60.0,100.0
+KHL,CSKA Moskva,Takhir Mingachyov,F,22,187,94,Samara,Russia,CSK VVS Samara,L,None,None,None,None,None,23,2,2,4,2,1,None,None,53.20007,50.15,60.0,100.0
+KHL,CSKA Moskva,Konstantin Okulov,F,28,184,82,Novosibirsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,27,5,18,23,2,1,None,None,55.0415,82.9346,60.0,100.0
+KHL,CSKA Moskva,Sergei Plotnikov,F,33,186,95,Komsomolsk-na-Amure,Russia,Amur Khabarovsk,L,None,None,None,None,None,28,6,6,12,22,-4,None,None,None,None,60.0,100.0
+KHL,CSKA Moskva,Prokhor Poltapov,F,20,182,80,St. Petersburg,Russia,Serebryanye Lvy St. Petersburg,L,2021,2,33,Buffalo Sabres,None,20,4,3,7,8,7,None,None,59.93863,30.31413,60.0,100.0
+KHL,CSKA Moskva,Anton Slepyshev,F,29,187,96,Penza,Russia,Dizel Penza,R,2013,3,88,Edmonton Oilers,None,16,5,6,11,6,1,None,None,53.20066,45.00464,60.0,100.0
+KHL,CSKA Moskva,Maxim Sorkin,F,23,189,88,Moskva,Russia,Vympel Moskva,L,None,None,None,None,None,28,9,8,17,8,2,None,None,55.75222,37.61556,60.0,100.0
+KHL,CSKA Moskva,Andrei Svetlakov,F,27,182,92,Moskva,Russia,Severnaya Zvezda Moskva,L,2017,6,178,Minnesota Wild,None,20,1,4,5,14,7,None,None,55.75222,37.61556,60.0,100.0
+KHL,CSKA Moskva,Ivan Yanchenko,F,19,186,89,Gomel,Russia,SDYUSHOR-5 Gomel,L,None,None,None,None,None,10,0,1,1,4,1,None,None,47.26351,142.9535,60.0,100.0
+KHL,Dinamo Minsk,Dylan Ferguson,G,25,188,88,Lantzville,Canada,None,L,2017,7,194,Dallas Stars,None,7,None,None,None,None,None,2.44,0.902,49.24963,-124.06942,60.10867,-113.64258
+KHL,Dinamo Minsk,Alexei Kolosov,G,21,183,84,Minsk,Belarus,Dinamo Minsk,L,2021,3,78,Philadelphia Flyers,925000,19,None,None,None,None,None,2.25,0.911,53.9,27.56667,53.0,28.0
+KHL,Dinamo Minsk,Yegor Velmakin,G,20,187,78,Moskva,Russia,Rus Moskva,L,2023,7,222,Carolina Hurricanes,None,3,None,None,None,None,None,2.97,0.854,55.75222,37.61556,60.0,100.0
+KHL,Dinamo Minsk,Arseni Brinkman,D,23,182,88,St. Petersburg,Russia,Neva St. Petersburg,L,None,None,None,None,None,13,1,1,2,2,3,None,None,59.93863,30.31413,60.0,100.0
+KHL,Dinamo Minsk,Kodie Curran,D,33,188,91,Calgary,Canada,Midnapore MHA,L,None,None,None,None,None,27,5,11,16,21,0,None,None,51.05011,-114.08529,60.10867,-113.64258
+KHL,Dinamo Minsk,Dmitri Deryabin,D,24,189,86,Minsk,Belarus,Dinamo Minsk,L,None,None,None,None,None,22,0,2,2,10,7,None,None,53.9,27.56667,53.0,28.0
+KHL,Dinamo Minsk,Robert Hamilton,D,29,183,88,Calgary,Canada,None,L,None,None,None,None,None,14,0,8,8,6,6,None,None,51.05011,-114.08529,60.10867,-113.64258
+KHL,Dinamo Minsk,Yanni Kaldis,D,28,180,85,St-Laurent,Canada,None,L,None,None,None,None,None,27,6,8,14,14,3,None,None,48.0503,-68.02266,60.10867,-113.64258
+KHL,Dinamo Minsk,Dmitri Korobov,D,34,189,110,Novopolotsk,Belarus,Polimir Novopolotsk,L,None,None,None,None,None,16,0,1,1,4,1,None,None,55.5318,28.5987,53.0,28.0
+KHL,Dinamo Minsk,Oleg Pozhigan,D,21,174,80,Soligorsk,Belarus,Shakhtyor Soligorsk,L,None,None,None,None,None,6,0,0,0,2,0,None,None,52.7876,27.5415,53.0,28.0
+KHL,Dinamo Minsk,Ilya Shinkevich,D,34,188,85,Minsk,Belarus,Yunost Minsk,L,None,None,None,None,None,15,0,0,0,2,-3,None,None,53.9,27.56667,53.0,28.0
+KHL,Dinamo Minsk,Nikita Smirnov,D,21,184,83,Kuznetsk,Russia,Dizel Penza,L,None,None,None,None,None,25,1,5,6,4,12,None,None,54.0,86.0,60.0,100.0
+KHL,Dinamo Minsk,Ilya Sushko,D,25,183,77,Drogichin,Belarus,SDYUSHOR Brest,L,None,None,None,None,None,6,0,0,0,0,-1,None,None,53.1087,29.3037,53.0,28.0
+KHL,Dinamo Minsk,Nikita Zhikharev,D,19,180,80,Gomel,Belarus,DYUSSH-5 Gomel,L,None,None,None,None,None,9,0,0,0,0,-1,None,None,52.4345,30.9754,53.0,28.0
+KHL,Dinamo Minsk,Sam Anas,F,30,175,73,Potomac,USA,None,R,None,None,None,None,None,26,9,9,18,6,-3,None,None,39.01817,-77.20859,-14.60485,-57.65625
+KHL,Dinamo Minsk,Yegor Borikov,F,18,185,82,Luksky,Belarus,COR Zhlobin,L,None,None,None,None,None,18,2,1,3,2,2,None,None,None,None,53.0,28.0
+KHL,Dinamo Minsk,Roman Gorbunov,F,26,172,84,Sarov,Belarus,HK Sarov,L,None,None,None,None,None,19,8,5,13,25,6,None,None,None,None,53.0,28.0
+KHL,Dinamo Minsk,Yegor Ignatenko,F,20,180,73,Vitebsk,Belarus,DYUSSH HK Vitebsk,L,None,None,None,None,None,16,2,0,2,2,-2,None,None,55.1904,30.2049,53.0,28.0
+KHL,Dinamo Minsk,Vladislav Kodola,F,27,176,83,Gomel,Belarus,HK Gomel,L,None,None,None,None,None,20,1,6,7,8,-2,None,None,52.4345,30.9754,53.0,28.0
+KHL,Dinamo Minsk,Timofei Kovgorenya,F,20,189,92,Minsk,Belarus,Yunost Minsk,R,None,None,None,None,None,22,3,2,5,15,-1,None,None,53.9,27.56667,53.0,28.0
+KHL,Dinamo Minsk,Sergei Kuznetsov,F,21,190,92,Zhlobin,Belarus,Metallurg Zhlobin,R,None,None,None,None,None,18,1,4,5,7,2,None,None,52.8926,30.024,53.0,28.0
+KHL,Dinamo Minsk,Daniil Lipsky,F,18,186,82,Minsk,Belarus,Dinamo Minsk,L,None,None,None,None,None,5,0,0,0,2,1,None,None,53.9,27.56667,53.0,28.0
+KHL,Dinamo Minsk,Nick Merkley,F,26,178,88,Calgary,Canada,Lake Bonavista MHA,R,2015,1,30,Arizona Coyotes,None,26,8,7,15,18,7,None,None,51.05011,-114.08529,60.10867,-113.64258
+KHL,Dinamo Minsk,Vadim Moroz,F,19,188,84,Minsk,Belarus,None,R,2023,3,88,Arizona Coyotes,None,27,5,6,11,6,0,None,None,53.9,27.56667,53.0,28.0
+KHL,Dinamo Minsk,Vyacheslav Osnovin,F,29,184,92,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,20,2,6,8,10,3,None,None,55.15402,61.42915,60.0,100.0
+KHL,Dinamo Minsk,Vitali Pinchuk,F,21,189,88,Zhlobin,Belarus,DYUSSH Zhlobin,L,None,None,None,None,None,26,8,10,18,4,5,None,None,52.8926,30.024,53.0,28.0
+KHL,Dinamo Minsk,Nikita Pyshkaylo,F,23,177,76,Yubileiny,Belarus,None,L,None,None,None,None,None,12,0,2,2,2,-1,None,None,None,None,53.0,28.0
+KHL,Dinamo Minsk,Gemel Smith,F,29,180,88,Toronto,Canada,None,L,2012,4,104,Dallas Stars,None,15,4,1,5,11,0,None,None,43.70011,-79.4163,60.10867,-113.64258
+KHL,Dinamo Minsk,Daniil Sotishvili,F,20,181,77,Novopolotsk,Belarus,Khimik Novopolotsk,L,None,None,None,None,None,21,1,0,1,6,1,None,None,55.5318,28.5987,53.0,28.0
+KHL,Dinamo Minsk,Andrei Stas,F,35,189,94,Minsk,Belarus,None,L,None,None,None,None,None,25,5,0,5,16,1,None,None,53.9,27.56667,53.0,28.0
+KHL,Dinamo Minsk,Alexander Suvorov,F,20,174,72,Buda-Koshelyovo,Belarus,DYUSSH Zhlobin,L,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,53.0,28.0
+KHL,Dinamo Minsk,Alexander Volkov,F,26,185,88,Moskva,Russia,Pingviny Moskva,L,2017,2,48,Tampa Bay Lightning,None,27,5,11,16,18,8,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dinamo Minsk,Stepan Zvyagin,F,19,182,73,Moskva,Belarus,Spartak Moskva,L,2023,7,198,Florida Panthers,None,4,0,1,1,0,-1,None,None,55.7765,37.5802,53.0,28.0
+KHL,Dynamo Moskva,Ilya Konovalov,G,25,182,92,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,2019,3,85,Edmonton Oilers,None,18,None,None,None,None,None,1.52,0.938,57.62987,39.87368,60.0,100.0
+KHL,Dynamo Moskva,Maxim Motorygin,G,20,184,75,Voronezh,Russia,HK Voronezh,L,None,None,None,None,None,7,None,None,None,None,None,2.37,0.917,51.67204,39.1843,60.0,100.0
+KHL,Dynamo Moskva,Konstantin Volkov,G,26,192,100,Murmansk,Russia,None,L,2016,6,168,Nashville Predators,None,7,None,None,None,None,None,3.57,0.892,68.97917,33.09251,60.0,100.0
+KHL,Dynamo Moskva,Kirill Gotovets,D,32,180,91,Minsk,Belarus,Yunost Minsk,L,2009,7,183,Tampa Bay Lightning,None,19,0,0,0,10,7,None,None,53.9,27.56667,53.0,28.0
+KHL,Dynamo Moskva,Artyom Kudashov,D,18,182,73,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,13,0,0,0,2,-1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dynamo Moskva,Anton Malyshev,D,23,182,86,Yaroslavl,Russia,Lokomotiv Yaroslavl,R,None,None,None,None,None,11,0,1,1,5,2,None,None,57.62987,39.87368,60.0,100.0
+KHL,Dynamo Moskva,Yegor Martynov,D,33,188,90,Chelyabinsk,Russia,Mechel Chelyabinsk,R,None,None,None,None,None,15,1,2,3,6,0,None,None,55.15402,61.42915,60.0,100.0
+KHL,Dynamo Moskva,Brennan Menell,D,26,181,80,Woodbury,USA,None,R,None,None,None,None,None,26,2,16,18,6,9,None,None,42.49999,-96.40031,-14.60485,-57.65625
+KHL,Dynamo Moskva,Andrei Mironov,D,29,189,94,Moskva,Russia,Dynamo Moskva,L,2015,4,101,Colorado Avalanche,None,28,1,7,8,34,10,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dynamo Moskva,Igor Ozhiganov,D,31,189,94,Krasnogorsk,Russia,Belye Medvedi Moskva,R,None,None,None,None,None,28,1,11,12,16,-2,None,None,48.41728,142.08686,60.0,100.0
+KHL,Dynamo Moskva,Mario Patalakha,D,18,185,82,Paris,Russia,Dynamo Moskva,L,None,None,None,None,None,3,0,1,1,0,2,None,None,53.2974,60.1005,60.0,100.0
+KHL,Dynamo Moskva,Andrei Pribylsky,D,22,179,85,Moskva,Russia,Dynamo Moskva,R,None,None,None,None,None,20,0,1,1,14,6,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dynamo Moskva,Daniil Pylenkov,D,23,186,88,Yegoryevsk,Russia,Khimik Voskresensk,L,2021,7,196,Tampa Bay Lightning,None,28,1,8,9,4,-2,None,None,55.37952,39.04122,60.0,100.0
+KHL,Dynamo Moskva,Artyom Volchenkov,D,22,182,81,Zhlobin,Belarus,DYUSSH Zhlobin,L,None,None,None,None,None,2,0,0,0,0,0,None,None,52.8926,30.024,53.0,28.0
+KHL,Dynamo Moskva,Igor Chernyshov,F,17,189,87,Penza,Russia,Dizel Penza,R,None,None,None,None,None,9,0,0,0,0,0,None,None,53.20066,45.00464,60.0,100.0
+KHL,Dynamo Moskva,Maxim Dzhioshvili,F,27,190,97,Moskva,Russia,Dynamo Moskva,R,None,None,None,None,None,27,9,3,12,4,-4,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dynamo Moskva,Nikita Gusev,F,31,175,74,Moskva,Russia,Belye Medvedi Moskva,R,2012,7,202,Tampa Bay Lightning,None,28,10,23,33,8,8,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dynamo Moskva,Artyom Ilyenko,F,27,183,89,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,28,3,3,6,10,-4,None,None,57.62987,39.87368,60.0,100.0
+KHL,Dynamo Moskva,Ilya Kablukov,F,35,189,89,Moskva,Russia,Vympel Moskva,L,2007,5,146,Vancouver Canucks,None,28,1,2,3,18,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dynamo Moskva,Pavel Kudryavtsev,F,26,182,88,Yaroslavl,Russia,Lokomotiv Yaroslavl,R,None,None,None,None,None,20,5,4,9,2,2,None,None,57.62987,39.87368,60.0,100.0
+KHL,Dynamo Moskva,Vladislav Mikhailov,F,22,189,93,Moskva,Russia,Belye Medvedi Moskva,L,None,None,None,None,None,25,4,1,5,0,1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dynamo Moskva,Ivan Muranov,F,24,191,94,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,24,2,2,4,10,-5,None,None,55.75222,37.61556,60.0,100.0
+KHL,Dynamo Moskva,Andrei Nikonov,F,21,196,96,Cheboksary,Russia,Sokol Novocheboksarsk,L,None,None,None,None,None,8,0,0,0,4,0,None,None,56.13222,47.25194,60.0,100.0
+KHL,Dynamo Moskva,Eric O'Dell,F,33,183,94,Ottawa,Canada,Ottawa Sting MHA,R,2008,2,39,Anaheim Ducks,None,25,12,11,23,47,12,None,None,45.41117,-75.69812,60.10867,-113.64258
+KHL,Dynamo Moskva,Cédric Paquette,F,30,183,93,Gaspé,Canada,AHM Rivière-au-Renard,L,2012,4,101,Tampa Bay Lightning,None,28,7,7,14,10,12,None,None,48.83341,-64.48194,60.10867,-113.64258
+KHL,Dynamo Moskva,Yegor Petukhov,F,29,179,78,Barnaul,Russia,Motor Barnaul,L,None,None,None,None,None,28,4,2,6,8,-1,None,None,53.36056,83.76361,60.0,100.0
+KHL,Dynamo Moskva,Dmitri Rashevsky,F,23,186,80,St. Petersburg,Russia,Neva St. Petersburg,L,2021,5,146,Winnipeg Jets,None,27,12,10,22,4,12,None,None,59.93863,30.31413,60.0,100.0
+KHL,Dynamo Moskva,Yegor Rimashevsky,F,18,189,90,Zhlobin,Russia,None,L,2023,7,203,San Jose Sharks,None,13,0,3,3,0,1,None,None,47.0825,39.86639,60.0,100.0
+KHL,Dynamo Moskva,Jordan Weal,F,31,176,81,Saskatoon,Canada,North Shore Winter Club,R,2010,3,70,Los Angeles Kings,None,28,12,22,34,16,9,None,None,52.13238,-106.66892,60.10867,-113.64258
+KHL,HK Sochi,Mikhail Berdin,G,25,188,83,Ufa,Russia,Salavat Yulaev Ufa,L,2016,6,157,Winnipeg Jets,None,22,None,None,None,None,None,3.05,0.915,54.74306,55.96779,60.0,100.0
+KHL,HK Sochi,Nikita Bogdanov,G,28,181,86,St. Petersburg,Russia,SKA St. Petersburg,L,None,None,None,None,None,2,None,None,None,None,None,6.75,0.839,59.93863,30.31413,60.0,100.0
+KHL,HK Sochi,Maxim Tretiak,G,27,192,94,Moskva,Russia,Serebryanye Akuly Moskva,L,None,None,None,None,None,8,None,None,None,None,None,4.43,0.887,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Artyom Alyayev,D,28,173,84,Nizhny Novgorod,Russia,Torpedo Nizhny Novgorod,L,None,None,None,None,None,7,0,0,0,2,1,None,None,56.32867,44.00205,60.0,100.0
+KHL,HK Sochi,Danila Galenyuk,D,23,187,90,Tyumen,Russia,Gazovik Tyumen,L,None,None,None,None,None,29,3,5,8,12,-4,None,None,57.15222,65.52722,60.0,100.0
+KHL,HK Sochi,Jesse Graham,D,29,185,84,Oshawa,Canada,Toronto Young Nationals,R,2012,6,155,New York Islanders,None,28,4,12,16,14,-9,None,None,43.90012,-78.84957,60.10867,-113.64258
+KHL,HK Sochi,Semyon Ibragimov,D,20,193,90,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,14,1,1,2,2,-1,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Gleb Koryagin,D,29,186,89,Moskva,Russia,Dynamo Moskva,L,None,None,None,None,None,29,1,1,2,13,-3,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Fyodor Kroshchinsky,D,21,191,91,Moskva,Russia,Dynamo Moskva,L,None,None,None,None,None,23,0,2,2,4,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Vasili Machulin,D,21,192,88,Moskva,Russia,Belye Medvedi Moskva,R,None,None,None,None,None,15,1,1,2,6,-5,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Roman Manukhov,D,29,186,88,Yekaterinburg,Russia,Spartakovets Yekaterinburg,L,None,None,None,None,None,26,0,2,2,18,-5,None,None,56.8519,60.6122,60.0,100.0
+KHL,HK Sochi,Artyom Volkov,D,26,187,91,Tver,Russia,Spartak Moskva,L,None,None,None,None,None,26,2,3,5,10,-9,None,None,56.85836,35.90057,60.0,100.0
+KHL,HK Sochi,Roman Yuzbashyan,F,21,184,87,Lipetsk,Russia,HK Lipetsk,L,None,None,None,None,None,2,0,0,0,0,-1,None,None,52.60311,39.57076,60.0,100.0
+KHL,HK Sochi,Daniil Avershin,F,21,187,88,Moskva,Russia,Dynamo Moskva,L,None,None,None,None,None,5,0,0,0,0,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Jeremy Bracco,F,26,180,89,Freeport,USA,None,R,2015,2,61,Toronto Maple Leafs,None,9,1,2,3,0,-10,None,None,32.32167,-64.835,-14.60485,-57.65625
+KHL,HK Sochi,Nikita Feoktistov,F,33,187,100,Grodno,Belarus,Neman Grodno,R,None,None,None,None,None,15,1,1,2,8,0,None,None,53.6884,23.8258,53.0,28.0
+KHL,HK Sochi,Amir Garayev,F,22,182,85,Bugulma,Russia,Arslan Bugulma,L,None,None,None,None,None,28,4,7,11,4,-10,None,None,54.5378,52.7985,60.0,100.0
+KHL,HK Sochi,Timur Khafizov,F,25,193,96,Kazan,Russia,Ak Bars Kazan,R,None,None,None,None,None,24,4,3,7,10,-9,None,None,55.78874,49.12214,60.0,100.0
+KHL,HK Sochi,Marat Khusnutdinov,F,21,176,75,Moskva,Russia,Belye Medvedi Moskva,L,2020,2,37,Minnesota Wild,None,13,2,4,6,4,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Michal Kristof,F,30,176,72,Nitra,Slovakia,HC Nitra,L,None,None,None,None,None,24,4,12,16,6,-7,None,None,48.30763,18.08453,48.66667,19.5
+KHL,HK Sochi,Matvei Michkov,F,18,178,78,Perm,Russia,Molot Perm,L,2023,1,7,Philadelphia Flyers,None,22,10,10,20,12,-3,None,None,58.01046,56.25017,60.0,100.0
+KHL,HK Sochi,Alexander Morozov,F,19,178,76,Moskva,Russia,Dynamo Moskva,L,None,None,None,None,None,12,0,0,0,4,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Artyom Nikolayev,F,24,181,94,Moskva,Russia,Sozvezdie Moskva,L,None,None,None,None,None,17,1,2,3,0,-13,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Kirill Petkov,F,25,180,96,Gomel,Russia,DYUSSH-5 Gomel,L,None,None,None,None,None,15,0,1,1,0,-6,None,None,47.26351,142.9535,60.0,100.0
+KHL,HK Sochi,Sergei Popov,F,23,180,83,Korolyov,Russia,None,L,None,None,None,None,None,28,7,1,8,4,-7,None,None,55.91417,37.82556,60.0,100.0
+KHL,HK Sochi,Kirill Rasskazov,F,31,186,90,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,24,5,3,8,12,-12,None,None,54.99244,73.36859,60.0,100.0
+KHL,HK Sochi,Anton Sagadeyev,F,30,181,80,Temirtau,Russia,Temirtau,L,None,None,None,None,None,22,0,5,5,8,1,None,None,53.1377,87.4538,60.0,100.0
+KHL,HK Sochi,Daniil Seroukh,F,26,185,77,None,Russia,Avangard Omsk,R,None,None,None,None,None,14,1,0,1,2,-4,None,None,None,None,60.0,100.0
+KHL,HK Sochi,Ildar Shiksatdarov,F,29,180,87,Moskva,Russia,Spartak Moskva,L,None,None,None,None,None,21,1,1,2,7,-4,None,None,55.75222,37.61556,60.0,100.0
+KHL,HK Sochi,Artur Tyanulin,F,26,175,83,Kazan,Russia,Ak Bars Kazan,R,None,None,None,None,None,27,9,13,22,20,-3,None,None,55.78874,49.12214,60.0,100.0
+KHL,HK Sochi,Gavriil Voloskov,F,18,184,87,Cherepovets,Russia,Severstal Cherepovets,R,None,None,None,None,None,4,0,0,0,0,0,None,None,59.13333,37.9,60.0,100.0
+KHL,HK Sochi,Tigran Yarulin,F,20,189,92,Vladivostok,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,2,0,0,0,2,0,None,None,43.10562,131.87353,60.0,100.0
+KHL,HK Sochi,Dmitri Zavgorodny,F,23,175,78,Omsk,Russia,Avangard Omsk,R,2018,7,198,Calgary Flames,None,22,3,4,7,0,-7,None,None,54.99244,73.36859,60.0,100.0
+KHL,Kunlun Red Star,Matt Jurusik,G,26,184,91,La Grange,USA,None,L,None,None,None,None,None,19,None,None,None,None,None,3.48,0.909,33.00889,-85.0725,-14.60485,-57.65625
+KHL,Kunlun Red Star,Alexander Lazushin,G,35,182,99,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,None,None,None,None,None,None,None,None,57.62987,39.87368,60.0,100.0
+KHL,Kunlun Red Star,Jeremy Smith,G,34,185,84,Dearborn,China,None,L,2007,2,54,Nashville Predators,None,16,None,None,None,None,None,2.84,0.928,42.75841,-82.55362,35.0,105.0
+KHL,Kunlun Red Star,Ruslan Yerokhin,G,20,185,79,Moskva,Russia,None,L,None,None,None,None,None,0,None,None,None,None,None,None,None,55.75222,37.61556,60.0,100.0
+KHL,Kunlun Red Star,Jake Chelios,D,32,182,90,Chicago,China,None,L,None,None,None,None,None,33,3,2,5,14,-15,None,None,42.58474,-87.82119,35.0,105.0
+KHL,Kunlun Red Star,Jason Fram,D,28,180,88,Vancouver,China,None,R,None,None,None,None,None,23,2,1,3,6,-5,None,None,45.71428,-122.49537,35.0,105.0
+KHL,Kunlun Red Star,Zac Leslie,D,29,182,77,Ottawa,Canada,Leitrim MHA,L,2013,6,178,Los Angeles Kings,None,28,2,4,6,10,-8,None,None,45.41117,-75.69812,60.10867,-113.64258
+KHL,Kunlun Red Star,Ryan Merkley,D,23,183,84,Oakville,Canada,Toronto Jr. Canadians MHA,R,2018,1,21,San Jose Sharks,None,30,2,16,18,32,-4,None,None,43.45011,-79.68292,60.10867,-113.64258
+KHL,Kunlun Red Star,Turner Ottenbreit,D,26,191,87,Yorkton,Canada,None,L,None,None,None,None,None,30,1,3,4,27,-1,None,None,51.2167,-102.46766,60.10867,-113.64258
+KHL,Kunlun Red Star,Nikita Parfenyuk,D,20,190,88,Kobrin,Belarus,DYUSSH Kobrin,L,None,None,None,None,None,31,0,0,0,4,-3,None,None,52.21173,24.3563,53.0,28.0
+KHL,Kunlun Red Star,Doyle Somerby,D,29,197,98,Marblehead,USA,None,L,2012,5,125,New York Islanders,None,24,0,4,4,8,-11,None,None,42.5001,-70.85783,-14.60485,-57.65625
+KHL,Kunlun Red Star,Ryan Sproul,D,30,193,93,Mississauga,China,None,R,2011,2,55,Detroit Red Wings,None,24,2,4,6,2,-13,None,None,None,None,35.0,105.0
+KHL,Kunlun Red Star,Kyle Wood,D,27,200,101,Waterloo,Canada,None,R,2014,3,84,Colorado Avalanche,None,24,3,2,5,24,-11,None,None,43.45747,-80.38593,60.10867,-113.64258
+KHL,Kunlun Red Star,Zach Yuen,D,30,184,89,Vancouver,China,None,L,2011,4,119,Winnipeg Jets,None,21,0,1,1,4,-6,None,None,45.71428,-122.49537,35.0,105.0
+KHL,Kunlun Red Star,Mikhail Abramov,F,24,186,87,Neryungri,Russia,None,R,None,None,None,None,None,6,0,0,0,2,0,None,None,56.65836,124.72499,60.0,100.0
+KHL,Kunlun Red Star,Devin Brosseau,F,28,185,92,Saint-Lambert,Canada,None,L,None,None,None,None,None,33,13,3,16,34,-6,None,None,46.58624,-71.20892,60.10867,-113.64258
+KHL,Kunlun Red Star,Colin Campbell,F,32,185,87,Pickering,Canada,None,R,None,None,None,None,None,24,3,1,4,6,-9,None,None,43.90012,-79.13289,60.10867,-113.64258
+KHL,Kunlun Red Star,Parker Foo,F,25,186,90,Edmonton,China,None,L,2017,5,144,Chicago Blackhawks,None,18,4,2,6,4,-8,None,None,None,None,35.0,105.0
+KHL,Kunlun Red Star,Spencer Foo,F,29,183,86,Edmonton,China,None,R,None,None,None,None,None,19,3,3,6,11,-10,None,None,None,None,35.0,105.0
+KHL,Kunlun Red Star,Cory Kane,F,33,188,92,Irvine,China,None,L,None,None,None,None,None,None,None,None,None,None,None,None,None,44.95246,-91.40099,35.0,105.0
+KHL,Kunlun Red Star,Ivan Lisin,F,24,196,105,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,5,0,0,0,0,-4,None,None,57.62987,39.87368,60.0,100.0
+KHL,Kunlun Red Star,Luke Lockhart,F,31,177,86,Burnaby,China,None,R,None,None,None,None,None,33,5,7,12,16,-3,None,None,None,None,35.0,105.0
+KHL,Kunlun Red Star,Brandon McMillan,F,33,180,86,Richmond,Canada,South Delta MHA,L,2008,3,85,Anaheim Ducks,None,12,4,2,6,14,-3,None,None,43.87111,-79.43725,60.10867,-113.64258
+KHL,Kunlun Red Star,Nolan Moyle,F,24,188,84,Briarcliff Manor,USA,None,R,None,None,None,None,None,31,3,3,6,23,-4,None,None,41.14565,-73.82375,-14.60485,-57.65625
+KHL,Kunlun Red Star,Cliff Pu,F,25,188,84,North York,Canada,Toronto Marlboros MHA,R,2016,3,69,Buffalo Sabres,None,24,0,7,7,12,-8,None,None,43.87111,-79.43725,60.10867,-113.64258
+KHL,Kunlun Red Star,Teemu Pulkkinen,F,31,180,85,Vantaa,Finland,EVU,R,2010,4,111,Detroit Red Wings,None,15,3,5,8,12,-6,None,None,60.29414,25.04099,64.0,26.0
+KHL,Kunlun Red Star,Alex Riche,F,27,183,85,Oakville,China,None,R,None,None,None,None,None,21,0,4,4,6,-1,None,None,None,None,35.0,105.0
+KHL,Kunlun Red Star,Jack Rodewald,F,29,191,84,Winnipeg,Canada,None,R,None,None,None,None,None,33,3,7,10,26,-11,None,None,49.8844,-97.14704,60.10867,-113.64258
+KHL,Kunlun Red Star,Austin Wong,F,23,180,86,Cochrane,Canada,Cochrane MHA,R,2018,7,215,Winnipeg Jets,None,4,1,0,1,6,1,None,None,50.00022,-82.99979,60.10867,-113.64258
+KHL,Kunlun Red Star,Tyler Wong,F,27,175,78,Cochrane,China,Cochrane MHA,R,None,None,None,None,None,33,0,14,14,16,-10,None,None,44.22746,-91.83516,35.0,105.0
+KHL,Kunlun Red Star,Brandon Yip,F,38,186,89,Maple Ridge,China,None,R,2004,8,239,Colorado Avalanche,None,33,6,5,11,46,-14,None,None,43.2922,-90.78568,35.0,105.0
+KHL,Lada Togliatti,Vladislav Podyapolsky,G,28,181,89,Novokuznetsk,Russia,Metallurg Novokuznetsk,L,None,None,None,None,None,21,None,None,None,None,None,2.19,0.931,53.7557,87.1099,60.0,100.0
+KHL,Lada Togliatti,Alexander Trushkov,G,27,181,81,Moskva,Russia,Spartak Moskva,L,None,None,None,None,None,12,None,None,None,None,None,2.43,0.914,55.75222,37.61556,60.0,100.0
+KHL,Lada Togliatti,Daniil S. Zakharov,G,20,182,72,Moskva,Russia,Maryino Moskva,L,None,None,None,None,None,0,None,None,None,None,None,None,None,55.75222,37.61556,60.0,100.0
+KHL,Lada Togliatti,Maxim Berezin,D,32,191,102,Izhevsk,Russia,Izhstal Izhevsk,L,None,None,None,None,None,31,0,5,5,17,5,None,None,56.84976,53.20448,60.0,100.0
+KHL,Lada Togliatti,Artyom Borodkin,D,32,181,92,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,20,0,0,0,14,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,Lada Togliatti,Gleb Bulychyov,D,20,192,92,Zarechny,Russia,Dizel Penza,L,None,None,None,None,None,26,2,0,2,5,4,None,None,52.11373,38.09527,60.0,100.0
+KHL,Lada Togliatti,Nikolai Demidov,D,27,183,92,Golitsyno,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,19,0,7,7,6,5,None,None,53.62425,44.12593,60.0,100.0
+KHL,Lada Togliatti,Yevgeni Kalabushkin,F,23,183,85,Stupino,Russia,None,L,None,None,None,None,None,21,0,2,2,2,0,None,None,58.90682,61.11122,60.0,100.0
+KHL,Lada Togliatti,Maxim Mineyev,D,26,185,93,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,13,1,3,4,8,-2,None,None,54.99244,73.36859,60.0,100.0
+KHL,Lada Togliatti,Mislav Rosandic,D,28,181,90,Zagreb,Slovakia,HK Dubnica,L,None,None,None,None,None,19,0,4,4,18,6,None,None,None,None,48.66667,19.5
+KHL,Lada Togliatti,Georgi Solyannikov,D,28,185,96,St. Petersburg,Russia,Lokomotiv St. Petersburg,L,None,None,None,None,None,29,2,8,10,22,1,None,None,59.93863,30.31413,60.0,100.0
+KHL,Lada Togliatti,Vladislav Syomin,D,25,193,103,Nizhny Tagil,Russia,Sputnik Nizhny Tagil,L,None,None,None,None,None,29,2,3,5,18,4,None,None,57.91944,59.965,60.0,100.0
+KHL,Lada Togliatti,Andrei Altybarmakyan,F,25,180,91,St. Petersburg,Russia,Serebryanye Lvy St. Petersburg,L,2017,3,70,Chicago Blackhawks,None,27,4,9,13,16,-4,None,None,59.93863,30.31413,60.0,100.0
+KHL,Lada Togliatti,Yegor Babenko,F,26,175,78,Tyumen,Russia,Gazovik Tyumen,L,None,None,None,None,None,13,1,2,3,6,1,None,None,57.15222,65.52722,60.0,100.0
+KHL,Lada Togliatti,Vladislav Chervonenko,F,24,175,84,Khabarovsk,Russia,Amur Khabarovsk,L,None,None,None,None,None,29,1,2,3,6,-4,None,None,48.48271,135.08379,60.0,100.0
+KHL,Lada Togliatti,Mikhail Fisenko,F,33,186,94,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,22,1,6,7,15,-5,None,None,53.41861,59.04722,60.0,100.0
+KHL,Lada Togliatti,Yevgeni Groshev,F,23,177,72,Samara,Russia,CSK VVS Samara,L,None,None,None,None,None,20,2,2,4,10,4,None,None,53.20007,50.15,60.0,100.0
+KHL,Lada Togliatti,Artyom Ivanyuzhenkov,F,25,189,99,New York,Russia,Vityaz Podolsk,L,None,None,None,None,None,5,0,1,1,0,-2,None,None,43.22562,-75.06127,60.0,100.0
+KHL,Lada Togliatti,Troy Josephs,F,29,185,83,Whitby,Canada,None,L,2013,7,209,Pittsburgh Penguins,None,28,12,7,19,21,10,None,None,43.91682,-78.91627,60.10867,-113.64258
+KHL,Lada Togliatti,Pavel Koltygin,F,24,184,80,Moskva,Russia,Dynamo Moskva,L,2017,6,176,Nashville Predators,None,11,1,4,5,10,2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Lada Togliatti,Scott Kosmachuk,F,29,180,84,Richmond Hill,Canada,None,R,2012,3,70,Winnipeg Jets,None,27,8,11,19,24,6,None,None,43.87111,-79.43725,60.10867,-113.64258
+KHL,Lada Togliatti,Dmitri Kugryshev,F,33,180,85,Balakovo,Russia,Romantik Balakovo,R,2008,2,58,Washington Capitals,None,31,6,9,15,8,5,None,None,52.02782,47.8007,60.0,100.0
+KHL,Lada Togliatti,Vladislav Kurbatov,F,26,181,89,St. Petersburg,Russia,SKA-Petergof St. Petersburg,L,None,None,None,None,None,1,0,0,0,0,-1,None,None,59.93863,30.31413,60.0,100.0
+KHL,Lada Togliatti,Nikita Mikhailov,F,25,183,78,Togliatti,Russia,Lada Togliatti,L,None,None,None,None,None,None,None,None,None,None,None,None,None,53.5303,49.3461,60.0,100.0
+KHL,Lada Togliatti,Danila Moiseyev,F,25,188,91,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,20,1,0,1,10,-6,None,None,55.15402,61.42915,60.0,100.0
+KHL,Lada Togliatti,Alexei Ozhgikhin,F,25,184,92,Chelyabinsk,Russia,Mechel Chelyabinsk,L,None,None,None,None,None,24,3,2,5,10,3,None,None,55.15402,61.42915,60.0,100.0
+KHL,Lada Togliatti,Nikita Popugayev,F,24,197,91,Moskva,Russia,Dynamo Moskva,R,2017,4,98,New Jersey Devils,None,11,5,3,8,2,4,None,None,55.75222,37.61556,60.0,100.0
+KHL,Lada Togliatti,Ivan Romanov,F,25,185,85,Penza,Russia,Dizel Penza,L,None,None,None,None,None,28,6,4,10,6,-1,None,None,53.20066,45.00464,60.0,100.0
+KHL,Lada Togliatti,Ostap Safin,F,24,196,92,Praha,Russia,HC Sparta Praha,L,2017,4,115,Edmonton Oilers,None,31,9,13,22,12,11,None,None,49.83333,14.33333,60.0,100.0
+KHL,Lada Togliatti,Sergei Shumakov,F,31,184,87,Chelyabinsk,Russia,Traktor Chelyabinsk,R,None,None,None,None,None,17,7,3,10,8,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,Lada Togliatti,Donat Stalnov,F,24,180,89,Yaroslavl,Russia,None,L,None,None,None,None,None,19,1,5,6,2,3,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lada Togliatti,Alexei Vasilkov,F,19,180,80,Moskva,Russia,Dynamo Moskva,R,None,None,None,None,None,3,0,0,0,0,1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Lada Togliatti,Nikolai Vladimirov,F,28,185,87,Togliatti,Russia,Lada Togliatti,L,None,None,None,None,None,None,None,None,None,None,None,None,None,53.5303,49.3461,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Ivan Bocharov,G,28,186,76,Moskva,Russia,Maryino Moskva,L,None,None,None,None,None,8,None,None,None,None,None,1.71,0.935,55.75222,37.61556,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Daniil Isayev,G,23,184,78,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,21,None,None,None,None,None,1.96,0.925,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Sergei Murashov,G,19,186,77,Yaroslavl,Russia,Lokomotiv-2004 Yaroslavl,R,2022,4,118,Pittsburgh Penguins,None,0,None,None,None,None,None,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Raul Akmaldinov,D,21,189,93,Ust-Kamenogorsk,Russia,Torpedo Ust-Kamenogorsk,R,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Alexei Bereglazov,D,29,193,95,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,27,0,2,2,4,0,None,None,53.41861,59.04722,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Roman Bychkov,D,22,181,83,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,2019,5,154,Boston Bruins,None,9,0,0,0,2,0,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Nikita Cherepanov,D,27,190,94,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,28,0,1,1,6,-2,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Martin Gernát,D,30,193,92,Kosice,Slovakia,HC Presov,L,2011,5,122,Edmonton Oilers,None,27,2,11,13,15,8,None,None,48.71395,21.25808,48.66667,19.5
+KHL,Lokomotiv Yaroslavl,Alexei Kozhevnikov,D,21,185,82,Chita,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,6,0,1,1,4,2,None,None,52.03171,113.50087,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Rushan Rafikov,D,28,189,89,Saratov,Russia,Lokomotiv Yaroslavl,L,2013,7,187,Calgary Flames,None,23,3,7,10,16,8,None,None,51.54056,46.00861,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Andrei Sergeyev,D,32,179,90,Simferopol,Russia,Neftekhimik Nizhnekamsk,R,None,None,None,None,None,23,3,4,7,6,7,None,None,None,None,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Dmitri Simashev,D,18,194,91,Kostroma,Russia,Lokomotiv-2004 Yaroslavl,L,2023,1,6,Arizona Coyotes,None,25,0,1,1,12,4,None,None,57.76647,40.92686,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Alexander Yelesin,D,27,181,91,Yaroslavl,Russia,Lokomotiv Yaroslavl,R,None,None,None,None,None,28,0,5,5,16,9,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Denis Alexeyev,F,26,180,86,Gubkin,Russia,Lokomotiv Yaroslavl,R,None,None,None,None,None,28,5,8,13,8,0,None,None,51.28167,37.5458,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Sergei Andronov,F,34,189,93,Penza,Russia,Dizel Penza,L,2009,3,78,St. Louis Blues,None,26,3,1,4,4,-4,None,None,53.20066,45.00464,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Yegor Averin,F,34,181,91,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,10,1,0,1,0,-3,None,None,54.99244,73.36859,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Maxim Beryozkin,F,22,189,98,Chita,Russia,Lokomotiv Yaroslavl,R,2020,5,138,Edmonton Oilers,None,27,3,9,12,10,1,None,None,52.03171,113.50087,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Daniil But,F,18,195,92,Yaroslavl,Russia,Lokomotiv Yaroslavl,R,2023,1,12,Arizona Coyotes,None,19,3,5,8,4,5,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Ivan Chekhovich,F,24,179,88,Yekaterinburg,Russia,Yunost Yekaterinburg,L,2017,7,212,San Jose Sharks,None,24,1,3,4,2,2,None,None,56.8519,60.6122,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Georgi Ivanov,F,25,184,89,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,27,7,5,12,20,3,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Artur Kayumov,F,25,181,86,Podgorny,Russia,Neftyanik Bugulma,L,2016,2,50,Chicago Blackhawks,None,28,7,6,13,10,12,None,None,54.13333,51.88333,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Nikita Kiryanov,F,21,196,80,Perm,Russia,Molot Perm,L,None,None,None,None,None,None,None,None,None,None,None,None,None,58.01046,56.25017,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Pavel Kraskovsky,F,27,194,95,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,2014,6,164,Winnipeg Jets,None,28,7,2,9,13,6,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Yaroslav Likhachyov,F,22,181,80,Yaroslavl,Russia,Lokomotiv-2004 Yaroslavl,R,None,None,None,None,None,25,8,8,16,6,8,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Stepan Nikulin,F,22,181,91,Yaroslavl,Russia,Lokomotiv Yaroslavl,R,None,None,None,None,None,18,0,4,4,2,0,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Alexander Polunin,F,26,174,82,Moskva,Russia,Pingviny Moskva,R,None,None,None,None,None,28,5,5,10,4,3,None,None,55.75222,37.61556,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Maxim Shalunov,F,30,192,94,Chelyabinsk,Russia,Traktor Chelyabinsk,L,2011,4,109,Chicago Blackhawks,None,28,9,11,20,12,12,None,None,55.15402,61.42915,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Yegor Surin,F,17,186,87,Voronezh,Russia,Buran Voronezh,L,None,None,None,None,None,2,0,0,0,0,0,None,None,51.67204,39.1843,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Daniil Tesanov,F,22,190,92,Yaroslavl,Russia,Lokomotiv-2004 Yaroslavl,R,None,None,None,None,None,25,3,4,7,25,-1,None,None,57.62987,39.87368,60.0,100.0
+KHL,Lokomotiv Yaroslavl,Alexander Volkov,F,20,181,84,Lyubertsy,Russia,Spartak Moskva,L,None,None,None,None,None,11,1,2,3,2,0,None,None,55.67719,37.89322,60.0,100.0
+KHL,Metallurg Magnitogorsk,Ilya Nabokov,G,20,184,81,Kasli,Russia,Mechel Chelyabinsk,L,None,None,None,None,None,16,None,None,None,None,None,2.41,0.916,55.8909,60.7616,60.0,100.0
+KHL,Metallurg Magnitogorsk,Alexander Sudnitsin,G,35,185,84,Krasnoyarsk,Russia,Sokol Krasnoyarsk,L,None,None,None,None,None,3,None,None,None,None,None,1.77,0.919,56.01839,92.86717,60.0,100.0
+KHL,Metallurg Magnitogorsk,Artyom Zagidulin,G,28,187,82,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,17,None,None,None,None,None,2.47,0.899,53.41861,59.04722,60.0,100.0
+KHL,Metallurg Magnitogorsk,Grigori Dronov,D,25,190,91,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,25,3,4,7,18,-6,None,None,53.41861,59.04722,60.0,100.0
+KHL,Metallurg Magnitogorsk,Danil Gololobov,D,21,183,76,Magnitogorsk,Russia,Metallurg Magnitogorsk,R,None,None,None,None,None,19,1,3,4,4,-1,None,None,53.41861,59.04722,60.0,100.0
+KHL,Metallurg Magnitogorsk,Makar Khabarov,D,24,180,83,Cherepovets,Russia,Severstal Cherepovets,L,None,None,None,None,None,22,2,7,9,6,5,None,None,59.13333,37.9,60.0,100.0
+KHL,Metallurg Magnitogorsk,Alexei Maklyukov,D,30,188,81,Voskresensk,Russia,Khimik Voskresensk,L,None,None,None,None,None,27,0,4,4,8,1,None,None,55.29092,38.67556,60.0,100.0
+KHL,Metallurg Magnitogorsk,Artyom Minulin,D,25,190,87,Tyumen,Russia,Gazovik Tyumen,R,None,None,None,None,None,17,0,2,2,6,1,None,None,57.15222,65.52722,60.0,100.0
+KHL,Metallurg Magnitogorsk,Valeri Orekhov,D,24,186,88,Satpaev,Kazakhstan,Kazakhmys Satpaev,L,None,None,None,None,None,19,2,2,4,10,12,None,None,47.90409,67.54112,48.0,68.0
+KHL,Metallurg Magnitogorsk,Danila Palivko,D,21,195,91,Novopolotsk,Belarus,Khimik Novopolotsk,L,None,None,None,None,None,25,1,1,2,14,7,None,None,55.5318,28.5987,53.0,28.0
+KHL,Metallurg Magnitogorsk,Robin Press,D,28,192,95,Uppsala,Sweden,Almtuna IS,R,2013,7,211,Chicago Blackhawks,None,28,3,13,16,8,-7,None,None,59.85882,17.63889,62.0,15.0
+KHL,Metallurg Magnitogorsk,Yegor Yakovlev,D,32,180,86,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,28,2,13,15,10,9,None,None,53.41861,59.04722,60.0,100.0
+KHL,Metallurg Magnitogorsk,Vladislav Yeryomenko,D,24,184,90,Vitebsk,Belarus,DYUSSH HK Vitebsk,R,2018,5,151,Nashville Predators,None,8,0,1,1,2,3,None,None,55.1904,30.2049,53.0,28.0
+KHL,Metallurg Magnitogorsk,Pavel Akolzin,F,32,196,102,Moskva,Kazakhstan,Rus Moskva,L,None,None,None,None,None,28,10,4,14,31,13,None,None,54.01667,68.45,48.0,68.0
+KHL,Metallurg Magnitogorsk,Jean-Sébastien Dea,F,29,180,79,Laval,Canada,AHM La Prairie,R,None,None,None,None,None,15,3,3,6,6,0,None,None,45.56995,-73.692,60.10867,-113.64258
+KHL,Metallurg Magnitogorsk,Mikhail Grass,F,19,192,90,Chelyabinsk,Russia,Belye Medvedi Chelyabinsk,L,None,None,None,None,None,15,2,2,4,4,4,None,None,55.15402,61.42915,60.0,100.0
+KHL,Metallurg Magnitogorsk,Nikita Grebyonkin,F,20,187,87,Serov,Russia,Yunost Yekaterinburg,L,2022,5,135,Toronto Maple Leafs,None,29,8,6,14,4,4,None,None,59.60334,60.5787,60.0,100.0
+KHL,Metallurg Magnitogorsk,Luke Johnson,F,29,180,90,Grand Forks,USA,None,R,2013,5,134,Chicago Blackhawks,None,27,5,6,11,9,-2,None,None,47.92526,-97.03285,-14.60485,-57.65625
+KHL,Metallurg Magnitogorsk,Roman Kantserov,F,19,176,80,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,2023,2,44,Chicago Blackhawks,None,25,2,3,5,4,1,None,None,53.41861,59.04722,60.0,100.0
+KHL,Metallurg Magnitogorsk,Maxim Karpov,F,32,187,87,Chelyabinsk,Russia,Mechel Chelyabinsk,L,None,None,None,None,None,26,5,16,21,0,12,None,None,55.15402,61.42915,60.0,100.0
+KHL,Metallurg Magnitogorsk,Yegor Korobkin,F,25,174,81,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,29,8,9,17,12,4,None,None,53.41861,59.04722,60.0,100.0
+KHL,Metallurg Magnitogorsk,Semyon Koshelev,F,27,186,83,Ust-Kamenogorsk,Russia,Torpedo Ust-Kamenogorsk,L,None,None,None,None,None,25,4,9,13,0,-2,None,None,None,None,60.0,100.0
+KHL,Metallurg Magnitogorsk,Danila Kvartalnov,F,26,188,86,Voskresensk,Russia,Khimik Voskresensk,L,None,None,None,None,None,17,0,2,2,2,2,None,None,55.29092,38.67556,60.0,100.0
+KHL,Metallurg Magnitogorsk,Nikita Mikhailis,F,28,175,71,Karaganda,Kazakhstan,Yunost Karaganda,R,None,None,None,None,None,30,6,7,13,2,-9,None,None,49.80187,73.10211,48.0,68.0
+KHL,Metallurg Magnitogorsk,Maxim Mukhametov,F,24,183,80,Ust-Kamenogorsk,Kazakhstan,None,L,None,None,None,None,None,14,3,0,3,0,-4,None,None,49.97143,82.60586,48.0,68.0
+KHL,Metallurg Magnitogorsk,Arkhip Nekolenko,F,27,193,96,Maryino,Russia,Krylia Sovetov Moskva,R,None,None,None,None,None,10,0,0,0,6,-2,None,None,55.65118,37.73898,60.0,100.0
+KHL,Metallurg Magnitogorsk,Alexander Petunin,F,26,177,75,Yekaterinburg,Russia,Avtomobilist Yekaterinburg,L,None,None,None,None,None,20,6,3,9,6,-10,None,None,56.8519,60.6122,60.0,100.0
+KHL,Metallurg Magnitogorsk,Dmitri Silantyev,F,23,178,68,Moskva,Russia,Orbita Zelenograd,L,None,None,None,None,None,10,0,1,1,2,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Metallurg Magnitogorsk,Danila Yurov,F,19,185,78,Chelyabinsk,Russia,HSh S. Makarova Chelyabinsk,L,2022,1,24,Minnesota Wild,None,25,6,9,15,12,5,None,None,55.15402,61.42915,60.0,100.0
+KHL,Metallurg Magnitogorsk,Denis Zernov,F,27,175,80,Izhevsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,29,10,10,20,12,12,None,None,56.84976,53.20448,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Filipp Dolganov,G,25,181,73,Izhevsk,Russia,Izhstal Izhevsk,L,None,None,None,None,None,21,None,None,None,None,None,2.39,0.921,56.84976,53.20448,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Emil Garipov,G,32,189,85,Sredniye Verezi,Russia,Ak Bars Kazan,L,None,None,None,None,None,8,None,None,None,None,None,4.33,0.86,56.11361,49.83101,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Dmitri Nikolayev,G,23,187,86,St. Petersburg,Russia,Spartak St. Petersburg,L,None,None,None,None,None,2,None,None,None,None,None,6.0,0.6,59.93863,30.31413,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Andrei Tikhomirov,G,28,189,98,Nizhny Novgorod,Russia,Torpedo Nizhny Novgorod,L,None,None,None,None,None,3,None,None,None,None,None,5.09,0.872,56.32867,44.00205,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Islam Gainullin,D,20,186,84,Kazan,Russia,Dynamo Kazan,L,None,None,None,None,None,27,0,1,1,4,-5,None,None,55.78874,49.12214,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Yevgeni Kashnikov,D,20,194,89,Kursk,Russia,Severnaya Zvezda Moskva,L,2021,7,199,San Jose Sharks,None,26,0,0,0,21,-18,None,None,51.73733,36.18735,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Nikita Khlystov,D,30,189,89,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,28,1,5,6,8,4,None,None,53.41861,59.04722,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Ilya Khokhlov,D,29,185,93,Moskva,Russia,Vympel Moskva,L,None,None,None,None,None,28,3,4,7,8,-4,None,None,55.75222,37.61556,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Lukas Klok,D,28,185,90,Ostrava,Czechia,HC Vitkovice,L,None,None,None,None,None,29,3,15,18,18,-7,None,None,49.83465,18.28204,49.75,15.0
+KHL,Neftekhimik Nizhnekamsk,Ruslan Petrishchev,D,26,192,90,Raduzhny,Russia,Agan Raduzhny,L,None,None,None,None,None,6,0,0,0,0,-6,None,None,62.09611,77.475,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Artyom Serikov,D,22,185,92,Dmitrov,Russia,DYUSSH Dmitrov,L,None,None,None,None,None,29,2,2,4,14,3,None,None,56.34485,37.52041,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Mikhail Sidorov,D,26,184,95,Yaroslavl,Russia,Lokomotiv Yaroslavl,R,None,None,None,None,None,28,0,6,6,4,2,None,None,57.62987,39.87368,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Andrei Belozyorov,F,27,181,94,Chelyabinsk,Russia,Mechel Chelyabinsk,R,None,None,None,None,None,29,9,10,19,14,-11,None,None,55.15402,61.42915,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Rafael Bikmullin,F,26,178,82,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,21,3,2,5,4,-2,None,None,55.63657,51.82447,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Vladimir Bryukvin,F,28,184,92,Moskva,Russia,Severnaya Zvezda Moskva,R,None,None,None,None,None,29,6,6,12,6,1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Alexander Dergachyov,F,27,195,102,Langepas,Russia,Neftyanik Almetievsk,L,2015,3,74,Los Angeles Kings,None,29,8,6,14,18,-4,None,None,61.25439,75.2124,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Nikita Khoruzhev,F,20,183,78,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,9,0,1,1,2,-1,None,None,55.63657,51.82447,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Sergei Kuptsov,F,29,188,104,Yekaterinburg,Russia,Spartakovets Yekaterinburg,L,None,None,None,None,None,4,0,1,1,4,1,None,None,56.8519,60.6122,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Yevgeni Mityakin,F,25,193,92,Krasnokamsk,Russia,None,L,None,None,None,None,None,29,1,4,5,2,-11,None,None,58.0796,55.7552,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Danila Popov,F,22,177,75,Penza,Russia,Dizel Penza,R,None,None,None,None,None,13,2,2,4,4,1,None,None,53.20066,45.00464,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Nikita Setdikov,F,28,186,94,Moskva,Russia,Rus Moskva,L,None,None,None,None,None,19,5,8,13,4,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Bulat Shafigullin,F,23,186,83,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,2018,3,82,Los Angeles Kings,None,28,6,6,12,26,-4,None,None,55.63657,51.82447,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Danil Sherstobitov,F,20,180,73,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,24,2,1,3,0,-3,None,None,55.63657,51.82447,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Daniil Skorikov,F,24,193,88,Saratov,Russia,Kristall Saratov,R,None,None,None,None,None,3,0,1,1,0,0,None,None,51.54056,46.00861,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Dmitri Sokolov,F,25,182,96,Omsk,Russia,Avangard Omsk,L,2016,7,196,Minnesota Wild,None,13,4,4,8,4,5,None,None,54.99244,73.36859,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Nail Yakupov,F,30,180,89,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,2012,1,1,Edmonton Oilers,None,22,6,8,14,12,-4,None,None,55.63657,51.82447,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Raul Yakupov,F,19,186,83,Naberezhnye Chelny,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,14,0,1,1,2,-5,None,None,55.72545,52.41122,60.0,100.0
+KHL,Neftekhimik Nizhnekamsk,Dmitri Zhukenov,F,26,181,79,Omsk,Russia,Avangard Omsk,R,2015,4,114,Vancouver Canucks,None,29,2,4,6,4,1,None,None,54.99244,73.36859,60.0,100.0
+KHL,Salavat Yulaev Ufa,Alexander Samonov,G,28,182,76,Moskva,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,20,None,None,None,None,None,1.55,0.946,55.75222,37.61556,60.0,100.0
+KHL,Salavat Yulaev Ufa,Semyon Vyazovoy,G,20,191,82,Ufa,Russia,Salavat Yulaev Ufa,L,2021,6,163,Seattle Kraken,None,0,None,None,None,None,None,None,None,54.74306,55.96779,60.0,100.0
+KHL,Salavat Yulaev Ufa,Bogdan Vypritsky,G,21,190,80,Salavat,Russia,Yurmaty Salavat,L,None,None,None,None,None,1,None,None,None,None,None,26.47,0.5,53.38365,55.90773,60.0,100.0
+KHL,Salavat Yulaev Ufa,Ilya Yezhov,G,36,189,85,Krasnodar,Russia,None,L,None,None,None,None,None,10,None,None,None,None,None,2.42,0.903,45.04484,38.97603,60.0,100.0
+KHL,Salavat Yulaev Ufa,Yevgeni Biryukov,D,37,186,94,Kasli,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,23,1,1,2,6,0,None,None,55.8909,60.7616,60.0,100.0
+KHL,Salavat Yulaev Ufa,Ildan Gazimov,D,22,186,83,Nizhnekamsk,Russia,HK Chelny,L,None,None,None,None,None,5,0,1,1,2,1,None,None,55.63657,51.82447,60.0,100.0
+KHL,Salavat Yulaev Ufa,Dinis Kadyrov,D,20,185,87,Ufa,Russia,Salavat Yulaev Ufa,L,None,None,None,None,None,1,0,0,0,2,-1,None,None,54.74306,55.96779,60.0,100.0
+KHL,Salavat Yulaev Ufa,Dinar Khafizullin,D,34,180,82,Kazan,Russia,Ak Bars Kazan,L,None,None,None,None,None,27,2,10,12,8,5,None,None,55.78874,49.12214,60.0,100.0
+KHL,Salavat Yulaev Ufa,Pavel Koledov,D,29,185,96,Achinsk,Russia,Sibir Novosibirsk,R,None,None,None,None,None,24,1,4,5,33,5,None,None,56.2694,90.4993,60.0,100.0
+KHL,Salavat Yulaev Ufa,Alexander Komarov,D,20,192,80,Ufa,Russia,Salavat Yulaev Ufa,L,None,None,None,None,None,8,1,0,1,4,-1,None,None,54.74306,55.96779,60.0,100.0
+KHL,Salavat Yulaev Ufa,Nicolas Meloche,D,26,190,96,LaSalle,Canada,AHM Île-Perrot,R,2015,2,40,Colorado Avalanche,None,6,1,3,4,6,4,None,None,45.43038,-73.63518,60.10867,-113.64258
+KHL,Salavat Yulaev Ufa,Mikhail Naumenkov,D,30,183,85,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,16,1,7,8,6,7,None,None,55.75222,37.61556,60.0,100.0
+KHL,Salavat Yulaev Ufa,Grigori Panin,D,37,183,83,Karaganda,Russia,None,L,None,None,None,None,None,18,0,2,2,25,6,None,None,50.70139,59.71944,60.0,100.0
+KHL,Salavat Yulaev Ufa,Yaroslav Tsulygin,D,19,182,71,Ufa,Russia,Salavat Yulaev Ufa,R,None,None,None,None,None,9,0,0,0,4,-3,None,None,54.74306,55.96779,60.0,100.0
+KHL,Salavat Yulaev Ufa,Sergei Varlov,D,23,180,90,Naberezhnye Chelny,Russia,HK Chelny,L,None,None,None,None,None,7,0,1,1,0,3,None,None,55.72545,52.41122,60.0,100.0
+KHL,Salavat Yulaev Ufa,Alexei Vasilevsky,D,30,180,93,Ufa,Russia,Salavat Yulaev Ufa,R,None,None,None,None,None,27,1,2,3,10,8,None,None,54.74306,55.96779,60.0,100.0
+KHL,Salavat Yulaev Ufa,Nikita Zorkin,D,23,188,88,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,23,2,3,5,8,9,None,None,55.75222,37.61556,60.0,100.0
+KHL,Salavat Yulaev Ufa,Danil Alalykin,F,22,183,73,Ufa,Russia,Salavat Yulaev Ufa,L,None,None,None,None,None,6,1,4,5,2,6,None,None,54.74306,55.96779,60.0,100.0
+KHL,Salavat Yulaev Ufa,Matvei Babenko,F,18,191,91,Ufa,Russia,Salavat Yulaev Ufa,R,None,None,None,None,None,8,1,0,1,0,1,None,None,54.74306,55.96779,60.0,100.0
+KHL,Salavat Yulaev Ufa,Danil Bashkirov,F,22,188,77,Tyumen,Russia,Gazovik Tyumen,L,None,None,None,None,None,25,3,8,11,4,7,None,None,57.15222,65.52722,60.0,100.0
+KHL,Salavat Yulaev Ufa,Alexander Chmelevski,F,24,183,85,Huntington Beach,USA,None,R,2017,6,185,San Jose Sharks,None,28,14,8,22,24,5,None,None,33.6603,-117.99923,-14.60485,-57.65625
+KHL,Salavat Yulaev Ufa,Ivan Drozdov,F,23,180,78,Vitebsk,Belarus,DYUSSH HK Vitebsk,L,None,None,None,None,None,27,7,8,15,8,3,None,None,55.1904,30.2049,53.0,28.0
+KHL,Salavat Yulaev Ufa,Matvei Guskov,F,22,188,83,Nizhnekamsk,Russia,Lokomotiv-2004 Yaroslavl,L,2019,5,149,Minnesota Wild,None,19,0,2,2,8,-6,None,None,55.63657,51.82447,60.0,100.0
+KHL,Salavat Yulaev Ufa,Nikolai Kulyomin,F,37,185,98,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,2006,2,44,Toronto Maple Leafs,None,18,5,7,12,2,8,None,None,53.41861,59.04722,60.0,100.0
+KHL,Salavat Yulaev Ufa,Gleb Kuzmin,F,26,180,77,Voronezh,Russia,Dynamo Moskva,L,None,None,None,None,None,15,2,2,4,8,-2,None,None,51.67204,39.1843,60.0,100.0
+KHL,Salavat Yulaev Ufa,Josh Leivo,F,30,188,87,Innisfil,Canada,None,R,2011,3,86,Toronto Maple Leafs,None,7,3,5,8,0,0,None,None,44.30011,-79.61633,60.10867,-113.64258
+KHL,Salavat Yulaev Ufa,Vyacheslav Leshchenko,F,28,184,87,Noginsk,Russia,Kristall Elektrostal,L,None,None,None,None,None,25,9,3,12,10,3,None,None,55.86486,38.44853,60.0,100.0
+KHL,Salavat Yulaev Ufa,Daniil Ogirchuk,F,24,184,85,Narva-Jõesuu,Russia,None,R,None,None,None,None,None,2,0,0,0,0,0,None,None,None,None,60.0,100.0
+KHL,Salavat Yulaev Ufa,Artyom Pimenov,F,27,180,85,Sarapul,Russia,Izhstal Izhevsk,L,None,None,None,None,None,26,5,7,12,17,7,None,None,56.47633,53.79782,60.0,100.0
+KHL,Salavat Yulaev Ufa,Alexei Pustozyorov,F,23,180,83,Chebarkul,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,22,1,0,1,6,-6,None,None,54.9749,60.3633,60.0,100.0
+KHL,Salavat Yulaev Ufa,Alexander A. Sharov,F,28,186,80,Moskva,Russia,Belye Medvedi Moskva,L,None,None,None,None,None,27,6,15,21,4,14,None,None,55.75222,37.61556,60.0,100.0
+KHL,Salavat Yulaev Ufa,Sergei Shmelyov,F,30,178,81,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,21,3,9,12,8,5,None,None,55.63657,51.82447,60.0,100.0
+KHL,Salavat Yulaev Ufa,Yegor Suchkov,F,22,173,70,Chelyabinsk,Russia,HSh S. Makarova Chelyabinsk,L,None,None,None,None,None,18,4,2,6,10,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,Salavat Yulaev Ufa,Yevgeni Timkin,F,33,197,98,Murmansk,Russia,None,L,None,None,None,None,None,15,1,3,4,11,0,None,None,68.97917,33.09251,60.0,100.0
+KHL,Salavat Yulaev Ufa,Vladislav Yefremov,F,28,178,82,Novy Rozdol,Russia,Kristall Elektrostal,L,None,None,None,None,None,27,4,7,11,12,11,None,None,None,None,60.0,100.0
+KHL,Severstal Cherepovets,Ivan Dovgiy,G,18,181,70,Krasnodar,Russia,Severskiye Volki,L,None,None,None,None,None,0,None,None,None,None,None,None,None,45.04484,38.97603,60.0,100.0
+KHL,Severstal Cherepovets,Konstantin Shostak,G,23,179,83,Minsk,Belarus,Yunost Minsk,L,None,None,None,None,None,18,None,None,None,None,None,2.59,0.901,53.9,27.56667,53.0,28.0
+KHL,Severstal Cherepovets,Dmitri Shugayev,G,25,188,71,Yaroslavl,Russia,None,L,None,None,None,None,None,15,None,None,None,None,None,2.94,0.895,57.62987,39.87368,60.0,100.0
+KHL,Severstal Cherepovets,Mark Barberio,D,33,185,94,Montréal,Canada,AHM Lakeshore,L,2008,6,152,Tampa Bay Lightning,None,27,0,5,5,25,-9,None,None,45.50884,-73.58781,60.10867,-113.64258
+KHL,Severstal Cherepovets,Nikolai Burenov,D,22,175,74,Moskva,Russia,Orbita Zelenograd,L,None,None,None,None,None,20,0,3,3,8,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Severstal Cherepovets,Andrei Churkin,D,27,178,78,St. Petersburg,Russia,SKA St. Petersburg,R,None,None,None,None,None,18,1,2,3,12,5,None,None,59.93863,30.31413,60.0,100.0
+KHL,Severstal Cherepovets,Timofei Davydov,D,21,183,80,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,27,0,12,12,16,6,None,None,54.99244,73.36859,60.0,100.0
+KHL,Severstal Cherepovets,Pavel Denisov,D,22,170,78,Gomel,Belarus,None,L,None,None,None,None,None,7,2,0,2,2,-1,None,None,52.4345,30.9754,53.0,28.0
+KHL,Severstal Cherepovets,Vladimir Grudinin,D,19,177,72,Angarsk,Russia,Yermak Angarsk,L,2022,5,156,Carolina Hurricanes,None,11,0,3,3,2,0,None,None,52.53667,103.88639,60.0,100.0
+KHL,Severstal Cherepovets,Gleb Al. Ivanov,D,20,182,80,Moskva,Russia,Dynamo Moskva,L,None,None,None,None,None,4,0,0,0,0,-5,None,None,55.75222,37.61556,60.0,100.0
+KHL,Severstal Cherepovets,Christian Jaros,D,27,191,102,Kosice,Slovakia,HC Kosice,R,2015,5,139,Ottawa Senators,None,3,0,2,2,0,0,None,None,48.71395,21.25808,48.66667,19.5
+KHL,Severstal Cherepovets,Nikita Makeyev,D,25,175,88,Moskva,Russia,Dynamo Moskva,R,None,None,None,None,None,2,1,0,1,2,1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Severstal Cherepovets,Vitali Pesterev,D,18,192,85,Cherepovets,Russia,Severstal Cherepovets,R,None,None,None,None,None,3,0,0,0,0,-1,None,None,59.13333,37.9,60.0,100.0
+KHL,Severstal Cherepovets,Nikita Sedov,D,22,186,85,Nizhnevartovsk,Russia,Filin Nizhnevartovsk,L,None,None,None,None,None,27,2,10,12,26,14,None,None,60.9344,76.5531,60.0,100.0
+KHL,Severstal Cherepovets,Vasili Shumilov,D,20,181,85,Perm,Russia,Molot Perm,R,None,None,None,None,None,11,0,1,1,2,-8,None,None,58.01046,56.25017,60.0,100.0
+KHL,Severstal Cherepovets,Mikhail Tikhonov,D,28,177,91,Moskva,Russia,Rus Moskva,L,None,None,None,None,None,18,1,2,3,4,8,None,None,55.75222,37.61556,60.0,100.0
+KHL,Severstal Cherepovets,Vasili Tokranov,D,34,184,95,Almetievsk,Russia,Neftyanik Almetievsk,L,None,None,None,None,None,11,2,2,4,2,-4,None,None,None,None,60.0,100.0
+KHL,Severstal Cherepovets,Ruslan Abrosimov,F,22,177,82,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,25,5,10,15,14,-1,None,None,57.62987,39.87368,60.0,100.0
+KHL,Severstal Cherepovets,Danil Aimurzin,F,21,183,81,Ufa,Russia,Salavat Yulaev Ufa,R,None,None,None,None,None,27,7,15,22,12,2,None,None,54.74306,55.96779,60.0,100.0
+KHL,Severstal Cherepovets,David Dumbadze,F,28,176,82,Penza,Russia,Dizel Penza,L,None,None,None,None,None,2,0,0,0,0,0,None,None,53.20066,45.00464,60.0,100.0
+KHL,Severstal Cherepovets,Nikita Guslistov,F,21,176,77,Cherepovets,Russia,Severstal Cherepovets,L,2021,7,209,Carolina Hurricanes,None,11,0,1,1,0,-1,None,None,59.13333,37.9,60.0,100.0
+KHL,Severstal Cherepovets,Mikhail Ilyin,F,18,184,82,Cherepovets,Russia,Severstal Cherepovets,L,2023,5,142,Pittsburgh Penguins,None,27,6,9,15,8,9,None,None,59.13333,37.9,60.0,100.0
+KHL,Severstal Cherepovets,Ilya Ivantsov,F,20,177,70,Penza,Russia,Dizel Penza,L,None,None,None,None,None,27,3,13,16,15,0,None,None,53.20066,45.00464,60.0,100.0
+KHL,Severstal Cherepovets,Maxim Kazakov,F,23,180,70,Shchyolkovo,Russia,Spartak Moskva,L,None,None,None,None,None,1,0,0,0,0,0,None,None,55.92497,37.97218,60.0,100.0
+KHL,Severstal Cherepovets,Nikita Korostelev,F,26,187,93,Moskva,Russia,Belye Medvedi Moskva,R,2015,7,185,Toronto Maple Leafs,None,19,9,4,13,13,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,Severstal Cherepovets,Adam Liska,F,24,181,83,Bratislava,Slovakia,HK Ruzinov 99 Bratislava,L,None,None,None,None,None,27,6,7,13,7,2,None,None,48.14816,17.10674,48.66667,19.5
+KHL,Severstal Cherepovets,Dmitri Moiseyev,F,28,176,78,Moskva,Russia,Rus Moskva,L,None,None,None,None,None,24,8,2,10,10,-4,None,None,55.75222,37.61556,60.0,100.0
+KHL,Severstal Cherepovets,Timur Mukhanov,F,18,173,81,Glazov,Russia,Progress Glazov,R,2023,6,163,Carolina Hurricanes,None,26,4,4,8,0,1,None,None,58.1393,52.658,60.0,100.0
+KHL,Severstal Cherepovets,Vsevolod Nikitin,F,20,170,71,Inta,Russia,Olimp Vorkuta,R,None,None,None,None,None,2,0,0,0,0,-1,None,None,66.03169,60.16594,60.0,100.0
+KHL,Severstal Cherepovets,Kirill Pilipenko,F,27,176,86,Yekaterinburg,Russia,Spartakovets Yekaterinburg,L,None,None,None,None,None,24,12,10,22,0,9,None,None,56.8519,60.6122,60.0,100.0
+KHL,Severstal Cherepovets,Ivan Podshivalov,F,21,178,78,St. Petersburg,Russia,SDYUSHOR-1 St. Petersburg,L,None,None,None,None,None,21,2,2,4,27,-1,None,None,59.93863,30.31413,60.0,100.0
+KHL,Severstal Cherepovets,Nikita A. Rozhkov,F,23,176,81,Orenburg,Russia,Gazprom Orenburg,L,None,None,None,None,None,16,1,2,3,2,1,None,None,51.7727,55.0988,60.0,100.0
+KHL,Severstal Cherepovets,Alexander Skorenov,F,23,183,87,Gomel,Belarus,HK Gomel,R,None,None,None,None,None,27,11,10,21,11,-3,None,None,52.4345,30.9754,53.0,28.0
+KHL,Severstal Cherepovets,Yegor Stepanov,F,23,174,73,Magnitogorsk,Russia,Metallurg Magnitogorsk,R,None,None,None,None,None,13,5,3,8,2,-8,None,None,53.41861,59.04722,60.0,100.0
+KHL,Severstal Cherepovets,Daniil Vovchenko,F,27,178,78,Cherepovets,Russia,Severstal Cherepovets,R,None,None,None,None,None,8,0,2,2,4,1,None,None,59.13333,37.9,60.0,100.0
+KHL,Severstal Cherepovets,Alexander Zhabreyev,F,23,172,75,Chelyabinsk,Russia,Belye Medvedi Chelyabinsk,L,None,None,None,None,None,17,1,3,4,0,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,Sibir Novosibirsk,Denis Kostin,G,28,185,92,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,5,None,None,None,None,None,4.82,0.86,54.99244,73.36859,60.0,100.0
+KHL,Sibir Novosibirsk,Anton Krasotkin,G,26,184,84,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,24,None,None,None,None,None,2.31,0.928,57.62987,39.87368,60.0,100.0
+KHL,Sibir Novosibirsk,Vladimir Tabatchikov,G,20,185,74,Novosibirsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,0,None,None,None,None,None,None,None,55.0415,82.9346,60.0,100.0
+KHL,Sibir Novosibirsk,Timur Akhiyarov,D,24,180,92,Ufa,Russia,None,L,None,None,None,None,None,24,2,4,6,6,6,None,None,54.74306,55.96779,60.0,100.0
+KHL,Sibir Novosibirsk,Yegor Alanov,D,22,180,85,Rotenburg (Wümme),Russia,None,L,None,None,None,None,None,29,2,8,10,8,-2,None,None,None,None,60.0,100.0
+KHL,Sibir Novosibirsk,Denis Alexandrov,D,28,183,87,Zarechye,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,8,0,1,1,2,4,None,None,53.35844,38.549,60.0,100.0
+KHL,Sibir Novosibirsk,Fyodor Gordeyev,D,24,197,102,Toronto,Russia,None,L,2017,5,141,Toronto Maple Leafs,None,29,2,4,6,33,-8,None,None,None,None,60.0,100.0
+KHL,Sibir Novosibirsk,Dinar Khamidullin,D,29,180,85,Kazan,Russia,Ak Bars Kazan,R,None,None,None,None,None,17,1,2,3,6,-4,None,None,55.78874,49.12214,60.0,100.0
+KHL,Sibir Novosibirsk,Alexander Lukin,D,19,190,93,Moskva,Russia,Vityaz Podolsk,L,None,None,None,None,None,5,0,0,0,0,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,Sibir Novosibirsk,Ilya Morozov,D,24,190,98,Novosibirsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,29,3,0,3,15,-3,None,None,55.0415,82.9346,60.0,100.0
+KHL,Sibir Novosibirsk,Trevor Murphy,D,28,179,82,Windsor,Canada,Sun County MHA,L,None,None,None,None,None,4,1,1,2,6,1,None,None,42.30008,-83.01654,60.10867,-113.64258
+KHL,Sibir Novosibirsk,Alexei Varennik,D,21,182,82,Novosibirsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,4,0,0,0,2,0,None,None,55.0415,82.9346,60.0,100.0
+KHL,Sibir Novosibirsk,Nikita Yefremov,D,22,187,86,Zarinsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,29,1,2,3,14,-4,None,None,53.7074,84.9493,60.0,100.0
+KHL,Sibir Novosibirsk,Artyom Zhukov,D,21,188,85,St. Petersburg,Russia,SDYUSHOR-1 St. Petersburg,R,None,None,None,None,None,25,1,4,5,10,-5,None,None,59.93863,30.31413,60.0,100.0
+KHL,Sibir Novosibirsk,Andy Andreoff,F,32,185,94,Pickering,Canada,None,L,2011,3,80,Los Angeles Kings,None,29,6,2,8,20,-7,None,None,43.90012,-79.13289,60.10867,-113.64258
+KHL,Sibir Novosibirsk,Taylor Beck,F,32,186,98,St. Catharines,Canada,None,R,2009,3,70,Nashville Predators,None,27,7,17,24,26,1,None,None,43.17126,-79.24267,60.10867,-113.64258
+KHL,Sibir Novosibirsk,Georgi Belousov,F,32,175,86,Korkino,Russia,Traktor Chelyabinsk,R,None,None,None,None,None,21,3,2,5,4,3,None,None,54.8913,61.3969,60.0,100.0
+KHL,Sibir Novosibirsk,Vladimir Butuzov,F,29,187,89,Prokopyevsk,Russia,Shakhter Prokopievsk,R,None,None,None,None,None,29,8,12,20,8,1,None,None,53.9059,86.719,60.0,100.0
+KHL,Sibir Novosibirsk,Sergei Dubakin,F,23,186,87,Novosibirsk,Russia,None,L,None,None,None,None,None,16,1,4,5,0,0,None,None,55.0415,82.9346,60.0,100.0
+KHL,Sibir Novosibirsk,Pavel Gogolev,F,23,185,90,Moskva,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,17,2,1,3,8,-1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Sibir Novosibirsk,Ivan Klimovich,F,20,188,79,Novosibirsk,Russia,HK Belgorod,L,None,None,None,None,None,28,4,1,5,8,-3,None,None,55.0415,82.9346,60.0,100.0
+KHL,Sibir Novosibirsk,Yegor Klimovich,F,18,176,72,Novosibirsk,Russia,HK Belgorod,L,None,None,None,None,None,22,1,2,3,10,-1,None,None,55.0415,82.9346,60.0,100.0
+KHL,Sibir Novosibirsk,Nikita Korotkov,F,27,184,89,Ust-Kamenogorsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,4,0,0,0,4,-2,None,None,None,None,60.0,100.0
+KHL,Sibir Novosibirsk,Artyom Mikheyev,F,28,189,79,Kazan,Russia,Ak Bars Kazan,L,None,None,None,None,None,29,2,3,5,8,-9,None,None,55.78874,49.12214,60.0,100.0
+KHL,Sibir Novosibirsk,Mikhail Nazarov,F,27,185,92,Novosibirsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,12,0,0,0,4,-7,None,None,55.0415,82.9346,60.0,100.0
+KHL,Sibir Novosibirsk,Nikolai Prokhorkin,F,30,190,91,Chelyabinsk,Russia,Mechel Chelyabinsk,L,2012,4,121,Los Angeles Kings,None,26,6,11,17,39,3,None,None,55.15402,61.42915,60.0,100.0
+KHL,Sibir Novosibirsk,Nikita Shashkov,F,24,181,91,Novokuznetsk,Russia,Metallurg Novokuznetsk,L,None,None,None,None,None,28,3,1,4,10,-7,None,None,53.7557,87.1099,60.0,100.0
+KHL,Sibir Novosibirsk,Yegor Spiridonov,F,22,188,85,Magnitogorsk,Russia,Metallurg Magnitogorsk,R,2019,4,108,San Jose Sharks,None,13,1,0,1,2,-1,None,None,53.41861,59.04722,60.0,100.0
+KHL,Sibir Novosibirsk,Maxim Sushko,F,24,184,92,Brest,Belarus,SDYUSHOR Brest,L,2017,4,107,Philadelphia Flyers,None,23,1,1,2,15,-1,None,None,52.09755,23.68775,53.0,28.0
+KHL,Sibir Novosibirsk,Alexei Yakovlev,F,28,184,84,Novosibirsk,Russia,Sibir Novosibirsk,L,None,None,None,None,None,29,3,1,4,6,-6,None,None,55.0415,82.9346,60.0,100.0
+KHL,SKA St. Petersburg,Johan Mattsson,G,31,193,88,Huddinge,Sweden,Huddinge IK,L,2011,7,211,Chicago Blackhawks,None,5,None,None,None,None,None,2.63,0.923,59.21428,18.01584,62.0,15.0
+KHL,SKA St. Petersburg,Pavel Moysevich,G,19,196,80,Minsk,Belarus,SDYUSHOR Minsk,L,None,None,None,None,None,4,None,None,None,None,None,0.0,1.0,53.9,27.56667,53.0,28.0
+KHL,SKA St. Petersburg,Kirill Obyskalov,G,21,181,68,Angarsk,Russia,Yermak Angarsk,L,None,None,None,None,None,0,None,None,None,None,None,None,None,52.53667,103.88639,60.0,100.0
+KHL,SKA St. Petersburg,Artemi Pleshkov,G,21,179,73,Moskva,Russia,Rus Moskva,L,None,None,None,None,None,9,None,None,None,None,None,1.97,0.926,55.75222,37.61556,60.0,100.0
+KHL,SKA St. Petersburg,Nikita Serebryakov,G,28,182,81,Moskva,Russia,Dynamo Moskva,L,None,None,None,None,None,12,None,None,None,None,None,3.03,0.908,55.75222,37.61556,60.0,100.0
+KHL,SKA St. Petersburg,Stepan Falkovsky,D,26,205,100,Minsk,Belarus,Yunost Minsk,L,2016,7,186,Calgary Flames,None,8,1,0,1,0,1,None,None,53.9,27.56667,53.0,28.0
+KHL,SKA St. Petersburg,Maxim Fedotov,D,21,178,77,Saratov,Russia,Kristall Saratov,R,None,None,None,None,None,24,1,2,3,16,-2,None,None,51.54056,46.00861,60.0,100.0
+KHL,SKA St. Petersburg,Nikita Kamalov,D,28,184,90,Novokuznetsk,Russia,Metallurg Novokuznetsk,L,None,None,None,None,None,18,1,1,2,10,2,None,None,53.7557,87.1099,60.0,100.0
+KHL,SKA St. Petersburg,Arseni Koromyslov,D,20,187,75,Moskva,Russia,Belye Medvedi Moskva,L,2022,4,120,St. Louis Blues,None,1,0,0,0,0,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,SKA St. Petersburg,Alexander Nikishin,D,22,193,98,Orel,Russia,None,L,2020,3,69,Carolina Hurricanes,None,28,7,16,23,16,3,None,None,52.95932,36.07805,60.0,100.0
+KHL,SKA St. Petersburg,Mikhail Pashnin,D,34,186,87,Chelyabinsk,Russia,Mechel Chelyabinsk,L,2009,7,200,New York Rangers,None,19,2,5,7,12,11,None,None,55.15402,61.42915,60.0,100.0
+KHL,SKA St. Petersburg,Andrei Pedan,D,30,196,106,Kaunas,Russia,Krylia Sovetov Moskva,L,2011,3,63,New York Islanders,None,5,0,0,0,2,-1,None,None,None,None,60.0,100.0
+KHL,SKA St. Petersburg,Sergei Sapego,D,24,188,85,Vitebsk,Belarus,HK Vitebsk,L,None,None,None,None,None,26,1,3,4,16,-4,None,None,55.1904,30.2049,53.0,28.0
+KHL,SKA St. Petersburg,Artyom Sergeyev,D,30,186,94,Moskva,Russia,Serebryanye Akuly Moskva,R,None,None,None,None,None,28,1,4,5,10,4,None,None,55.75222,37.61556,60.0,100.0
+KHL,SKA St. Petersburg,Ivan Vydrenkov,D,19,193,82,Balashikha,Russia,Olimpiyets Balashikha,L,None,None,None,None,None,7,0,0,0,0,-1,None,None,55.79479,37.94794,60.0,100.0
+KHL,SKA St. Petersburg,Artyom Zemchyonok,D,32,182,86,Moskva,Russia,Pingviny Moskva,R,None,None,None,None,None,16,1,1,2,4,7,None,None,55.75222,37.61556,60.0,100.0
+KHL,SKA St. Petersburg,Vladimir Alistrov,F,22,190,86,Mogilev,Belarus,OCOR Mogilev,L,None,None,None,None,None,27,8,12,20,14,11,None,None,53.9168,30.3449,53.0,28.0
+KHL,SKA St. Petersburg,Zakhar Bardakov,F,22,189,90,Seversk,Russia,Kristall Berdsk,L,2021,7,203,New Jersey Devils,None,20,2,1,3,54,-5,None,None,56.60056,84.88639,60.0,100.0
+KHL,SKA St. Petersburg,Andrei Chivilyov,F,23,186,87,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,6,1,1,2,0,2,None,None,55.63657,51.82447,60.0,100.0
+KHL,SKA St. Petersburg,Pavel Dedunov,F,33,184,93,Bolshoy Kamen,Russia,Amur Khabarovsk,L,None,None,None,None,None,15,0,0,0,4,-3,None,None,43.11283,132.354,60.0,100.0
+KHL,SKA St. Petersburg,Ivan Demidov,F,17,180,76,Sergiyev Posad,Russia,DYUSSH Dmitrov,L,None,None,None,None,None,4,0,0,0,0,0,None,None,56.31204,38.13869,60.0,100.0
+KHL,SKA St. Petersburg,Ilya Fedotov,F,20,183,80,Saratov,Russia,Kristall Saratov,R,2021,2,43,Arizona Coyotes,None,6,0,0,0,8,-2,None,None,51.54056,46.00861,60.0,100.0
+KHL,SKA St. Petersburg,Alexander Galchenyuk,F,29,185,88,Milwaukee,USA,Dynamo Moskva,L,2012,1,3,Montréal Canadiens,None,27,9,10,19,22,-2,None,None,43.0389,-87.90647,-14.60485,-57.65625
+KHL,SKA St. Petersburg,Emil Galimov,F,31,187,84,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,2013,7,207,San Jose Sharks,None,8,1,1,2,2,0,None,None,55.63657,51.82447,60.0,100.0
+KHL,SKA St. Petersburg,Vasili Glotov,F,26,179,84,Barnaul,Russia,Motor Barnaul,L,2016,7,190,Buffalo Sabres,None,22,5,3,8,0,8,None,None,53.36056,83.76361,60.0,100.0
+KHL,SKA St. Petersburg,Svyatoslav Grebenshchikov,F,29,183,88,St. Petersburg,Russia,SKA St. Petersburg,L,None,None,None,None,None,9,1,0,1,7,0,None,None,59.93863,30.31413,60.0,100.0
+KHL,SKA St. Petersburg,Arseni Gritsyuk,F,22,181,87,Krasnoyarsk,Russia,Sokol Krasnoyarsk,L,2019,5,129,New Jersey Devils,None,20,8,4,12,2,-1,None,None,56.01839,92.86717,60.0,100.0
+KHL,SKA St. Petersburg,Alexander Kadeykin,F,30,195,103,Elektrostal,Russia,Kristall Elektrostal,L,2014,7,201,Detroit Red Wings,None,25,2,9,11,10,-3,None,None,55.78647,38.45713,60.0,100.0
+KHL,SKA St. Petersburg,Marat Khairullin,F,27,183,82,Volzhsk,Russia,Ariada Volzhsk,L,None,None,None,None,None,15,2,4,6,4,0,None,None,55.86638,48.3594,60.0,100.0
+KHL,SKA St. Petersburg,Brendan Leipsic,F,29,176,79,Winnipeg,Canada,Fort Garry MHA,L,2012,3,89,Nashville Predators,None,11,1,2,3,4,-1,None,None,49.8844,-97.14704,60.10867,-113.64258
+KHL,SKA St. Petersburg,Nikolai Polyakov,F,23,182,82,St. Petersburg,Russia,Serebryanye Lvy St. Petersburg,L,None,None,None,None,None,19,1,5,6,6,0,None,None,59.93863,30.31413,60.0,100.0
+KHL,SKA St. Petersburg,Borna Rendulic,F,31,188,90,Zagreb,Croatia,Medvescak Zagreb,R,None,None,None,None,None,12,4,6,10,4,4,None,None,45.81444,15.97798,45.16667,15.5
+KHL,SKA St. Petersburg,Artyom Shvets-Rogovoy,F,28,187,84,Saratov,Russia,Kristall Saratov,L,None,None,None,None,None,None,None,None,None,None,None,None,None,51.54056,46.00861,60.0,100.0
+KHL,SKA St. Petersburg,Semyon Sinyatkin,F,19,180,80,Khabarovsk,Russia,Amur Khabarovsk,L,None,None,None,None,None,12,1,1,2,0,3,None,None,48.48271,135.08379,60.0,100.0
+KHL,SKA St. Petersburg,Stepan Starkov,F,24,186,86,Shchebekino,Russia,HK Belgorod,L,None,None,None,None,None,14,2,1,3,10,-1,None,None,None,None,60.0,100.0
+KHL,SKA St. Petersburg,Sergei Tolchinsky,F,28,173,73,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,28,7,14,21,12,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,SKA St. Petersburg,Mikhail Vorobyov,F,26,190,93,Ufa,Russia,Salavat Yulaev Ufa,L,2015,4,104,Philadelphia Flyers,None,22,6,11,17,14,9,None,None,54.74306,55.96779,60.0,100.0
+KHL,SKA St. Petersburg,Ivan Zinchenko,F,21,187,95,Rostov-na-Donu,Russia,Zubr Rostov-na-Donu,L,None,None,None,None,None,11,1,0,1,7,-3,None,None,47.23135,39.72328,60.0,100.0
+KHL,SKA St. Petersburg,Valentin Zykov,F,28,185,102,St. Petersburg,Russia,None,R,2013,2,37,Los Angeles Kings,None,15,3,4,7,6,2,None,None,59.93863,30.31413,60.0,100.0
+KHL,Spartak Moskva,Andrei Kareyev,G,28,184,75,Novokuznetsk,Russia,Spartak Moskva,L,None,None,None,None,None,8,None,None,None,None,None,2.97,0.891,53.7557,87.1099,60.0,100.0
+KHL,Spartak Moskva,Dmitri Kulikov,G,22,187,80,Stanko,Russia,Atlant Mytishchi,R,None,None,None,None,None,0,None,None,None,None,None,None,None,57.45484,41.93126,60.0,100.0
+KHL,Spartak Moskva,Patrik Rybár,G,30,190,85,Skalica,Slovakia,HK 36 Skalica,L,None,None,None,None,None,22,None,None,None,None,None,2.25,0.924,48.75,17.16667,48.66667,19.5
+KHL,Spartak Moskva,Andrei Skovronsky,G,25,190,82,Moskva,Russia,Spartak Moskva,L,None,None,None,None,None,3,None,None,None,None,None,3.99,0.886,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Michal Cajkovsky,D,31,192,106,Bratislava,Slovakia,HC Slovan Bratislava,L,None,None,None,None,None,29,6,12,18,16,7,None,None,48.14816,17.10674,48.66667,19.5
+KHL,Spartak Moskva,Daniil O. Ivanov,D,20,195,95,Moskva,Russia,Yastreby Moskva,L,None,None,None,None,None,4,0,0,0,2,-1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Joey Keane,D,24,183,84,Chicago,USA,None,R,2018,3,88,New York Rangers,None,17,2,3,5,6,-3,None,None,41.85003,-87.65005,-14.60485,-57.65625
+KHL,Spartak Moskva,Daniil Orlov,D,19,187,83,Elektrostal,Russia,Kristall Elektrostal,L,2022,4,110,New Jersey Devils,None,24,1,1,2,8,2,None,None,55.78647,38.45713,60.0,100.0
+KHL,Spartak Moskva,Semyon Ruchkin,D,27,183,86,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,23,0,2,2,4,1,None,None,54.99244,73.36859,60.0,100.0
+KHL,Spartak Moskva,Roman Rukavishnikov,D,31,189,105,Moskva,Russia,Rus Moskva,L,None,None,None,None,None,27,1,1,2,4,3,None,None,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Yegor Savikov,D,20,179,78,Novokuibyshevsk,Russia,CSK VVS Samara,L,None,None,None,None,None,27,2,9,11,4,15,None,None,53.0959,49.9462,60.0,100.0
+KHL,Spartak Moskva,Nikita Sokolov,D,25,194,89,Moskva,Russia,None,L,None,None,None,None,None,2,0,0,0,4,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Dmitri Vishnevsky,D,33,180,85,Bogatischevo,Russia,Rus Moskva,R,None,None,None,None,None,30,4,10,14,10,5,None,None,None,None,60.0,100.0
+KHL,Spartak Moskva,Yegor Zaitsev,D,25,183,85,Moskva,Russia,Krylia Sovetov Moskva,L,2017,7,205,New Jersey Devils,None,27,2,6,8,20,8,None,None,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Alexander Belyayev,F,24,181,85,Nizhnevartovsk,Russia,None,L,None,None,None,None,None,16,3,2,5,4,3,None,None,60.9344,76.5531,60.0,100.0
+KHL,Spartak Moskva,Alexander Burmistrov,F,32,185,85,Kazan,Russia,Ak Bars Kazan,L,2010,1,8,Atlanta Thrashers,None,21,0,6,6,6,1,None,None,55.78874,49.12214,60.0,100.0
+KHL,Spartak Moskva,Yegor Chezganov,F,21,184,84,Zhlobin,Belarus,DYUSSH Zhlobin,R,None,None,None,None,None,3,0,0,0,0,-2,None,None,52.8926,30.024,53.0,28.0
+KHL,Spartak Moskva,Yegor Filin,F,24,174,71,Penza,Russia,Dizel Penza,L,None,None,None,None,None,19,1,6,7,2,3,None,None,53.20066,45.00464,60.0,100.0
+KHL,Spartak Moskva,Ansel Galimov,F,32,186,84,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,30,6,5,11,8,5,None,None,55.63657,51.82447,60.0,100.0
+KHL,Spartak Moskva,Nikolay Goldobin,F,28,183,80,Moskva,Russia,Belye Medvedi Moskva,L,2014,1,27,San Jose Sharks,None,30,21,24,45,12,6,None,None,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Kirill Kozhevnikov,F,24,187,93,Nizhnevartovsk,Russia,SDYUSHOR Nizhnevartovsk,L,None,None,None,None,None,3,0,0,0,0,-2,None,None,60.9344,76.5531,60.0,100.0
+KHL,Spartak Moskva,Maxim Krovyakov,F,21,192,88,Solnechnogorsk,Russia,Orbita Zelenograd,R,None,None,None,None,None,8,0,1,1,4,-1,None,None,56.18333,36.98333,60.0,100.0
+KHL,Spartak Moskva,Andrei Loktionov,F,33,178,89,Voskresensk,Russia,Khimik Voskresensk,L,2008,5,123,Los Angeles Kings,None,30,5,18,23,8,7,None,None,55.29092,38.67556,60.0,100.0
+KHL,Spartak Moskva,Ivan Morozov,F,23,186,89,Verkhnyaya Salda,Russia,Gazovik Tyumen,R,2018,2,61,Vegas Golden Knights,925000,28,8,21,29,27,9,None,None,58.04874,60.55949,60.0,100.0
+KHL,Spartak Moskva,Alexander Pashin,F,21,173,70,Priyutovo,Russia,Salavat Yulaev Ufa,L,2020,7,199,Carolina Hurricanes,826667,29,5,3,8,4,1,None,None,53.9,53.93333,60.0,100.0
+KHL,Spartak Moskva,Pavel Poryadin,F,27,174,81,Moskva,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,30,14,17,31,18,9,None,None,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Shane Prince,F,30,180,88,Rochester,Belarus,None,L,2011,2,61,Ottawa Senators,None,29,10,7,17,10,3,None,None,None,None,53.0,28.0
+KHL,Spartak Moskva,German Rubtsov,F,25,184,85,Chekhov,Russia,Vityaz Podolsk,L,2016,1,22,Philadelphia Flyers,None,19,3,2,5,2,-1,None,None,47.44984,141.99064,60.0,100.0
+KHL,Spartak Moskva,Nikita Susuyev,F,18,183,78,Moskva,Russia,Yantar Moskva,L,2023,7,202,St. Louis Blues,None,21,0,2,2,2,3,None,None,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Ilya Talaluyev,F,25,176,80,Voskresensk,Russia,Khimik Voskresensk,R,None,None,None,None,None,17,3,4,7,4,4,None,None,55.29092,38.67556,60.0,100.0
+KHL,Spartak Moskva,German Tochilkin,F,20,190,81,Orsk,Russia,Yuzhny Ural Orsk,L,None,None,None,None,None,1,0,0,0,0,0,None,None,51.20487,58.56685,60.0,100.0
+KHL,Spartak Moskva,Maxim Tsyplakov,F,25,190,86,Moskva,Russia,Tsentr Moskva,L,None,None,None,None,None,28,9,8,17,10,-1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Spartak Moskva,Daniel Usmanov,F,21,180,73,Mytishchi,Russia,Atlant Mytishchi,R,None,None,None,None,None,1,1,0,1,0,1,None,None,55.91099,37.72964,60.0,100.0
+KHL,Spartak Moskva,Matvei Zaseda,F,24,179,82,Khabarovsk,Russia,Amur Khabarovsk,R,None,None,None,None,None,12,2,5,7,4,-1,None,None,48.48271,135.08379,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Adam Húska,G,26,192,80,Zvolen,Slovakia,HKM Zvolen,L,2015,7,184,New York Rangers,None,18,None,None,None,None,None,1.74,0.935,48.57442,19.15324,48.66667,19.5
+KHL,Torpedo Nizhny Novgorod,Ivan Kulbakov,G,27,183,87,Gomel,Belarus,SDYUSHOR-5 Gomel,L,None,None,None,None,None,14,None,None,None,None,None,2.76,0.902,52.4345,30.9754,53.0,28.0
+KHL,Torpedo Nizhny Novgorod,Alexei Melnichuk,G,25,186,91,St. Petersburg,Russia,SKA St. Petersburg,L,None,None,None,None,None,0,None,None,None,None,None,None,None,59.93863,30.31413,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Daniil Bokun,D,27,187,97,Minsk,Belarus,SDYUSHOR Minsk,L,None,None,None,None,None,29,3,3,6,22,5,None,None,53.9,27.56667,53.0,28.0
+KHL,Torpedo Nizhny Novgorod,Kirill Kirsanov,D,21,185,90,Tver,Russia,Tverskiye Tigry Tver,L,2021,3,84,Los Angeles Kings,None,7,0,0,0,0,-4,None,None,56.85836,35.90057,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Bogdan Konyushkov,D,20,181,80,Penza,Russia,Dizel Penza,R,2023,4,110,Montréal Canadiens,None,29,1,13,14,6,-4,None,None,53.20066,45.00464,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Mark Marin,D,27,193,100,Togliatti,Russia,Lada Togliatti,L,None,None,None,None,None,15,0,2,2,6,2,None,None,53.5303,49.3461,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Mikhail Orlov,D,31,189,90,Moskva,Russia,Orbita Zelenograd,L,None,None,None,None,None,29,3,2,5,18,2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Anton Silayev,D,17,200,94,Sarov,Russia,HK Sarov,L,None,None,None,None,None,28,2,7,9,4,-3,None,None,54.93583,43.32352,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Anton Sizov,D,28,177,81,Mozhaisk,Russia,None,L,None,None,None,None,None,29,2,6,8,22,8,None,None,55.50194,36.02722,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Kirill Steklov,D,21,193,86,Tallinn,Russia,HC Vipers,L,None,None,None,None,None,16,0,1,1,2,7,None,None,None,None,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Arseni Varlakov,D,20,176,69,Miass,Russia,Sputnik Miass,L,None,None,None,None,None,1,0,0,0,0,-1,None,None,55.045,60.10833,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Nikita Artamonov,F,17,180,85,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,None,None,None,None,None,25,4,9,13,6,-1,None,None,55.63657,51.82447,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Vasili Atanasov,F,21,180,71,Nizhny Tagil,Russia,Sputnik Nizhny Tagil,L,None,None,None,None,None,28,13,13,26,4,4,None,None,57.91944,59.965,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Andrei Belevich,F,26,185,89,Grodno,Belarus,None,L,None,None,None,None,None,29,3,2,5,17,-6,None,None,53.6884,23.8258,53.0,28.0
+KHL,Torpedo Nizhny Novgorod,Vladislav Firstov,F,22,185,82,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,2019,2,42,Minnesota Wild,925000,29,9,10,19,40,7,None,None,57.62987,39.87368,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Sergei Goncharuk,F,24,177,71,Togliatti,Russia,Lada Togliatti,L,None,None,None,None,None,7,1,3,4,0,-1,None,None,53.5303,49.3461,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Nikolai Kovalenko,F,24,179,87,Raleigh,Russia,CSKA Moskva,L,2018,6,171,Colorado Avalanche,896250,13,7,11,18,14,7,None,None,34.03612,-118.44286,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Alexei Kruchinin,F,32,180,79,Kostomuksha,Russia,None,R,None,None,None,None,None,21,6,4,10,8,-2,None,None,64.571,30.57667,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Igor Larionov,F,25,183,77,Detroit,Russia,None,L,None,None,None,None,None,21,4,5,9,6,-5,None,None,45.75,142.0,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Maxim Letunov,F,27,193,82,Moskva,Russia,CSKA Moskva,L,2014,2,52,St. Louis Blues,None,29,14,15,29,22,16,None,None,55.75222,37.61556,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Bobby Lynch,F,25,189,78,Grand Blanc,USA,None,R,None,None,None,None,None,18,2,7,9,16,-5,None,None,42.92753,-83.62995,-14.60485,-57.65625
+KHL,Torpedo Nizhny Novgorod,Kirill Maximov,F,24,190,87,Moskva,Russia,CSKA Moskva,R,2017,5,146,Edmonton Oilers,None,7,0,3,3,8,0,None,None,55.75222,37.61556,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Yu Sato,F,21,177,77,Saitama,Japan,Saitama Jr. Warriors,L,None,None,None,None,None,5,0,0,0,0,-2,None,None,35.90807,139.65657,35.68536,139.75309
+KHL,Torpedo Nizhny Novgorod,Danil Savunov,F,22,178,67,Sarov,Russia,HK Sarov,L,2019,6,174,Arizona Coyotes,None,9,0,0,0,0,-1,None,None,54.93583,43.32352,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Nikita Shavin,F,21,183,78,Knyaginino,Russia,Torpedo Nizhny Novgorod,L,None,None,None,None,None,15,0,1,1,4,-1,None,None,55.82278,45.03489,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Kirill Svishchyov,F,18,188,84,Nizhnevartovsk,Russia,Filin Nizhnevartovsk,L,None,None,None,None,None,2,0,0,0,0,0,None,None,60.9344,76.5531,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Kirill Urakov,F,25,185,90,Izhevsk,Russia,Izhstal Izhevsk,L,None,None,None,None,None,14,1,3,4,0,-1,None,None,56.84976,53.20448,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Danil Veryayev,F,25,178,86,Nizhny Novgorod,Russia,Torpedo Nizhny Novgorod,L,None,None,None,None,None,27,0,3,3,6,-1,None,None,56.32867,44.00205,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Yegor Vinogradov,F,20,189,82,Nizhny Novgorod,Russia,Torpedo Nizhny Novgorod,L,None,None,None,None,None,8,1,2,3,4,1,None,None,56.32867,44.00205,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Kirill Voronin,F,29,177,77,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,29,6,5,11,10,3,None,None,57.62987,39.87368,60.0,100.0
+KHL,Torpedo Nizhny Novgorod,Denis Yan,F,26,187,85,Portland,Russia,CSKA Moskva,L,2015,3,64,Tampa Bay Lightning,None,23,5,2,7,8,2,None,None,45.24441,-122.58284,60.0,100.0
+KHL,Traktor Chelyabinsk,Zachary Fucale,G,28,188,85,Laval,Canada,AHM Rosemère,L,2013,2,36,Montréal Canadiens,None,21,None,None,None,None,None,2.34,0.919,45.56995,-73.692,60.10867,-113.64258
+KHL,Traktor Chelyabinsk,Sergei Mylnikov,G,24,182,72,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,7,None,None,None,None,None,1.79,0.935,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Timur Narudinov,G,20,185,87,Chelyabinsk,Russia,Traktor Chelyabinsk,R,None,None,None,None,None,None,None,None,None,None,None,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Nikita Podskrebalin,G,25,196,90,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,3,None,None,None,None,None,1.34,0.953,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Viktor Antipin,D,30,179,78,Ust-Kamenogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,29,3,9,12,10,-2,None,None,None,None,60.0,100.0
+KHL,Traktor Chelyabinsk,Artyom Blazhiyevsky,D,29,186,93,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,28,2,6,8,10,4,None,None,55.75222,37.61556,60.0,100.0
+KHL,Traktor Chelyabinsk,Madison Bowey,D,28,188,92,Winnipeg,Canada,Assiniboine Park MHA,R,2013,2,53,Washington Capitals,None,12,1,3,4,12,4,None,None,49.8844,-97.14704,60.10867,-113.64258
+KHL,Traktor Chelyabinsk,Ilya Karpukhin,D,25,185,87,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,28,1,9,10,16,12,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Ilya Nikolayev,D,22,184,73,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,3,0,1,1,2,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Artyom Shchuchinov,D,18,180,70,Nizhny Tagil,Russia,Sputnik Nizhny Tagil,L,None,None,None,None,None,22,0,2,2,0,-1,None,None,57.91944,59.965,60.0,100.0
+KHL,Traktor Chelyabinsk,Alexander Shepelev,D,25,186,82,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,15,0,1,1,4,6,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Sergei Telegin,D,23,181,78,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,29,1,6,7,9,-3,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Albert Yarullin,D,30,182,94,Kazan,Russia,Ak Bars Kazan,R,None,None,None,None,None,27,1,4,5,14,1,None,None,55.78874,49.12214,60.0,100.0
+KHL,Traktor Chelyabinsk,Anton Burdasov,F,32,188,97,Chelyabinsk,Russia,Mechel Chelyabinsk,L,None,None,None,None,None,23,8,5,13,12,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Andrei Chibisov,F,30,192,103,Prokopyevsk,Russia,Shakhter Prokopievsk,L,None,None,None,None,None,None,None,None,None,None,None,None,None,53.9059,86.719,60.0,100.0
+KHL,Traktor Chelyabinsk,Semyon Der-Arguchintsev,F,23,178,78,Moskva,Russia,Krylia Sovetov Moskva,R,2018,3,76,Toronto Maple Leafs,None,22,10,5,15,10,-1,None,None,55.75222,37.61556,60.0,100.0
+KHL,Traktor Chelyabinsk,Mikhail Goryunov-Rolgizer,F,21,177,74,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,10,0,2,2,0,1,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Sergei Kalinin,F,32,190,91,Omsk,Russia,Avangard Omsk,L,None,None,None,None,None,28,2,8,10,26,2,None,None,54.99244,73.36859,60.0,100.0
+KHL,Traktor Chelyabinsk,Mikhail Kotlyarevsky,F,26,186,82,Chita,Russia,Severnaya Zvezda Moskva,R,None,None,None,None,None,25,1,2,3,4,-2,None,None,52.03171,113.50087,60.0,100.0
+KHL,Traktor Chelyabinsk,Vitali Kravtsov,F,23,191,88,Vladivostok,Russia,Belye Medvedi Chelyabinsk,L,2018,1,9,New York Rangers,None,17,6,9,15,4,7,None,None,43.10562,131.87353,60.0,100.0
+KHL,Traktor Chelyabinsk,Maxim Marushev,F,24,185,77,Saratov,Russia,Kristall Saratov,R,2020,7,215,Vegas Golden Knights,None,11,0,1,1,0,1,None,None,51.54056,46.00861,60.0,100.0
+KHL,Traktor Chelyabinsk,Yegor Popov,F,26,185,82,Tyumen,Russia,Gazovik Tyumen,R,None,None,None,None,None,18,2,5,7,6,-3,None,None,57.15222,65.52722,60.0,100.0
+KHL,Traktor Chelyabinsk,Charles Robinson,F,32,197,105,Bellmawr,USA,None,R,None,None,None,None,None,15,4,1,5,17,-1,None,None,39.86761,-75.09462,-14.60485,-57.65625
+KHL,Traktor Chelyabinsk,Alexander Rykov,F,18,183,80,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,2023,4,100,Carolina Hurricanes,None,13,2,0,2,2,2,None,None,53.41861,59.04722,60.0,100.0
+KHL,Traktor Chelyabinsk,Maxim Shabanov,F,23,173,71,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,29,12,9,21,0,4,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Alexander P. Sharov,F,28,184,80,Chelyabinsk,Russia,HSh S. Makarova Chelyabinsk,L,None,None,None,None,None,28,1,2,3,6,-4,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Artyom Shvaryov,F,22,181,80,Chelyabinsk,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,10,0,0,0,0,3,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Nikita Soshnikov,F,30,180,79,Nizhny Tagil,Russia,Sputnik Nizhny Tagil,L,None,None,None,None,None,29,5,7,12,14,4,None,None,57.91944,59.965,60.0,100.0
+KHL,Traktor Chelyabinsk,Nikita Tertyshny,F,25,173,68,Chelyabinsk,Russia,None,R,None,None,None,None,None,18,3,2,5,2,2,None,None,55.15402,61.42915,60.0,100.0
+KHL,Traktor Chelyabinsk,Vladimir Tkachyov,F,30,183,94,Dnipro,Russia,Sokil Kyiv,L,None,None,None,None,None,29,6,14,20,6,4,None,None,None,None,60.0,100.0
+KHL,Traktor Chelyabinsk,Artyom Udot,F,21,183,80,Chebarkul,Russia,Belye Medvedi Chelyabinsk,L,None,None,None,None,None,2,0,0,0,0,0,None,None,54.9749,60.3633,60.0,100.0
+KHL,Traktor Chelyabinsk,Danil Yurtaikin,F,26,181,81,Belovo,Russia,Lokomotiv Yaroslavl,R,None,None,None,None,None,11,2,3,5,6,-1,None,None,54.4165,86.2976,60.0,100.0
+KHL,Traktor Chelyabinsk,Vladimir Zharkov,F,35,185,93,Pavlovskiy Posad,Russia,Kristall Elektrostal,L,2006,3,77,New Jersey Devils,None,15,1,1,2,2,-4,None,None,55.78187,38.65025,60.0,100.0
+KHL,Vityaz Moscow Region,Maxim Dorozhko,G,25,190,95,Podolsk,Russia,Vityaz Podolsk,L,None,None,None,None,None,20,None,None,None,None,None,3.06,0.909,55.42419,37.55472,60.0,100.0
+KHL,Vityaz Moscow Region,Yaroslav Malkov,G,17,183,63,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,0,None,None,None,None,None,None,None,57.62987,39.87368,60.0,100.0
+KHL,Vityaz Moscow Region,Dmitri Shikin,G,32,184,93,Elektrostal,Russia,Kristall Elektrostal,L,None,None,None,None,None,15,None,None,None,None,None,3.67,0.895,55.78647,38.45713,60.0,100.0
+KHL,Vityaz Moscow Region,Kirill Ustimenko,G,24,191,85,Gomel,Russia,DYUSSH-5 Gomel,L,2017,3,80,Philadelphia Flyers,None,None,None,None,None,None,None,None,None,47.26351,142.9535,60.0,100.0
+KHL,Vityaz Moscow Region,Yaroslav Busygin,D,20,190,85,Korkino,Russia,Traktor Chelyabinsk,L,None,None,None,None,None,22,0,2,2,12,-5,None,None,54.8913,61.3969,60.0,100.0
+KHL,Vityaz Moscow Region,Igor Golovkov,D,33,192,95,Moskva,Russia,CSKA Moskva,L,None,None,None,None,None,25,0,0,0,20,-7,None,None,55.75222,37.61556,60.0,100.0
+KHL,Vityaz Moscow Region,Ruslan Pedan,D,28,184,88,Kaunas,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,29,4,5,9,30,-15,None,None,None,None,60.0,100.0
+KHL,Vityaz Moscow Region,Jérémy Roy,D,26,182,88,Richelieu,Canada,AHM Richelieu-Bonsecours,R,2015,2,31,San Jose Sharks,None,29,2,11,13,6,-15,None,None,45.30713,-73.26259,60.10867,-113.64258
+KHL,Vityaz Moscow Region,David Shvangiradze,D,19,194,93,Penza,Russia,Dizel Penza,L,None,None,None,None,None,2,0,0,0,0,0,None,None,53.20066,45.00464,60.0,100.0
+KHL,Vityaz Moscow Region,Nikolai Timashov,D,29,181,86,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,16,1,0,1,2,-9,None,None,53.41861,59.04722,60.0,100.0
+KHL,Vityaz Moscow Region,Vladislav Valentsov,D,27,188,92,Tyumen,Russia,Gazovik Tyumen,L,None,None,None,None,None,29,1,5,6,6,-5,None,None,57.15222,65.52722,60.0,100.0
+KHL,Vityaz Moscow Region,Kirill Vasilyev,D,20,177,74,Podolsk,Russia,Vityaz Podolsk,L,None,None,None,None,None,4,0,1,1,2,1,None,None,55.42419,37.55472,60.0,100.0
+KHL,Vityaz Moscow Region,Yegor Voronkov,D,26,183,80,Podolsk,Russia,Vityaz Podolsk,L,None,None,None,None,None,29,1,3,4,10,-5,None,None,55.42419,37.55472,60.0,100.0
+KHL,Vityaz Moscow Region,Filat Zotov,D,21,183,84,Samara,Russia,CSK VVS Samara,L,None,None,None,None,None,15,1,0,1,4,-6,None,None,53.20007,50.15,60.0,100.0
+KHL,Vityaz Moscow Region,Nikita Almazov,F,19,193,75,Kaluga,Russia,Kosmos Kaluga,L,None,None,None,None,None,17,1,0,1,2,-2,None,None,54.5293,36.27542,60.0,100.0
+KHL,Vityaz Moscow Region,Ilya Anufriyev,F,20,194,90,Podolsk,Russia,Vityaz Podolsk,R,None,None,None,None,None,6,0,0,0,2,-1,None,None,55.42419,37.55472,60.0,100.0
+KHL,Vityaz Moscow Region,Ilya Arkalov,F,30,187,91,Moskva,Russia,Spartak Moskva,L,None,None,None,None,None,17,2,1,3,8,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Vityaz Moscow Region,Derek Barach,F,28,173,75,Glenmont,USA,None,R,None,None,None,None,None,29,5,11,16,19,-11,None,None,39.05789,-77.0497,-14.60485,-57.65625
+KHL,Vityaz Moscow Region,Alexander Daryin,F,23,181,72,Yaroslavl,Russia,Lokomotiv Yaroslavl,R,2019,4,107,Arizona Coyotes,None,7,2,2,4,0,0,None,None,57.62987,39.87368,60.0,100.0
+KHL,Vityaz Moscow Region,Ivan Detkov,F,19,178,81,Podolsk,Russia,Vityaz Podolsk,L,None,None,None,None,None,3,0,0,0,0,-1,None,None,55.42419,37.55472,60.0,100.0
+KHL,Vityaz Moscow Region,Vladimir Galuzin,F,35,180,79,Nizhny Novgorod,Russia,Torpedo Nizhny Novgorod,L,None,None,None,None,None,15,4,3,7,6,-5,None,None,56.32867,44.00205,60.0,100.0
+KHL,Vityaz Moscow Region,Nikita Goncharov,F,24,180,94,Orel,Russia,HK Orel,R,None,None,None,None,None,12,0,1,1,2,-5,None,None,52.95932,36.07805,60.0,100.0
+KHL,Vityaz Moscow Region,Vladislav Kara,F,25,186,89,Salekhard,Russia,Yamal Salekhard,L,2017,4,124,Toronto Maple Leafs,None,28,2,6,8,6,-6,None,None,66.53,66.60194,60.0,100.0
+KHL,Vityaz Moscow Region,Ivan Kozlov,F,24,184,95,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,None,None,None,None,None,21,0,2,2,4,-5,None,None,57.62987,39.87368,60.0,100.0
+KHL,Vityaz Moscow Region,Alexander Mirzabalayev,F,21,181,80,Moskva,Russia,Belye Medvedi Moskva,L,None,None,None,None,None,9,0,0,0,0,-2,None,None,55.75222,37.61556,60.0,100.0
+KHL,Vityaz Moscow Region,Vitali Popov,F,31,186,85,Yekaterinburg,Russia,Metallurg Magnitogorsk,L,None,None,None,None,None,17,1,1,2,6,-4,None,None,56.8519,60.6122,60.0,100.0
+KHL,Vityaz Moscow Region,Igor Rudenkov,F,28,180,89,Nizhny Novgorod,Russia,Torpedo Nizhny Novgorod,L,None,None,None,None,None,12,1,1,2,2,-6,None,None,56.32867,44.00205,60.0,100.0
+KHL,Vityaz Moscow Region,Ivan Savchik,F,23,178,77,Chelyabinsk,Russia,HSh S. Makarova Chelyabinsk,L,None,None,None,None,None,29,4,5,9,14,-16,None,None,55.15402,61.42915,60.0,100.0
+KHL,Vityaz Moscow Region,Nikita Tochitsky,F,32,190,86,St. Petersburg,Russia,SKA St. Petersburg,L,None,None,None,None,None,3,0,0,0,0,-1,None,None,59.93863,30.31413,60.0,100.0
+KHL,Vityaz Moscow Region,Vladislav Tsitsyura,F,24,179,73,Rybinsk,Russia,Rus Moskva,L,None,None,None,None,None,13,3,3,6,4,-8,None,None,58.0446,38.84259,60.0,100.0
+KHL,Vityaz Moscow Region,Igor Ugolnikov,F,26,174,80,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,R,None,None,None,None,None,24,3,3,6,10,-11,None,None,55.63657,51.82447,60.0,100.0
+KHL,Vityaz Moscow Region,Ivan Vorobyov,F,21,181,71,Surgut,Russia,Neftyanik Surgut,R,2021,7,198,St. Louis Blues,None,5,0,0,0,0,-2,None,None,61.25,73.41667,60.0,100.0
+KHL,Vityaz Moscow Region,Scott Wilson,F,31,185,80,Oakville,Canada,None,L,2011,7,209,Pittsburgh Penguins,None,12,5,6,11,2,0,None,None,43.45011,-79.68292,60.10867,-113.64258
+KHL,Vityaz Moscow Region,Alexander Yaremchuk,F,24,180,87,Slavuta,Russia,Neftyanik Surgut,L,None,None,None,None,None,26,5,7,12,12,-3,None,None,46.96618,142.65453,60.0,100.0
+KHL,Vityaz Moscow Region,Stanislav Yarovoy,F,20,181,86,Tuymazy,Russia,HK Orel,R,2023,4,126,Carolina Hurricanes,None,24,4,5,9,2,-15,None,None,54.60666,53.7097,60.0,100.0
+KHL,Vityaz Moscow Region,Ivan Yezhov,F,23,190,87,Nizhnevartovsk,Russia,Filin Nizhnevartovsk,L,None,None,None,None,None,15,1,1,2,6,-8,None,None,60.9344,76.5531,60.0,100.0
+KHL,Vityaz Moscow Region,Yegor Zubov,F,22,179,82,Chelyabinsk,Russia,HSh S. Makarova Chelyabinsk,L,None,None,None,None,None,17,0,1,1,13,0,None,None,55.15402,61.42915,60.0,100.0

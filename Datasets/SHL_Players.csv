@@ -1,0 +1,353 @@
+Ligue,Equipe,Joueur,Position,Age,Taille,Poids,Ville de Naissance,Pays de Naissance,Club Formateur,Shoot,Année de Draft,Ronde de Draft,Position de Draft,Equipe de Draft,Salaire NHL,Match Joué,But,Assist,Point,Pénalités,Plus/Minus,GAA,SVP,Latitude Ville,Longitude Ville,Latitude Pays,Longitude Pays
+SHL,Frölunda HC,Frederik Dichow,G,22,195,87,Vojens,Denmark,Vojens IK,R,2019,5,138,Montréal Canadiens,None,6,None,None,None,None,None,3.08,0.89,55.24639,9.30603,56.0,10.0
+SHL,Frölunda HC,Lars Johansson,G,36,185,90,Avesta,Sweden,Avesta BK,L,None,None,None,None,None,15,None,None,None,None,None,2.25,0.916,60.21251,16.36234,62.0,15.0
+SHL,Frölunda HC,Christian Folin,D,32,191,96,Kungsbacka,Sweden,Hanhals IF,R,None,None,None,None,None,18,0,5,5,4,-4,None,None,57.45058,12.15061,62.0,15.0
+SHL,Frölunda HC,Filip Hasa,D,23,175,75,Uppsala,Sweden,Enköpings SK,L,None,None,None,None,None,18,0,6,6,6,-1,None,None,59.85882,17.63889,62.0,15.0
+SHL,Frölunda HC,Isac Heens,D,24,182,80,None,Sweden,Vansbro AIK,L,None,None,None,None,None,16,1,3,4,2,2,None,None,None,None,62.0,15.0
+SHL,Frölunda HC,Linus Högberg,D,25,185,80,Stockholm,Sweden,Älta IF,L,2016,5,139,Philadelphia Flyers,None,18,0,11,11,0,-7,None,None,59.32938,18.06871,62.0,15.0
+SHL,Frölunda HC,Max Lindroth,D,27,185,90,None,Sweden,Partille HK,L,None,None,None,None,None,17,1,2,3,12,2,None,None,None,None,62.0,15.0
+SHL,Frölunda HC,Tom Nilsson,D,30,184,83,Tyresö,Sweden,Hanvikens SK,R,2011,4,100,Toronto Maple Leafs,None,9,0,0,0,4,-2,None,None,59.24148,18.28074,62.0,15.0
+SHL,Frölunda HC,Henrik Tömmernes,D,33,186,84,Karlstad,Sweden,Färjestads BK,L,2011,7,210,Vancouver Canucks,None,18,3,7,10,6,-1,None,None,59.3793,13.50357,62.0,15.0
+SHL,Frölunda HC,Erik Borg,F,26,187,82,None,Sweden,Bäcken HC,L,None,None,None,None,None,18,3,3,6,2,-2,None,None,None,None,62.0,15.0
+SHL,Frölunda HC,Isac Born,F,19,183,80,Onsala,Sweden,HK Kings,L,None,None,None,None,None,14,1,4,5,0,3,None,None,57.42531,12.02903,62.0,15.0
+SHL,Frölunda HC,David Edstrom,F,18,190,86,Göteborg,Sweden,Hovås HC,L,2023,1,32,Vegas Golden Knights,950000,18,3,5,8,4,2,None,None,57.70716,11.96679,62.0,15.0
+SHL,Frölunda HC,Max Friberg,F,30,179,86,Skövde,Sweden,Skövde IK,R,2011,5,143,Anaheim Ducks,None,18,6,6,12,0,-5,None,None,58.39118,13.84506,62.0,15.0
+SHL,Frölunda HC,Noah Hasa,F,20,181,80,Uppsala,Sweden,Enköpings SK,L,None,None,None,None,None,18,0,0,0,2,-3,None,None,59.85882,17.63889,62.0,15.0
+SHL,Frölunda HC,Jere Innala,F,25,175,83,Hauho,Finland,Kiekko-Ahma,L,None,None,None,None,None,8,6,2,8,2,1,None,None,61.17255,24.56303,64.0,26.0
+SHL,Frölunda HC,Carl Klingberg,F,32,191,102,Göteborg,Sweden,Lerums BK,R,2009,2,34,Atlanta Thrashers,None,18,4,1,5,29,-2,None,None,57.70716,11.96679,62.0,15.0
+SHL,Frölunda HC,Nicklas Lasu,F,34,182,82,Mölndal,Sweden,IF Mölndal Hockey,L,2008,5,124,Atlanta Thrashers,None,18,5,2,7,6,-1,None,None,57.6554,12.01378,62.0,15.0
+SHL,Frölunda HC,Linus Nässén,F,23,181,81,Hönö,Sweden,Skärgårdens SK,L,None,None,None,None,None,18,0,8,8,4,1,None,None,57.68972,11.64972,62.0,15.0
+SHL,Frölunda HC,Mats Rosseli Olsen,F,32,180,79,Oslo,Norway,Furuset IF,L,None,None,None,None,None,None,None,None,None,None,None,None,None,59.91273,10.74609,62.0,10.0
+SHL,Frölunda HC,Gustav Rydahl,F,29,191,95,Karlstad,Sweden,Färjestads BK,L,None,None,None,None,None,17,2,3,5,25,-6,None,None,59.3793,13.50357,62.0,15.0
+SHL,Frölunda HC,Otto Stenberg,F,18,180,78,Stenungsund,Sweden,Stenungsunds HF,L,2023,1,25,St. Louis Blues,None,14,2,2,4,6,0,None,None,58.07046,11.8181,62.0,15.0
+SHL,Frölunda HC,Malte Strömwall,F,29,182,86,Luleå,Sweden,Linköpings HC,R,None,None,None,None,None,18,4,9,13,6,-3,None,None,65.58415,22.15465,62.0,15.0
+SHL,Frölunda HC,Erik Thorell,F,31,178,84,Karlstad,Sweden,Färjestads BK,L,None,None,None,None,None,13,1,3,4,4,-6,None,None,59.3793,13.50357,62.0,15.0
+SHL,Frölunda HC,Linus Öberg,F,23,182,93,Vänersborg,Sweden,Vänersborgs HC,R,2020,7,206,San Jose Sharks,None,18,6,3,9,2,-5,None,None,58.39828,12.27554,62.0,15.0
+SHL,Färjestad BK,Max Lagacé,G,30,188,86,Saint-Augustin-de-Desmaures,Canada,None,L,None,None,None,None,None,6,None,None,None,None,None,2.29,0.919,46.74064,-71.45131,60.10867,-113.64258
+SHL,Färjestad BK,Carl Lindbom,G,20,185,86,Stockholm,Sweden,Ekerö IK,L,2021,7,222,Vegas Golden Knights,840000,10,None,None,None,None,None,1.29,0.937,59.32938,18.06871,62.0,15.0
+SHL,Färjestad BK,Jonathan Andersson,D,30,178,86,Valdemarsvik,Sweden,Valdemarsviks IF,L,None,None,None,None,None,15,2,2,4,2,6,None,None,58.2031,16.60225,62.0,15.0
+SHL,Färjestad BK,Axel Bergkvist,D,23,176,91,Insjön,Sweden,Leksands IF,L,2019,7,200,Arizona Coyotes,None,7,1,1,2,0,0,None,None,64.75,16.33333,62.0,15.0
+SHL,Färjestad BK,Carl Dahlström,D,28,193,96,Stockholm,Sweden,Järfälla HC,L,2013,2,51,Chicago Blackhawks,None,16,0,5,5,2,12,None,None,59.32938,18.06871,62.0,15.0
+SHL,Färjestad BK,Jérémy Groleau,D,24,191,90,St-Nicolas,Canada,None,L,None,None,None,None,None,15,1,2,3,8,4,None,None,45.55288,-73.67278,60.10867,-113.64258
+SHL,Färjestad BK,Mattias Göransson,D,28,191,85,Grums,Sweden,Grums IK,L,None,None,None,None,None,15,1,2,3,0,0,None,None,59.40406,13.02192,62.0,15.0
+SHL,Färjestad BK,Magnus Nygren,D,33,185,87,Karlstad,Sweden,Färjestads BK,R,2011,4,113,Montréal Canadiens,None,16,3,5,8,4,-2,None,None,59.3793,13.50357,62.0,15.0
+SHL,Färjestad BK,Joel Nyström,D,21,189,79,Karlstad,Sweden,Färjestads BK,R,2021,7,219,Carolina Hurricanes,None,16,3,2,5,6,8,None,None,59.3793,13.50357,62.0,15.0
+SHL,Färjestad BK,August Tornberg,D,31,194,97,Pajala,Sweden,Björns IF,R,None,None,None,None,None,14,0,3,3,4,2,None,None,67.21284,23.36607,62.0,15.0
+SHL,Färjestad BK,Mikael Wikstrand,D,30,188,89,Karlstad,Sweden,IFK Ore,L,2012,7,196,Ottawa Senators,None,None,None,None,None,None,None,None,None,59.3793,13.50357,62.0,15.0
+SHL,Färjestad BK,Henrik Björklund,F,33,189,95,Karlstad,Sweden,Färjestads BK,R,2009,4,111,Calgary Flames,None,4,1,1,2,0,2,None,None,59.3793,13.50357,62.0,15.0
+SHL,Färjestad BK,Victor Ejdsell,F,28,195,98,Karlstad,Sweden,Viking HC,L,None,None,None,None,None,16,5,8,13,33,6,None,None,59.3793,13.50357,62.0,15.0
+SHL,Färjestad BK,Lucas Forsell,F,20,184,73,Västerås,Sweden,Fagersta AIK,R,2021,7,201,Vancouver Canucks,None,16,1,1,2,8,-2,None,None,59.61617,16.55276,62.0,15.0
+SHL,Färjestad BK,Linus Johansson,F,30,190,91,Ljungby,Sweden,IF Troja-Ljungby,L,None,None,None,None,None,16,4,4,8,22,5,None,None,56.80684,13.82719,62.0,15.0
+SHL,Färjestad BK,Joel Kellman,F,29,179,85,Tingsryd,Sweden,Karlskrona HK,L,None,None,None,None,None,15,4,2,6,6,6,None,None,56.53333,14.96667,62.0,15.0
+SHL,Färjestad BK,Oscar Lawner,F,22,181,85,Karlstad,Sweden,Kils AIK,L,None,None,None,None,None,16,1,3,4,4,3,None,None,59.3793,13.50357,62.0,15.0
+SHL,Färjestad BK,Michael Lindqvist,F,29,180,78,Danderyd,Sweden,Enebybergs IF,R,None,None,None,None,None,16,4,6,10,6,-3,None,None,59.40924,18.04847,62.0,15.0
+SHL,Färjestad BK,Patrik Lundh,F,35,180,84,Stockholm,Sweden,Lidingö Vikings HC,L,None,None,None,None,None,15,0,1,1,2,3,None,None,59.32938,18.06871,62.0,15.0
+SHL,Färjestad BK,Marcus Nilsson,F,32,171,75,Charlottenberg,Sweden,Charlottenbergs HC,L,None,None,None,None,None,16,1,10,11,2,-2,None,None,59.88422,12.30398,62.0,15.0
+SHL,Färjestad BK,Joakim Nygård,F,30,183,86,Stockholm,Sweden,Skå IK,L,None,None,None,None,None,16,3,6,9,8,5,None,None,59.32938,18.06871,62.0,15.0
+SHL,Färjestad BK,David Tomasek,F,27,187,85,Praha,Czechia,HC Sparta Praha,R,None,None,None,None,None,16,8,4,12,4,-2,None,None,50.08804,14.42076,49.75,15.0
+SHL,Färjestad BK,Marcus Westfält,F,23,189,81,Stockholm,Sweden,Vallentuna BK,L,2018,7,205,Philadelphia Flyers,None,16,2,4,6,8,8,None,None,59.32938,18.06871,62.0,15.0
+SHL,Färjestad BK,Per Åslund,F,37,187,83,Kil,Sweden,Kils AIK,L,None,None,None,None,None,14,5,7,12,8,5,None,None,59.50234,13.31277,62.0,15.0
+SHL,Färjestad BK,Liam Öhgren,F,19,185,85,Stockholm,Sweden,Huddinge IK,L,2022,1,19,Minnesota Wild,918333,None,None,None,None,None,None,None,None,59.32938,18.06871,62.0,15.0
+SHL,HV71,Victor Brattström,G,26,193,91,Göteborg,Sweden,Frölunda HC,L,2018,6,160,Detroit Red Wings,None,3,None,None,None,None,None,4.73,0.829,57.70716,11.96679,62.0,15.0
+SHL,HV71,Joni Ortio,G,32,186,84,Turku,Finland,TPS,L,2009,6,171,Calgary Flames,None,14,None,None,None,None,None,3.06,0.889,60.45148,22.26869,64.0,26.0
+SHL,HV71,Hugo Fransson,D,19,183,80,Tranås,Sweden,Tranås AIF,L,None,None,None,None,None,3,0,0,0,0,-2,None,None,58.02906,14.83456,62.0,15.0
+SHL,HV71,Oliwer Kaski,D,28,190,89,Pori,Finland,Ässät,R,None,None,None,None,None,4,0,1,1,0,-2,None,None,61.48333,21.78333,64.0,26.0
+SHL,HV71,Axel Landén,D,18,186,84,Jönköping,Sweden,HV71,R,2023,5,130,San Jose Sharks,None,16,0,0,0,2,-9,None,None,57.78145,14.15618,62.0,15.0
+SHL,HV71,Kalle Maalahti,D,32,177,90,Lappeenranta,Finland,SaiPa,L,None,None,None,None,None,17,0,0,0,6,-5,None,None,61.05871,28.18871,64.0,26.0
+SHL,HV71,Bobby Nardella,D,27,175,79,Rosemont,USA,None,L,None,None,None,None,None,17,1,9,10,6,-1,None,None,41.99531,-87.88451,-14.60485,-57.65625
+SHL,HV71,Mikael Seppälä,D,29,188,91,Ylivieska,Finland,YJK,L,None,None,None,None,None,17,1,1,2,10,-5,None,None,64.08333,24.55,64.0,26.0
+SHL,HV71,Victor Sjöholm,D,20,175,81,Jönköping,Sweden,HC Dalen,R,None,None,None,None,None,17,1,0,1,4,-4,None,None,57.78145,14.15618,62.0,15.0
+SHL,HV71,Olle Strandell,D,24,180,82,Leksand,Sweden,Leksands IF,L,None,None,None,None,None,11,0,0,0,2,-2,None,None,60.7303,14.99994,62.0,15.0
+SHL,HV71,Anton Strålman,D,37,184,88,Tibro,Sweden,Tibro IK,R,2005,7,216,Toronto Maple Leafs,None,17,1,6,7,4,-3,None,None,58.4492,14.22664,62.0,15.0
+SHL,HV71,Henrik Borgström,F,26,191,90,Helsinki,Finland,Jokerit,L,2016,1,23,Florida Panthers,None,17,3,6,9,6,-6,None,None,60.16952,24.93545,64.0,26.0
+SHL,HV71,Isac Brännström,F,25,178,80,Stockholm,Sweden,Nässjö HC,L,None,None,None,None,None,15,2,4,6,8,-9,None,None,59.32938,18.06871,62.0,15.0
+SHL,HV71,Fredrik Forsberg,F,26,183,84,Uppsala,Sweden,Leksands IF,R,None,None,None,None,None,17,4,2,6,4,-4,None,None,59.85882,17.63889,62.0,15.0
+SHL,HV71,Herman Hansson,F,29,183,84,None,Sweden,Mörrums GoIS IK,L,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,62.0,15.0
+SHL,HV71,Radan Lenc,F,32,183,88,Mlada Boleslav,Czechia,BK Mlada Boleslav,L,None,None,None,None,None,17,6,4,10,4,-2,None,None,50.41135,14.90318,49.75,15.0
+SHL,HV71,Måns Lindbäck,F,27,186,83,Kalmar,Sweden,Kalmar HC,R,None,None,None,None,None,17,1,2,3,6,1,None,None,56.66157,16.36163,62.0,15.0
+SHL,HV71,Oscar Fisker Mølgaard,F,18,183,76,None,Denmark,Frederikshavn IK,L,2023,2,52,Seattle Kraken,None,16,1,2,3,2,1,None,None,None,None,56.0,10.0
+SHL,HV71,Joonas Nättinen,F,32,188,87,Jämsä,Finland,JYP,R,2009,3,65,Montréal Canadiens,None,17,2,8,10,6,0,None,None,61.8642,25.19002,64.0,26.0
+SHL,HV71,André Petersson,F,33,177,80,Olofström,Sweden,Tingsryds AIF,R,2008,4,109,Ottawa Senators,None,17,7,5,12,10,-7,None,None,56.32305,14.56561,62.0,15.0
+SHL,HV71,Hugo Pettersson,F,18,182,82,Tranås,Sweden,Tranås AIF,R,None,None,None,None,None,4,0,1,1,0,1,None,None,58.02906,14.83456,62.0,15.0
+SHL,HV71,Nick Shore,F,31,185,90,Denver,USA,None,R,2011,3,82,Los Angeles Kings,None,4,1,2,3,2,-2,None,None,39.73915,-104.9847,-14.60485,-57.65625
+SHL,HV71,Åke Stakkestad,F,21,179,85,Kungälv,Sweden,Kungälvs IK,L,None,None,None,None,None,17,0,0,0,4,-11,None,None,57.87096,11.98054,62.0,15.0
+SHL,HV71,Oskar Stål Lyrenäs,F,25,186,84,Umeå,Sweden,IF Björklöven,R,None,None,None,None,None,14,5,0,5,4,-8,None,None,63.82842,20.25972,62.0,15.0
+SHL,HV71,Mattias Tedenby,F,33,177,76,Vetlanda,Sweden,Värnamo GIK,L,2008,1,24,New Jersey Devils,None,15,2,4,6,6,-4,None,None,57.36862,15.18468,62.0,15.0
+SHL,HV71,Tommi Tikka,F,28,190,90,Helsinki,Finland,HIFK,L,None,None,None,None,None,14,1,2,3,56,-6,None,None,60.16952,24.93545,64.0,26.0
+SHL,HV71,Simon Önerud,F,35,185,94,Jönköping,Sweden,HV71,L,None,None,None,None,None,17,1,1,2,6,1,None,None,57.78145,14.15618,62.0,15.0
+SHL,IK Oskarshamn,Emil Kruse,G,28,189,90,Karlstad,Sweden,Viking HC,L,None,None,None,None,None,9,None,None,None,None,None,3.96,0.891,59.3793,13.50357,62.0,15.0
+SHL,IK Oskarshamn,Marek Langhamer,G,29,189,88,Moravska Trebova,Czechia,HC Moravska Trebova,L,2012,7,184,Phoenix Coyotes,None,10,None,None,None,None,None,3.1,0.892,49.75793,16.66426,49.75,15.0
+SHL,IK Oskarshamn,Alexander Anderberg,D,26,191,102,Karlstad,Sweden,Kils AIK,R,None,None,None,None,None,15,0,0,0,4,-6,None,None,59.3793,13.50357,62.0,15.0
+SHL,IK Oskarshamn,Oskar Asplund,D,19,180,78,Uppsala,Sweden,Almtuna IS,L,None,None,None,None,None,10,0,0,0,0,-4,None,None,59.85882,17.63889,62.0,15.0
+SHL,IK Oskarshamn,Rasmus Bengtsson,D,30,189,89,Landskrona,Sweden,IF Lejonet,L,2011,2,59,Florida Panthers,None,16,0,3,3,0,-5,None,None,55.8708,12.83016,62.0,15.0
+SHL,IK Oskarshamn,Niclas Burström,D,32,175,74,Skellefteå,Sweden,Jörns IF,L,None,None,None,None,None,14,0,3,3,8,-1,None,None,64.62477,21.07689,62.0,15.0
+SHL,IK Oskarshamn,Oscar Engsund,D,30,188,96,Göteborg,Sweden,IK Oskarshamn,L,None,None,None,None,None,16,0,2,2,8,-5,None,None,57.70716,11.96679,62.0,15.0
+SHL,IK Oskarshamn,Hugo Jonasson,D,20,182,86,Ljungby,Sweden,IF Troja-Ljungby,L,None,None,None,None,None,13,1,0,1,6,-6,None,None,None,None,62.0,15.0
+SHL,IK Oskarshamn,Lukas Pilö,D,24,186,84,Eskilstuna,Sweden,Åker/Strängnäs HC,R,None,None,None,None,None,16,1,2,3,4,-7,None,None,59.36661,16.5077,62.0,15.0
+SHL,IK Oskarshamn,David Quenneville,D,25,173,86,Edmonton,Canada,South Side Athletic Club,R,2016,7,200,New York Islanders,None,16,2,5,7,16,-7,None,None,53.55014,-113.46871,60.10867,-113.64258
+SHL,IK Oskarshamn,John Dahlström,F,26,186,88,Kungsbacka,Sweden,Hanhals IF,L,2015,7,211,Chicago Blackhawks,None,None,None,None,None,None,None,None,None,57.45058,12.15061,62.0,15.0
+SHL,IK Oskarshamn,Jonas Engström,F,32,185,88,Södertälje,Sweden,Södertälje-Pojkarnas AIF,L,None,None,None,None,None,16,0,0,0,2,-7,None,None,59.19554,17.62525,62.0,15.0
+SHL,IK Oskarshamn,Logan Hutsko,F,24,178,78,Tampa,USA,None,R,2018,3,89,Florida Panthers,None,15,3,4,7,4,-5,None,None,27.94752,-82.45843,-14.60485,-57.65625
+SHL,IK Oskarshamn,Lukas Jasek,F,26,185,78,Trinec,Czechia,HC Trinec,R,2015,6,174,Vancouver Canucks,None,16,6,6,12,31,-7,None,None,49.67763,18.67078,49.75,15.0
+SHL,IK Oskarshamn,Johan Johnsson,F,30,178,84,Jönköping,Sweden,HV71,L,None,None,None,None,None,14,0,3,3,4,-7,None,None,57.78145,14.15618,62.0,15.0
+SHL,IK Oskarshamn,Patrik Karlkvist,F,31,186,98,Trosa,Sweden,Södertälje SK,R,None,None,None,None,None,16,6,8,14,2,-16,None,None,58.8933,17.49847,62.0,15.0
+SHL,IK Oskarshamn,Hampus Karlsson,F,22,191,81,Landsbro,Sweden,Boro-Vetlanda HC,L,None,None,None,None,None,16,0,0,0,4,-9,None,None,57.36667,14.9,62.0,15.0
+SHL,IK Oskarshamn,Viktor Lodin,F,24,187,91,Leksand,Sweden,Leksands IF,L,2019,4,94,Ottawa Senators,None,16,5,9,14,16,-2,None,None,60.7303,14.99994,62.0,15.0
+SHL,IK Oskarshamn,Ahti Oksanen,F,30,191,94,Kirkkonummi,Finland,EJK,L,None,None,None,None,None,16,3,5,8,4,-12,None,None,60.12381,24.43853,64.0,26.0
+SHL,IK Oskarshamn,Nick Olesen,F,27,185,84,Frederikshavn,Denmark,Frederikshavn IK,L,None,None,None,None,None,16,6,4,10,2,0,None,None,57.44073,10.53661,56.0,10.0
+SHL,IK Oskarshamn,Olli Palola,F,35,181,84,Oulu,Finland,KeuPa HT,R,None,None,None,None,None,9,2,0,2,2,-1,None,None,65.01236,25.46816,64.0,26.0
+SHL,IK Oskarshamn,Johannes Salmonsson,F,37,189,94,Uppsala,Sweden,Almtuna IS,L,2004,2,31,Pittsburgh Penguins,None,1,0,0,0,0,0,None,None,59.85882,17.63889,62.0,15.0
+SHL,IK Oskarshamn,Austin Wagner,F,26,185,88,Calgary,Canada,Blackfoot MHA,L,2015,4,99,Los Angeles Kings,None,None,None,None,None,None,None,None,None,51.05011,-114.08529,60.10867,-113.64258
+SHL,IK Oskarshamn,Gustaf Westlund,F,25,184,84,Paris,Sweden,Stocksunds IF,L,None,None,None,None,None,16,0,1,1,6,-5,None,None,48.878,2.3548,62.0,15.0
+SHL,IK Oskarshamn,Hynek Zohorna,F,33,188,96,Havlickuv Brod,Czechia,BK Havlickuv Brod,R,None,None,None,None,None,12,2,2,4,8,-3,None,None,49.6069,15.57937,49.75,15.0
+SHL,IK Oskarshamn,Mikkel Øby-Olsen,F,21,180,84,Fredrikstad,Norway,Sparta Sarpsborg,R,None,None,None,None,None,9,0,0,0,2,-4,None,None,59.2181,10.9298,62.0,10.0
+SHL,Leksands IF,Mantas Armalis,G,31,192,90,Plunge,Lithuania,Haninge HF,L,None,None,None,None,None,8,None,None,None,None,None,2.78,0.884,55.91667,21.85,55.41667,24.0
+SHL,Leksands IF,Filip Larsson,G,25,188,88,Stockholm,Sweden,Boo IF,L,2016,6,167,Detroit Red Wings,None,8,None,None,None,None,None,1.25,0.955,59.32938,18.06871,62.0,15.0
+SHL,Leksands IF,Olle Alsing,D,27,182,82,Uppsala,Sweden,Almtuna IS,L,None,None,None,None,None,16,2,6,8,2,0,None,None,59.85882,17.63889,62.0,15.0
+SHL,Leksands IF,Matt Caito,D,30,180,86,Coto de Caza,USA,None,R,None,None,None,None,None,4,1,4,5,6,8,None,None,33.60419,-117.58699,-14.60485,-57.65625
+SHL,Leksands IF,Anton Johansson,D,19,193,89,Stockholm,Sweden,Boo IF,R,2022,4,105,Detroit Red Wings,None,16,1,3,4,6,4,None,None,59.32938,18.06871,62.0,15.0
+SHL,Leksands IF,Eddie Larsson,D,32,187,92,Mariestad,Sweden,Mariestads BoIS,L,None,None,None,None,None,15,0,3,3,4,1,None,None,58.70971,13.82367,62.0,15.0
+SHL,Leksands IF,Anton Lindholm,D,28,181,90,Skellefteå,Sweden,Varuträsk IF,L,2014,5,144,Colorado Avalanche,None,11,1,2,3,31,8,None,None,64.62477,21.07689,62.0,15.0
+SHL,Leksands IF,Alexander Lundqvist,D,22,189,83,Skellefteå,Sweden,Skogsbo SK,L,None,None,None,None,None,16,1,1,2,0,5,None,None,64.62477,21.07689,62.0,15.0
+SHL,Leksands IF,Fred Nilsson,D,20,185,81,Bollnäs,Sweden,Bollnäs IS,R,None,None,None,None,None,13,0,0,0,2,0,None,None,61.31418,16.41725,62.0,15.0
+SHL,Leksands IF,Patrik Norén,D,30,181,83,Säter,Sweden,Säters IF,L,None,None,None,None,None,16,1,3,4,6,9,None,None,60.36887,15.71383,62.0,15.0
+SHL,Leksands IF,Carter Ashton,F,32,194,95,Winnipeg,Canada,Saskatoon MHA,L,2009,1,29,Tampa Bay Lightning,None,12,3,3,6,4,0,None,None,49.8844,-97.14704,60.10867,-113.64258
+SHL,Leksands IF,Peter Cehlárik,F,28,188,91,Zilina,Slovakia,MsHK Zilina,L,2013,3,90,Boston Bruins,None,16,4,8,12,0,14,None,None,49.22315,18.73941,48.66667,19.5
+SHL,Leksands IF,Arvid Eljas,F,20,180,83,Björbo,Sweden,Björbo IF,L,None,None,None,None,None,16,0,1,1,2,-2,None,None,60.45935,14.71598,62.0,15.0
+SHL,Leksands IF,Lucas Elvenes,F,24,185,78,Ängelholm,Sweden,Rögle BK,L,2017,5,127,Vegas Golden Knights,None,16,4,6,10,2,11,None,None,56.2428,12.86219,62.0,15.0
+SHL,Leksands IF,Marek Hrivík,F,32,185,89,Cadca,Slovakia,MsHK Zilina,L,None,None,None,None,None,16,8,4,12,10,14,None,None,49.43503,18.78895,48.66667,19.5
+SHL,Leksands IF,Marcus Karlberg,F,23,173,75,Leksand,Sweden,EHC Kloten,R,2018,3,80,Columbus Blue Jackets,None,16,1,1,2,6,0,None,None,60.7303,14.99994,62.0,15.0
+SHL,Leksands IF,Martin Karlsson,F,32,183,80,Falun,Sweden,Smedjebacken HC,L,None,None,None,None,None,None,None,None,None,None,None,None,None,60.60357,15.62597,62.0,15.0
+SHL,Leksands IF,Justin Kloos,F,29,175,79,Lakeville,USA,None,R,None,None,None,None,None,2,1,1,2,0,1,None,None,44.64969,-93.24272,-14.60485,-57.65625
+SHL,Leksands IF,Jon Knuts,F,32,185,95,Malung,Sweden,Malungs IF,L,None,None,None,None,None,11,0,0,0,2,-3,None,None,60.56667,13.66667,62.0,15.0
+SHL,Leksands IF,Oskar Lang,F,26,170,75,Arvika,Sweden,Arvika HC,L,None,None,None,None,None,16,4,5,9,2,4,None,None,59.65528,12.58518,62.0,15.0
+SHL,Leksands IF,Erik Olhans Lind,F,19,186,93,Falun,Sweden,Hedemora SK,L,None,None,None,None,None,8,0,0,0,0,-2,None,None,60.60357,15.62597,62.0,15.0
+SHL,Leksands IF,Felix Unger Sörum,F,18,181,77,Trondheim,Sweden,Leksands IF,R,2023,2,62,Carolina Hurricanes,860000,8,0,4,4,2,-3,None,None,None,None,62.0,15.0
+SHL,Leksands IF,Lukas Vejdemo,F,27,185,90,Stockholm,Sweden,SDE HF,L,2015,3,87,Montréal Canadiens,None,13,4,2,6,31,5,None,None,59.32938,18.06871,62.0,15.0
+SHL,Leksands IF,Max Véronneau,F,27,185,88,Sandy Hill,Canada,Ottawa Centre MHA,R,None,None,None,None,None,16,4,10,14,4,6,None,None,45.42519,-75.67863,60.10867,-113.64258
+SHL,Leksands IF,Patrik Zackrisson,F,36,180,85,Ekerö,Sweden,Skå IK,R,2007,6,165,San Jose Sharks,None,14,2,2,4,0,4,None,None,59.291,17.81212,62.0,15.0
+SHL,Leksands IF,Kalle Östman,F,29,179,86,Borlänge,Sweden,Borlänge HF,L,None,None,None,None,None,14,3,4,7,8,2,None,None,60.4858,15.43714,62.0,15.0
+SHL,Linköping HC,Marcus Högberg,G,28,196,99,Örebro,Sweden,Örebro IS,L,2013,3,78,Ottawa Senators,None,15,None,None,None,None,None,2.31,0.922,59.27412,15.2066,62.0,15.0
+SHL,Linköping HC,Jesper Myrenberg,G,23,187,85,Täby,Sweden,IFK Täby,L,None,None,None,None,None,3,None,None,None,None,None,3.56,0.881,59.43739,18.0653,62.0,15.0
+SHL,Linköping HC,Arvid Aronsson,D,25,186,95,Kungsbacka,Sweden,Hanhals IF,L,None,None,None,None,None,13,1,0,1,8,2,None,None,57.45058,12.15061,62.0,15.0
+SHL,Linköping HC,Oscar Fantenberg,D,32,184,98,Ljungby,Sweden,IF Troja-Ljungby,L,None,None,None,None,None,10,0,4,4,4,-1,None,None,None,None,62.0,15.0
+SHL,Linköping HC,Linus Hultström,D,30,179,89,Vimmerby,Sweden,Vimmerby HC,R,None,None,None,None,None,17,3,6,9,2,-2,None,None,57.69009,15.86741,62.0,15.0
+SHL,Linköping HC,Mattias Hävelid,D,19,177,80,Täby,Sweden,Linköpings HC,R,2022,2,45,San Jose Sharks,None,17,0,6,6,2,-1,None,None,59.43739,18.0653,62.0,15.0
+SHL,Linköping HC,Jonas Junland,D,35,188,90,Linköping,Sweden,Linköpings HC,L,2006,3,64,St. Louis Blues,None,None,None,None,None,None,None,None,None,58.41086,15.62157,62.0,15.0
+SHL,Linköping HC,Jonathan Myrenberg,D,20,190,89,Täby,Sweden,IFK Täby,R,2021,5,140,Vancouver Canucks,None,17,1,3,4,2,3,None,None,59.43739,18.0653,62.0,15.0
+SHL,Linköping HC,John Nyberg,D,27,190,88,Göteborg,Sweden,Härryda HC,L,2014,6,165,Dallas Stars,None,11,1,4,5,2,2,None,None,57.70716,11.96679,62.0,15.0
+SHL,Linköping HC,Jesper Pettersson,D,29,175,87,Stockholm,Sweden,Flemingsbergs IK,R,2014,7,198,Philadelphia Flyers,None,15,1,7,8,27,7,None,None,59.32938,18.06871,62.0,15.0
+SHL,Linköping HC,William Worge Kreü,D,23,197,84,Linköping,Sweden,Linköpings HC,L,2018,7,187,Buffalo Sabres,None,17,1,5,6,6,0,None,None,58.41086,15.62157,62.0,15.0
+SHL,Linköping HC,Lance Bouma,F,33,188,94,Provost,Canada,None,L,2008,3,78,Calgary Flames,None,8,2,1,3,0,1,None,None,52.3544,-110.25803,60.10867,-113.64258
+SHL,Linköping HC,Filip Bystedt,F,19,193,90,Linköping,Sweden,Linköpings HC,L,2022,1,27,San Jose Sharks,950000,17,4,2,6,2,0,None,None,58.41086,15.62157,62.0,15.0
+SHL,Linköping HC,Christoffer Ehn,F,27,190,88,Lidköping,Sweden,Skara IK,L,2014,4,106,Detroit Red Wings,None,17,1,6,7,2,3,None,None,58.46484,13.17072,62.0,15.0
+SHL,Linköping HC,Remi Elie,F,28,185,98,Green Valley,Canada,Alexandria MHA,L,2013,2,40,Dallas Stars,None,15,3,6,9,12,5,None,None,46.00778,-74.22139,60.10867,-113.64258
+SHL,Linköping HC,Vilmos Galló,F,27,182,92,Budapest,Hungary,UTE Budapest,L,None,None,None,None,None,17,3,0,3,4,-1,None,None,47.49835,19.04045,47.0,20.0
+SHL,Linköping HC,Anthony Greco,F,30,178,80,Queens,USA,None,R,None,None,None,None,None,None,None,None,None,None,None,None,None,40.68149,-73.83652,-14.60485,-57.65625
+SHL,Linköping HC,Taylor Leier,F,29,180,82,Saskatoon,Canada,Saskatoon Bobcats,L,2012,4,117,Philadelphia Flyers,None,11,2,0,2,2,-1,None,None,52.13238,-106.66892,60.10867,-113.64258
+SHL,Linköping HC,Broc Little,F,35,175,77,Phoenix,USA,None,L,None,None,None,None,None,17,7,5,12,0,0,None,None,33.44838,-112.07404,-14.60485,-57.65625
+SHL,Linköping HC,Markus Ljungh,F,32,176,82,Västerås,Sweden,VIK Västerås HK Ungdom,L,None,None,None,None,None,17,2,5,7,4,-2,None,None,59.61617,16.55276,62.0,15.0
+SHL,Linköping HC,Ty Rattie,F,30,182,88,Calgary,Canada,Airdrie MHA,R,2011,2,32,St. Louis Blues,None,17,9,8,17,8,3,None,None,51.05011,-114.08529,60.10867,-113.64258
+SHL,Linköping HC,Patrick Russell,F,30,186,92,Birkerød,Denmark,None,R,None,None,None,None,None,17,3,4,7,12,0,None,None,55.84759,12.42791,56.0,10.0
+SHL,Linköping HC,Sebastian Strandberg,F,31,177,80,Visingsö,Sweden,HV71,L,None,None,None,None,None,17,4,6,10,8,9,None,None,58.05,14.33333,62.0,15.0
+SHL,Linköping HC,Henrik Törnqvist,F,27,186,85,Motala,Sweden,Motala AIF,R,None,None,None,None,None,8,0,2,2,4,1,None,None,58.53706,15.03649,62.0,15.0
+SHL,Linköping HC,Fabian Wagner,F,19,183,80,Nyköping,Sweden,Nyköpings HK,L,2022,6,175,Winnipeg Jets,858333,17,0,2,2,2,0,None,None,58.753,17.00788,62.0,15.0
+SHL,Luleå HF,Joel Lassinantti,G,30,175,80,Luleå,Sweden,Antnäs BK,L,None,None,None,None,None,7,None,None,None,None,None,2.14,0.895,65.58415,22.15465,62.0,15.0
+SHL,Luleå HF,Matteus Ward,G,22,185,80,Nyköping,Sweden,Nyköpings HK,L,None,None,None,None,None,11,None,None,None,None,None,1.78,0.912,58.753,17.00788,62.0,15.0
+SHL,Luleå HF,Frédéric Allard,D,25,185,83,Saint-Sauveur,Canada,None,R,2016,3,78,Nashville Predators,None,2,0,0,0,0,-4,None,None,45.87728,-74.14531,60.10867,-113.64258
+SHL,Luleå HF,Erik Gustafsson,D,34,178,90,Sundsvall,Sweden,Njurunda SK,L,None,None,None,None,None,16,2,5,7,8,3,None,None,62.39129,17.3063,62.0,15.0
+SHL,Luleå HF,Marcus Hardegård,D,26,186,92,Älvsbyn,Sweden,Älvsby IF,L,None,None,None,None,None,16,2,7,9,10,4,None,None,65.73201,20.71412,62.0,15.0
+SHL,Luleå HF,Ludvig Jansson,D,19,183,82,Stockholm,Sweden,Flemingsbergs IK,R,2022,4,125,Florida Panthers,None,16,0,2,2,0,-8,None,None,59.32938,18.06871,62.0,15.0
+SHL,Luleå HF,Oskari Laaksonen,D,24,185,83,Tampere,Finland,Ilves,R,2017,3,89,Buffalo Sabres,None,16,1,12,13,12,3,None,None,61.49911,23.78712,64.0,26.0
+SHL,Luleå HF,Jesper Sellgren,D,25,179,83,Örnsköldsvik,Sweden,Örnsköldsviks SK,L,2018,6,166,Carolina Hurricanes,None,14,3,1,4,2,10,None,None,63.29091,18.71525,62.0,15.0
+SHL,Luleå HF,Pontus Själin,D,27,184,85,Östersund,Sweden,Östersunds IK,L,2014,6,160,Minnesota Wild,None,16,1,2,3,6,-8,None,None,63.1792,14.63566,62.0,15.0
+SHL,Luleå HF,Pontus Andreasson,F,25,178,83,Munkedal,Sweden,Munkedals BK,L,None,None,None,None,None,16,2,2,4,0,-3,None,None,58.57334,11.70103,62.0,15.0
+SHL,Luleå HF,Jonas Berglund,F,32,186,86,Älvsbyn,Sweden,Älvsby IF,L,None,None,None,None,None,16,4,2,6,0,1,None,None,65.73201,20.71412,62.0,15.0
+SHL,Luleå HF,Jack Connolly,F,34,173,77,Duluth,USA,None,L,None,None,None,None,None,16,0,4,4,4,3,None,None,46.78327,-92.10658,-14.60485,-57.65625
+SHL,Luleå HF,Oscar Eklind,F,25,194,100,None,Sweden,Trelleborgs IF,L,None,None,None,None,None,16,9,1,10,29,5,None,None,None,None,62.0,15.0
+SHL,Luleå HF,Einar Emanuelsson,F,26,179,83,Kiruna,Sweden,Kiruna IF,R,None,None,None,None,None,16,2,2,4,2,-1,None,None,67.85572,20.22513,62.0,15.0
+SHL,Luleå HF,Joel Kant,F,19,185,81,Luleå,Sweden,Luleå HF,L,None,None,None,None,None,11,0,0,0,2,-1,None,None,65.58415,22.15465,62.0,15.0
+SHL,Luleå HF,Mario Kempe,F,35,183,86,Kramfors,Sweden,Kramfors-Alliansen,L,2007,5,122,Philadelphia Flyers,None,15,4,3,7,8,7,None,None,62.97246,17.92274,62.0,15.0
+SHL,Luleå HF,David Lilja,F,23,180,78,Karlskoga,Sweden,Bofors IK,L,None,None,None,None,None,16,2,1,3,4,1,None,None,59.32667,14.52386,62.0,15.0
+SHL,Luleå HF,Olli Nikupeteri,F,20,176,81,Kemi,Finland,Lämärit,L,None,None,None,None,None,15,0,3,3,2,-1,None,None,65.73641,24.56371,64.0,26.0
+SHL,Luleå HF,Linus Omark,F,36,179,82,Övertorneå,Sweden,Övertorneå HF,L,2007,4,97,Edmonton Oilers,None,16,2,4,6,14,-5,None,None,66.48317,23.43866,62.0,15.0
+SHL,Luleå HF,Nikola Pasic,F,23,177,85,Gislaved,Sweden,Gislaveds SK,L,2019,7,189,New Jersey Devils,None,16,0,10,10,0,0,None,None,57.30337,13.47548,62.0,15.0
+SHL,Luleå HF,Brendan Shinnimin,F,32,178,74,East St. Paul,Canada,None,L,None,None,None,None,None,16,6,4,10,14,-1,None,None,49.9772,-97.01093,60.10867,-113.64258
+SHL,Luleå HF,Juhani Tyrväinen,F,33,181,87,Seinäjoki,Finland,S-Kiekko,L,None,None,None,None,None,16,2,6,8,8,-5,None,None,62.79446,22.82822,64.0,26.0
+SHL,Malmö Redhawks,Daniel Marmenlind,G,25,183,85,Uppsala,Sweden,Arlanda HC,L,None,None,None,None,None,9,None,None,None,None,None,1.75,0.936,59.85882,17.63889,62.0,15.0
+SHL,Malmö Redhawks,Adam Werner,G,26,196,93,Mariestad,Sweden,Mariestads BoIS,L,2016,5,131,Colorado Avalanche,None,8,None,None,None,None,None,2.99,0.895,58.70971,13.82367,62.0,15.0
+SHL,Malmö Redhawks,Dominik Badinka,D,17,190,83,Chomutov,Czechia,Pirati Chomutov,R,None,None,None,None,None,2,0,0,0,0,0,None,None,50.46048,13.41779,49.75,15.0
+SHL,Malmö Redhawks,Jakub Galvas,D,24,181,84,Ostrava,Czechia,HC Olomouc,L,2017,5,150,Chicago Blackhawks,None,17,1,5,6,8,4,None,None,49.83465,18.28204,49.75,15.0
+SHL,Malmö Redhawks,Johan Ivarsson,D,28,188,88,Höör,Sweden,Frosta HC,L,None,None,None,None,None,17,0,1,1,4,-1,None,None,55.94588,13.51686,62.0,15.0
+SHL,Malmö Redhawks,Teemu Kivihalme,D,28,183,84,Cloquet,Finland,Burnsville Blaze,L,2013,5,140,Nashville Predators,None,17,4,4,8,4,8,None,None,None,None,64.0,26.0
+SHL,Malmö Redhawks,Matias Lassen,D,27,182,82,Rødovre,Denmark,Rødovre SIK,L,None,None,None,None,None,17,0,4,4,2,7,None,None,55.68062,12.45373,56.0,10.0
+SHL,Malmö Redhawks,Markus Lauridsen,D,32,186,87,Gentofte,Denmark,IC Gentofte,L,None,None,None,None,None,15,1,3,4,2,2,None,None,55.74903,12.54601,56.0,10.0
+SHL,Malmö Redhawks,Adam Ollas Mattsson,D,27,193,98,Stockholm,Sweden,Värmdö HC,L,2014,6,175,Calgary Flames,None,17,2,8,10,8,4,None,None,59.32938,18.06871,62.0,15.0
+SHL,Malmö Redhawks,Joakim Ryan,D,30,180,84,Rumson,Sweden,None,L,2012,7,198,San Jose Sharks,None,17,1,3,4,2,1,None,None,None,None,62.0,15.0
+SHL,Malmö Redhawks,Nuutti Viitasalo,D,24,186,87,Raisio,Finland,VG-62,R,None,None,None,None,None,None,None,None,None,None,None,None,None,60.48592,22.16895,64.0,26.0
+SHL,Malmö Redhawks,Thomas Berg-Paulsen,F,24,187,83,Stavanger,Norway,Siddis Hockey,L,None,None,None,None,None,17,5,0,5,29,0,None,None,58.97005,5.73332,62.0,10.0
+SHL,Malmö Redhawks,Christoffer Forsberg,F,29,180,84,Östersund,Sweden,Östersunds IK,L,None,None,None,None,None,17,1,6,7,2,4,None,None,63.1792,14.63566,62.0,15.0
+SHL,Malmö Redhawks,Fredrik Händemark,F,30,194,95,Björbo,Sweden,Björbo IF,L,None,None,None,None,None,17,0,7,7,8,1,None,None,60.45935,14.71598,62.0,15.0
+SHL,Malmö Redhawks,Janne Kuokkanen,F,25,185,88,Oulunsalo,Finland,Kiekko-Laser,L,2016,2,43,Carolina Hurricanes,None,17,6,10,16,4,6,None,None,65.0,25.33333,64.0,26.0
+SHL,Malmö Redhawks,Johan Olofsson,F,29,175,74,Arvika,Sweden,Arvika HC,R,None,None,None,None,None,17,2,6,8,6,2,None,None,59.65528,12.58518,62.0,15.0
+SHL,Malmö Redhawks,Lauri Pajuniemi,F,24,182,89,Tampere,Finland,TPS,R,2018,5,132,New York Rangers,None,16,5,5,10,8,6,None,None,61.49911,23.78712,64.0,26.0
+SHL,Malmö Redhawks,Carl Persson,F,28,185,95,Kristianstad,Sweden,Kristianstads IK,L,None,None,None,None,None,17,5,2,7,4,1,None,None,56.03129,14.15242,62.0,15.0
+SHL,Malmö Redhawks,Alan Quine,F,30,183,93,Belleville,Canada,Cumberland MHA,L,2013,6,166,New York Islanders,None,17,4,4,8,2,-2,None,None,44.16682,-77.38277,60.10867,-113.64258
+SHL,Malmö Redhawks,Kim Rosdahl,F,27,188,90,Malmö,Sweden,Limhamn HK,R,None,None,None,None,None,17,5,3,8,14,4,None,None,55.60587,13.00073,62.0,15.0
+SHL,Malmö Redhawks,Filip Sitar,F,18,180,80,Ljubljana,Slovenia,HKMK Bled,R,None,None,None,None,None,8,0,0,0,0,-1,None,None,46.05108,14.50513,46.08333,15.0
+SHL,Malmö Redhawks,Albert Sjöberg,F,20,183,83,Stockholm,Sweden,SDE HF,R,2021,7,207,Dallas Stars,None,13,0,0,0,0,0,None,None,59.32938,18.06871,62.0,15.0
+SHL,Malmö Redhawks,William von Barnekow,F,20,193,90,Malmö,Sweden,Limhamn HK,L,2021,6,161,Buffalo Sabres,None,17,4,4,8,6,10,None,None,55.60587,13.00073,62.0,15.0
+SHL,Malmö Redhawks,Anton Wahlberg,F,18,191,88,Malmö,Sweden,IF Malmö Redhawks,L,2023,2,39,Buffalo Sabres,896667,15,2,4,6,2,3,None,None,55.60587,13.00073,62.0,15.0
+SHL,MoDo Hockey,Olle Eriksson Ek,G,24,190,94,Karlstad,Sweden,Färjestads BK,L,2017,5,153,Anaheim Ducks,None,6,None,None,None,None,None,2.71,0.899,59.3793,13.50357,62.0,15.0
+SHL,MoDo Hockey,Lassi Lehtinen,G,24,183,80,Lahti,Finland,Lukko,L,None,None,None,None,None,10,None,None,None,None,None,2.49,0.906,60.98267,25.66151,64.0,26.0
+SHL,MoDo Hockey,August Berg,F,24,183,84,Stockholm,Sweden,Vallentuna BK,R,None,None,None,None,None,16,2,1,3,6,2,None,None,59.32938,18.06871,62.0,15.0
+SHL,MoDo Hockey,David Bernhardt,D,25,193,95,Huddinge,Sweden,Huddinge IK,L,2016,7,199,Philadelphia Flyers,None,16,2,3,5,4,-4,None,None,59.21428,18.01584,62.0,15.0
+SHL,MoDo Hockey,Daniel Brickley,D,28,191,101,Salt Lake City,USA,None,L,None,None,None,None,None,16,1,5,6,6,4,None,None,40.76078,-111.89105,-14.60485,-57.65625
+SHL,MoDo Hockey,Niklas Folin,D,29,182,86,Göteborg,Sweden,Hanhals IF,R,None,None,None,None,None,16,1,0,1,0,-1,None,None,57.70716,11.96679,62.0,15.0
+SHL,MoDo Hockey,Pontus Näsén,D,27,182,85,Mora,Sweden,Orsa IK,R,None,None,None,None,None,15,1,7,8,0,-1,None,None,60.95791,14.51138,62.0,15.0
+SHL,MoDo Hockey,Kristians Rubins,D,25,195,103,Jurmala,Latvia,Prizma Riga,L,None,None,None,None,None,16,2,4,6,4,-1,None,None,56.968,23.77038,57.0,25.0
+SHL,MoDo Hockey,David Rundblad,D,33,189,85,Lycksele,Sweden,Lycksele SK,R,2009,1,17,St. Louis Blues,None,16,2,3,5,2,-2,None,None,64.54832,18.71622,62.0,15.0
+SHL,MoDo Hockey,Mikkel Aagaard,F,28,184,81,Frederikshavn,Denmark,Frederikshavn IK,L,None,None,None,None,None,16,7,4,11,11,6,None,None,57.44073,10.53661,56.0,10.0
+SHL,MoDo Hockey,Josh Dickinson,F,25,188,88,Georgetown,Canada,Halton Hills MHA,L,None,None,None,None,None,16,3,7,10,6,7,None,None,48.95001,-58.01511,60.10867,-113.64258
+SHL,MoDo Hockey,Erik Jinesjö Karlsson,F,29,181,77,Lerum,Sweden,Lerums BK,L,2012,4,99,Carolina Hurricanes,None,16,1,3,4,2,1,None,None,57.77452,12.26967,62.0,15.0
+SHL,MoDo Hockey,Theodor Niederbach,F,21,180,78,Bjästa,Sweden,KB65,R,2020,2,51,Detroit Red Wings,None,16,1,3,4,2,-8,None,None,63.2,18.5,62.0,15.0
+SHL,MoDo Hockey,Danny O'Regan,F,29,178,82,Berlin,USA,None,R,2012,5,138,San Jose Sharks,None,11,3,2,5,0,-3,None,None,52.50717,13.33189,-14.60485,-57.65625
+SHL,MoDo Hockey,Sebastian Ohlsson,F,26,175,82,Åsele,Sweden,Åsele IK,L,None,None,None,None,None,16,0,1,1,9,-5,None,None,64.16604,17.62356,62.0,15.0
+SHL,MoDo Hockey,Adam Pettersson,F,31,184,88,Skellefteå,Sweden,Skellefteå AIK,L,None,None,None,None,None,16,0,1,1,6,-5,None,None,64.62477,21.07689,62.0,15.0
+SHL,MoDo Hockey,Oscar Pettersson,F,24,183,88,Örnsköldsvik,Sweden,Svedjeholmens IF,R,None,None,None,None,None,10,0,0,0,0,-2,None,None,63.29091,18.71525,62.0,15.0
+SHL,MoDo Hockey,Sampo Ranta,F,23,189,88,Naantali,Finland,VG-62,L,2018,3,78,Colorado Avalanche,None,14,1,5,6,0,-10,None,None,60.46744,22.02428,64.0,26.0
+SHL,MoDo Hockey,Mikael Ruohomaa,F,34,184,88,Alastaro,Finland,FoPS,L,None,None,None,None,None,9,2,2,4,2,-4,None,None,60.95,22.85,64.0,26.0
+SHL,MoDo Hockey,Helmer Styf,F,19,181,80,Sundsvall,Sweden,IF Sundsvall Hockey,L,None,None,None,None,None,3,0,0,0,0,0,None,None,62.39129,17.3063,62.0,15.0
+SHL,MoDo Hockey,Johan Södergran,F,23,191,93,Stockholm,Sweden,Stocksunds IF,L,2018,6,165,Los Angeles Kings,None,16,3,3,6,0,0,None,None,59.32938,18.06871,62.0,15.0
+SHL,MoDo Hockey,Sam Vigneault,F,28,196,92,Baie-Comeau,Canada,None,L,None,None,None,None,None,15,2,6,8,11,4,None,None,49.1325,-68.20444,60.10867,-113.64258
+SHL,MoDo Hockey,Erik Walli Walterholm,F,24,190,92,Stockholm,Sweden,Sollentuna HC,R,2017,7,190,Arizona Coyotes,None,16,3,6,9,10,1,None,None,59.32938,18.06871,62.0,15.0
+SHL,MoDo Hockey,Riley Woods,F,25,178,82,Regina,Canada,None,L,None,None,None,None,None,16,5,8,13,6,9,None,None,50.45008,-104.6178,60.10867,-113.64258
+SHL,Rögle BK,Petr Kvaca,G,26,186,89,Brandys nad Labem,Czechia,BK Mlada Boleslav,L,2017,4,114,Colorado Avalanche,None,8,None,None,None,None,None,2.34,0.892,50.18709,14.66326,49.75,15.0
+SHL,Rögle BK,Christoffer Rifalk,G,27,187,92,Kalix,Sweden,Kalix HF,L,None,None,None,None,None,9,None,None,None,None,None,3.14,0.866,65.96118,22.98669,62.0,15.0
+SHL,Rögle BK,Ludvig Claesson,D,27,187,87,Ljungsarp,Sweden,Nittorps IK,L,None,None,None,None,None,16,0,0,0,12,-6,None,None,57.5568,13.61262,62.0,15.0
+SHL,Rögle BK,Brandon Davidson,D,32,188,95,Lethbridge,Canada,None,L,2010,6,162,Edmonton Oilers,None,6,0,0,0,2,2,None,None,49.69999,-112.81856,60.10867,-113.64258
+SHL,Rögle BK,Lucas Ekeståhl Jonsson,D,27,183,85,Stockholm,Sweden,IF Björklöven,L,None,None,None,None,None,2,0,1,1,4,-2,None,None,59.32938,18.06871,62.0,15.0
+SHL,Rögle BK,Adam Engström,D,19,187,86,Järna,Sweden,Järna SK,L,2022,3,92,Montréal Canadiens,None,16,2,4,6,4,-5,None,None,59.09165,17.56615,62.0,15.0
+SHL,Rögle BK,Thomas Grégoire,D,25,180,77,Sherbrooke,Canada,AHM Sherbrooke,R,None,None,None,None,None,16,3,3,6,4,6,None,None,45.40008,-71.89908,60.10867,-113.64258
+SHL,Rögle BK,Johannes Johannesen,D,26,182,83,Stavanger,Norway,Stavanger Hockey,R,None,None,None,None,None,11,0,0,0,2,-3,None,None,58.97005,5.73332,62.0,10.0
+SHL,Rögle BK,Samuel Jonsson,D,25,177,76,Ängelholm,Sweden,Rögle BK,L,None,None,None,None,None,16,1,1,2,6,-5,None,None,56.2428,12.86219,62.0,15.0
+SHL,Rögle BK,Michael Kapla,D,29,183,91,Eau Claire,USA,None,L,None,None,None,None,None,14,3,9,12,6,0,None,None,44.81135,-91.49849,-14.60485,-57.65625
+SHL,Rögle BK,Erlend Lesund,D,28,190,95,Oslo,Norway,Manglerud Star,L,None,None,None,None,None,3,0,0,0,2,-1,None,None,59.91273,10.74609,62.0,10.0
+SHL,Rögle BK,Valtteri Viljanen,D,29,175,82,Pori,Finland,Ässät,R,None,None,None,None,None,11,1,2,3,2,4,None,None,61.48333,21.78333,64.0,26.0
+SHL,Rögle BK,Rodrigo Abols,F,27,193,93,Riga,Latvia,Prizma Riga,L,2016,7,184,Vancouver Canucks,None,16,7,4,11,4,2,None,None,56.946,24.10589,57.0,25.0
+SHL,Rögle BK,Anton Bengtsson,F,30,186,88,Nässjö,Sweden,Nässjö HC,L,None,None,None,None,None,16,2,6,8,2,0,None,None,57.60892,14.64041,62.0,15.0
+SHL,Rögle BK,Henry Bowlby,F,26,188,88,Edina,USA,None,L,None,None,None,None,None,None,None,None,None,None,None,None,None,44.88969,-93.34995,-14.60485,-57.65625
+SHL,Rögle BK,Dennis Everberg,F,31,193,95,Västerås,Sweden,VIK Västerås HK Ungdom,L,None,None,None,None,None,10,1,2,3,4,-1,None,None,59.61617,16.55276,62.0,15.0
+SHL,Rögle BK,Brady Ferguson,F,29,183,88,Lewisville,USA,None,L,None,None,None,None,None,16,2,5,7,4,-1,None,None,33.04623,-96.99417,-14.60485,-57.65625
+SHL,Rögle BK,Felix Nilsson,F,18,183,85,Stockholm,Sweden,AIK,L,2023,2,43,Nashville Predators,None,15,0,0,0,2,-5,None,None,59.32938,18.06871,62.0,15.0
+SHL,Rögle BK,Oskar Pettersson,F,19,188,90,Halmstad,Sweden,Halmstad HF,R,2022,3,72,Ottawa Senators,865000,16,0,1,1,0,-6,None,None,56.67446,12.85676,62.0,15.0
+SHL,Rögle BK,Simon Ryfors,F,26,178,82,Stockholm,Sweden,HK Kings,L,None,None,None,None,None,16,1,5,6,8,-5,None,None,59.32938,18.06871,62.0,15.0
+SHL,Rögle BK,Linus Sandin,F,27,185,95,Uppsala,Sweden,Gimo IF,R,None,None,None,None,None,14,6,5,11,4,3,None,None,59.85882,17.63889,62.0,15.0
+SHL,Rögle BK,Riley Sheen,F,28,181,75,Edmonton,Canada,None,L,None,None,None,None,None,16,0,7,7,2,-3,None,None,53.55014,-113.46871,60.10867,-113.64258
+SHL,Rögle BK,Linus Sjödin,F,21,182,76,Ängelholm,Sweden,Rögle BK,L,2022,7,211,Buffalo Sabres,None,16,0,1,1,4,-3,None,None,56.2428,12.86219,62.0,15.0
+SHL,Rögle BK,Isac Solberg,F,18,181,73,Ljungby,Sweden,IF Troja-Ljungby,L,None,None,None,None,None,1,0,0,0,0,0,None,None,None,None,62.0,15.0
+SHL,Rögle BK,Albin Sundsvik,F,22,189,92,Stockholm,Sweden,SDE HF,L,2020,6,160,Anaheim Ducks,None,16,2,2,4,2,-3,None,None,59.32938,18.06871,62.0,15.0
+SHL,Rögle BK,Adam Tambellini,F,29,193,88,Edmonton,Canada,Port Moody MHA,L,2013,3,65,New York Rangers,None,16,3,9,12,6,-2,None,None,53.55014,-113.46871,60.10867,-113.64258
+SHL,Rögle BK,Daniel Zaar,F,29,182,81,Helsingborg,Sweden,Jonstorps IF,R,2012,6,152,Columbus Blue Jackets,None,10,2,1,3,0,-6,None,None,56.04673,12.69437,62.0,15.0
+SHL,Rögle BK,Simon Zether,F,18,190,85,Helsingborg,Sweden,Jonstorps IF,R,None,None,None,None,None,9,0,0,0,0,0,None,None,56.04673,12.69437,62.0,15.0
+SHL,Skellefteå AIK,Gustaf Lindvall,G,32,183,80,Skellefteå,Sweden,Skellefteå AIK,L,None,None,None,None,None,5,None,None,None,None,None,2.03,0.909,64.62477,21.07689,62.0,15.0
+SHL,Skellefteå AIK,David Rautio,G,38,181,76,Luleå,Sweden,Luleå HF,L,None,None,None,None,None,1,None,None,None,None,None,1.0,0.947,65.58415,22.15465,62.0,15.0
+SHL,Skellefteå AIK,Linus Söderström,G,27,194,90,Stockholm,Sweden,Värmdö HC,L,2014,4,95,New York Islanders,None,10,None,None,None,None,None,1.6,0.932,59.32938,18.06871,62.0,15.0
+SHL,Skellefteå AIK,Tim Barkemo,D,19,186,80,Skellefteå,Sweden,Skellefteå AIK,L,None,None,None,None,None,2,0,0,0,0,0,None,None,64.62477,21.07689,62.0,15.0
+SHL,Skellefteå AIK,Måns Forsfjäll,D,21,182,81,Skellefteå,Sweden,Skellefteå AIK,L,None,None,None,None,None,16,0,1,1,2,0,None,None,64.62477,21.07689,62.0,15.0
+SHL,Skellefteå AIK,Petter Granberg,D,31,190,93,Gällivare,Sweden,Malmbergets AIF,R,2010,4,116,Toronto Maple Leafs,None,16,0,2,2,17,-3,None,None,67.13333,20.81667,62.0,15.0
+SHL,Skellefteå AIK,Arvid Lundberg,D,29,185,87,Skellefteå,Sweden,Clemensnäs HC,L,None,None,None,None,None,16,1,2,3,0,2,None,None,64.62477,21.07689,62.0,15.0
+SHL,Skellefteå AIK,Oskar Nilsson,D,32,174,80,Luleå,Sweden,Rutviks SK,L,None,None,None,None,None,16,1,3,4,17,-3,None,None,65.58415,22.15465,62.0,15.0
+SHL,Skellefteå AIK,Jonathan Pudas,D,30,179,79,Kiruna,Sweden,Kiruna IF,R,None,None,None,None,None,16,1,8,9,8,-5,None,None,None,None,62.0,15.0
+SHL,Skellefteå AIK,Elias Salomonsson,D,19,187,84,Skellefteå,Sweden,Skellefteå AIK,R,2022,2,55,Winnipeg Jets,846667,6,0,2,2,27,3,None,None,64.62477,21.07689,62.0,15.0
+SHL,Skellefteå AIK,Axel Sandin Pellikka,D,18,180,82,Gällivare,Sweden,Malmbergets AIF,R,2023,1,17,Detroit Red Wings,None,16,6,1,7,7,-1,None,None,67.13333,20.81667,62.0,15.0
+SHL,Skellefteå AIK,Martins Dzierkals,F,26,183,84,Riga,Latvia,SK Saga,L,2015,3,68,Toronto Maple Leafs,None,16,1,0,1,6,0,None,None,56.946,24.10589,57.0,25.0
+SHL,Skellefteå AIK,Zeb Forsfjäll,F,18,176,76,Skellefteå,Sweden,Skellefteå AIK,L,2023,6,180,Seattle Kraken,None,15,1,0,1,6,3,None,None,64.62477,21.07689,62.0,15.0
+SHL,Skellefteå AIK,Anton Heikkinen,F,23,175,80,Nässjö,Sweden,Nässjö HC,L,None,None,None,None,None,16,3,3,6,0,-3,None,None,57.60892,14.64041,62.0,15.0
+SHL,Skellefteå AIK,Rickard Hugg,F,24,179,86,Hudiksvall,Sweden,Hudiksvalls HC,L,None,None,None,None,None,16,3,4,7,2,-5,None,None,61.72744,17.10558,62.0,15.0
+SHL,Skellefteå AIK,Jonathan Johnson,F,30,183,83,Gävle,Sweden,HK Kings,L,None,None,None,None,None,10,2,5,7,0,-3,None,None,60.67452,17.14174,62.0,15.0
+SHL,Skellefteå AIK,Andreas Johnsson,F,28,178,88,Gävle,Sweden,HK Kings,L,2013,7,202,Toronto Maple Leafs,None,None,None,None,None,None,None,None,None,60.67452,17.14174,62.0,15.0
+SHL,Skellefteå AIK,Theo Keilin,F,20,180,82,Västerås,Sweden,Surahammars IF,L,None,None,None,None,None,11,0,0,0,4,0,None,None,59.61617,16.55276,62.0,15.0
+SHL,Skellefteå AIK,Oscar Lindberg,F,32,185,89,Skellefteå,Sweden,Skellefteå AIK,L,2010,2,57,Phoenix Coyotes,None,16,4,9,13,21,-3,None,None,64.62477,21.07689,62.0,15.0
+SHL,Skellefteå AIK,Max Lindholm,F,26,187,94,Österhaninge,Sweden,Älta IF,L,None,None,None,None,None,16,2,7,9,30,2,None,None,59.18403,18.21108,62.0,15.0
+SHL,Skellefteå AIK,Pär Lindholm,F,32,190,90,Kusmark,Sweden,Kågedalens AIF,L,None,None,None,None,None,14,0,1,1,0,-3,None,None,64.88333,20.8,62.0,15.0
+SHL,Skellefteå AIK,Linus Lindström,F,25,182,75,Skellefteå,Sweden,Skellefteå AIK,L,2016,4,96,Calgary Flames,None,16,4,1,5,4,1,None,None,64.62477,21.07689,62.0,15.0
+SHL,Skellefteå AIK,Oscar Möller,F,34,179,86,Stockholm,Sweden,Spånga IS,R,2007,2,52,Los Angeles Kings,None,None,None,None,None,None,None,None,None,59.32938,18.06871,62.0,15.0
+SHL,Skellefteå AIK,Simon Robertsson,F,20,183,86,Piteå,Sweden,Södertälje SK,L,2021,3,71,St. Louis Blues,None,4,0,0,0,2,-1,None,None,65.31717,21.47944,62.0,15.0
+SHL,Skellefteå AIK,Filip Sandberg,F,29,174,82,Järfälla,Sweden,AIK,R,None,None,None,None,None,14,2,1,3,25,-2,None,None,59.40875,17.86514,62.0,15.0
+SHL,Skellefteå AIK,Dylan Sikura,F,28,180,77,Aurora,Canada,None,L,2014,6,178,Chicago Blackhawks,None,13,0,2,2,0,-4,None,None,44.00011,-79.46632,60.10867,-113.64258
+SHL,Skellefteå AIK,Elias Stenman,F,20,181,85,Norrtälje,Sweden,Skellefteå AIK,L,None,None,None,None,None,15,0,0,0,33,1,None,None,59.8612,18.70573,62.0,15.0
+SHL,Skellefteå AIK,Oskar Vuollet,F,17,179,78,Skellefteå,Sweden,Clemensnäs HC,L,None,None,None,None,None,13,0,0,0,0,0,None,None,64.62477,21.07689,62.0,15.0
+SHL,Timrå IK,Jacob Johansson,G,30,188,88,Stockholm,Sweden,Bofors IK,L,None,None,None,None,None,11,None,None,None,None,None,2.32,0.893,59.32938,18.06871,62.0,15.0
+SHL,Timrå IK,Tim Juel,G,29,183,88,Svenstavik,Sweden,Svenstaviks HK,L,None,None,None,None,None,6,None,None,None,None,None,2.94,0.876,62.76667,14.43535,62.0,15.0
+SHL,Timrå IK,Noel Edfeldt,D,20,181,80,Ånge,Sweden,Ånge IK,L,None,None,None,None,None,13,0,0,0,4,4,None,None,62.51232,15.64453,62.0,15.0
+SHL,Timrå IK,Tim Erixon,D,32,189,91,Port Chester,Sweden,Skellefteå AIK,L,2009,1,23,Calgary Flames,None,4,1,0,1,2,-2,None,None,None,None,62.0,15.0
+SHL,Timrå IK,Elmeri Eronen,D,28,176,87,Turku,Finland,TPS,R,None,None,None,None,None,8,2,2,4,0,-2,None,None,60.45148,22.26869,64.0,26.0
+SHL,Timrå IK,Simon Forsmark,D,20,188,87,Kumla,Sweden,IFK Kumla,L,2022,4,101,Carolina Hurricanes,None,16,2,6,8,0,2,None,None,59.1277,15.14341,62.0,15.0
+SHL,Timrå IK,Joonas Lyytinen,D,28,183,79,Espoo,Finland,KalPa,L,2014,5,132,Nashville Predators,None,16,1,1,2,10,-6,None,None,60.2052,24.6522,64.0,26.0
+SHL,Timrå IK,Emil Melander,D,20,185,77,Stockholm,Sweden,Järfälla HC,L,None,None,None,None,None,7,0,0,0,2,1,None,None,59.32938,18.06871,62.0,15.0
+SHL,Timrå IK,Axel Rindell,D,23,182,87,Espoo,Finland,EJK,R,2020,6,177,Toronto Maple Leafs,None,16,3,6,9,0,-10,None,None,60.2052,24.6522,64.0,26.0
+SHL,Timrå IK,Didrik Strömberg,D,29,187,91,Sundsvall,Sweden,IF Sundsvall Hockey,L,None,None,None,None,None,7,0,0,0,0,-1,None,None,62.39129,17.3063,62.0,15.0
+SHL,Timrå IK,Per Svensson,D,35,192,88,None,Sweden,Virserums SGF,L,None,None,None,None,None,16,1,4,5,2,7,None,None,None,None,62.0,15.0
+SHL,Timrå IK,Erik Andersson,F,29,180,88,Nittorp,Sweden,Nittorps IK,L,None,None,None,None,None,16,0,1,1,2,-5,None,None,57.53397,13.50706,62.0,15.0
+SHL,Timrå IK,Jeremy Boyce,F,30,184,84,Stockholm,Sweden,Huddinge IK,L,None,None,None,None,None,16,1,2,3,0,-1,None,None,59.32938,18.06871,62.0,15.0
+SHL,Timrå IK,Jonathan Dahlén,F,25,181,87,Östersund,Sweden,Östersunds IK,L,2016,2,42,Ottawa Senators,None,16,8,3,11,2,-10,None,None,63.1792,14.63566,62.0,15.0
+SHL,Timrå IK,Robin Hanzl,F,34,185,79,Usti nad Labem,Czechia,HC Slovan Ustecti Lvi,L,None,None,None,None,None,16,3,11,14,2,4,None,None,50.6607,14.03227,49.75,15.0
+SHL,Timrå IK,Sebastian Hartmann,F,29,185,84,Uppsala,Sweden,Almtuna IS,R,None,None,None,None,None,10,0,4,4,6,-4,None,None,59.85882,17.63889,62.0,15.0
+SHL,Timrå IK,Filip Hållander,F,23,186,89,Sundsvall,Sweden,Timrå IK,L,2018,2,58,Pittsburgh Penguins,None,16,3,2,5,6,-8,None,None,62.39129,17.3063,62.0,15.0
+SHL,Timrå IK,Oliver Johansson,F,20,183,83,Sundsvall,Sweden,Njurunda SK,L,2021,3,74,Ottawa Senators,None,16,2,1,3,2,-1,None,None,62.39129,17.3063,62.0,15.0
+SHL,Timrå IK,Anton Lander,F,32,182,87,Sundsvall,Sweden,Timrå IK,L,2009,2,40,Edmonton Oilers,None,16,1,5,6,0,-6,None,None,62.39129,17.3063,62.0,15.0
+SHL,Timrå IK,Albin Lundin,F,27,185,85,Stockholm,Sweden,Sollentuna HC,L,None,None,None,None,None,15,2,1,3,6,-2,None,None,59.32938,18.06871,62.0,15.0
+SHL,Timrå IK,Panu Mieho,F,28,186,84,Helsinki,Finland,Jokerit,L,None,None,None,None,None,16,1,2,3,6,-4,None,None,60.16952,24.93545,64.0,26.0
+SHL,Timrå IK,Emil Pettersson,F,29,187,80,Sundsvall,Sweden,Ånge IK,L,2013,6,155,Nashville Predators,None,16,3,11,14,4,8,None,None,62.39129,17.3063,62.0,15.0
+SHL,Timrå IK,Magnus Pääjärvi,F,32,187,93,Norrköping,Sweden,IF Malmö Redhawks,L,2009,1,10,Edmonton Oilers,None,16,5,3,8,0,6,None,None,58.59419,16.1826,62.0,15.0
+SHL,Timrå IK,Dennis Värmhed,F,20,189,88,Stockholm,Sweden,Brinkens IF,L,None,None,None,None,None,15,0,0,0,0,-3,None,None,59.32938,18.06871,62.0,15.0
+SHL,Timrå IK,Anton Wedin,F,30,181,86,Sundsvall,Sweden,IF Sundsvall Hockey,L,None,None,None,None,None,2,0,0,0,0,-2,None,None,62.39129,17.3063,62.0,15.0
+SHL,Växjö Lakers HC,Emil Larmi,G,27,182,84,Lahti,Finland,Pelicans,L,None,None,None,None,None,15,None,None,None,None,None,2.15,0.911,60.98267,25.66151,64.0,26.0
+SHL,Växjö Lakers HC,Adam Åhman,G,24,182,74,Västervik,Sweden,Västerviks IK,L,None,None,None,None,None,2,None,None,None,None,None,1.52,0.949,57.7584,16.63733,62.0,15.0
+SHL,Växjö Lakers HC,Gabriel Carlsson,D,26,195,92,Örebro,Sweden,Örebro IS,L,2015,1,29,Columbus Blue Jackets,None,10,2,4,6,4,1,None,None,59.27412,15.2066,62.0,15.0
+SHL,Växjö Lakers HC,Brian Cooper,D,30,178,89,Anchorage,USA,None,L,2012,5,127,Anaheim Ducks,None,17,0,5,5,12,5,None,None,61.21806,-149.90028,-14.60485,-57.65625
+SHL,Växjö Lakers HC,Zach Giuttari,D,27,188,86,Warwick,USA,None,R,None,None,None,None,None,17,1,3,4,4,1,None,None,41.7001,-71.41617,-14.60485,-57.65625
+SHL,Växjö Lakers HC,Arvid Hurtig,D,20,186,85,None,Sweden,Grästorps IK,L,None,None,None,None,None,8,0,0,0,2,1,None,None,None,None,62.0,15.0
+SHL,Växjö Lakers HC,Keegan Lowe,D,30,188,87,Greenwich,Canada,Shattuck St. Mary's,L,2011,3,73,Carolina Hurricanes,None,17,1,2,3,38,6,None,None,48.80501,-88.85841,60.10867,-113.64258
+SHL,Växjö Lakers HC,Eric Martinsson,D,31,186,88,Klippan,Sweden,Åstorps IK,L,None,None,None,None,None,17,0,5,5,4,-1,None,None,56.11138,13.23836,62.0,15.0
+SHL,Växjö Lakers HC,Joel Persson,D,29,186,89,Kristianstad,Sweden,Osby IK,R,None,None,None,None,None,17,1,9,10,6,6,None,None,56.03129,14.15242,62.0,15.0
+SHL,Växjö Lakers HC,Elias Rosén,D,24,182,84,Landshut,Sweden,Leksands IF,L,None,None,None,None,None,16,0,2,2,0,3,None,None,None,None,62.0,15.0
+SHL,Växjö Lakers HC,Joachim Blichfeld,F,25,187,89,Frederikshavn,Denmark,Frederikshavn IK,R,2016,7,210,San Jose Sharks,None,16,5,3,8,4,0,None,None,57.44073,10.53661,56.0,10.0
+SHL,Växjö Lakers HC,Filip Eriksson,F,19,182,78,Ljungby,Sweden,IF Troja-Ljungby,L,2023,6,165,Montréal Canadiens,None,17,0,1,1,2,-3,None,None,None,None,62.0,15.0
+SHL,Växjö Lakers HC,Hugo Gustafsson,F,23,179,80,Södertälje,Sweden,Södertälje SK,L,None,None,None,None,None,14,0,3,3,2,-4,None,None,59.19554,17.62525,62.0,15.0
+SHL,Växjö Lakers HC,Kalle Kossila,F,30,178,84,Neuilly-sur-Seine,Finland,GrIFK,L,None,None,None,None,None,17,8,11,19,6,9,None,None,None,None,64.0,26.0
+SHL,Växjö Lakers HC,Martin Lundberg,F,33,184,95,Skellefteå,Sweden,Skellefteå AIK,L,None,None,None,None,None,8,1,0,1,2,1,None,None,64.62477,21.07689,62.0,15.0
+SHL,Växjö Lakers HC,Dylan McLaughlin,F,28,180,85,Lancaster,USA,None,L,None,None,None,None,None,10,1,4,5,4,3,None,None,40.03788,-76.30551,-14.60485,-57.65625
+SHL,Växjö Lakers HC,Ludvig Nilsson,F,29,186,87,Stockholm,Sweden,Huddinge IK,L,None,None,None,None,None,4,0,0,0,2,0,None,None,59.32938,18.06871,62.0,15.0
+SHL,Växjö Lakers HC,Tobias Rieder,F,30,180,86,Landshut,Germany,EV Landshut,L,2011,4,114,Edmonton Oilers,None,14,3,6,9,2,10,None,None,48.52961,12.16179,51.5,10.5
+SHL,Växjö Lakers HC,Robert Rosén,F,36,179,80,Alvesta,Sweden,Alvesta SK,R,None,None,None,None,None,17,7,2,9,6,1,None,None,56.84663,14.4749,62.0,15.0
+SHL,Växjö Lakers HC,Jakub Stancl,F,18,191,92,Praha,Czechia,HC Slavia Praha,L,2023,4,106,St. Louis Blues,None,4,0,0,0,2,-1,None,None,50.08804,14.42076,49.75,15.0
+SHL,Växjö Lakers HC,Victor Stjernborg,F,20,179,92,Malmö,Sweden,IF Malmö Redhawks,L,2021,4,108,Chicago Blackhawks,None,15,2,3,5,12,3,None,None,55.60587,13.00073,62.0,15.0
+SHL,Växjö Lakers HC,Joel Svensson,F,18,186,83,Oskarshamn,Sweden,IK Oskarshamn,R,None,None,None,None,None,5,0,1,1,0,2,None,None,57.26455,16.44837,62.0,15.0
+SHL,Växjö Lakers HC,Emil Sylvegård,F,30,188,98,Malmö,Sweden,IF Malmö Redhawks,L,None,None,None,None,None,17,1,1,2,27,-2,None,None,55.60587,13.00073,62.0,15.0
+SHL,Växjö Lakers HC,Marcus Sylvegård,F,24,184,86,Gessie,Sweden,IF Malmö Redhawks,R,None,None,None,None,None,17,8,7,15,2,9,None,None,55.5,12.95833,62.0,15.0
+SHL,Växjö Lakers HC,Manuel Ågren,F,29,180,82,Oskarshamn,Sweden,IK Oskarshamn,L,None,None,None,None,None,16,1,5,6,4,6,None,None,57.26455,16.44837,62.0,15.0
+SHL,Växjö Lakers HC,Noah Östlund,F,19,181,74,Nykvarn,Sweden,Södertälje SK,L,2022,1,16,Buffalo Sabres,918333,15,4,2,6,4,4,None,None,59.19479,17.40632,62.0,15.0
+SHL,Örebro HK,Jonas Arntzen,G,25,191,86,Lillehammer,Norway,Lillehammer IK,R,None,None,None,None,None,5,None,None,None,None,None,2.42,0.911,61.11514,10.46628,62.0,10.0
+SHL,Örebro HK,Jhonas Enroth,G,35,180,75,Stockholm,Sweden,Huddinge IK,L,2006,2,46,Buffalo Sabres,None,11,None,None,None,None,None,2.41,0.915,59.32938,18.06871,62.0,15.0
+SHL,Örebro HK,Linus Arnesson,D,29,187,97,Stockholm,Sweden,Hanvikens SK,L,2013,2,60,Boston Bruins,None,10,0,1,1,0,2,None,None,59.32938,18.06871,62.0,15.0
+SHL,Örebro HK,Gustav Backström,D,28,188,90,Lindesberg,Sweden,Guldsmedshytte SK,L,None,None,None,None,None,15,0,5,5,2,2,None,None,59.64119,15.34064,62.0,15.0
+SHL,Örebro HK,Filip Berglund,D,26,190,93,Skellefteå,Sweden,Bergsbyns SK,R,2016,3,91,Edmonton Oilers,None,16,1,2,3,6,0,None,None,64.62477,21.07689,62.0,15.0
+SHL,Örebro HK,Philip Holm,D,31,186,86,Stockholm,Sweden,Huddinge IK,L,None,None,None,None,None,16,2,5,7,10,0,None,None,59.32938,18.06871,62.0,15.0
+SHL,Örebro HK,Samuel Johannesson,D,22,181,80,Halmstad,Sweden,Halmstad HF,R,2020,6,176,Columbus Blue Jackets,None,16,3,8,11,2,6,None,None,56.67446,12.85676,62.0,15.0
+SHL,Örebro HK,Robin Norell,D,28,180,87,Stockholm,Sweden,Huddinge IK,L,2013,4,111,Chicago Blackhawks,None,16,1,0,1,6,-3,None,None,59.32938,18.06871,62.0,15.0
+SHL,Örebro HK,Rasmus Rissanen,D,32,191,98,Kuopio,Finland,KalPa,L,2009,6,178,Carolina Hurricanes,None,16,0,7,7,8,9,None,None,62.89238,27.67703,64.0,26.0
+SHL,Örebro HK,Hannes Björninen,F,28,185,86,Lahti,Finland,Pelicans,L,None,None,None,None,None,16,1,11,12,10,6,None,None,60.98267,25.66151,64.0,26.0
+SHL,Örebro HK,Mathias Bromé,F,29,182,83,Örby,Sweden,Huddinge IK,L,None,None,None,None,None,16,7,4,11,2,4,None,None,59.93333,17.81667,62.0,15.0
+SHL,Örebro HK,Oliver Eklind,F,25,185,87,Kumla,Sweden,IFK Kumla,L,None,None,None,None,None,16,1,3,4,6,3,None,None,59.1277,15.14341,62.0,15.0
+SHL,Örebro HK,Elias Ekström,F,22,178,77,None,Sweden,Hällefors IK,L,None,None,None,None,None,16,0,0,0,0,-7,None,None,None,None,62.0,15.0
+SHL,Örebro HK,Glenn Gustafsson,F,25,179,92,Stockholm,Sweden,Västerhaninge IF,L,None,None,None,None,None,16,2,0,2,8,-1,None,None,59.32938,18.06871,62.0,15.0
+SHL,Örebro HK,Emil Larsson,F,30,189,86,Lugano,Sweden,Strömsbro IF,L,None,None,None,None,None,16,6,4,10,4,8,None,None,None,None,62.0,15.0
+SHL,Örebro HK,Ludvig Larsson,F,28,182,85,Malmö,Sweden,Limhamn HK,L,None,None,None,None,None,13,3,2,5,4,0,None,None,55.60587,13.00073,62.0,15.0
+SHL,Örebro HK,Robert Leino,F,30,182,83,Hämeenlinna,Finland,HPK,R,None,None,None,None,None,16,5,6,11,4,-1,None,None,60.99596,24.46434,64.0,26.0
+SHL,Örebro HK,Jonathan Lekkerimäki,F,19,181,78,Huddinge,Sweden,Flemingsbergs IK,R,2022,1,15,Vancouver Canucks,950000,15,8,3,11,8,1,None,None,59.21428,18.01584,62.0,15.0
+SHL,Örebro HK,Christopher Mastomäki,F,26,192,93,Nacka,Sweden,Älta IF,L,None,None,None,None,None,16,0,5,5,8,0,None,None,59.31077,18.17551,62.0,15.0
+SHL,Örebro HK,Milton Oscarson,F,20,200,98,Örebro,Sweden,IFK Kumla,L,2023,6,167,Chicago Blackhawks,None,16,2,3,5,2,3,None,None,59.27412,15.2066,62.0,15.0
+SHL,Örebro HK,Axel Sundberg,F,25,188,95,None,Sweden,Ekerö IK,R,None,None,None,None,None,16,1,1,2,2,2,None,None,None,None,62.0,15.0
+SHL,Örebro HK,William Wikman,F,26,180,87,Danderyd,Sweden,IFK Täby,L,None,None,None,None,None,16,3,4,7,11,6,None,None,59.40924,18.04847,62.0,15.0

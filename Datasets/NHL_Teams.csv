@@ -1,0 +1,33 @@
+Rang,Equipe,Match Joué,Points,Victoire,Défaite,Victoire en Prolongation,Défaite en Prolongation,Buts Marqués,Buts Encaissés,Point Par Match,Ville,Latitude Ville,Longitude Ville
+1,Vegas Golden Knights,15,25,9,2,3,1,58,32,1.67,Las Vegas,36.17497,-115.13722
+1,Boston Bruins,13,23,9,1,2,1,44,25,1.77,Boston,42.35843,-71.05977
+2,Vancouver Canucks,13,21,10,2,0,1,59,26,1.62,Vancouver,49.24966,-123.11934
+2,New York Rangers,13,21,8,2,2,1,43,28,1.62,New York,40.71427,-74.00597
+3,Los Angeles Kings,13,19,8,2,0,3,54,38,1.46,Los Angeles,34.05223,-118.24368
+4,Dallas Stars,12,17,6,3,2,1,37,31,1.42,Dallas,32.78306,-96.80667
+3,Florida Panthers,13,17,6,4,2,1,40,37,1.31,Sunrise,36.21108,-115.07306
+6,Winnipeg Jets,13,16,6,4,1,2,47,44,1.23,Winnipeg,49.8844,-97.14704
+5,Carolina Hurricanes,14,16,4,6,4,0,47,49,1.14,Raleigh,35.7721,-78.63861
+5,Colorado Avalanche,12,16,7,4,1,0,41,35,1.33,Denver,39.73915,-104.9847
+4,Detroit Red Wings,14,16,6,5,1,2,50,45,1.14,Detroit,42.33143,-83.04575
+7,Toronto Maple Leafs,14,16,3,5,4,2,50,52,1.14,Toronto,43.70011,-79.4163
+6,Tampa Bay Lightning,14,16,6,4,0,4,53,50,1.14,Tampa,27.94752,-82.45843
+8,New Jersey Devils,13,15,6,5,1,1,48,49,1.15,Newark,40.73566,-74.17237
+9,Buffalo Sabres,14,15,6,6,1,1,44,43,1.07,Buffalo,42.88645,-78.87837
+10,Washington Capitals,12,14,4,4,2,2,28,36,1.17,Washington,38.89511,-77.03637
+7,Anaheim Ducks,13,14,4,6,3,0,40,40,1.08,Anaheim,33.83529,-117.9145
+11,Montréal Canadiens,13,14,2,5,4,2,39,46,1.08,Montréal,45.50884,-73.58781
+9,Arizona Coyotes,13,13,4,6,2,1,42,37,1.0,Glendale,33.53865,-112.18599
+12,New York Islanders,12,13,5,4,0,3,31,36,1.08,New York,40.71427,-74.00597
+13,Philadelphia Flyers,14,13,6,7,0,1,44,44,0.93,Philadelphia,39.95238,-75.16362
+10,Seattle Kraken,14,13,3,6,2,3,38,49,0.93,Seattle,47.60621,-122.33207
+8,St. Louis Blues,12,13,5,5,1,1,29,34,1.08,St. Louis,38.62727,-90.19789
+14,Pittsburgh Penguins,12,12,5,6,1,0,42,34,1.0,Pittsburgh,40.44062,-79.99589
+11,Minnesota Wild,14,12,4,7,1,2,47,56,0.86,St. Paul,17.40605,-62.83562
+15,Columbus Blue Jackets,13,11,3,6,1,3,34,44,0.85,Columbus,39.96118,-82.99879
+16,Ottawa Senators,12,10,5,7,0,0,46,43,0.83,Ottawa,45.41117,-75.69812
+12,Chicago Blackhawks,12,10,4,7,1,0,31,41,0.83,Chicago,41.85003,-87.65005
+14,Calgary Flames,13,10,4,7,0,2,36,48,0.77,Calgary,51.05011,-114.08529
+13,Nashville Predators,13,10,4,8,1,0,37,42,0.77,Nashville,36.16589,-86.78444
+16,San Jose Sharks,14,5,2,11,0,1,17,63,0.36,San José,9.93333,-84.08333
+15,Edmonton Oilers,12,5,2,9,0,1,31,50,0.42,Edmonton,53.55014,-113.46871

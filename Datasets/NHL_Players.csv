@@ -1,0 +1,790 @@
+Ligue,Equipe,Joueur,Position,Age,Taille,Poids,Ville de Naissance,Pays de Naissance,Club Formateur,Shoot,Année de Draft,Ronde de Draft,Position de Draft,Equipe de Draft,Salaire NHL,Match Joué,But,Assist,Point,Pénalités,Plus/Minus,GAA,SVP,Latitude Ville,Longitude Ville,Latitude Pays,Longitude Pays
+NHL,Anaheim Ducks,Lukas Dostal,G,23,188,79,Brno,Czechia,HC Kometa Brno,L,2018,3,85,Anaheim Ducks,812500,7,None,None,None,None,None,3.15,0.91,49.19522,16.60796,49.75,15.0
+NHL,Anaheim Ducks,John Gibson,G,30,188,95,Pittsburgh,USA,None,L,2011,2,39,Anaheim Ducks,6400000,7,None,None,None,None,None,2.41,0.921,40.44062,-79.99589,-14.60485,-57.65625
+NHL,Anaheim Ducks,Jamie Drysdale,D,21,180,84,Toronto,Canada,Toronto Marlboros MHA,R,2020,1,6,Anaheim Ducks,2300000,2,0,2,2,0,2,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Anaheim Ducks,Cam Fowler,D,31,188,97,Windsor,USA,None,L,2010,1,12,Anaheim Ducks,6500000,13,1,6,7,2,-1,None,None,43.58,-72.58624,-14.60485,-57.65625
+NHL,Anaheim Ducks,Radko Gudas,D,33,183,94,Kladno,Czechia,HC Kladno,R,2010,3,66,Tampa Bay Lightning,4000000,13,1,1,2,28,4,None,None,50.14734,14.10285,49.75,15.0
+NHL,Anaheim Ducks,Jackson LaCombe,D,22,188,91,Eden Prairie,USA,None,L,2019,2,39,Anaheim Ducks,925000,13,0,3,3,8,-4,None,None,44.85469,-93.47079,-14.60485,-57.65625
+NHL,Anaheim Ducks,Ilya Lyubushkin,D,29,187,91,Moskva,Russia,Sozvezdie Moskva,R,None,None,None,None,2750000,13,0,1,1,12,2,None,None,55.75222,37.61556,60.0,100.0
+NHL,Anaheim Ducks,Pavel Mintyukov,D,19,185,87,Moskva,Russia,CSKA Moskva,L,2022,1,10,Anaheim Ducks,918333,13,1,8,9,2,2,None,None,55.75222,37.61556,60.0,100.0
+NHL,Anaheim Ducks,Urho Vaakanainen,D,24,188,91,Joensuu,Finland,Jokipojat,L,2017,1,18,Boston Bruins,850000,9,0,1,1,0,1,None,None,62.60118,29.76316,64.0,26.0
+NHL,Anaheim Ducks,Leo Carlsson,F,18,190,90,Karlstad,Sweden,Färjestads BK,L,2023,1,2,Anaheim Ducks,950000,9,6,1,7,4,0,None,None,59.3793,13.50357,62.0,15.0
+NHL,Anaheim Ducks,Sam Carrick,F,31,183,91,Stouffville,Canada,None,R,2010,5,144,Toronto Maple Leafs,850000,13,3,2,5,16,3,None,None,44.00012,-79.3163,60.10867,-113.64258
+NHL,Anaheim Ducks,Benoit-Olivier Groulx,F,23,188,91,Rouen,Canada,AHM Gatineau,L,2018,2,54,Anaheim Ducks,775000,7,0,1,1,2,1,None,None,38.10059,-83.49463,60.10867,-113.64258
+NHL,Anaheim Ducks,Adam Henrique,F,33,183,88,Brantford,Canada,Brantford MHA,L,2008,3,82,New Jersey Devils,5825000,12,2,4,6,6,-1,None,None,43.1334,-80.26636,60.10867,-113.64258
+NHL,Anaheim Ducks,Ross Johnston,F,29,195,105,Charlottetown,Canada,None,L,None,None,None,None,1100000,13,0,2,2,14,1,None,None,46.23459,-63.1256,60.10867,-113.64258
+NHL,Anaheim Ducks,Max Jones,F,25,191,98,Rochester,USA,None,L,2016,1,24,Anaheim Ducks,1295000,10,0,2,2,4,-2,None,None,43.15478,-77.61556,-14.60485,-57.65625
+NHL,Anaheim Ducks,Alex Killorn,F,34,185,88,Halifax,Canada,AHM Lac St-Louis,L,2007,3,77,Tampa Bay Lightning,6250000,3,0,2,2,0,-1,None,None,44.88392,-63.51171,60.10867,-113.64258
+NHL,Anaheim Ducks,Brett Leason,F,24,195,99,Calgary,Canada,Crowfoot MHA,R,2019,2,56,Washington Capitals,775000,13,2,1,3,6,0,None,None,51.05011,-114.08529,60.10867,-113.64258
+NHL,Anaheim Ducks,Isac Lundeström,F,24,184,87,Gällivare,Sweden,Malmbergets AIF,L,2018,1,23,Anaheim Ducks,1800000,None,None,None,None,None,None,None,None,67.13333,20.81667,62.0,15.0
+NHL,Anaheim Ducks,Brock McGinn,F,29,183,85,Fergus,Canada,None,L,2012,2,47,Carolina Hurricanes,2750000,None,None,None,None,None,None,None,None,43.70604,-80.37761,60.10867,-113.64258
+NHL,Anaheim Ducks,Mason McTavish,F,20,183,97,Zürich,Canada,EV Zug,L,2021,1,3,Anaheim Ducks,894167,13,6,8,14,14,0,None,None,None,None,60.10867,-113.64258
+NHL,Anaheim Ducks,Jakob Silfverberg,F,33,186,94,Gävle,Sweden,Brynäs IF,R,2009,2,39,Ottawa Senators,5250000,13,1,2,3,2,0,None,None,60.67452,17.14174,62.0,15.0
+NHL,Anaheim Ducks,Ryan Strome,F,30,185,87,Mississauga,Canada,Toronto Marlboros MHA,R,2011,1,5,New York Islanders,5000000,12,2,10,12,6,3,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Anaheim Ducks,Troy Terry,F,26,183,84,Denver,USA,Colorado Thunderbirds,R,2015,5,148,Anaheim Ducks,7000000,13,5,6,11,6,-2,None,None,39.73915,-104.9847,-14.60485,-57.65625
+NHL,Anaheim Ducks,Frank Vatrano,F,29,178,91,East Longmeadow,USA,None,L,None,None,None,None,3650000,13,9,3,12,23,3,None,None,42.0501,-72.58287,-14.60485,-57.65625
+NHL,Anaheim Ducks,Trevor Zegras,F,22,183,84,Bedford,USA,None,L,2019,1,9,Anaheim Ducks,5750000,12,1,1,2,8,-4,None,None,41.63526,-70.92701,-14.60485,-57.65625
+NHL,Arizona Coyotes,Connor Ingram,G,26,188,89,Saskatoon,Canada,Humboldt MHA,L,2016,3,88,Tampa Bay Lightning,1950000,6,None,None,None,None,None,2.47,0.919,52.13238,-106.66892,60.10867,-113.64258
+NHL,Arizona Coyotes,Karel Vejmelka,G,27,193,92,Trebic,Czechia,SK Horacka Slavia Trebic,R,2015,5,145,Nashville Predators,2725000,8,None,None,None,None,None,2.96,0.908,49.21492,15.88166,49.75,15.0
+NHL,Arizona Coyotes,Josh Brown,D,29,195,100,London,Canada,None,R,2013,6,152,Florida Panthers,1275000,6,1,0,1,8,0,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Arizona Coyotes,Travis Dermott,D,26,182,92,Newmarket,Canada,York Simcoe MHA,L,2015,2,34,Toronto Maple Leafs,800000,10,0,1,1,6,-4,None,None,44.05011,-79.46631,60.10867,-113.64258
+NHL,Arizona Coyotes,Matt Dumba,D,29,183,82,Regina,Canada,Crowchild MHA,R,2012,1,7,Minnesota Wild,3900000,13,1,0,1,16,-6,None,None,50.45008,-104.6178,60.10867,-113.64258
+NHL,Arizona Coyotes,Sean Durzi,D,25,183,88,Mississauga,Canada,None,R,2018,2,52,Toronto Maple Leafs,1700000,13,4,4,8,25,6,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Arizona Coyotes,Michael Kesselring,D,23,193,86,Manchester,USA,None,R,2018,6,164,Edmonton Oilers,925000,None,None,None,None,None,None,None,None,42.99564,-71.45479,-14.60485,-57.65625
+NHL,Arizona Coyotes,Janis Moser,D,23,185,85,Biel-Bienne,Switzerland,EHC Biel-Bienne,L,2021,2,60,Arizona Coyotes,886667,13,2,3,5,2,4,None,None,47.13713,7.24608,47.00016,8.01427
+NHL,Arizona Coyotes,Troy Stecher,D,29,178,84,Richmond,Canada,Richmond MHA,R,None,None,None,None,1100000,11,0,1,1,4,-1,None,None,43.87111,-79.43725,60.10867,-113.64258
+NHL,Arizona Coyotes,Juuso Välimäki,D,25,187,96,Tampere,Finland,NoPy,L,2017,1,16,Calgary Flames,1000000,13,0,4,4,0,1,None,None,61.49911,23.78712,64.0,26.0
+NHL,Arizona Coyotes,Nick Bjugstad,F,31,197,95,Blaine,USA,None,R,2010,1,19,Florida Panthers,2100000,13,2,6,8,20,5,None,None,48.43276,-108.95866,-14.60485,-57.65625
+NHL,Arizona Coyotes,Travis Boyd,F,30,183,86,Hopkins,USA,None,R,2011,6,177,Washington Capitals,1750000,7,0,3,3,2,-1,None,None,33.14956,-95.56395,-14.60485,-57.65625
+NHL,Arizona Coyotes,Michael Carcone,F,27,175,77,Ajax,Canada,Oshawa MHA,L,None,None,None,None,775000,12,4,2,6,8,2,None,None,43.85012,-79.03288,60.10867,-113.64258
+NHL,Arizona Coyotes,Logan Cooley,F,19,179,79,Pittsburgh,USA,Pittsburgh Penguins Elite,L,2022,1,3,Arizona Coyotes,950000,13,1,7,8,4,0,None,None,40.44062,-79.99589,-14.60485,-57.65625
+NHL,Arizona Coyotes,Lawson Crouse,F,26,193,98,Mount Brydges,Canada,Elgin Middlesex MHA,L,2015,1,11,Florida Panthers,4300000,12,5,3,8,6,4,None,None,42.90009,-81.48306,60.10867,-113.64258
+NHL,Arizona Coyotes,Barrett Hayton,F,23,186,94,Peterborough,Canada,Peterborough MHA,L,2018,1,5,Arizona Coyotes,1775000,13,1,0,1,18,-4,None,None,44.30012,-78.31623,60.10867,-113.64258
+NHL,Arizona Coyotes,Clayton Keller,F,25,178,81,Chesterfield,USA,None,L,2016,1,7,Arizona Coyotes,7150000,13,5,7,12,14,-4,None,None,37.35682,-77.44165,-14.60485,-57.65625
+NHL,Arizona Coyotes,Alexander Kerfoot,F,29,178,84,Vancouver,Canada,Hollyburn MHA,L,2012,5,150,New Jersey Devils,3500000,13,0,3,3,0,-1,None,None,49.24966,-123.11934,60.10867,-113.64258
+NHL,Arizona Coyotes,Matias Maccelli,F,23,180,80,Turku,Finland,TPS,L,2019,4,98,Arizona Coyotes,3425000,13,2,8,10,4,5,None,None,60.45148,22.26869,64.0,26.0
+NHL,Arizona Coyotes,Jack McBain,F,23,193,96,Toronto,Canada,Don Mills Flyers MHA,L,2018,3,63,Minnesota Wild,1599999,13,4,3,7,11,1,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Arizona Coyotes,Liam O'Brien,F,29,185,97,Halifax,Canada,Halifax MHA,L,None,None,None,None,775000,13,2,3,5,40,2,None,None,44.88392,-63.51171,60.10867,-113.64258
+NHL,Arizona Coyotes,Nick Schmaltz,F,27,183,82,Madison,USA,None,R,2014,1,20,Chicago Blackhawks,5850000,13,4,9,13,2,-5,None,None,43.07305,-89.40123,-14.60485,-57.65625
+NHL,Arizona Coyotes,Jason Zucker,F,31,180,85,Newport Beach,USA,None,L,2010,2,59,Minnesota Wild,5300000,6,2,0,2,8,0,None,None,36.8074,-76.45339,-14.60485,-57.65625
+NHL,Boston Bruins,Jeremy Swayman,G,24,191,88,Anchorage,USA,None,L,2017,4,111,Boston Bruins,3475000,6,None,None,None,None,None,1.49,0.952,61.21806,-149.90028,-14.60485,-57.65625
+NHL,Boston Bruins,Linus Ullmark,G,30,193,97,Lugnvik,Sweden,Lugnviks IF,L,2012,6,163,Buffalo Sabres,5000000,7,None,None,None,None,None,2.26,0.926,62.93222,17.90694,62.0,15.0
+NHL,Boston Bruins,Brandon Carlo,D,26,197,99,Colorado Springs,USA,None,R,2015,2,37,Boston Bruins,4100000,13,0,3,3,6,3,None,None,38.83388,-104.82136,-14.60485,-57.65625
+NHL,Boston Bruins,Derek Forbort,D,31,193,94,Duluth,USA,None,L,2010,1,15,Los Angeles Kings,3000000,9,0,2,2,6,9,None,None,46.78327,-92.10658,-14.60485,-57.65625
+NHL,Boston Bruins,Matt Grzelcyk,D,29,180,79,Boston,USA,None,L,2012,3,85,Boston Bruins,3687500,9,1,0,1,0,2,None,None,42.35843,-71.05977,-14.60485,-57.65625
+NHL,Boston Bruins,Hampus Lindholm,D,29,189,98,Helsingborg,Sweden,Jonstorps IF,L,2012,1,6,Anaheim Ducks,6500000,13,0,2,2,22,0,None,None,56.04673,12.69437,62.0,15.0
+NHL,Boston Bruins,Mason Lohrei,D,22,193,95,Madison,USA,None,L,2020,2,58,Boston Bruins,925000,4,1,1,2,4,-1,None,None,43.07305,-89.40123,-14.60485,-57.65625
+NHL,Boston Bruins,Charlie McAvoy,D,25,185,95,Long Beach,USA,None,R,2016,1,14,Boston Bruins,9500000,9,2,6,8,23,6,None,None,33.76696,-118.18923,-14.60485,-57.65625
+NHL,Boston Bruins,Ian Mitchell,D,24,180,79,St. Albert,Canada,Calahoo MHA,R,2017,2,57,Chicago Blackhawks,775000,6,0,2,2,6,3,None,None,53.63344,-113.63533,60.10867,-113.64258
+NHL,Boston Bruins,Kevin Shattenkirk,D,34,183,94,New Rochelle,USA,None,R,2007,1,14,Colorado Avalanche,1050000,12,0,3,3,2,0,None,None,40.91149,-73.78235,-14.60485,-57.65625
+NHL,Boston Bruins,John Beecher,F,22,191,98,Elmira,USA,None,L,2019,1,30,Boston Bruins,925000,13,1,1,2,9,-3,None,None,42.0898,-76.80773,-14.60485,-57.65625
+NHL,Boston Bruins,Patrick Brown,F,31,185,95,Bloomfield Hills,USA,None,R,None,None,None,None,800000,6,0,0,0,2,-1,None,None,42.58364,-83.24549,-14.60485,-57.65625
+NHL,Boston Bruins,Charlie Coyle,F,31,190,101,Weymouth,USA,None,R,2010,1,28,San Jose Sharks,5250000,13,5,7,12,12,3,None,None,42.22093,-70.93977,-14.60485,-57.65625
+NHL,Boston Bruins,Jake DeBrusk,F,27,183,89,Edmonton,Canada,Hockey Edmonton,L,2015,1,14,Boston Bruins,4000000,12,1,4,5,4,4,None,None,53.55014,-113.46871,60.10867,-113.64258
+NHL,Boston Bruins,Trent Frederic,F,25,191,97,St. Louis,USA,None,L,2016,1,29,Boston Bruins,2300000,13,3,2,5,13,2,None,None,38.62727,-90.19789,-14.60485,-57.65625
+NHL,Boston Bruins,Morgan Geekie,F,25,191,91,Strathclair,Canada,Strathclair MHA,R,2017,3,67,Carolina Hurricanes,2000000,12,1,2,3,4,4,None,None,50.46671,-100.33415,60.10867,-113.64258
+NHL,Boston Bruins,Danton Heinen,F,28,185,85,Langley,Canada,Langley MHA,L,2014,4,116,Boston Bruins,775000,5,0,1,1,0,1,None,None,49.1002,-122.62588,60.10867,-113.64258
+NHL,Boston Bruins,Jakub Lauko,F,23,184,89,Praha,Czechia,KLH Chomutov,L,2018,3,77,Boston Bruins,787500,6,0,0,0,6,-4,None,None,50.08804,14.42076,49.75,15.0
+NHL,Boston Bruins,Milan Lucic,F,35,191,105,Vancouver,Canada,Vancouver Spirit,L,2006,2,50,Boston Bruins,1000000,4,0,2,2,2,-1,None,None,49.24966,-123.11934,60.10867,-113.64258
+NHL,Boston Bruins,Brad Marchand,F,35,175,80,Halifax,Canada,Halifax Region MHA,L,2006,3,71,Boston Bruins,6125000,13,6,7,13,12,5,None,None,44.88392,-63.51171,60.10867,-113.64258
+NHL,Boston Bruins,David Pastrnak,F,27,182,88,Havirov,Czechia,HC Havirov,R,2014,1,25,Boston Bruins,11250000,13,10,10,20,4,8,None,None,49.77984,18.43688,49.75,15.0
+NHL,Boston Bruins,Matthew Poitras,F,19,180,80,Brooklin,Canada,None,R,2022,2,54,Boston Bruins,870000,13,4,3,7,0,4,None,None,43.95833,-78.95972,60.10867,-113.64258
+NHL,Boston Bruins,Oskar Steen,F,25,178,88,Karlstad,Sweden,Forshaga IF,R,2016,6,165,Boston Bruins,800000,6,0,0,0,2,3,None,None,59.3793,13.50357,62.0,15.0
+NHL,Boston Bruins,James van Riemsdyk,F,34,191,94,Middletown,USA,None,L,2007,1,2,Philadelphia Flyers,1000000,13,4,6,10,4,4,None,None,41.71813,-72.57266,-14.60485,-57.65625
+NHL,Boston Bruins,Pavel Zacha,F,26,191,95,Brno,Czechia,HC Kometa Brno,L,2015,1,6,New Jersey Devils,4750000,13,4,5,9,2,5,None,None,49.19522,16.60796,49.75,15.0
+NHL,Buffalo Sabres,Eric Comrie,G,28,185,83,Edmonton,Canada,LA Selects,L,2013,2,59,Winnipeg Jets,1800000,3,None,None,None,None,None,2.45,0.914,53.55014,-113.46871,60.10867,-113.64258
+NHL,Buffalo Sabres,Devon Levi,G,21,183,84,Montréal,Canada,AHM Dollard,L,2020,7,212,Florida Panthers,925000,6,None,None,None,None,None,3.17,0.896,45.50884,-73.58781,60.10867,-113.64258
+NHL,Buffalo Sabres,Ukko-Pekka Luukkonen,G,24,195,98,Espoo,Finland,Jää-Ahmat,L,2017,2,54,Buffalo Sabres,837500,6,None,None,None,None,None,3.1,0.899,60.2052,24.6522,64.0,26.0
+NHL,Buffalo Sabres,Jacob Bryson,D,25,175,80,London,Canada,None,L,2017,4,99,Buffalo Sabres,1850000,3,0,0,0,0,-1,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Buffalo Sabres,Connor Clifton,D,28,180,86,Long Branch,USA,None,R,2013,5,133,Phoenix Coyotes,3333333,12,0,2,2,28,-3,None,None,40.30428,-73.99236,-14.60485,-57.65625
+NHL,Buffalo Sabres,Rasmus Dahlin,D,23,190,92,Trollhättan,Sweden,HC Lidköping,L,2018,1,1,Buffalo Sabres,6000000,14,3,8,11,8,0,None,None,58.28365,12.28864,62.0,15.0
+NHL,Buffalo Sabres,Erik Johnson,D,35,193,102,Bloomington,USA,None,R,2006,1,1,St. Louis Blues,3250000,14,1,0,1,0,-1,None,None,45.10336,-93.27531,-14.60485,-57.65625
+NHL,Buffalo Sabres,Ryan Johnson,D,22,185,88,Irvine,USA,Anaheim Jr. Ducks,L,2019,1,31,Buffalo Sabres,925000,3,0,1,1,4,2,None,None,33.66946,-117.82311,-14.60485,-57.65625
+NHL,Buffalo Sabres,Henri Jokiharju,D,24,183,91,Oulu,Finland,Koovee,R,2017,1,29,Chicago Blackhawks,2500000,14,2,5,7,2,3,None,None,65.01236,25.46816,64.0,26.0
+NHL,Buffalo Sabres,Owen Power,D,20,197,99,Mississauga,Canada,Mississauga Reps,L,2021,1,1,Buffalo Sabres,916667,14,1,7,8,2,6,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Buffalo Sabres,Mattias Samuelsson,D,23,193,105,Voorhees,USA,None,L,2018,2,32,Buffalo Sabres,4285714,11,1,2,3,6,4,None,None,39.84499,-74.95495,-14.60485,-57.65625
+NHL,Buffalo Sabres,Zach Benson,F,18,175,74,Langley,Canada,Chilliwack MHA,L,2023,1,13,Buffalo Sabres,950000,6,0,2,2,6,-1,None,None,49.1002,-122.62588,60.10867,-113.64258
+NHL,Buffalo Sabres,Brandon Biro,F,25,180,77,Sherwood Park,Canada,None,L,None,None,None,None,762500,2,2,0,2,0,1,None,None,53.51684,-113.3187,60.10867,-113.64258
+NHL,Buffalo Sabres,Dylan Cozens,F,22,191,88,Whitehorse,Canada,Whitehorse MHA,R,2019,1,7,Buffalo Sabres,7100000,12,3,4,7,23,-1,None,None,60.71611,-135.05375,60.10867,-113.64258
+NHL,Buffalo Sabres,Zemgus Girgensons,F,29,188,91,Riga,Latvia,EVHS,L,2012,1,14,Buffalo Sabres,2500000,14,2,0,2,7,0,None,None,56.946,24.10589,57.0,25.0
+NHL,Buffalo Sabres,Jordan Greenway,F,26,197,105,Canton,USA,None,L,2015,2,50,Minnesota Wild,3000000,14,2,4,6,10,4,None,None,23.11667,113.25,-14.60485,-57.65625
+NHL,Buffalo Sabres,Tyson Jost,F,25,180,85,St. Albert,Canada,Fort Saskatchewan MHA,L,2016,1,10,Colorado Avalanche,2000000,10,1,1,2,2,4,None,None,53.63344,-113.63533,60.10867,-113.64258
+NHL,Buffalo Sabres,Peyton Krebs,F,22,183,85,Okotoks,Canada,Okotoks MHA,L,2019,1,17,Vegas Golden Knights,863333,14,0,1,1,10,0,None,None,50.72399,-113.9654,60.10867,-113.64258
+NHL,Buffalo Sabres,Casey Mittelstadt,F,24,185,89,Edina,USA,Eden Prairie YHA,L,2017,1,8,Buffalo Sabres,2500000,14,3,9,12,8,4,None,None,44.88969,-93.34995,-14.60485,-57.65625
+NHL,Buffalo Sabres,Kyle Okposo,F,35,184,99,St. Paul,USA,None,R,2006,1,7,New York Islanders,2500000,14,0,3,3,8,0,None,None,44.94441,-93.09327,-14.60485,-57.65625
+NHL,Buffalo Sabres,Victor Olofsson,F,28,180,83,Örnsköldsvik,Sweden,Modo HK,L,2014,7,181,Buffalo Sabres,4750000,8,0,1,1,4,-1,None,None,63.29091,18.71525,62.0,15.0
+NHL,Buffalo Sabres,JJ Peterka,F,21,183,86,München,Germany,EHC München,L,2020,2,34,Buffalo Sabres,855833,14,6,4,10,6,5,None,None,48.13743,11.57549,51.5,10.5
+NHL,Buffalo Sabres,Jack Quinn,F,22,185,84,Cobden,Canada,Muskrat MHA,R,2020,1,8,Buffalo Sabres,863333,None,None,None,None,None,None,None,None,45.63341,-76.88273,60.10867,-113.64258
+NHL,Buffalo Sabres,Lukas Rousek,F,24,180,87,Ostrov nad Ohri,Czechia,HC Letci Letnany,L,2019,6,160,Buffalo Sabres,775000,3,0,0,0,0,-2,None,None,50.30592,12.93907,49.75,15.0
+NHL,Buffalo Sabres,Jeff Skinner,F,31,180,89,Markham,Canada,Markham Waxers MHA,L,2010,1,7,Carolina Hurricanes,9000000,14,7,6,13,4,-1,None,None,43.86682,-79.2663,60.10867,-113.64258
+NHL,Buffalo Sabres,Tage Thompson,F,26,197,100,Glendale,USA,None,R,2016,1,26,St. Louis Blues,7142857,14,6,6,12,6,-1,None,None,33.53865,-112.18599,-14.60485,-57.65625
+NHL,Buffalo Sabres,Alex Tuch,F,27,193,99,Syracuse,USA,None,R,2014,1,18,Minnesota Wild,4750000,13,4,6,10,20,-3,None,None,43.04812,-76.14742,-14.60485,-57.65625
+NHL,Calgary Flames,Jacob Markström,G,33,197,93,Gävle,Sweden,IK Sätra,L,2008,2,31,Florida Panthers,6000000,9,None,None,None,None,None,2.91,0.896,60.67452,17.14174,62.0,15.0
+NHL,Calgary Flames,Dan Vladar,G,26,196,84,Praha,Czechia,HC Kladno,L,2015,3,75,Boston Bruins,2200000,4,None,None,None,None,None,3.92,0.858,50.08804,14.42076,49.75,15.0
+NHL,Calgary Flames,Dustin Wolf,G,22,183,79,Gilroy,USA,None,L,2019,7,214,Calgary Flames,813333,None,None,None,None,None,None,None,None,37.00578,-121.56828,-14.60485,-57.65625
+NHL,Calgary Flames,Rasmus Andersson,D,27,182,97,Malmö,Sweden,HC Lugano,R,2015,2,53,Calgary Flames,4550000,9,2,3,5,15,0,None,None,55.60587,13.00073,62.0,15.0
+NHL,Calgary Flames,Nick DeSimone,D,28,188,88,East Amherst,USA,None,R,None,None,None,None,762500,3,0,3,3,0,3,None,None,42.36723,-72.51852,-14.60485,-57.65625
+NHL,Calgary Flames,Dennis Gilbert,D,27,188,98,Buffalo,USA,Amherst Knights,L,2015,3,91,Chicago Blackhawks,762500,9,0,1,1,4,-1,None,None,42.88645,-78.87837,-14.60485,-57.65625
+NHL,Calgary Flames,Noah Hanifin,D,26,191,98,Boston,USA,None,L,2015,1,5,Carolina Hurricanes,4950000,13,2,4,6,0,-7,None,None,42.35843,-71.05977,-14.60485,-57.65625
+NHL,Calgary Flames,Oliver Kylington,D,26,183,83,Stockholm,Sweden,AIK,L,2015,2,60,Calgary Flames,2500000,None,None,None,None,None,None,None,None,59.32938,18.06871,62.0,15.0
+NHL,Calgary Flames,Christopher Tanev,D,33,188,89,East York,Canada,Toronto Red Wings MHA,R,None,None,None,None,4500000,13,0,2,2,2,-4,None,None,43.16512,-74.53114,60.10867,-113.64258
+NHL,Calgary Flames,MacKenzie Weegar,D,29,183,91,Nepean,Canada,None,R,2013,7,206,Florida Panthers,6250000,13,2,4,6,6,-3,None,None,45.33619,-75.7225,60.10867,-113.64258
+NHL,Calgary Flames,Nikita Zadorov,D,28,197,107,Moskva,Russia,CSKA Moskva,L,2013,1,16,Buffalo Sabres,3750000,12,1,4,5,12,-6,None,None,55.75222,37.61556,60.0,100.0
+NHL,Calgary Flames,Mikael Backlund,F,34,184,94,Västerås,Sweden,Västerås IK,L,2007,1,24,Calgary Flames,5350000,13,2,4,6,4,2,None,None,59.61617,16.55276,62.0,15.0
+NHL,Calgary Flames,Blake Coleman,F,31,180,94,Plano,USA,None,L,2011,3,75,New Jersey Devils,4900000,13,3,2,5,10,2,None,None,33.01984,-96.69889,-14.60485,-57.65625
+NHL,Calgary Flames,Dillon Dubé,F,25,180,84,Golden,Canada,Cochrane MHA,L,2016,2,56,Calgary Flames,2300000,12,2,3,5,8,-7,None,None,44.48671,-79.71405,60.10867,-113.64258
+NHL,Calgary Flames,Walker Duehr,F,25,188,95,Sioux Falls,USA,None,R,None,None,None,None,825000,12,1,3,4,2,1,None,None,43.54997,-96.70033,-14.60485,-57.65625
+NHL,Calgary Flames,A.J. Greer,F,26,191,94,Notre-Dame-des-Prairies,Canada,None,L,2015,2,39,Colorado Avalanche,762500,12,2,2,4,13,0,None,None,46.05435,-73.42569,60.10867,-113.64258
+NHL,Calgary Flames,Jonathan Huberdeau,F,30,185,92,St-Jérôme,Canada,AHM St-Jérôme,L,2011,1,3,Florida Panthers,10500000,13,2,5,7,2,-13,None,None,45.78036,-74.00365,60.10867,-113.64258
+NHL,Calgary Flames,Nazem Kadri,F,33,183,87,London,Canada,None,L,2009,1,7,Toronto Maple Leafs,7000000,13,2,6,8,9,-10,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Calgary Flames,Elias Lindholm,F,28,184,88,Boden,Sweden,Gävle GIK,R,2013,1,5,Carolina Hurricanes,4850000,13,2,6,8,4,-4,None,None,66.04393,21.29977,62.0,15.0
+NHL,Calgary Flames,Andrew Mangiapane,F,27,178,83,Bolton,Canada,None,L,2015,6,166,Calgary Flames,5800000,12,4,4,8,23,-2,None,None,45.23338,-72.3658,60.10867,-113.64258
+NHL,Calgary Flames,Jakob Pelletier,F,22,175,77,Québec,Canada,Hockey Quebec-Centre,L,2019,1,26,Calgary Flames,863333,None,None,None,None,None,None,None,None,46.81228,-71.21454,60.10867,-113.64258
+NHL,Calgary Flames,Martin Pospisil,F,23,188,78,Zvolen,Slovakia,HKM Zvolen,L,2018,4,105,Calgary Flames,775000,3,2,0,2,0,3,None,None,48.57442,19.15324,48.66667,19.5
+NHL,Calgary Flames,Kevin Rooney,F,30,188,91,Canton,USA,None,L,None,None,None,None,1300000,None,None,None,None,None,None,None,None,23.11667,113.25,-14.60485,-57.65625
+NHL,Calgary Flames,Adam Ruzicka,F,24,194,98,Bratislava,Slovakia,HK Ruzinov 99 Bratislava,L,2017,4,109,Calgary Flames,762500,9,2,2,4,2,-1,None,None,48.14816,17.10674,48.66667,19.5
+NHL,Calgary Flames,Yegor Sharangovich,F,25,187,89,Minsk,Belarus,SDYUSHOR Minsk,L,2018,5,141,New Jersey Devils,3100000,13,2,3,5,2,-3,None,None,53.9,27.56667,53.0,28.0
+NHL,Calgary Flames,Connor Zary,F,22,183,81,Saskatoon,Canada,Saskatoon Bobcats,L,2020,1,24,Calgary Flames,863333,4,2,2,4,2,2,None,None,52.13238,-106.66892,60.10867,-113.64258
+NHL,Carolina Hurricanes,Frederik Andersen,G,34,192,104,Herning,Denmark,Herning IK,L,2012,3,87,Anaheim Ducks,3400000,6,None,None,None,None,None,2.87,0.894,56.13615,8.97662,56.0,10.0
+NHL,Carolina Hurricanes,Jaroslav Halák,G,38,179,84,Bratislava,Slovakia,HK Ruzinov 99 Bratislava,L,2003,9,271,Montréal Canadiens,None,None,None,None,None,None,None,None,None,48.14816,17.10674,48.66667,19.5
+NHL,Carolina Hurricanes,Pyotr Kochetkov,G,24,189,81,Penza,Russia,Dizel Penza,L,2019,2,36,Carolina Hurricanes,2000000,3,None,None,None,None,None,4.33,0.836,53.20066,45.00464,60.0,100.0
+NHL,Carolina Hurricanes,Antti Raanta,G,34,183,88,Rauma,Finland,Lukko,L,None,None,None,None,1500000,7,None,None,None,None,None,3.01,0.877,61.12724,21.51127,64.0,26.0
+NHL,Carolina Hurricanes,Brent Burns,D,38,195,104,Barrie,Canada,Toronto Marlboros MHA,R,2003,1,20,Minnesota Wild,5360000,14,2,2,4,4,-1,None,None,44.40011,-79.66634,60.10867,-113.64258
+NHL,Carolina Hurricanes,Jalen Chatfield,D,27,185,85,Ypsilanti,USA,None,R,None,None,None,None,762500,12,1,1,2,4,-3,None,None,42.24115,-83.61299,-14.60485,-57.65625
+NHL,Carolina Hurricanes,Tony DeAngelo,D,28,180,82,Sewell,USA,None,R,2014,1,19,Tampa Bay Lightning,1675000,13,1,5,6,12,-8,None,None,39.7665,-75.14434,-14.60485,-57.65625
+NHL,Carolina Hurricanes,Dmitri Orlov,D,32,181,97,Novokuznetsk,Russia,Metallurg Novokuznetsk,L,2009,2,55,Washington Capitals,7750000,14,1,5,6,18,-9,None,None,53.7557,87.1099,60.0,100.0
+NHL,Carolina Hurricanes,Brett Pesce,D,28,191,93,Tarrytown,USA,None,R,2013,3,66,Carolina Hurricanes,4025000,6,1,1,2,4,4,None,None,41.07621,-73.85875,-14.60485,-57.65625
+NHL,Carolina Hurricanes,Brady Skjei,D,29,191,95,Lakeville,USA,None,L,2012,1,28,New York Rangers,5250000,14,2,9,11,10,7,None,None,44.64969,-93.24272,-14.60485,-57.65625
+NHL,Carolina Hurricanes,Jaccob Slavin,D,29,191,94,Erie,USA,Hyland Hills YHA,L,2012,4,120,Carolina Hurricanes,5300000,14,3,4,7,2,3,None,None,42.12922,-80.08506,-14.60485,-57.65625
+NHL,Carolina Hurricanes,Sebastian Aho,F,26,183,80,Rauma,Finland,Kärpät,L,2015,2,35,Carolina Hurricanes,8460250,11,3,8,11,6,-3,None,None,61.12724,21.51127,64.0,26.0
+NHL,Carolina Hurricanes,Michael Bunting,F,28,183,84,Scarborough,Canada,Scarborough Young Bruins,L,2014,4,117,Arizona Coyotes,4500000,13,3,5,8,10,-3,None,None,43.70213,-79.24318,60.10867,-113.64258
+NHL,Carolina Hurricanes,Jack Drury,F,23,180,79,New York,USA,Krefeld YHA,L,2018,2,42,Carolina Hurricanes,925000,14,0,1,1,5,-2,None,None,40.71427,-74.00597,-14.60485,-57.65625
+NHL,Carolina Hurricanes,Jesper Fast,F,31,182,87,Nässjö,Sweden,Nässjö HC,R,2010,6,157,New York Rangers,2400000,14,1,2,3,4,5,None,None,57.60892,14.64041,62.0,15.0
+NHL,Carolina Hurricanes,Seth Jarvis,F,21,178,79,Winnipeg,Canada,Assiniboine Park MHA,R,2020,1,13,Carolina Hurricanes,894167,14,5,5,10,2,-5,None,None,49.8844,-97.14704,60.10867,-113.64258
+NHL,Carolina Hurricanes,Jesperi Kotkaniemi,F,23,188,91,Pori,Finland,Ässät,L,2018,1,3,Montréal Canadiens,4820000,14,6,7,13,12,-1,None,None,61.48333,21.78333,64.0,26.0
+NHL,Carolina Hurricanes,Brendan Lemieux,F,27,185,97,Denver,Canada,Toronto Red Wings MHA,L,2014,2,31,Buffalo Sabres,800000,8,1,0,1,31,-2,None,None,45.337,-62.10992,60.10867,-113.64258
+NHL,Carolina Hurricanes,Jordan Martinook,F,31,183,89,Brandon,Canada,None,L,2012,2,58,Phoenix Coyotes,1800000,14,0,4,4,10,2,None,None,49.84692,-99.95306,60.10867,-113.64258
+NHL,Carolina Hurricanes,Martin Necas,F,24,188,90,Nove Mesto na Morave,Czechia,HC Zdar nad Sazavou,R,2017,1,12,Carolina Hurricanes,3000000,14,5,6,11,6,-7,None,None,49.56144,16.07418,49.75,15.0
+NHL,Carolina Hurricanes,Stefan Noesen,F,30,185,93,Plano,USA,None,R,2011,1,21,Ottawa Senators,762500,14,2,6,8,4,-1,None,None,33.01984,-96.69889,-14.60485,-57.65625
+NHL,Carolina Hurricanes,Jordan Staal,F,35,193,100,Thunder Bay,Canada,Thunder Bay Kings,L,2006,1,2,Pittsburgh Penguins,2900000,14,1,4,5,12,-3,None,None,48.38202,-89.25018,60.10867,-113.64258
+NHL,Carolina Hurricanes,Andrei Svechnikov,F,23,189,88,Barnaul,Russia,Ak Bars Kazan,L,2018,1,2,Carolina Hurricanes,7750000,6,0,3,3,8,-3,None,None,53.36056,83.76361,60.0,100.0
+NHL,Carolina Hurricanes,Teuvo Teräväinen,F,29,180,87,Helsinki,Finland,Kojootit,L,2012,1,18,Chicago Blackhawks,5400000,14,8,1,9,2,-2,None,None,60.16952,24.93545,64.0,26.0
+NHL,Chicago Blackhawks,Petr Mrázek,G,31,188,85,Ostrava,Czechia,HC Vitkovice,L,2010,5,141,Detroit Red Wings,3800000,8,None,None,None,None,None,2.84,0.921,49.83465,18.28204,49.75,15.0
+NHL,Chicago Blackhawks,Arvid Söderblom,G,24,190,81,Göteborg,Sweden,Hovås HC,L,None,None,None,None,962500,5,None,None,None,None,None,3.96,0.883,57.70716,11.96679,62.0,15.0
+NHL,Chicago Blackhawks,Seth Jones,D,29,193,95,Arlington,USA,None,R,2013,1,4,Nashville Predators,9500000,12,0,5,5,6,-3,None,None,38.88101,-77.10428,-14.60485,-57.65625
+NHL,Chicago Blackhawks,Wyatt Kaiser,D,21,183,78,Andover,USA,None,L,2020,3,81,Chicago Blackhawks,916667,12,0,2,2,10,0,None,None,42.65843,-71.137,-14.60485,-57.65625
+NHL,Chicago Blackhawks,Kevin Korchinski,D,19,190,84,Saskatoon,Canada,Saskatoon Flyers,L,2022,1,7,Chicago Blackhawks,918333,12,1,3,4,2,-8,None,None,52.13238,-106.66892,60.10867,-113.64258
+NHL,Chicago Blackhawks,Connor Murphy,D,30,193,96,Boston,USA,None,R,2011,1,20,Phoenix Coyotes,4400000,12,0,1,1,15,-6,None,None,42.35843,-71.05977,-14.60485,-57.65625
+NHL,Chicago Blackhawks,Isaak Phillips,D,22,190,88,Barrie,Canada,None,L,2020,5,141,Chicago Blackhawks,859167,1,0,0,0,4,-1,None,None,44.40011,-79.66634,60.10867,-113.64258
+NHL,Chicago Blackhawks,Jarred Tinordi,D,31,198,105,Burnsville,USA,None,L,2010,1,22,Montréal Canadiens,1250000,9,0,1,1,7,-1,None,None,44.76774,-93.27772,-14.60485,-57.65625
+NHL,Chicago Blackhawks,Alex Vlasic,D,22,198,90,Wilmette,USA,None,L,2019,2,43,Chicago Blackhawks,916667,10,0,3,3,2,5,None,None,42.07225,-87.72284,-14.60485,-57.65625
+NHL,Chicago Blackhawks,Nikita Zaitsev,D,32,188,87,Moskva,Russia,Krylia Sovetov Moskva,R,None,None,None,None,4500000,4,1,0,1,2,3,None,None,55.75222,37.61556,60.0,100.0
+NHL,Chicago Blackhawks,Andreas Athanasiou,F,29,188,86,London,Canada,Toronto Titans MHA,L,2012,4,110,Detroit Red Wings,4250000,11,0,4,4,0,-5,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Chicago Blackhawks,Connor Bedard,F,18,178,84,North Vancouver,Canada,North Shore Winter Club,R,2023,1,1,Chicago Blackhawks,950000,12,7,4,11,6,-6,None,None,49.24966,-123.11934,60.10867,-113.64258
+NHL,Chicago Blackhawks,Colin Blackwell,F,30,175,86,North Andover,USA,None,R,2011,7,194,San Jose Sharks,1200000,None,None,None,None,None,None,None,None,42.65843,-71.137,-14.60485,-57.65625
+NHL,Chicago Blackhawks,Jason Dickinson,F,28,188,91,Georgetown,Canada,Halton Hills MHA,L,2013,1,29,Dallas Stars,2650000,12,1,3,4,23,-1,None,None,48.95001,-58.01511,60.10867,-113.64258
+NHL,Chicago Blackhawks,Ryan Donato,F,27,183,86,Scituate,USA,None,L,2014,2,56,Boston Bruins,2000000,12,3,4,7,0,0,None,None,42.19593,-70.72587,-14.60485,-57.65625
+NHL,Chicago Blackhawks,MacKenzie Entwistle,F,24,192,83,Georgetown,Canada,Toronto Marlboros MHA,R,2017,3,69,Arizona Coyotes,800000,7,1,1,2,6,-1,None,None,48.95001,-58.01511,60.10867,-113.64258
+NHL,Chicago Blackhawks,Nick Foligno,F,36,183,95,Buffalo,USA,None,L,2006,1,28,Ottawa Senators,4000000,12,2,6,8,7,-1,None,None,42.88645,-78.87837,-14.60485,-57.65625
+NHL,Chicago Blackhawks,Taylor Hall,F,31,185,95,Calgary,Canada,McKnight MHA,L,2010,1,1,Edmonton Oilers,6000000,8,2,2,4,4,-2,None,None,51.05011,-114.08529,60.10867,-113.64258
+NHL,Chicago Blackhawks,Reese Johnson,F,25,185,87,Regina,Canada,None,R,None,None,None,None,800000,5,1,0,1,2,-2,None,None,50.45008,-104.6178,60.10867,-113.64258
+NHL,Chicago Blackhawks,Tyler Johnson,F,33,173,84,Spokane,USA,None,R,None,None,None,None,5000000,12,4,2,6,4,-4,None,None,47.65966,-117.42908,-14.60485,-57.65625
+NHL,Chicago Blackhawks,Boris Katchouk,F,25,188,93,Vancouver,Canada,Waterloo MHA,L,2016,2,44,Tampa Bay Lightning,758333,8,0,1,1,2,1,None,None,49.24966,-123.11934,60.10867,-113.64258
+NHL,Chicago Blackhawks,Philipp Kurashev,F,24,183,86,Münsingen,Switzerland,SC Bern,L,2018,4,120,Chicago Blackhawks,2250000,6,2,4,6,4,0,None,None,46.87298,7.561,47.00016,8.01427
+NHL,Chicago Blackhawks,Corey Perry,F,38,190,94,New Liskeard,Canada,Peterborough MHA,R,2003,1,28,Mighty Ducks of Anaheim,4000000,12,3,5,8,8,-2,None,None,47.49376,-79.71529,60.10867,-113.64258
+NHL,Chicago Blackhawks,Taylor Raddysh,F,25,191,90,Caledon,Canada,Toronto Marlboros MHA,R,2016,2,58,Tampa Bay Lightning,758333,12,2,1,3,4,-1,None,None,43.86544,-79.99322,60.10867,-113.64258
+NHL,Chicago Blackhawks,Lukas Reichel,F,21,183,77,Nürnberg,Germany,SB Rosenheim,L,2020,1,17,Chicago Blackhawks,925000,12,0,1,1,2,-8,None,None,49.45421,11.07752,51.5,10.5
+NHL,Colorado Avalanche,Pavel Francouz,G,33,182,81,Plzen,Czechia,HC Plzen,R,None,None,None,None,2000000,None,None,None,None,None,None,None,None,49.74747,13.37759,49.75,15.0
+NHL,Colorado Avalanche,Alexandar Georgiyev,G,27,186,82,Ruse,Russia,Pingviny Moskva,L,None,None,None,None,3400000,10,None,None,None,None,None,2.93,0.897,None,None,60.0,100.0
+NHL,Colorado Avalanche,Ivan Prosvetov,G,24,195,86,Moskva,Russia,CSKA Moskva,L,2018,4,114,Arizona Coyotes,775000,3,None,None,None,None,None,2.35,0.909,55.75222,37.61556,60.0,100.0
+NHL,Colorado Avalanche,Bowen Byram,D,22,185,86,Cranbrook,Canada,Cranbrook MHA,L,2019,1,4,Colorado Avalanche,3850000,12,3,1,4,18,2,None,None,49.61222,-115.78194,60.10867,-113.64258
+NHL,Colorado Avalanche,Samuel Girard,D,25,178,77,Roberval,Canada,AHM Roberval,L,2016,2,47,Nashville Predators,5000000,12,0,1,1,0,-5,None,None,48.52118,-72.26781,60.10867,-113.64258
+NHL,Colorado Avalanche,Jack Johnson,D,36,185,103,Indianapolis,USA,None,L,2005,1,3,Carolina Hurricanes,775000,12,0,1,1,2,-1,None,None,39.76838,-86.15804,-14.60485,-57.65625
+NHL,Colorado Avalanche,Kurtis MacDermid,F,29,195,106,Québec,Canada,None,L,None,None,None,None,987500,2,0,0,0,2,0,None,None,46.81228,-71.21454,60.10867,-113.64258
+NHL,Colorado Avalanche,Cale Makar,D,25,180,85,Calgary,Canada,Crowchild MHA,R,2017,1,4,Colorado Avalanche,9000000,12,3,12,15,6,10,None,None,51.05011,-114.08529,60.10867,-113.64258
+NHL,Colorado Avalanche,Josh Manson,D,32,190,99,Hinsdale,Canada,None,R,2011,6,160,Anaheim Ducks,4500000,12,0,1,1,6,-4,None,None,None,None,60.10867,-113.64258
+NHL,Colorado Avalanche,Devon Toews,D,29,185,87,Abbotsford,Canada,Abbotsford MHA,L,2014,4,108,New York Islanders,4100000,12,1,4,5,2,4,None,None,49.05798,-122.25257,60.10867,-113.64258
+NHL,Colorado Avalanche,Andrew Cogliano,F,36,178,81,Toronto,Canada,Vaughan Kings MHA,L,2005,1,25,Edmonton Oilers,825000,11,0,3,3,4,2,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Colorado Avalanche,Ross Colton,F,27,183,88,Robbinsville,USA,None,L,2016,4,118,Tampa Bay Lightning,4000000,12,3,1,4,23,0,None,None,40.21455,-74.61932,-14.60485,-57.65625
+NHL,Colorado Avalanche,Jonathan Drouin,F,28,183,92,Ste-Agathe-des-Monts,Canada,AHM Mont-Tremblant,L,2013,1,3,Tampa Bay Lightning,825000,10,0,1,1,4,-3,None,None,46.05009,-74.28252,60.10867,-113.64258
+NHL,Colorado Avalanche,Ryan Johansen,F,31,191,99,Vancouver,Canada,Vancouver Thunderbirds MHA,R,2010,1,4,Columbus Blue Jackets,4000000,12,5,1,6,6,-1,None,None,49.24966,-123.11934,60.10867,-113.64258
+NHL,Colorado Avalanche,Gabriel Landeskog,F,30,184,98,Stockholm,Sweden,Hammarby IF,L,2011,1,2,Colorado Avalanche,7000000,None,None,None,None,None,None,None,None,59.32938,18.06871,62.0,15.0
+NHL,Colorado Avalanche,Artturi Lehkonen,F,28,181,81,Piikkiö,Finland,Kiekko-67,L,2013,2,55,Montréal Canadiens,4500000,12,3,5,8,2,-3,None,None,60.42481,22.51601,64.0,26.0
+NHL,Colorado Avalanche,Nathan MacKinnon,F,28,183,91,Halifax,Canada,Cole Harbour MHA,R,2013,1,1,Colorado Avalanche,12600000,12,6,8,14,20,3,None,None,44.88392,-63.51171,60.10867,-113.64258
+NHL,Colorado Avalanche,Valeri Nichushkin,F,28,194,95,Chelyabinsk,Russia,Traktor Chelyabinsk,L,2013,1,10,Dallas Stars,6125000,12,2,6,8,8,3,None,None,55.15402,61.42915,60.0,100.0
+NHL,Colorado Avalanche,Logan O'Connor,F,27,183,79,Missouri City,Canada,None,R,None,None,None,None,1050000,12,3,2,5,18,5,None,None,None,None,60.10867,-113.64258
+NHL,Colorado Avalanche,Fredrik Olofsson,F,27,188,89,Helsingborg,Sweden,None,L,2014,4,98,Chicago Blackhawks,775000,11,1,0,1,0,-2,None,None,56.04673,12.69437,62.0,15.0
+NHL,Colorado Avalanche,Mikko Rantanen,F,27,193,98,Nousiainen,Finland,TPS,L,2015,1,10,Colorado Avalanche,9250000,12,8,10,18,8,5,None,None,60.60416,22.07926,64.0,26.0
+NHL,Colorado Avalanche,Tomas Tatar,F,32,179,78,Ilava,Slovakia,HK Dubnica,L,2009,2,60,Detroit Red Wings,1500000,11,0,4,4,6,-3,None,None,48.99769,18.2353,48.66667,19.5
+NHL,Colorado Avalanche,Riley Tufte,F,25,197,105,Coon Rapids,USA,None,L,2016,1,25,Dallas Stars,775000,2,0,0,0,0,-2,None,None,45.11997,-93.28773,-14.60485,-57.65625
+NHL,Colorado Avalanche,Miles Wood,F,28,188,88,Buffalo,USA,None,L,2013,4,100,New Jersey Devils,2500000,12,2,2,4,6,1,None,None,42.88645,-78.87837,-14.60485,-57.65625
+NHL,Columbus Blue Jackets,Spencer Martin,G,28,191,87,Oakville,Canada,Oakville MHA,L,2013,3,63,Colorado Avalanche,762500,6,None,None,None,None,None,2.9,0.918,43.45011,-79.68292,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Elvis Merzlikins,G,29,191,83,Riga,Latvia,HC Lugano,L,2014,3,76,Columbus Blue Jackets,5400000,9,None,None,None,None,None,3.2,0.897,56.946,24.10589,57.0,25.0
+NHL,Columbus Blue Jackets,Daniil Tarasov,G,24,196,89,Novokuznetsk,Russia,Salavat Yulaev Ufa,L,2017,3,86,Columbus Blue Jackets,1050000,None,None,None,None,None,None,None,None,53.7557,87.1099,60.0,100.0
+NHL,Columbus Blue Jackets,Jake Bean,D,25,185,80,Calgary,Canada,Shaw Meadows MHA,L,2016,1,13,Carolina Hurricanes,2333333,13,1,2,3,10,-4,None,None,51.05011,-114.08529,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Adam Boqvist,D,23,182,86,Falun,Sweden,Hedemora SK,R,2018,1,8,Chicago Blackhawks,2600000,2,0,0,0,0,-1,None,None,60.60357,15.62597,62.0,15.0
+NHL,Columbus Blue Jackets,Erik Gudbranson,D,31,195,101,Ottawa,Canada,Blackburn MHA,R,2010,1,3,Florida Panthers,4000000,13,1,2,3,11,-2,None,None,45.41117,-75.69812,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Andrew Peeke,D,25,191,89,Parkland,USA,None,R,2016,2,34,Columbus Blue Jackets,2750000,3,0,1,1,0,0,None,None,47.15538,-122.43401,-14.60485,-57.65625
+NHL,Columbus Blue Jackets,Ivan Provorov,D,26,185,91,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,2015,1,7,Philadelphia Flyers,4725000,13,0,9,9,2,-5,None,None,57.62987,39.87368,60.0,100.0
+NHL,Columbus Blue Jackets,Damon Severson,D,29,188,93,Brandon,Canada,Melville MHA,R,2012,2,60,New Jersey Devils,6250000,13,1,3,4,10,-2,None,None,49.84692,-99.95306,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Zach Werenski,D,26,188,97,Grosse Pointe,USA,None,L,2015,1,8,Columbus Blue Jackets,9583333,11,1,5,6,2,-4,None,None,42.38615,-82.91186,-14.60485,-57.65625
+NHL,Columbus Blue Jackets,Emil Bemström,F,24,179,88,Nyköping,Sweden,Järna SK,R,2017,4,117,Columbus Blue Jackets,900000,10,3,1,4,2,-5,None,None,58.753,17.00788,62.0,15.0
+NHL,Columbus Blue Jackets,Yegor Chinakhov,F,22,185,86,Omsk,Russia,SDYUSASHOR Omsk,L,2020,1,21,Columbus Blue Jackets,800000,3,0,0,0,0,-5,None,None,54.99244,73.36859,60.0,100.0
+NHL,Columbus Blue Jackets,Justin Danforth,F,30,174,82,Oshawa,Canada,Oshawa MHA,R,None,None,None,None,975000,13,3,2,5,0,3,None,None,43.90012,-78.84957,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Adam Fantilli,F,19,188,88,Toronto,Canada,Toronto Jr. Canadians MHA,L,2023,1,3,Columbus Blue Jackets,950000,13,2,5,7,6,-5,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Johnny Gaudreau,F,30,175,75,Salem,USA,None,L,2011,4,104,Calgary Flames,9750000,13,1,5,6,4,-3,None,None,44.9429,-123.0351,-14.60485,-57.65625
+NHL,Columbus Blue Jackets,Boone Jenner,F,30,188,93,Dorchester,Canada,Elgin Middlesex MHA,L,2011,2,37,Columbus Blue Jackets,3750000,13,7,2,9,6,-4,None,None,46.55048,-70.64629,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Sean Kuraly,F,30,188,93,Dublin,USA,None,L,2011,5,133,San Jose Sharks,2500000,13,3,0,3,10,-1,None,None,40.09923,-83.11408,-14.60485,-57.65625
+NHL,Columbus Blue Jackets,Patrik Laine,F,25,195,98,Tampere,Finland,Tappara,R,2016,1,2,Winnipeg Jets,8700000,4,1,1,2,0,-2,None,None,61.49911,23.78712,64.0,26.0
+NHL,Columbus Blue Jackets,Kirill Marchenko,F,23,191,85,Barnaul,Russia,None,R,2018,2,49,Columbus Blue Jackets,925000,11,3,4,7,2,3,None,None,53.36056,83.76361,60.0,100.0
+NHL,Columbus Blue Jackets,Mathieu Olivier,F,26,188,95,Biloxi,Canada,None,R,None,None,None,None,1100000,8,0,2,2,2,-1,None,None,None,None,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Jack Roslovic,F,26,185,88,Columbus,USA,None,R,2015,1,25,Winnipeg Jets,4000000,12,2,6,8,6,-5,None,None,39.96118,-82.99879,-14.60485,-57.65625
+NHL,Columbus Blue Jackets,Cole Sillinger,F,20,188,92,Columbus,Canada,Hockey Regina MHA,L,2021,1,12,Columbus Blue Jackets,925000,13,0,5,5,13,-4,None,None,43.98342,-78.91627,60.10867,-113.64258
+NHL,Columbus Blue Jackets,Alexandre Texier,F,24,185,88,Grenoble,France,Grenoble,L,2017,2,45,Columbus Blue Jackets,1525000,13,1,1,2,4,-8,None,None,45.17869,5.71479,46.0,2.0
+NHL,Columbus Blue Jackets,Dmitri Voronkov,F,23,195,109,Angarsk,Russia,Yermak Angarsk,L,2019,4,114,Columbus Blue Jackets,925000,7,2,3,5,13,3,None,None,52.53667,103.88639,60.0,100.0
+NHL,Dallas Stars,Jake Oettinger,G,24,195,100,Lakeville,USA,None,L,2017,1,26,Dallas Stars,4000000,9,None,None,None,None,None,2.1,0.933,44.64969,-93.24272,-14.60485,-57.65625
+NHL,Dallas Stars,Scott Wedgewood,G,31,188,93,Brampton,Canada,Brampton MHA,L,2010,3,84,New Jersey Devils,1000000,3,None,None,None,None,None,3.36,0.911,43.68341,-79.76633,60.10867,-113.64258
+NHL,Dallas Stars,Jani Hakanpää,D,31,200,102,Kirkkonummi,Finland,EVU,R,2010,4,104,St. Louis Blues,1500000,12,0,0,0,17,2,None,None,60.12381,24.43853,64.0,26.0
+NHL,Dallas Stars,Joel Hanley,D,32,180,86,Keswick,Canada,None,L,None,None,None,None,787500,1,0,0,0,0,0,None,None,44.25011,-79.46632,60.10867,-113.64258
+NHL,Dallas Stars,Thomas Harley,D,22,191,93,Syracuse,Canada,Vaughan Kings MHA,L,2019,1,18,Dallas Stars,863333,12,2,2,4,2,3,None,None,None,None,60.10867,-113.64258
+NHL,Dallas Stars,Miro Heiskanen,D,24,185,88,Espoo,Finland,Blues,L,2017,1,3,Dallas Stars,8450000,12,1,6,7,0,1,None,None,60.2052,24.6522,64.0,26.0
+NHL,Dallas Stars,Esa Lindell,D,29,191,100,Helsinki,Finland,TJV,L,2012,3,74,Dallas Stars,5800000,12,0,4,4,6,1,None,None,60.16952,24.93545,64.0,26.0
+NHL,Dallas Stars,Nils Lundkvist,D,23,179,86,Piteå,Sweden,Piteå HC,R,2018,1,28,New York Rangers,925000,12,0,4,4,2,4,None,None,65.31717,21.47944,62.0,15.0
+NHL,Dallas Stars,Ryan Suter,D,38,185,93,Madison,USA,None,L,2003,1,7,Nashville Predators,3650000,12,0,3,3,4,3,None,None,43.07305,-89.40123,-14.60485,-57.65625
+NHL,Dallas Stars,Jamie Benn,F,34,188,95,Victoria,Canada,Peninsula MHA,L,2007,5,129,Dallas Stars,9500000,12,3,6,9,9,4,None,None,48.4359,-123.35155,60.10867,-113.64258
+NHL,Dallas Stars,Yevgeni Dadonov,F,34,180,84,Chelyabinsk,Russia,Traktor Chelyabinsk,L,2007,3,71,Florida Panthers,2250000,12,3,1,4,0,-1,None,None,55.15402,61.42915,60.0,100.0
+NHL,Dallas Stars,Ty Dellandrea,F,23,185,88,Toronto,Canada,Central Ontario MHA,R,2018,1,13,Dallas Stars,900000,9,0,1,1,2,-1,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Dallas Stars,Matt Duchene,F,32,180,88,Haliburton,Canada,Central Ontario MHA,L,2009,1,3,Colorado Avalanche,3000000,11,3,5,8,4,4,None,None,45.16682,-78.49955,60.10867,-113.64258
+NHL,Dallas Stars,Radek Faksa,F,29,191,100,Vitkov,Czechia,HC Slezan Opava,L,2012,1,13,Dallas Stars,3250000,8,0,1,1,0,-1,None,None,49.77445,17.74941,49.75,15.0
+NHL,Dallas Stars,Roope Hintz,F,26,191,98,Tampere,Finland,NoPy,L,2015,2,49,Dallas Stars,8450000,11,5,6,11,2,-1,None,None,61.49911,23.78712,64.0,26.0
+NHL,Dallas Stars,Wyatt Johnston,F,20,185,84,Toronto,Canada,Toronto Marlboros MHA,R,2021,1,23,Dallas Stars,894167,12,4,4,8,10,5,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Dallas Stars,Mason Marchment,F,28,193,95,Uxbridge,Canada,None,L,None,None,None,None,4500000,12,3,2,5,26,4,None,None,44.10012,-79.11628,60.10867,-113.64258
+NHL,Dallas Stars,Joe Pavelski,F,39,180,91,Plover,USA,Stevens Point Ice Hawks,R,2003,7,205,San Jose Sharks,3500000,12,5,7,12,2,-2,None,None,44.45636,-89.54401,-14.60485,-57.65625
+NHL,Dallas Stars,Jason Robertson,F,24,191,91,Arcadia,USA,None,L,2017,2,39,Dallas Stars,7750000,12,3,7,10,6,1,None,None,27.21588,-81.85842,-14.60485,-57.65625
+NHL,Dallas Stars,Tyler Seguin,F,31,185,93,Brampton,Canada,Toronto Young Nationals,R,2010,1,2,Boston Bruins,9850000,12,2,4,6,4,3,None,None,43.68341,-79.76633,60.10867,-113.64258
+NHL,Dallas Stars,Craig Smith,F,34,183,92,Madison,USA,None,R,2009,4,98,Nashville Predators,1000000,12,2,1,3,8,2,None,None,43.07305,-89.40123,-14.60485,-57.65625
+NHL,Dallas Stars,Sam Steel,F,25,180,83,Ardrossan,Canada,Sherwood Park MHA,L,2016,1,30,Anaheim Ducks,850000,8,0,1,1,0,-2,None,None,53.55014,-113.13529,60.10867,-113.64258
+NHL,Detroit Red Wings,Ville Husso,G,28,191,95,Helsinki,Finland,HIFK,L,2014,4,94,St. Louis Blues,4750000,9,None,None,None,None,None,3.57,0.89,60.16952,24.93545,64.0,26.0
+NHL,Detroit Red Wings,Alex Lyon,G,30,185,91,Baudette,USA,None,L,None,None,None,None,900000,None,None,None,None,None,None,None,None,48.71247,-94.59993,-14.60485,-57.65625
+NHL,Detroit Red Wings,James Reimer,G,35,191,93,Arborg,Canada,None,L,2006,4,99,Toronto Maple Leafs,1500000,5,None,None,None,None,None,1.8,0.933,50.90721,-97.21757,60.10867,-113.64258
+NHL,Detroit Red Wings,Ben Chiarot,D,32,191,106,Hamilton,Canada,None,L,2009,4,120,Atlanta Thrashers,4750000,14,1,4,5,8,6,None,None,43.25011,-79.84963,60.10867,-113.64258
+NHL,Detroit Red Wings,Shayne Gostisbehere,D,30,180,82,Pembroke Pines,USA,None,L,2012,3,78,Philadelphia Flyers,4125000,13,3,6,9,0,-5,None,None,26.00315,-80.22394,-14.60485,-57.65625
+NHL,Detroit Red Wings,Justin Holl,D,31,193,88,Tonka Bay,USA,None,R,2010,2,54,Chicago Blackhawks,3400000,11,0,3,3,10,7,None,None,44.90857,-93.59301,-14.60485,-57.65625
+NHL,Detroit Red Wings,Olli Määttä,D,29,188,95,Jyväskylä,Finland,JYP,L,2012,1,22,Pittsburgh Penguins,3000000,12,0,2,2,2,-3,None,None,62.24147,25.72088,64.0,26.0
+NHL,Detroit Red Wings,Jeff Petry,D,35,191,94,Ann Arbor,USA,None,R,2006,2,45,Edmonton Oilers,2343750,9,0,4,4,10,1,None,None,42.27756,-83.74088,-14.60485,-57.65625
+NHL,Detroit Red Wings,Moritz Seider,D,22,193,93,Zell (Mosel),Germany,EHC Erfurt,R,2019,1,6,Detroit Red Wings,863333,14,1,10,11,10,-2,None,None,50.02918,7.18232,51.5,10.5
+NHL,Detroit Red Wings,Jake Walman,D,27,188,98,Toronto,Canada,None,L,2014,3,82,St. Louis Blues,3400000,14,3,3,6,16,4,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Detroit Red Wings,J.T. Compher,F,28,183,86,Northbrook,USA,None,R,2013,2,35,Buffalo Sabres,5100000,14,3,7,10,14,3,None,None,42.12753,-87.82895,-14.60485,-57.65625
+NHL,Detroit Red Wings,Andrew Copp,F,29,185,93,Ann Arbor,USA,None,L,2013,4,104,Winnipeg Jets,5625000,14,5,2,7,10,-1,None,None,42.27756,-83.74088,-14.60485,-57.65625
+NHL,Detroit Red Wings,Austin Czarnik,F,30,175,77,Detroit,USA,None,R,None,None,None,None,762500,11,0,1,1,2,-3,None,None,42.33143,-83.04575,-14.60485,-57.65625
+NHL,Detroit Red Wings,Alex DeBrincat,F,25,171,75,Farmington Hills,USA,Victory Honda,R,2016,2,39,Chicago Blackhawks,7875000,14,9,5,14,2,3,None,None,42.48531,-83.37716,-14.60485,-57.65625
+NHL,Detroit Red Wings,Robby Fabbri,F,27,180,84,Mississauga,Canada,Mississauga MHA,L,2014,1,21,St. Louis Blues,4000000,2,1,0,1,0,-2,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Detroit Red Wings,Christian Fischer,F,26,188,97,Chicago,USA,None,R,2015,2,32,Arizona Coyotes,1125000,13,1,2,3,4,0,None,None,41.85003,-87.65005,-14.60485,-57.65625
+NHL,Detroit Red Wings,Klim Kostin,F,24,192,96,Penza,Russia,Dizel Penza,L,2017,1,31,St. Louis Blues,2000000,11,1,0,1,9,0,None,None,53.20066,45.00464,60.0,100.0
+NHL,Detroit Red Wings,Dylan Larkin,F,27,185,90,Waterford Township,USA,Lakeland MHA,L,2014,1,15,Detroit Red Wings,8700000,14,5,12,17,27,2,None,None,42.69303,-83.41181,-14.60485,-57.65625
+NHL,Detroit Red Wings,David Perron,F,35,185,92,Sherbrooke,Canada,AHM Sherbrooke Est,R,2007,1,26,St. Louis Blues,4750000,14,3,4,7,8,-3,None,None,45.40008,-71.89908,60.10867,-113.64258
+NHL,Detroit Red Wings,Michael Rasmussen,F,24,197,96,Surrey,Canada,None,L,2017,1,9,Detroit Red Wings,1460000,14,2,3,5,11,2,None,None,49.19,-122.84889,60.10867,-113.64258
+NHL,Detroit Red Wings,Lucas Raymond,F,21,179,83,Göteborg,Sweden,Frölunda HC,R,2020,1,4,Detroit Red Wings,925000,14,4,6,10,4,2,None,None,None,None,62.0,15.0
+NHL,Detroit Red Wings,Daniel Sprong,F,26,183,88,Amsterdam,Netherlands,Hockey Deux-Rives,R,2015,2,46,Pittsburgh Penguins,2000000,14,3,5,8,8,4,None,None,52.37403,4.88969,52.25,5.75
+NHL,Detroit Red Wings,Joe Veleno,F,23,186,93,Montréal,Canada,AHM Lac St-Louis,L,2018,1,30,Detroit Red Wings,825000,14,5,1,6,2,2,None,None,45.50884,-73.58781,60.10867,-113.64258
+NHL,Edmonton Oilers,Calvin Pickard,G,31,185,95,Moncton,Canada,Winnipeg Monarchs MHA,L,2010,2,49,Colorado Avalanche,762500,None,None,None,None,None,None,None,None,46.09454,-64.7965,60.10867,-113.64258
+NHL,Edmonton Oilers,Stuart Skinner,G,25,193,93,Edmonton,Canada,South Side Athletic Club,L,2017,3,78,Edmonton Oilers,2600000,8,None,None,None,None,None,3.87,0.854,53.55014,-113.46871,60.10867,-113.64258
+NHL,Edmonton Oilers,Evan Bouchard,D,24,191,88,Oakville,Canada,Oakville MHA,R,2018,1,10,Edmonton Oilers,3900000,12,3,8,11,2,-6,None,None,43.45011,-79.68292,60.10867,-113.64258
+NHL,Edmonton Oilers,Cody Ceci,D,29,188,95,Ottawa,Canada,Peterborough MHA,R,2012,1,15,Ottawa Senators,3250000,12,0,2,2,2,-1,None,None,45.41117,-75.69812,60.10867,-113.64258
+NHL,Edmonton Oilers,Vincent Desharnais,D,27,197,98,Laval,Canada,None,R,2016,7,183,Edmonton Oilers,762500,10,1,0,1,13,-4,None,None,45.56995,-73.692,60.10867,-113.64258
+NHL,Edmonton Oilers,Mattias Ekholm,D,33,192,98,Borlänge,Sweden,IFK Ore,L,2009,4,102,Nashville Predators,6000000,11,1,3,4,8,-4,None,None,60.4858,15.43714,62.0,15.0
+NHL,Edmonton Oilers,Brett Kulak,D,29,185,89,Edmonton,Canada,St. Albert MHA,L,2012,4,105,Calgary Flames,2750000,12,1,1,2,2,-6,None,None,53.55014,-113.46871,60.10867,-113.64258
+NHL,Edmonton Oilers,Darnell Nurse,D,28,193,100,Hamilton,Canada,Don Mills Flyers MHA,L,2013,1,7,Edmonton Oilers,9250000,12,3,1,4,10,-5,None,None,43.25011,-79.84963,60.10867,-113.64258
+NHL,Edmonton Oilers,Connor Brown,F,29,183,84,Etobicoke,Canada,None,R,2012,6,156,Toronto Maple Leafs,775000,9,0,0,0,0,-5,None,None,43.65421,-79.56711,60.10867,-113.64258
+NHL,Edmonton Oilers,Leon Draisaitl,F,28,189,94,Köln,Germany,Kölner EC,L,2014,1,3,Edmonton Oilers,8500000,12,5,10,15,20,-2,None,None,50.93333,6.95,51.5,10.5
+NHL,Edmonton Oilers,Warren Foegele,F,27,188,90,Markham,Canada,None,L,2014,3,67,Carolina Hurricanes,2750000,12,3,3,6,2,-7,None,None,43.86682,-79.2663,60.10867,-113.64258
+NHL,Edmonton Oilers,Sam Gagner,F,34,180,89,London,Canada,Toronto Marlboros MHA,R,2007,1,6,Edmonton Oilers,775000,4,2,1,3,0,2,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Edmonton Oilers,James Hamblin,F,24,175,80,Edmonton,Canada,None,L,None,None,None,None,807500,2,0,0,0,0,0,None,None,53.55014,-113.46871,60.10867,-113.64258
+NHL,Edmonton Oilers,Dylan Holloway,F,22,185,92,Calgary,Canada,Springbank MHA,L,2020,1,14,Edmonton Oilers,925000,12,0,0,0,2,-4,None,None,51.05011,-114.08529,60.10867,-113.64258
+NHL,Edmonton Oilers,Zach Hyman,F,31,185,96,Toronto,Canada,None,R,2010,5,123,Florida Panthers,5500000,12,4,6,10,4,-4,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Edmonton Oilers,Mattias Janmark,F,30,185,93,Stockholm,Sweden,Stocksunds IF,L,2013,3,79,Detroit Red Wings,1000000,7,0,0,0,4,-2,None,None,59.32938,18.06871,62.0,15.0
+NHL,Edmonton Oilers,Evander Kane,F,32,188,95,Vancouver,Canada,North Shore Winter Club,L,2009,1,4,Atlanta Thrashers,5125000,12,3,6,9,24,-7,None,None,49.24966,-123.11934,60.10867,-113.64258
+NHL,Edmonton Oilers,Raphaël Lavoie,F,23,193,98,Chambly,Canada,AHM Chambly,R,2019,2,38,Edmonton Oilers,874125,3,0,0,0,0,-1,None,None,45.45008,-73.28246,60.10867,-113.64258
+NHL,Edmonton Oilers,Connor McDavid,F,26,185,88,Richmond Hill,Canada,York Simcoe MHA,L,2015,1,1,Edmonton Oilers,12500000,10,2,8,10,8,-4,None,None,43.87111,-79.43725,60.10867,-113.64258
+NHL,Edmonton Oilers,Ryan McLeod,F,24,188,94,Mississauga,Canada,Toronto Marlboros MHA,L,2018,2,40,Edmonton Oilers,2100000,12,0,1,1,2,-4,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Edmonton Oilers,Ryan Nugent-Hopkins,F,30,184,88,Burnaby,Canada,Burnaby Winter Club,L,2011,1,1,Edmonton Oilers,5125000,12,3,6,9,14,-4,None,None,49.26636,-122.95263,60.10867,-113.64258
+NHL,Edmonton Oilers,Derek Ryan,F,36,178,84,Spokane,USA,None,R,None,None,None,None,900000,12,0,1,1,0,-2,None,None,47.65966,-117.42908,-14.60485,-57.65625
+NHL,Florida Panthers,Sergei Bobrovski,G,35,188,83,Novokuznetsk,Russia,Metallurg Novokuznetsk,L,None,None,None,None,10000000,11,None,None,None,None,None,2.65,0.907,53.7557,87.1099,60.0,100.0
+NHL,Florida Panthers,Anthony Stolarz,G,29,197,109,Edison,USA,Long Island Gulls,L,2012,2,45,Philadelphia Flyers,1100000,2,None,None,None,None,None,2.57,0.904,40.51872,-74.4121,-14.60485,-57.65625
+NHL,Florida Panthers,Uvis Balinskis,D,27,183,89,Ventspils,Latvia,Venta 2002,L,None,None,None,None,870000,11,1,0,1,6,0,None,None,57.39485,21.56121,57.0,25.0
+NHL,Florida Panthers,Aaron Ekblad,D,27,193,98,Windsor,Canada,Sun County MHA,R,2014,1,1,Florida Panthers,7500000,None,None,None,None,None,None,None,None,42.30008,-83.01654,60.10867,-113.64258
+NHL,Florida Panthers,Oliver Ekman Larsson,D,32,187,91,Karlskrona,Sweden,Tingsryds AIF,L,2009,1,6,Phoenix Coyotes,1980000,13,3,4,7,6,2,None,None,56.16156,15.58661,62.0,15.0
+NHL,Florida Panthers,Gustav Forsling,D,27,182,84,Linköping,Sweden,Linköpings HC,L,2014,5,126,Vancouver Canucks,2666667,13,2,2,4,6,12,None,None,58.41086,15.62157,62.0,15.0
+NHL,Florida Panthers,Dmitri Kulikov,D,33,185,90,Lipetsk,Russia,Rus Moskva,L,2009,1,14,Florida Panthers,1000000,13,0,6,6,12,4,None,None,52.60311,39.57076,60.0,100.0
+NHL,Florida Panthers,Josh Mahura,D,25,183,86,St. Albert,Canada,St. Albert MHA,L,2016,3,85,Anaheim Ducks,925000,13,0,5,5,8,-3,None,None,53.63344,-113.63533,60.10867,-113.64258
+NHL,Florida Panthers,Niko Mikkola,D,27,193,84,Kiiminki,Finland,KKP,L,2015,5,127,St. Louis Blues,2500000,13,1,4,5,6,3,None,None,65.16667,25.83333,64.0,26.0
+NHL,Florida Panthers,Brandon Montour,D,29,183,88,Brantford,Canada,Chatham-Kent MHA,R,2014,2,55,Anaheim Ducks,3500000,None,None,None,None,None,None,None,None,43.1334,-80.26636,60.10867,-113.64258
+NHL,Florida Panthers,Mike Reilly,D,30,185,90,Chicago,USA,None,L,2011,4,98,Columbus Blue Jackets,1000000,2,0,0,0,2,-2,None,None,41.85003,-87.65005,-14.60485,-57.65625
+NHL,Florida Panthers,Rasmus Asplund,F,25,180,86,Filipstad,Sweden,Filipstads IF,L,2016,2,33,Buffalo Sabres,775000,None,None,None,None,None,None,None,None,59.71236,14.16831,62.0,15.0
+NHL,Florida Panthers,Aleksander Barkov,F,28,191,97,Tampere,Finland,Tappara,L,2013,1,2,Florida Panthers,10000000,12,5,9,14,2,10,None,None,61.49911,23.78712,64.0,26.0
+NHL,Florida Panthers,Sam Bennett,F,27,185,88,Holland Landing,Canada,York Simcoe MHA,L,2014,1,4,Calgary Flames,4425000,1,0,0,0,0,-1,None,None,44.10011,-79.48292,60.10867,-113.64258
+NHL,Florida Panthers,Nick Cousins,F,30,180,87,Belleville,Canada,Quinte Red Devils,L,2011,3,68,Philadelphia Flyers,1100000,13,2,0,2,4,-4,None,None,44.16682,-77.38277,60.10867,-113.64258
+NHL,Florida Panthers,Will Lockwood,F,25,180,84,Bloomfield Hills,USA,None,R,2016,3,64,Vancouver Canucks,775000,7,0,0,0,0,0,None,None,42.58364,-83.24549,-14.60485,-57.65625
+NHL,Florida Panthers,Ryan Lomberg,F,28,175,85,Richmond Hill,Canada,None,L,None,None,None,None,800000,13,1,0,1,2,3,None,None,43.87111,-79.43725,60.10867,-113.64258
+NHL,Florida Panthers,Steven Lorentz,F,27,193,93,Waterloo,Canada,None,L,2015,7,186,Carolina Hurricanes,1050000,13,1,1,2,2,0,None,None,43.45747,-80.38593,60.10867,-113.64258
+NHL,Florida Panthers,Anton Lundell,F,22,185,84,Espoo,Finland,EPS,L,2020,1,12,Florida Panthers,925000,13,1,5,6,2,1,None,None,60.2052,24.6522,64.0,26.0
+NHL,Florida Panthers,Eetu Luostarinen,F,25,190,86,Siilinjärvi,Finland,KalPa,L,2017,2,42,Carolina Hurricanes,1500000,13,0,2,2,6,-2,None,None,63.08333,27.66667,64.0,26.0
+NHL,Florida Panthers,Sam Reinhart,F,28,188,88,West Vancouver,Canada,Hollyburn MHA,R,2014,1,2,Buffalo Sabres,6500000,13,9,8,17,2,9,None,None,49.36672,-123.16652,60.10867,-113.64258
+NHL,Florida Panthers,Evan Rodrigues,F,30,180,83,Etobicoke,Canada,None,R,None,None,None,None,3000000,13,3,8,11,10,9,None,None,43.65421,-79.56711,60.10867,-113.64258
+NHL,Florida Panthers,Kevin Stenlund,F,27,193,98,Stockholm,Sweden,IFK Tumba,R,2015,2,58,Columbus Blue Jackets,1000000,13,3,0,3,10,1,None,None,59.32938,18.06871,62.0,15.0
+NHL,Florida Panthers,Matthew Tkachuk,F,25,188,91,Scottsdale,USA,None,L,2016,1,6,Calgary Flames,9500000,13,3,10,13,9,2,None,None,33.50921,-111.89903,-14.60485,-57.65625
+NHL,Florida Panthers,Carter Verhaeghe,F,28,188,82,Toronto,Canada,North Wentworth MHA,L,2013,3,82,Toronto Maple Leafs,4166667,13,5,4,9,6,2,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Los Angeles Kings,Pheonix Copley,G,31,193,91,North Pole,USA,None,L,None,None,None,None,1500000,4,None,None,None,None,None,4.58,0.792,44.06063,-70.39367,-14.60485,-57.65625
+NHL,Los Angeles Kings,Cam Talbot,G,36,193,89,Caledonia,Canada,Hamilton Jr. Bulldogs MHA,L,None,None,None,None,1000000,10,None,None,None,None,None,2.03,0.93,43.06738,-79.95472,60.10867,-113.64258
+NHL,Los Angeles Kings,Mikey Anderson,D,24,183,89,Fridley,USA,None,L,2017,4,103,Los Angeles Kings,4125000,13,1,7,8,6,6,None,None,45.08608,-93.26328,-14.60485,-57.65625
+NHL,Los Angeles Kings,Tobias Björnfot,D,22,184,91,Upplands Väsby,Sweden,Väsby IK,L,2019,1,22,Los Angeles Kings,775000,1,0,0,0,0,0,None,None,59.51839,17.91128,62.0,15.0
+NHL,Los Angeles Kings,Drew Doughty,D,33,185,95,London,Canada,London MHA,R,2008,1,2,Los Angeles Kings,11000000,13,4,2,6,6,5,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Los Angeles Kings,Andreas Englund,D,27,191,86,Stockholm,Sweden,Nacka HK,L,2014,2,40,Ottawa Senators,1000000,13,1,3,4,17,7,None,None,59.32938,18.06871,62.0,15.0
+NHL,Los Angeles Kings,Vladislav Gavrikov,D,27,190,97,Yaroslavl,Russia,Lokomotiv Yaroslavl,L,2015,6,159,Columbus Blue Jackets,5875000,13,2,2,4,4,1,None,None,57.62987,39.87368,60.0,100.0
+NHL,Los Angeles Kings,Matt Roy,D,28,185,93,Detroit,USA,None,R,2015,7,194,Los Angeles Kings,3150000,13,0,5,5,10,3,None,None,42.33143,-83.04575,-14.60485,-57.65625
+NHL,Los Angeles Kings,Jordan Spence,D,22,179,82,Manly,Canada,None,R,2019,4,95,Los Angeles Kings,820000,12,0,6,6,0,6,None,None,53.60014,-114.20207,60.10867,-113.64258
+NHL,Los Angeles Kings,Viktor Arvidsson,F,30,178,84,Kusmark,Sweden,Kågedalens AIF,R,2014,4,112,Nashville Predators,4250000,None,None,None,None,None,None,None,None,64.88333,20.8,62.0,15.0
+NHL,Los Angeles Kings,Quinton Byfield,F,21,195,98,Newmarket,Canada,York Simcoe MHA,L,2020,1,2,Los Angeles Kings,894167,13,2,10,12,6,8,None,None,44.05011,-79.46631,60.10867,-113.64258
+NHL,Los Angeles Kings,Phillip Danault,F,30,185,91,Victoriaville,Canada,AHM Victoriaville,L,2011,1,26,Chicago Blackhawks,5500000,13,3,5,8,4,1,None,None,46.05007,-71.96579,60.10867,-113.64258
+NHL,Los Angeles Kings,Pierre-Luc Dubois,F,25,191,99,Ste-Agathe-des-Monts,Canada,AHM Mont-Joli,L,2016,1,3,Columbus Blue Jackets,8500000,13,4,4,8,8,-1,None,None,46.05009,-74.28252,60.10867,-113.64258
+NHL,Los Angeles Kings,Samuel Fagemo,F,23,183,91,Göteborg,Sweden,HK Kings,R,2019,2,50,Los Angeles Kings,775000,None,None,None,None,None,None,None,None,None,None,62.0,15.0
+NHL,Los Angeles Kings,Kevin Fiala,F,27,178,93,St. Gallen,Switzerland,EHC Uzwil,L,2014,1,11,Nashville Predators,7875000,13,2,12,14,8,-2,None,None,47.42391,9.37477,47.00016,8.01427
+NHL,Los Angeles Kings,Carl Grundström,F,25,184,88,Umeå,Sweden,IF Björklöven,L,2016,2,57,Toronto Maple Leafs,1300000,13,5,1,6,2,4,None,None,63.82842,20.25972,62.0,15.0
+NHL,Los Angeles Kings,Arthur Kaliyev,F,22,188,95,Tashkent,USA,None,L,2019,2,33,Los Angeles Kings,894167,11,3,4,7,8,5,None,None,41.24417,69.66778,-14.60485,-57.65625
+NHL,Los Angeles Kings,Adrian Kempe,F,27,187,91,Kramfors,Sweden,Kramfors-Alliansen,L,2014,1,29,Los Angeles Kings,5500000,13,6,9,15,10,7,None,None,62.97246,17.92274,62.0,15.0
+NHL,Los Angeles Kings,Anze Kopitar,F,36,192,102,Jesenice,Slovenia,HK Jesenice,L,2005,1,11,Los Angeles Kings,10000000,13,7,7,14,4,6,None,None,46.43056,14.06694,46.08333,15.0
+NHL,Los Angeles Kings,Alex Laferriere,F,22,183,78,Chatham,USA,None,R,2020,3,83,Los Angeles Kings,875000,13,2,1,3,7,0,None,None,32.08354,-81.09983,-14.60485,-57.65625
+NHL,Los Angeles Kings,Trevor Lewis,F,36,185,92,Salt Lake City,USA,None,R,2006,1,17,Los Angeles Kings,775000,13,2,2,4,2,1,None,None,40.76078,-111.89105,-14.60485,-57.65625
+NHL,Los Angeles Kings,Blake Lizotte,F,25,175,77,Lindstrom,USA,Chisago Lakes YHA,L,None,None,None,None,1675000,13,3,3,6,4,5,None,None,45.38941,-92.84799,-14.60485,-57.65625
+NHL,Los Angeles Kings,Trevor Moore,F,28,178,88,Thousand Oaks,USA,None,L,None,None,None,None,4200000,13,7,5,12,4,4,None,None,34.17056,-118.83759,-14.60485,-57.65625
+NHL,Minnesota Wild,Marc-André Fleury,G,38,188,84,Sorel,Canada,None,L,2003,1,1,Pittsburgh Penguins,3500000,7,None,None,None,None,None,2.75,0.898,46.04178,-73.11358,60.10867,-113.64258
+NHL,Minnesota Wild,Filip Gustavsson,G,25,188,83,Skellefteå,Sweden,Kågedalens AIF,L,2016,2,55,Pittsburgh Penguins,3750000,8,None,None,None,None,None,4.64,0.872,64.62477,21.07689,62.0,15.0
+NHL,Minnesota Wild,Zach Bogosian,D,33,188,101,Massena,USA,None,R,2008,1,3,Atlanta Thrashers,850000,2,0,0,0,2,0,None,None,44.9281,-74.89186,-14.60485,-57.65625
+NHL,Minnesota Wild,Jonas Brodin,D,30,185,89,Karlstad,Sweden,Nor IK,L,2011,1,10,Minnesota Wild,6000000,14,1,5,6,2,8,None,None,59.3793,13.50357,62.0,15.0
+NHL,Minnesota Wild,Brock Faber,D,21,185,91,Maple Grove,USA,None,R,2020,2,45,Los Angeles Kings,925000,14,1,5,6,6,5,None,None,45.07246,-93.45579,-14.60485,-57.65625
+NHL,Minnesota Wild,Alex Goligoski,D,38,180,78,Grand Rapids,USA,None,L,2004,2,61,Pittsburgh Penguins,2000000,2,0,0,0,4,-3,None,None,42.96336,-85.66809,-14.60485,-57.65625
+NHL,Minnesota Wild,Dakota Mermis,D,29,183,88,Alton,USA,None,L,None,None,None,None,775000,12,2,3,5,21,-1,None,None,-26.4833,139.317,-14.60485,-57.65625
+NHL,Minnesota Wild,Jon Merrill,D,31,191,93,Oklahoma City,USA,None,L,2010,2,38,New Jersey Devils,1200000,10,0,2,2,6,0,None,None,35.46756,-97.51643,-14.60485,-57.65625
+NHL,Minnesota Wild,Jacob Middleton,D,27,190,99,Stratford,Canada,Stratford MHA,L,2014,7,210,Los Angeles Kings,2450000,14,2,6,8,10,-8,None,None,43.36679,-80.94972,60.10867,-113.64258
+NHL,Minnesota Wild,Jared Spurgeon,D,33,174,75,Edmonton,Canada,None,R,2008,6,156,New York Islanders,7575000,1,0,0,0,0,-1,None,None,53.55014,-113.46871,60.10867,-113.64258
+NHL,Minnesota Wild,Matt Boldy,F,22,188,91,Millis,USA,None,L,2019,1,12,Minnesota Wild,7000000,7,1,6,7,6,-1,None,None,42.1676,-71.35784,-14.60485,-57.65625
+NHL,Minnesota Wild,Connor Dewar,F,24,178,83,The Pas,Canada,The Pas MHA,L,2018,3,92,Minnesota Wild,800000,14,2,1,3,6,-4,None,None,53.97139,-101.09111,60.10867,-113.64258
+NHL,Minnesota Wild,Brandon Duhaime,F,26,188,91,Coral Springs,USA,None,L,2016,4,106,Minnesota Wild,1100000,14,3,0,3,17,-1,None,None,26.27119,-80.2706,-14.60485,-57.65625
+NHL,Minnesota Wild,Joel Eriksson Ek,F,26,187,94,Karlstad,Sweden,Färjestads BK,L,2015,1,20,Minnesota Wild,5250000,14,8,6,14,24,1,None,None,59.3793,13.50357,62.0,15.0
+NHL,Minnesota Wild,Marcus Foligno,F,32,191,103,Buffalo,Canada,Sudbury MHA,L,2009,4,104,Buffalo Sabres,3100000,14,2,4,6,11,3,None,None,57.66443,-112.00693,60.10867,-113.64258
+NHL,Minnesota Wild,Frédérick Gaudreau,F,30,183,83,Bromont,Canada,None,R,None,None,None,None,2100000,6,0,0,0,0,-2,None,None,45.31678,-72.64912,60.10867,-113.64258
+NHL,Minnesota Wild,Ryan Hartman,F,29,183,89,Hilton Head Island,USA,None,R,2013,1,30,Chicago Blackhawks,1700000,14,7,4,11,10,1,None,None,32.19382,-80.73816,-14.60485,-57.65625
+NHL,Minnesota Wild,Marcus Johansson,F,33,181,93,Landskrona,Sweden,IF Lejonet,L,2009,1,24,Washington Capitals,2000000,14,1,7,8,0,0,None,None,55.8708,12.83016,62.0,15.0
+NHL,Minnesota Wild,Kirill Kaprizov,F,26,178,92,Novokuznetsk,Russia,Metallurg Novokuznetsk,L,2015,5,135,Minnesota Wild,9000000,14,5,9,14,4,-9,None,None,53.7557,87.1099,60.0,100.0
+NHL,Minnesota Wild,Vinni Lettieri,F,28,180,84,Excelsior,USA,None,R,None,None,None,None,775000,9,1,0,1,2,-3,None,None,44.9033,-93.56635,-14.60485,-57.65625
+NHL,Minnesota Wild,Pat Maroon,F,35,191,106,St. Louis,USA,None,L,2007,6,161,Philadelphia Flyers,800000,14,2,7,9,11,2,None,None,38.62727,-90.19789,-14.60485,-57.65625
+NHL,Minnesota Wild,Nic Petan,F,28,175,79,Delta,Canada,North Shore Winter Club,L,2013,2,43,Winnipeg Jets,762500,None,None,None,None,None,None,None,None,49.14399,-122.9068,60.10867,-113.64258
+NHL,Minnesota Wild,Marco Rossi,F,22,176,83,Feldkirch,Austria,VEU Feldkirch,L,2020,1,9,Minnesota Wild,863333,14,5,2,7,2,0,None,None,47.23306,9.6,47.33333,13.33333
+NHL,Minnesota Wild,Mats Zuccarello,F,36,173,82,Oslo,Norway,Hasle/Løren,L,None,None,None,None,6000000,14,3,12,15,4,-6,None,None,59.91273,10.74609,62.0,10.0
+NHL,Montréal Canadiens,Jake Allen,G,33,188,90,Fredericton,Canada,Fredericton MHA,L,2008,2,34,St. Louis Blues,3850000,6,None,None,None,None,None,3.35,0.91,45.94541,-66.66558,60.10867,-113.64258
+NHL,Montréal Canadiens,Samuel Montembeault,G,27,191,90,Bécancour,Canada,AHM Bécancour,L,2015,3,77,Florida Panthers,1000000,6,None,None,None,None,None,3.06,0.902,46.34106,-72.43224,60.10867,-113.64258
+NHL,Montréal Canadiens,Cayden Primeau,G,24,191,92,Farmington Hills,USA,None,L,2017,7,199,Montréal Canadiens,890000,2,None,None,None,None,None,2.95,0.903,42.48531,-83.37716,-14.60485,-57.65625
+NHL,Montréal Canadiens,Justin Barron,D,21,188,91,Halifax,Canada,Halifax MHA,R,2020,1,25,Colorado Avalanche,925000,10,3,1,4,10,4,None,None,44.88392,-63.51171,60.10867,-113.64258
+NHL,Montréal Canadiens,Kaiden Guhle,D,21,188,93,Sherwood Park,Canada,Sherwood Park MHA,L,2020,1,16,Montréal Canadiens,863333,9,0,4,4,10,7,None,None,53.51684,-113.3187,60.10867,-113.64258
+NHL,Montréal Canadiens,Jordan Harris,D,23,180,86,Haverhill,USA,None,L,2018,3,71,Montréal Canadiens,1400000,13,0,2,2,8,-7,None,None,42.7762,-71.07728,-14.60485,-57.65625
+NHL,Montréal Canadiens,Johnathan Kovacevic,D,26,195,99,Grimsby,Canada,None,R,2017,3,74,Winnipeg Jets,766667,13,0,0,0,2,2,None,None,43.20011,-79.56631,60.10867,-113.64258
+NHL,Montréal Canadiens,Mike Matheson,D,29,188,85,Pointe-Claire,Canada,West Island MHA,L,2012,1,23,Florida Panthers,4875000,13,3,7,10,10,-5,None,None,45.44868,-73.81669,60.10867,-113.64258
+NHL,Montréal Canadiens,David Savard,D,33,185,106,Saint-Hyacinthe,Canada,AHM Saint-Hyacinthe,R,2009,4,94,Columbus Blue Jackets,3500000,5,0,2,2,2,0,None,None,45.63076,-72.95699,60.10867,-113.64258
+NHL,Montréal Canadiens,Chris Wideman,D,33,178,82,St. Louis,USA,None,R,2009,4,100,Ottawa Senators,762500,None,None,None,None,None,None,None,None,38.62727,-90.19789,-14.60485,-57.65625
+NHL,Montréal Canadiens,Arber Xhekaj,D,22,193,108,Hamilton,Canada,None,L,None,None,None,None,828333,13,0,2,2,47,-2,None,None,43.25011,-79.84963,60.10867,-113.64258
+NHL,Montréal Canadiens,Josh Anderson,F,29,191,100,Burlington,Canada,Burlington (ON) MHA,R,2012,4,95,Columbus Blue Jackets,5500000,13,0,1,1,24,-4,None,None,43.38621,-79.83713,60.10867,-113.64258
+NHL,Montréal Canadiens,Joel Armia,F,30,192,99,Pori,Finland,Ässät,R,2011,1,16,Buffalo Sabres,3400000,6,1,0,1,2,1,None,None,61.48333,21.78333,64.0,26.0
+NHL,Montréal Canadiens,Cole Caufield,F,22,170,79,Mosinee,USA,Stevens Point Ice Hawks,R,2019,1,15,Montréal Canadiens,7850000,13,5,8,13,6,3,None,None,44.79302,-89.70318,-14.60485,-57.65625
+NHL,Montréal Canadiens,Kirby Dach,F,22,193,96,Fort Saskatchewan,Canada,Fort Saskatchewan MHA,R,2019,1,3,Chicago Blackhawks,3362500,2,0,2,2,0,2,None,None,53.69814,-113.21382,60.10867,-113.64258
+NHL,Montréal Canadiens,Christian Dvorak,F,27,185,91,Palos Township,USA,Chicago Mission,L,2014,2,58,Arizona Coyotes,4450000,3,1,0,1,0,0,None,None,41.6967,-87.817,-14.60485,-57.65625
+NHL,Montréal Canadiens,Jake Evans,F,27,183,84,Toronto,Canada,None,R,2014,7,207,Montréal Canadiens,1700000,13,1,1,2,6,0,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Montréal Canadiens,Brendan Gallagher,F,31,174,83,Edmonton,Canada,South Delta MHA,R,2010,5,147,Montréal Canadiens,6500000,13,4,3,7,10,-4,None,None,53.55014,-113.46871,60.10867,-113.64258
+NHL,Montréal Canadiens,Rafaël Harvey-Pinard,F,24,175,83,Saguenay,Canada,None,L,2019,7,201,Montréal Canadiens,1100000,10,0,4,4,2,0,None,None,48.41675,-71.06573,60.10867,-113.64258
+NHL,Montréal Canadiens,Sean Monahan,F,29,185,91,Brampton,Canada,Brampton MHA,L,2013,1,6,Calgary Flames,1985000,13,6,6,12,6,1,None,None,43.68341,-79.76633,60.10867,-113.64258
+NHL,Montréal Canadiens,Alex Newhook,F,22,178,86,St. John's,Canada,Avalon Celtics MHA,L,2019,1,16,Colorado Avalanche,2900000,13,3,4,7,6,-8,None,None,47.56494,-52.70931,60.10867,-113.64258
+NHL,Montréal Canadiens,Tanner Pearson,F,31,185,91,Kitchener,Canada,Kitchener MHA,L,2012,1,30,Los Angeles Kings,3250000,13,3,3,6,9,0,None,None,43.42537,-80.5112,60.10867,-113.64258
+NHL,Montréal Canadiens,Michael Pezzetta,F,25,185,98,Toronto,Canada,Vaughan Kings MHA,L,2016,6,160,Montréal Canadiens,812500,10,1,1,2,12,1,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Montréal Canadiens,Juraj Slafkovský,F,19,191,108,Kosice,Slovakia,HC Kosice,L,2022,1,1,Montréal Canadiens,950000,13,1,1,2,8,-4,None,None,48.71395,21.25808,48.66667,19.5
+NHL,Montréal Canadiens,Nick Suzuki,F,24,180,93,London,Canada,None,R,2017,1,13,Vegas Golden Knights,7875000,13,5,7,12,4,-3,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Montréal Canadiens,Jesse Ylönen,F,24,186,86,Scottsdale,Finland,EPS,R,2018,2,35,Montréal Canadiens,775000,8,1,0,1,2,-1,None,None,None,None,64.0,26.0
+NHL,Nashville Predators,Kevin Lankinen,G,28,187,84,Helsinki,Finland,Kiekko-Vantaa,L,None,None,None,None,2000000,3,None,None,None,None,None,3.01,0.9,60.16952,24.93545,64.0,26.0
+NHL,Nashville Predators,Juuse Saros,G,28,179,81,Forssa,Finland,VG-62,L,2013,4,99,Nashville Predators,5000000,11,None,None,None,None,None,2.96,0.905,60.81462,23.62146,64.0,26.0
+NHL,Nashville Predators,Tyson Barrie,D,32,180,89,Victoria,Canada,Juan de Fuca MHA,R,2009,3,64,Colorado Avalanche,4500000,13,0,7,7,6,0,None,None,48.4359,-123.35155,60.10867,-113.64258
+NHL,Nashville Predators,Alexandre Carrier,D,27,180,79,Québec,Canada,AHM Varennes,R,2015,4,115,Nashville Predators,2500000,13,0,4,4,6,-3,None,None,46.81228,-71.21454,60.10867,-113.64258
+NHL,Nashville Predators,Marc Del Gaizo,D,24,180,85,Basking Ridge,USA,None,L,2019,4,109,Nashville Predators,850833,3,0,3,3,2,3,None,None,40.70621,-74.54932,-14.60485,-57.65625
+NHL,Nashville Predators,Dante Fabbro,D,25,183,86,Coquitlam,Canada,Burnaby Winter Club,R,2016,1,17,Nashville Predators,2500000,12,1,1,2,6,2,None,None,49.2846,-122.78217,60.10867,-113.64258
+NHL,Nashville Predators,Roman Josi,D,33,187,91,Bern,Switzerland,SC Bern,L,2008,2,38,Nashville Predators,9059000,13,2,6,8,8,-4,None,None,46.94809,7.44744,47.00016,8.01427
+NHL,Nashville Predators,Jérémy Lauzon,D,26,185,93,Val-d'Or,Canada,AHM Val-d'Or,L,2015,2,52,Boston Bruins,2000000,13,0,0,0,13,0,None,None,48.0974,-77.79737,60.10867,-113.64258
+NHL,Nashville Predators,Ryan McDonagh,D,34,185,97,St. Paul,USA,None,L,2007,1,12,Montréal Canadiens,6750000,10,0,2,2,2,0,None,None,44.94441,-93.09327,-14.60485,-57.65625
+NHL,Nashville Predators,Luke Schenn,D,34,188,102,Saskatoon,Canada,Saskatoon Redwings,R,2008,1,5,Toronto Maple Leafs,2750000,1,0,0,0,0,0,None,None,52.13238,-106.66892,60.10867,-113.64258
+NHL,Nashville Predators,Luke Evangelista,F,21,183,83,Toronto,Canada,None,R,2020,2,42,Nashville Predators,797500,13,1,7,8,2,0,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Nashville Predators,Samuel Fagemo,F,23,183,91,Göteborg,Sweden,HK Kings,R,2019,2,50,Los Angeles Kings,775000,4,1,0,1,0,0,None,None,None,None,62.0,15.0
+NHL,Nashville Predators,Filip Forsberg,F,29,187,93,Östervåla,Sweden,Leksands IF,R,2012,1,11,Washington Capitals,8500000,13,4,10,14,10,-5,None,None,60.18333,17.18333,62.0,15.0
+NHL,Nashville Predators,Liam Foudy,F,23,188,85,Scarborough,Canada,Scarborough MHA,L,2018,1,18,Columbus Blue Jackets,762500,6,0,2,2,0,0,None,None,43.70213,-79.24318,60.10867,-113.64258
+NHL,Nashville Predators,Cody Glass,F,24,191,93,Winnipeg,Canada,Seven Oaks MHA,R,2017,1,6,Vegas Golden Knights,2500000,5,0,0,0,2,0,None,None,49.8844,-97.14704,60.10867,-113.64258
+NHL,Nashville Predators,Michael McCarron,F,28,197,105,Grosse Pointe,USA,None,R,2013,1,25,Montréal Canadiens,775000,5,1,1,2,0,2,None,None,42.38615,-82.91186,-14.60485,-57.65625
+NHL,Nashville Predators,Tommy Novak,F,26,185,81,St. Paul,USA,None,L,2015,3,85,Nashville Predators,800000,13,6,4,10,4,0,None,None,44.94441,-93.09327,-14.60485,-57.65625
+NHL,Nashville Predators,Gustav Nyquist,F,34,180,80,Halmstad,Sweden,Limhamn HK,L,2008,4,121,Detroit Red Wings,3185000,13,1,5,6,2,1,None,None,56.67446,12.85676,62.0,15.0
+NHL,Nashville Predators,Ryan O'Reilly,F,32,185,98,Clinton,Canada,Seaforth MHA,L,2009,2,33,Colorado Avalanche,4500000,13,7,4,11,4,-5,None,None,63.91694,-107.48425,60.10867,-113.64258
+NHL,Nashville Predators,Juuso Pärssinen,F,22,191,96,Hämeenlinna,Finland,Timrå IK,L,2019,7,210,Nashville Predators,850833,12,2,1,3,6,-6,None,None,60.99596,24.46434,64.0,26.0
+NHL,Nashville Predators,Kiefer Sherwood,F,28,183,88,Columbus,USA,None,R,None,None,None,None,775000,13,3,2,5,9,6,None,None,39.96118,-82.99879,-14.60485,-57.65625
+NHL,Nashville Predators,Colton Sissons,F,30,185,91,North Vancouver,Canada,None,R,2012,2,50,Nashville Predators,2857143,13,5,1,6,12,-1,None,None,49.24966,-123.11934,60.10867,-113.64258
+NHL,Nashville Predators,Cole Smith,F,28,191,88,Brainerd,USA,None,L,None,None,None,None,775000,13,2,1,3,24,2,None,None,46.79913,-94.2434,-14.60485,-57.65625
+NHL,Nashville Predators,Philip Tomasino,F,22,185,90,Mississauga,Canada,Mississauga Rebels MHA,R,2019,1,24,Nashville Predators,863333,7,1,1,2,2,-2,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Nashville Predators,Yakov Trenin,F,26,188,91,Chelyabinsk,Russia,Traktor Chelyabinsk,L,2015,2,55,Nashville Predators,1700000,13,0,0,0,2,1,None,None,55.15402,61.42915,60.0,100.0
+NHL,New Jersey Devils,Akira Schmid,G,23,195,93,Bern,Switzerland,SC Langnau,L,2018,5,136,New Jersey Devils,850833,5,None,None,None,None,None,3.09,0.898,46.94809,7.44744,47.00016,8.01427
+NHL,New Jersey Devils,Vitek Vanecek,G,27,188,83,Havlickuv Brod,Czechia,HC Havlickuv Brod,L,2014,2,39,Washington Capitals,3400000,10,None,None,None,None,None,3.45,0.887,49.6069,15.57937,49.75,15.0
+NHL,New Jersey Devils,Kevin Bahl,D,23,197,104,New Westminster,Canada,Toronto Marlboros MHA,L,2018,2,55,Arizona Coyotes,1050000,13,0,2,2,4,-3,None,None,49.20678,-122.91092,60.10867,-113.64258
+NHL,New Jersey Devils,Cal Foote,D,24,193,102,Englewood,Canada,Colorado Thunderbirds,R,2017,1,14,Tampa Bay Lightning,800000,None,None,None,None,None,None,None,None,50.54131,-126.88331,60.10867,-113.64258
+NHL,New Jersey Devils,Dougie Hamilton,D,30,197,104,Toronto,Canada,Mississauga MHA,R,2011,1,9,Boston Bruins,9000000,13,5,5,10,10,-6,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,New Jersey Devils,Luke Hughes,D,20,188,83,Manchester,USA,None,L,2021,1,4,New Jersey Devils,925000,13,1,6,7,6,-2,None,None,42.99564,-71.45479,-14.60485,-57.65625
+NHL,New Jersey Devils,John Marino,D,26,185,82,North Easton,USA,None,R,2015,6,154,Edmonton Oilers,4400000,13,0,9,9,8,-1,None,None,40.68843,-75.22073,-14.60485,-57.65625
+NHL,New Jersey Devils,Colin Miller,D,31,185,91,Sault Ste. Marie,Canada,None,R,2012,5,151,Los Angeles Kings,1850000,None,None,None,None,None,None,None,None,46.51677,-84.33325,60.10867,-113.64258
+NHL,New Jersey Devils,Jonas Siegenthaler,D,26,189,99,Zürich,Switzerland,Zürcher SC,L,2015,2,57,Washington Capitals,3400000,13,0,3,3,4,-1,None,None,47.36667,8.55,47.00016,8.01427
+NHL,New Jersey Devils,Brendan Smith,D,34,188,91,Mimico,Canada,None,L,2007,1,27,Detroit Red Wings,1100000,13,0,0,0,12,-5,None,None,43.61616,-79.51269,60.10867,-113.64258
+NHL,New Jersey Devils,Nathan Bastian,F,25,193,93,Kitchener,Canada,None,R,2016,2,41,New Jersey Devils,1350000,12,0,1,1,4,-6,None,None,43.42537,-80.5112,60.10867,-113.64258
+NHL,New Jersey Devils,Jesper Bratt,F,25,179,79,Stockholm,Sweden,Trångsunds IF,L,2016,6,162,New Jersey Devils,7875000,13,7,12,19,2,1,None,None,59.32938,18.06871,62.0,15.0
+NHL,New Jersey Devils,Erik Haula,F,32,183,87,Pori,Finland,Ässät,L,2009,7,182,Minnesota Wild,3150000,12,5,2,7,10,-1,None,None,61.48333,21.78333,64.0,26.0
+NHL,New Jersey Devils,Nico Hischier,F,24,186,79,Brig,Switzerland,EHC Visp,L,2017,1,1,New Jersey Devils,7250000,7,2,0,2,4,-2,None,None,46.31667,7.98333,47.00016,8.01427
+NHL,New Jersey Devils,Alexander Holtz,F,21,184,88,Stockholm,Sweden,Boo IF,R,2020,1,7,New Jersey Devils,894167,13,3,2,5,2,-5,None,None,59.32938,18.06871,62.0,15.0
+NHL,New Jersey Devils,Jack Hughes,F,22,180,80,Orlando,USA,None,L,2019,1,1,New Jersey Devils,8000000,10,5,15,20,4,-1,None,None,28.53834,-81.37924,-14.60485,-57.65625
+NHL,New Jersey Devils,Curtis Lazar,F,28,183,92,Salmon Arm,Canada,Vernon MHA,R,2013,1,17,Ottawa Senators,1000000,12,2,0,2,6,0,None,None,50.6828,-119.229,60.10867,-113.64258
+NHL,New Jersey Devils,Michael McLeod,F,25,188,86,Mississauga,Canada,Toronto Marlboros MHA,R,2016,1,12,New Jersey Devils,1400000,13,3,3,6,2,2,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,New Jersey Devils,Timo Meier,F,27,184,98,Herisau,Switzerland,SC Herisau,L,2015,1,9,San Jose Sharks,8800000,13,4,6,10,12,-11,None,None,47.38615,9.27916,47.00016,8.01427
+NHL,New Jersey Devils,Dawson Mercer,F,22,183,82,Carbonear,Canada,Bay Arena MHA,R,2020,1,18,New Jersey Devils,894167,13,2,0,2,2,-6,None,None,47.73919,-53.2272,60.10867,-113.64258
+NHL,New Jersey Devils,Tomas Nosek,F,31,188,93,Pardubice,Czechia,HC Pardubice,L,None,None,None,None,1000000,3,0,0,0,0,0,None,None,50.04075,15.77659,49.75,15.0
+NHL,New Jersey Devils,Ondrej Palat,F,32,183,88,Frydek-Mistek,Czechia,HC Frydek-Mistek,L,2011,7,208,Tampa Bay Lightning,6000000,13,0,4,4,19,-7,None,None,49.68333,18.35,49.75,15.0
+NHL,New Jersey Devils,Chris Tierney,F,29,185,87,Keswick,Canada,None,L,2012,2,55,San Jose Sharks,775000,7,0,0,0,2,-2,None,None,44.25011,-79.46632,60.10867,-113.64258
+NHL,New Jersey Devils,Tyler Toffoli,F,31,183,89,Scarborough,Canada,Toronto Jr. Canadians MHA,R,2010,2,47,Los Angeles Kings,4250000,13,8,6,14,2,-5,None,None,43.70213,-79.24318,60.10867,-113.64258
+NHL,New Jersey Devils,Max Willman,F,28,183,83,Barnstable,USA,None,L,2014,5,121,Buffalo Sabres,775000,2,1,0,1,0,0,None,None,41.65289,-70.2828,-14.60485,-57.65625
+NHL,New York Islanders,Ilya Sorokin,G,28,191,86,Mezhdurechensk,Russia,Vympel Mezhdurechensk,L,2014,3,78,New York Islanders,4000000,8,None,None,None,None,None,3.24,0.907,53.69417,88.06028,60.0,100.0
+NHL,New York Islanders,Semyon Varlamov,G,35,188,95,Samara,Russia,Lokomotiv Yaroslavl,L,2006,1,23,Washington Capitals,2750000,4,None,None,None,None,None,1.77,0.95,53.20007,50.15,60.0,100.0
+NHL,New York Islanders,Sebastian Aho,D,27,180,83,Umeå,Sweden,Sävar HT,L,2017,5,139,New York Islanders,825000,12,0,2,2,2,-2,None,None,63.82842,20.25972,62.0,15.0
+NHL,New York Islanders,Samuel Bolduc,D,22,193,100,Laval,Canada,AHM Laval,L,2019,2,57,New York Islanders,800000,9,0,0,0,2,-4,None,None,45.56995,-73.692,60.10867,-113.64258
+NHL,New York Islanders,Noah Dobson,D,23,193,88,Summerside,Canada,Summerside & Area MHA,R,2018,1,12,New York Islanders,4000000,12,4,8,12,8,4,None,None,48.98331,-57.9817,60.10867,-113.64258
+NHL,New York Islanders,Scott Mayfield,D,31,195,100,St. Louis,USA,None,R,2011,2,34,New York Islanders,3500000,5,0,1,1,4,1,None,None,38.62727,-90.19789,-14.60485,-57.65625
+NHL,New York Islanders,Adam Pelech,D,29,191,93,Toronto,Canada,Toronto Marlboros MHA,L,2012,3,65,New York Islanders,5750000,10,0,1,1,15,3,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,New York Islanders,Ryan Pulock,D,29,188,98,Dauphin,Canada,Grand Plains MHA,R,2013,1,15,New York Islanders,6150000,12,1,2,3,2,-3,None,None,51.19581,-100.06333,60.10867,-113.64258
+NHL,New York Islanders,Alexander Romanov,D,23,185,95,Moskva,Russia,Krylia Sovetov Moskva,L,2018,2,38,Montréal Canadiens,2500000,12,0,0,0,8,4,None,None,55.75222,37.61556,60.0,100.0
+NHL,New York Islanders,Mathew Barzal,F,26,185,85,Coquitlam,Canada,Burnaby Winter Club,R,2015,1,16,New York Islanders,9150000,12,2,7,9,10,0,None,None,49.2846,-122.78217,60.10867,-113.64258
+NHL,New York Islanders,Casey Cizikas,F,32,180,88,Toronto,Canada,Mississauga Reps,L,2009,4,92,New York Islanders,2500000,12,2,3,5,8,1,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,New York Islanders,Cal Clutterbuck,F,35,183,96,Welland,Canada,None,R,2006,3,72,Minnesota Wild,1750000,12,2,3,5,16,0,None,None,42.98342,-79.24958,60.10867,-113.64258
+NHL,New York Islanders,Pierre Engvall,F,27,196,98,Ljungby,Sweden,IF Troja-Ljungby,L,2014,7,188,Toronto Maple Leafs,3000000,11,0,6,6,4,1,None,None,56.80684,13.82719,62.0,15.0
+NHL,New York Islanders,Hudson Fasching,F,28,191,93,Milwaukee,USA,None,R,2013,4,118,Los Angeles Kings,775000,7,0,1,1,4,0,None,None,43.0389,-87.90647,-14.60485,-57.65625
+NHL,New York Islanders,Julien Gauthier,F,26,193,103,Pointe-aux-Trembles,Canada,AHM Pointe-aux-Trembles,R,2016,1,21,Carolina Hurricanes,787500,1,0,0,0,0,-1,None,None,45.65008,-73.49917,60.10867,-113.64258
+NHL,New York Islanders,Simon Holmström,F,22,185,92,Tranås,Sweden,Tranås AIF,L,2019,1,23,New York Islanders,863333,11,4,0,4,4,1,None,None,58.02906,14.83456,62.0,15.0
+NHL,New York Islanders,Bo Horvat,F,28,183,98,London,Canada,Elgin Middlesex MHA,L,2013,1,9,Vancouver Canucks,8500000,11,4,5,9,2,1,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,New York Islanders,Anders Lee,F,33,191,107,Edina,USA,None,L,2009,6,152,New York Islanders,7000000,12,1,1,2,4,-4,None,None,44.88969,-93.34995,-14.60485,-57.65625
+NHL,New York Islanders,Matt Martin,F,34,191,100,Windsor,Canada,AHM LaSalle,L,2008,5,148,New York Islanders,1500000,12,1,1,2,7,3,None,None,42.30008,-83.01654,60.10867,-113.64258
+NHL,New York Islanders,Brock Nelson,F,32,193,96,Warroad,USA,None,L,2010,1,30,New York Islanders,6000000,12,6,2,8,6,-2,None,None,48.90527,-95.3144,-14.60485,-57.65625
+NHL,New York Islanders,Jean-Gabriel Pageau,F,31,180,82,Ottawa,Canada,None,R,2011,4,96,Ottawa Senators,5000000,12,0,5,5,4,-4,None,None,45.41117,-75.69812,60.10867,-113.64258
+NHL,New York Islanders,Kyle Palmieri,F,32,180,84,Smithtown,USA,None,R,2009,1,26,Anaheim Ducks,5000000,12,3,5,8,4,-3,None,None,40.85593,-73.20067,-14.60485,-57.65625
+NHL,New York Islanders,Oliver Wahlstrom,F,23,188,93,Portland,USA,None,R,2018,1,11,New York Islanders,874125,7,1,0,1,2,-1,None,None,45.52345,-122.67621,-14.60485,-57.65625
+NHL,New York Rangers,Louis Domingue,G,31,191,94,Mont-Saint-Hilaire,Canada,AHM Richelieu,R,2010,5,138,Phoenix Coyotes,775000,1,None,None,None,None,None,1.0,0.962,45.56515,-73.1868,60.10867,-113.64258
+NHL,New York Rangers,Jonathan Quick,G,37,185,100,Milford,USA,None,L,2005,3,72,Los Angeles Kings,825000,5,None,None,None,None,None,1.77,0.935,41.22232,-73.0565,-14.60485,-57.65625
+NHL,New York Rangers,Igor Shestyorkin,G,27,185,86,Moskva,Russia,Krylia Sovetov Moskva,L,2014,4,118,New York Rangers,5666667,8,None,None,None,None,None,2.36,0.913,55.75222,37.61556,60.0,100.0
+NHL,New York Rangers,Adam Fox,D,25,180,83,Jericho,USA,Long Island Gulls,R,2016,3,66,Calgary Flames,9500000,10,3,8,11,6,1,None,None,44.50394,-72.99763,-14.60485,-57.65625
+NHL,New York Rangers,Erik Gustafsson,D,31,184,89,Nynäshamn,Sweden,Nynäshamns IF,L,2012,4,93,Edmonton Oilers,825000,13,3,6,9,6,6,None,None,58.90337,17.94793,62.0,15.0
+NHL,New York Rangers,Zac Jones,D,23,178,81,Richmond,USA,None,L,2019,3,68,New York Rangers,812500,4,0,1,1,0,-3,None,None,37.55376,-77.46026,-14.60485,-57.65625
+NHL,New York Rangers,Ryan Lindgren,D,25,183,86,Minneapolis,USA,None,L,2016,2,49,Boston Bruins,3000000,12,0,1,1,6,0,None,None,44.97997,-93.26384,-14.60485,-57.65625
+NHL,New York Rangers,K'Andre Miller,D,23,195,98,St. Paul,USA,None,L,2018,1,22,New York Rangers,3872000,13,1,6,7,8,7,None,None,44.94441,-93.09327,-14.60485,-57.65625
+NHL,New York Rangers,Braden Schneider,D,22,191,95,Prince Albert,Canada,Prince Albert MHA,R,2020,1,19,New York Rangers,925000,13,1,2,3,4,-2,None,None,53.20008,-105.76772,60.10867,-113.64258
+NHL,New York Rangers,Jacob Trouba,D,29,191,92,Rochester,USA,None,R,2012,1,9,Winnipeg Jets,8000000,13,1,4,5,20,2,None,None,43.15478,-77.61556,-14.60485,-57.65625
+NHL,New York Rangers,Nick Bonino,F,35,185,88,Hartford,USA,None,L,2007,6,173,San Jose Sharks,800000,13,0,0,0,0,-1,None,None,41.76371,-72.68509,-14.60485,-57.65625
+NHL,New York Rangers,Filip Chytil,F,24,191,95,Kromeriz,Czechia,HC Zlin,L,2017,1,21,New York Rangers,4437500,10,0,6,6,4,0,None,None,49.29785,17.39312,49.75,15.0
+NHL,New York Rangers,Will Cuylle,F,21,191,96,Toronto,Canada,George Bell MHA,L,2020,2,60,New York Rangers,828333,13,3,2,5,6,2,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,New York Rangers,Barclay Goodrow,F,30,188,93,Toronto,Canada,None,L,None,None,None,None,3641667,12,0,1,1,19,0,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,New York Rangers,Kaapo Kakko,F,22,190,93,Turku,Finland,TPS,L,2019,1,2,New York Rangers,2100000,13,1,1,2,2,2,None,None,60.45148,22.26869,64.0,26.0
+NHL,New York Rangers,Chris Kreider,F,32,191,104,Boxford,USA,None,L,2009,1,19,New York Rangers,6500000,13,9,3,12,6,3,None,None,42.6612,-70.99672,-14.60485,-57.65625
+NHL,New York Rangers,Alexis Lafrenière,F,22,186,89,St-Eustache,Canada,AHM Saint-Eustache,L,2020,1,1,New York Rangers,2325000,13,5,4,9,2,3,None,None,45.565,-73.90554,60.10867,-113.64258
+NHL,New York Rangers,Artemi Panarin,F,32,180,79,Korkino,Russia,Traktor Chelyabinsk,R,None,None,None,None,11642857,13,8,14,22,4,5,None,None,54.8913,61.3969,60.0,100.0
+NHL,New York Rangers,Tyler Pitlick,F,32,188,91,Minneapolis,USA,None,R,2010,2,31,Edmonton Oilers,787500,5,0,1,1,0,0,None,None,44.97997,-93.26384,-14.60485,-57.65625
+NHL,New York Rangers,Vincent Trocheck,F,30,180,83,Pittsburgh,USA,None,R,2011,3,64,Florida Panthers,5625000,13,4,6,10,15,2,None,None,40.44062,-79.99589,-14.60485,-57.65625
+NHL,New York Rangers,Jimmy Vesey,F,30,191,92,Boston,USA,None,L,2012,3,66,Nashville Predators,800000,11,1,2,3,2,2,None,None,42.35843,-71.05977,-14.60485,-57.65625
+NHL,New York Rangers,Blake Wheeler,F,37,195,102,Plymouth,USA,None,R,2004,1,5,Arizona Coyotes,800000,13,1,1,2,8,-4,None,None,42.08343,-71.01838,-14.60485,-57.65625
+NHL,New York Rangers,Mika Zibanejad,F,30,187,91,Stockholm,Sweden,Hammarby IF,R,2011,1,6,Ottawa Senators,8500000,13,2,8,10,4,5,None,None,59.32938,18.06871,62.0,15.0
+NHL,Ottawa Senators,Anton Forsberg,G,30,187,87,Härnösand,Sweden,AIK Härnösand,L,2011,7,188,Columbus Blue Jackets,2750000,5,None,None,None,None,None,3.79,0.833,62.63228,17.93794,62.0,15.0
+NHL,Ottawa Senators,Joonas Korpisalo,G,29,190,87,Pori,Finland,Ässät,L,2012,3,62,Columbus Blue Jackets,4000000,9,None,None,None,None,None,3.38,0.902,61.48333,21.78333,64.0,26.0
+NHL,Ottawa Senators,Jacob Bernard-Docker,D,23,183,86,Canmore,Canada,Canmore MHA,R,2018,1,26,Ottawa Senators,805000,8,0,2,2,2,-1,None,None,51.06359,-115.32545,60.10867,-113.64258
+NHL,Ottawa Senators,Erik Brännström,D,24,179,84,Eksjö,Sweden,Nässjö HC,L,2017,1,15,Vegas Golden Knights,2000000,7,0,0,0,4,1,None,None,57.62006,15.2181,62.0,15.0
+NHL,Ottawa Senators,Thomas Chabot,D,26,188,89,Ste-Marie,Canada,AHM Beauce-Nord,L,2015,1,18,Ottawa Senators,8000000,7,0,3,3,2,-1,None,None,46.51677,-84.33325,60.10867,-113.64258
+NHL,Ottawa Senators,Jakob Chychrun,D,25,188,95,Boca Raton,Canada,Florida Jr. Panthers,L,2016,1,16,Arizona Coyotes,4600000,12,5,6,11,8,4,None,None,None,None,60.10867,-113.64258
+NHL,Ottawa Senators,Travis Hamonic,D,33,188,93,St. Malo,Canada,St. Malo MHA,R,2008,2,53,New York Islanders,1100000,12,0,1,1,18,3,None,None,46.78342,-77.54948,60.10867,-113.64258
+NHL,Ottawa Senators,Tyler Kleven,D,21,193,91,Fargo,USA,None,L,2020,2,44,Ottawa Senators,916667,5,0,1,1,0,1,None,None,46.87719,-96.7898,-14.60485,-57.65625
+NHL,Ottawa Senators,Jake Sanderson,D,21,188,84,Whitefish,USA,Springbank MHA,L,2020,1,5,Ottawa Senators,925000,12,3,6,9,4,-4,None,None,48.41108,-114.33763,-14.60485,-57.65625
+NHL,Ottawa Senators,Artyom Zub,D,28,188,92,Khabarovsk,Russia,Amur Khabarovsk,R,None,None,None,None,4600000,5,2,2,4,4,3,None,None,48.48271,135.08379,60.0,100.0
+NHL,Ottawa Senators,Drake Batherson,F,25,191,93,Fort Wayne,Canada,Antigonish MHA,R,2017,4,121,Ottawa Senators,4975000,12,3,3,6,4,-6,None,None,None,None,60.10867,-113.64258
+NHL,Ottawa Senators,Rourke Chartier,F,27,180,86,Saskatoon,Canada,Saskatoon Bobcats,L,2014,5,149,San Jose Sharks,775000,12,0,1,1,2,-1,None,None,52.13238,-106.66892,60.10867,-113.64258
+NHL,Ottawa Senators,Claude Giroux,F,35,180,84,Hearst,Canada,Hearst MHA,R,2006,1,22,Philadelphia Flyers,6500000,12,5,9,14,10,1,None,None,49.7142,-83.6861,60.10867,-113.64258
+NHL,Ottawa Senators,Ridly Greig,F,21,183,82,Lethbridge,Canada,Lethbridge MHA,L,2020,1,28,Ottawa Senators,863333,9,2,5,7,4,7,None,None,49.69999,-112.81856,60.10867,-113.64258
+NHL,Ottawa Senators,Matthew Highmore,F,27,180,85,Halifax,Canada,Dartmouth MHA,L,None,None,None,None,775000,1,0,1,1,0,1,None,None,44.88392,-63.51171,60.10867,-113.64258
+NHL,Ottawa Senators,Mathieu Joseph,F,26,185,86,Laval,Canada,AHM Chambly,L,2015,4,120,Tampa Bay Lightning,2950000,12,3,8,11,4,5,None,None,45.56995,-73.692,60.10867,-113.64258
+NHL,Ottawa Senators,Roby Järventie,F,21,188,97,Tampere,Finland,Jokerit,L,2020,2,33,Ottawa Senators,894167,3,0,1,1,2,-1,None,None,61.49911,23.78712,64.0,26.0
+NHL,Ottawa Senators,Mark Kastelic,F,24,192,95,Phoenix,USA,None,R,2019,5,125,Ottawa Senators,835000,9,0,0,0,21,-2,None,None,33.44838,-112.07404,-14.60485,-57.65625
+NHL,Ottawa Senators,Parker Kelly,F,24,183,85,Camrose,Canada,None,L,None,None,None,None,762500,12,1,3,4,0,-1,None,None,53.00822,-112.83168,60.10867,-113.64258
+NHL,Ottawa Senators,Dominik Kubalík,F,28,187,86,Plzen,Czechia,HC Plzen,L,2013,7,191,Los Angeles Kings,2500000,12,4,0,4,2,-3,None,None,49.74747,13.37759,49.75,15.0
+NHL,Ottawa Senators,Zack MacEwen,F,27,191,93,Charlottetown,Canada,None,R,None,None,None,None,775000,4,0,1,1,5,0,None,None,46.23459,-63.1256,60.10867,-113.64258
+NHL,Ottawa Senators,Josh Norris,F,24,185,90,Oxford,USA,Young Lions Frankfurt,L,2017,1,19,San Jose Sharks,7950000,9,4,3,7,6,-5,None,None,44.49977,-70.75657,-14.60485,-57.65625
+NHL,Ottawa Senators,Tim Stützle,F,21,184,86,Viersen,Germany,Krefelder EV 1981,L,2020,1,3,Ottawa Senators,8350000,12,3,12,15,8,1,None,None,51.25435,6.39441,51.5,10.5
+NHL,Ottawa Senators,Vladimir Tarasenko,F,31,184,102,Yaroslavl,Russia,Sibir Novosibirsk,L,2010,1,16,St. Louis Blues,5000000,12,3,8,11,4,8,None,None,57.62987,39.87368,60.0,100.0
+NHL,Ottawa Senators,Brady Tkachuk,F,24,193,96,Phoenix,USA,None,L,2018,1,4,Ottawa Senators,8205714,12,8,3,11,34,2,None,None,33.44838,-112.07404,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Samuel Ersson,G,24,188,80,Falun,Sweden,Falu IF,L,2018,5,143,Philadelphia Flyers,859167,6,None,None,None,None,None,3.43,0.855,60.60357,15.62597,62.0,15.0
+NHL,Philadelphia Flyers,Carter Hart,G,25,188,82,Sherwood Park,Canada,Sherwood Park MHA,L,2016,2,48,Philadelphia Flyers,3979000,8,None,None,None,None,None,2.52,0.913,53.51684,-113.3187,60.10867,-113.64258
+NHL,Philadelphia Flyers,Cal Petersen,G,29,188,84,Waterloo,USA,None,R,2013,5,129,Buffalo Sabres,5000000,1,None,None,None,None,None,5.0,0.833,42.49276,-92.34296,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Felix Sandström,G,26,187,87,Gävle,Sweden,IK Huge,L,2015,3,70,Philadelphia Flyers,775000,None,None,None,None,None,None,None,None,60.67452,17.14174,62.0,15.0
+NHL,Philadelphia Flyers,Louie Belpedio,D,27,180,89,Skokie,USA,None,R,2014,3,80,Minnesota Wild,775000,8,2,0,2,0,3,None,None,42.03336,-87.73339,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Ryan Ellis,D,32,178,82,Hamilton,Canada,Belmont MHA,R,2009,1,11,Nashville Predators,6250000,None,None,None,None,None,None,None,None,43.25011,-79.84963,60.10867,-113.64258
+NHL,Philadelphia Flyers,Victor Mete,D,25,175,83,Woodbridge,Canada,Mississauga MHA,L,2016,4,100,Montréal Canadiens,775000,None,None,None,None,None,None,None,None,43.78341,-79.59962,60.10867,-113.64258
+NHL,Philadelphia Flyers,Rasmus Ristolainen,D,29,192,100,Turku,Finland,TPS,R,2013,1,8,Buffalo Sabres,5100000,None,None,None,None,None,None,None,None,60.45148,22.26869,64.0,26.0
+NHL,Philadelphia Flyers,Travis Sanheim,D,27,191,82,Elkhorn,Canada,Yellowhead Region MHA,L,2014,1,17,Philadelphia Flyers,6250000,14,2,12,14,14,-2,None,None,49.9756,-101.24034,60.10867,-113.64258
+NHL,Philadelphia Flyers,Nick Seeler,D,30,188,91,Eden Prairie,USA,None,L,2011,5,131,Minnesota Wild,775000,14,0,1,1,28,6,None,None,44.85469,-93.47079,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Marc Staal,D,36,193,95,Thunder Bay,Canada,Thunder Bay Kings,L,2005,1,12,New York Rangers,1100000,4,0,0,0,4,0,None,None,48.38202,-89.25018,60.10867,-113.64258
+NHL,Philadelphia Flyers,Sean Walker,D,28,180,89,Keswick,Canada,None,R,None,None,None,None,2650000,14,2,2,4,2,2,None,None,44.25011,-79.46632,60.10867,-113.64258
+NHL,Philadelphia Flyers,Cam York,D,22,180,79,Anaheim,USA,Anaheim Jr. Ducks,L,2019,1,14,Philadelphia Flyers,1600000,14,1,3,4,16,-2,None,None,33.83529,-117.9145,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Yegor Zamula,D,23,191,80,Chelyabinsk,Russia,Belye Medvedi Chelyabinsk,L,None,None,None,None,775000,12,1,3,4,10,9,None,None,55.15402,61.42915,60.0,100.0
+NHL,Philadelphia Flyers,Cam Atkinson,F,34,173,80,Riverside,USA,None,R,2008,6,157,Columbus Blue Jackets,5875000,14,7,4,11,4,-4,None,None,33.95335,-117.39616,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Bobby Brink,F,22,173,75,Minnetonka,USA,None,R,2019,2,34,Philadelphia Flyers,925000,13,3,5,8,2,2,None,None,44.9133,-93.50329,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Noah Cates,F,24,185,75,Stillwater,USA,None,L,2017,5,137,Philadelphia Flyers,2625000,14,1,3,4,0,-2,None,None,45.66944,-109.39477,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Sean Couturier,F,30,192,96,Phoenix,Canada,Bathurst MHA,L,2011,1,8,Philadelphia Flyers,7750000,12,3,6,9,6,1,None,None,63.75025,-113.33459,60.10867,-113.64258
+NHL,Philadelphia Flyers,Nicolas Deslauriers,F,32,185,100,LaSalle,Canada,None,L,2009,3,84,Los Angeles Kings,1750000,14,0,2,2,19,-2,None,None,45.43038,-73.63518,60.10867,-113.64258
+NHL,Philadelphia Flyers,Joel Farabee,F,23,183,83,Syracuse,USA,None,L,2018,1,14,Philadelphia Flyers,5000000,14,6,6,12,2,8,None,None,43.04812,-76.14742,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Tyson Foerster,F,21,188,88,Alliston,Canada,Barrie Zone MHA,R,2020,1,23,Philadelphia Flyers,863333,13,0,3,3,4,3,None,None,44.15011,-79.86635,60.10867,-113.64258
+NHL,Philadelphia Flyers,Morgan Frost,F,24,180,77,Aurora,Canada,Aurora MHA,L,2017,1,27,Philadelphia Flyers,2100000,7,0,1,1,2,1,None,None,44.00011,-79.46632,60.10867,-113.64258
+NHL,Philadelphia Flyers,Garnet Hathaway,F,31,191,94,Naples,USA,None,R,None,None,None,None,2375000,14,2,0,2,13,-4,None,None,40.85216,14.26811,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Travis Konecny,F,26,178,79,London,Canada,Elgin Middlesex MHA,R,2015,1,24,Philadelphia Flyers,5500000,14,9,3,12,30,1,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Philadelphia Flyers,Scott Laughton,F,29,185,86,Oakville,Canada,Toronto Marlboros MHA,L,2012,1,20,Philadelphia Flyers,3000000,14,1,8,9,16,8,None,None,43.45011,-79.68292,60.10867,-113.64258
+NHL,Philadelphia Flyers,Ryan Poehling,F,24,188,89,Lakeville,USA,None,L,2017,1,25,Montréal Canadiens,1400000,11,0,1,1,2,-2,None,None,44.64969,-93.24272,-14.60485,-57.65625
+NHL,Philadelphia Flyers,Owen Tippett,F,24,185,94,Peterborough,Canada,Peterborough MHA,R,2017,1,10,Florida Panthers,1500000,14,4,4,8,0,-2,None,None,44.30012,-78.31623,60.10867,-113.64258
+NHL,Pittsburgh Penguins,Magnus Hellberg,G,32,197,95,Uppsala,Sweden,Almtuna IS,L,2011,2,38,Nashville Predators,785000,3,None,None,None,None,None,2.5,0.922,59.85882,17.63889,62.0,15.0
+NHL,Pittsburgh Penguins,Tristan Jarry,G,28,188,88,Surrey,Canada,North Delta MHA,L,2013,2,44,Pittsburgh Penguins,5375000,9,None,None,None,None,None,2.51,0.907,49.19,-122.84889,60.10867,-113.64258
+NHL,Pittsburgh Penguins,Alex Nedeljkovic,G,27,183,92,Parma,USA,None,L,2014,2,37,Carolina Hurricanes,1500000,2,None,None,None,None,None,3.01,0.914,41.40477,-81.72291,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Ryan Graves,D,28,195,100,Yarmouth,Canada,Yarmouth County MHA,L,2013,4,110,New York Rangers,4500000,12,0,2,2,6,4,None,None,43.83345,-66.11557,60.10867,-113.64258
+NHL,Pittsburgh Penguins,Pierre-Olivier Joseph,D,24,188,84,Laval,Canada,AHM Laval,L,2017,1,23,Arizona Coyotes,825000,5,0,1,1,0,-2,None,None,45.56995,-73.692,60.10867,-113.64258
+NHL,Pittsburgh Penguins,Erik Karlsson,D,33,182,86,Landsbro,Sweden,Boro-Vetlanda HC,R,2008,1,15,Ottawa Senators,10000000,12,2,9,11,4,6,None,None,57.36667,14.9,62.0,15.0
+NHL,Pittsburgh Penguins,Kris Letang,D,36,183,91,Montréal,Canada,AHM Laval,R,2005,3,62,Pittsburgh Penguins,6100000,12,1,6,7,12,3,None,None,45.50884,-73.58781,60.10867,-113.64258
+NHL,Pittsburgh Penguins,John Ludvig,D,23,185,97,Kamloops,Canada,None,L,2019,3,69,Florida Panthers,775000,1,0,0,0,0,-1,None,None,50.66648,-120.3192,60.10867,-113.64258
+NHL,Pittsburgh Penguins,Marcus Pettersson,D,27,194,80,Skellefteå,Sweden,Skellefteå AIK,L,2014,2,38,Anaheim Ducks,4025175,12,0,3,3,14,7,None,None,64.62477,21.07689,62.0,15.0
+NHL,Pittsburgh Penguins,Chad Ruhwedel,D,33,180,87,San Diego,USA,None,R,None,None,None,None,800000,10,0,1,1,0,0,None,None,32.71571,-117.16472,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Ryan Shea,D,26,188,86,Milton,USA,None,L,2015,4,121,Chicago Blackhawks,775000,8,0,0,0,2,1,None,None,42.24954,-71.06616,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Noel Acciari,F,31,178,95,Johnston,USA,None,R,None,None,None,None,2000000,12,0,1,1,2,0,None,None,16.72828,-169.53428,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Jeff Carter,F,38,191,98,London,Canada,Elgin Middlesex MHA,R,2003,1,11,Philadelphia Flyers,3125000,10,0,0,0,2,-2,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Pittsburgh Penguins,Sidney Crosby,F,36,180,91,Cole Harbour,Canada,Cole Harbour MHA,L,2005,1,1,Pittsburgh Penguins,8700000,12,7,7,14,10,4,None,None,44.65015,-63.48147,60.10867,-113.64258
+NHL,Pittsburgh Penguins,Lars Eller,F,34,186,94,Rødovre,Denmark,Rødovre SIK,L,2007,1,13,St. Louis Blues,2450000,12,2,4,6,10,3,None,None,55.68062,12.45373,56.0,10.0
+NHL,Pittsburgh Penguins,Jake Guentzel,F,29,180,82,Omaha,USA,None,L,2013,3,77,Pittsburgh Penguins,6000000,12,5,10,15,4,3,None,None,41.25626,-95.94043,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Vinnie Hinostroza,F,29,178,80,Melrose Park,USA,None,R,2012,6,169,Chicago Blackhawks,775000,2,1,1,2,2,2,None,None,41.90059,-87.85673,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Yevgeni Malkin,F,37,192,88,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,2004,1,2,Pittsburgh Penguins,6100000,12,7,7,14,16,-1,None,None,53.41861,59.04722,60.0,100.0
+NHL,Pittsburgh Penguins,Matt Nieto,F,31,180,91,Long Beach,USA,Anaheim Jr. Ducks,L,2011,2,47,San Jose Sharks,900000,12,1,0,1,4,1,None,None,33.76696,-118.18923,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Drew O'Connor,F,25,191,86,Chatham,USA,None,L,None,None,None,None,925000,12,0,2,2,2,2,None,None,32.08354,-81.09983,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Rickard Rakell,F,30,186,92,Sollentuna,Sweden,Spånga IS,R,2011,1,30,Anaheim Ducks,5000000,12,0,3,3,2,0,None,None,59.42804,17.95093,62.0,15.0
+NHL,Pittsburgh Penguins,Bryan Rust,F,31,180,87,Pontiac,USA,None,R,2010,3,80,Pittsburgh Penguins,5125000,12,7,5,12,2,7,None,None,42.63892,-83.29105,-14.60485,-57.65625
+NHL,Pittsburgh Penguins,Reilly Smith,F,32,184,84,Etobicoke,Canada,None,L,2009,3,69,Dallas Stars,5000000,12,6,5,11,0,3,None,None,43.65421,-79.56711,60.10867,-113.64258
+NHL,Pittsburgh Penguins,Radim Zohorna,F,27,198,104,Havlickuv Brod,Czechia,BK Havlickuv Brod,L,None,None,None,None,775000,8,3,1,4,2,1,None,None,None,None,49.75,15.0
+NHL,San Jose Sharks,Mackenzie Blackwood,G,26,193,102,Thunder Bay,Canada,None,L,2015,2,42,New Jersey Devils,2350000,10,None,None,None,None,None,4.0,0.899,48.38202,-89.25018,60.10867,-113.64258
+NHL,San Jose Sharks,Kaapo Kähkönen,G,27,187,98,Helsinki,Finland,EJK,L,2014,4,109,Minnesota Wild,2750000,6,None,None,None,None,None,4.44,0.875,60.16952,24.93545,64.0,26.0
+NHL,San Jose Sharks,Calen Addison,D,23,180,78,Brandon,Canada,Brandon MHA,R,2018,2,53,Pittsburgh Penguins,825000,2,0,0,0,0,-5,None,None,49.84692,-99.95306,60.10867,-113.64258
+NHL,San Jose Sharks,Matt Benning,D,29,185,92,St. Albert,Canada,St. Albert MHA,R,2012,6,175,Boston Bruins,1250000,8,0,1,1,6,-6,None,None,53.63344,-113.63533,60.10867,-113.64258
+NHL,San Jose Sharks,Kyle Burroughs,D,28,183,88,Vancouver,Canada,None,R,2013,7,196,New York Islanders,1100000,14,0,0,0,13,-12,None,None,49.24966,-123.11934,60.10867,-113.64258
+NHL,San Jose Sharks,Ty Emberson,D,23,185,88,Eau Claire,USA,None,R,2018,3,73,Arizona Coyotes,775000,7,0,1,1,0,-1,None,None,44.81135,-91.49849,-14.60485,-57.65625
+NHL,San Jose Sharks,Mario Ferraro,D,25,180,84,King City,Canada,None,L,2017,2,49,San Jose Sharks,3250000,14,0,2,2,10,-18,None,None,43.92856,-79.52694,60.10867,-113.64258
+NHL,San Jose Sharks,Nikolai Knyzhov,D,25,190,101,Kemerovo,Russia,Energia Kemerovo,L,None,None,None,None,1250000,8,0,1,1,4,-5,None,None,55.33333,86.08333,60.0,100.0
+NHL,San Jose Sharks,Jacob MacDonald,F,30,183,93,Portland,USA,None,L,None,None,None,None,762500,2,1,1,2,0,-5,None,None,45.52345,-122.67621,-14.60485,-57.65625
+NHL,San Jose Sharks,Nikita Okhotyuk,D,22,185,88,Chelyabinsk,Russia,HSh S. Makarova Chelyabinsk,L,2019,2,61,New Jersey Devils,789167,5,0,1,1,12,-5,None,None,55.15402,61.42915,60.0,100.0
+NHL,San Jose Sharks,Jan Rutta,D,33,190,91,Pisek,Czechia,IHC Pisek,R,None,None,None,None,2750000,14,0,0,0,6,-10,None,None,49.3088,14.1475,49.75,15.0
+NHL,San Jose Sharks,Marc-Édouard Vlasic,D,36,185,93,Montréal,Canada,Lakeshore MHA,L,2005,2,35,San Jose Sharks,7000000,11,0,0,0,0,-6,None,None,45.50884,-73.58781,60.10867,-113.64258
+NHL,San Jose Sharks,Alexander Barabanov,F,29,179,88,St. Petersburg,Russia,SKA-Petergof St. Petersburg,L,None,None,None,None,2500000,6,0,0,0,2,-1,None,None,59.93863,30.31413,60.0,100.0
+NHL,San Jose Sharks,Ryan Carpenter,F,32,183,91,Oviedo,USA,None,R,None,None,None,None,775000,7,0,1,1,0,-1,None,None,43.36029,-5.84476,-14.60485,-57.65625
+NHL,San Jose Sharks,Logan Couture,F,34,185,93,Guelph,Canada,None,L,2007,1,9,San Jose Sharks,8000000,None,None,None,None,None,None,None,None,43.54594,-80.25599,60.10867,-113.64258
+NHL,San Jose Sharks,Anthony Duclair,F,28,180,89,Pointe-Claire,Canada,AHM Saint-Léonard,L,2013,3,80,New York Rangers,3000000,13,3,2,5,20,-12,None,None,45.44868,-73.81669,60.10867,-113.64258
+NHL,San Jose Sharks,William Eklund,F,21,178,82,Haninge,Sweden,Haninge HF,L,2021,1,7,San Jose Sharks,863333,14,2,2,4,6,-8,None,None,59.17382,18.15491,62.0,15.0
+NHL,San Jose Sharks,Mikael Granlund,F,31,179,84,Oulu,Finland,Laser HT,L,2010,1,9,Minnesota Wild,5000000,7,0,1,1,6,-4,None,None,65.01236,25.46816,64.0,26.0
+NHL,San Jose Sharks,Tomas Hertl,F,29,190,97,Praha,Czechia,HC Slavia Praha,L,2012,1,17,San Jose Sharks,8137500,14,2,7,9,4,-13,None,None,50.08804,14.42076,49.75,15.0
+NHL,San Jose Sharks,Mike Hoffman,F,33,183,83,Kitchener,Canada,None,L,2009,5,130,Ottawa Senators,4500000,13,0,1,1,6,-8,None,None,43.42537,-80.5112,60.10867,-113.64258
+NHL,San Jose Sharks,Luke Kunin,F,25,182,89,Chesterfield,USA,St. Louis Jr. Blues,R,2016,1,15,Minnesota Wild,2750000,14,1,1,2,22,-12,None,None,37.35682,-77.44165,-14.60485,-57.65625
+NHL,San Jose Sharks,Kevin Labanc,F,27,180,84,Staten Island,USA,None,R,2014,6,171,San Jose Sharks,4725000,10,0,2,2,4,-6,None,None,40.56233,-74.13986,-14.60485,-57.65625
+NHL,San Jose Sharks,Oskar Lindblom,F,27,187,87,Gävle,Sweden,Hille/Åbyggeby IK,L,2014,5,138,Philadelphia Flyers,2500000,1,0,0,0,0,-1,None,None,60.67452,17.14174,62.0,15.0
+NHL,San Jose Sharks,Givani Smith,F,25,188,97,Toronto,Canada,Mississauga Senators MHA,L,2016,2,46,Detroit Red Wings,800000,12,0,0,0,11,-6,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,San Jose Sharks,Nico Sturm,F,28,191,95,Augsburg,Germany,Augsburger EV,L,None,None,None,None,2000000,14,0,1,1,6,-12,None,None,48.37154,10.89851,51.5,10.5
+NHL,San Jose Sharks,Filip Zadina,F,23,183,89,Pardubice,Czechia,HC Pardubice,L,2018,1,6,Detroit Red Wings,1100000,14,3,0,3,2,-16,None,None,50.04075,15.77659,49.75,15.0
+NHL,San Jose Sharks,Fabian Zetterlund,F,24,180,100,Karlstad,Sweden,Färjestads BK,R,2017,3,63,New Jersey Devils,1450000,14,4,2,6,4,-10,None,None,59.3793,13.50357,62.0,15.0
+NHL,Seattle Kraken,Joey Daccord,G,27,191,95,North Andover,USA,None,L,2015,7,199,Ottawa Senators,1200000,6,None,None,None,None,None,2.86,0.909,42.65843,-71.137,-14.60485,-57.65625
+NHL,Seattle Kraken,Philipp Grubauer,G,31,185,85,Rosenheim,Germany,SB Rosenheim,L,2010,4,112,Washington Capitals,5900000,8,None,None,None,None,None,3.01,0.9,47.85637,12.12247,51.5,10.5
+NHL,Seattle Kraken,Will Borgen,D,26,191,93,Moorhead,USA,None,R,2015,4,92,Buffalo Sabres,2700000,14,0,4,4,8,1,None,None,46.87386,-96.76951,-14.60485,-57.65625
+NHL,Seattle Kraken,Brian Dumoulin,D,32,193,94,Biddeford,USA,None,L,2009,2,51,Carolina Hurricanes,3150000,14,2,2,4,2,0,None,None,43.49258,-70.45338,-14.60485,-57.65625
+NHL,Seattle Kraken,Vince Dunn,D,27,183,92,Peterborough,Canada,Peterborough MHA,L,2015,2,56,St. Louis Blues,7350000,14,2,10,12,12,-6,None,None,44.30012,-78.31623,60.10867,-113.64258
+NHL,Seattle Kraken,Adam Larsson,D,30,190,95,Skellefteå,Sweden,Skellefteå AIK,R,2011,1,4,New Jersey Devils,4000000,14,0,2,2,10,-5,None,None,64.62477,21.07689,62.0,15.0
+NHL,Seattle Kraken,Jaycob Megna,D,30,198,100,Plantation,USA,None,L,2012,7,210,Anaheim Ducks,762500,None,None,None,None,None,None,None,None,26.13421,-80.23184,-14.60485,-57.65625
+NHL,Seattle Kraken,Jamie Oleksiak,D,30,201,116,Toronto,Canada,Toronto Marlboros MHA,L,2011,1,14,Dallas Stars,4600000,14,0,3,3,8,-1,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Seattle Kraken,Justin Schultz,D,33,188,88,Kelowna,Canada,Westside MHA,R,2008,2,43,Anaheim Ducks,3000000,14,2,4,6,6,-1,None,None,49.88307,-119.48568,60.10867,-113.64258
+NHL,Seattle Kraken,Pierre-Édouard Bellemare,F,38,182,90,Le Blanc-Mesnil,France,Montpellier,L,None,None,None,None,775000,13,1,0,1,2,-2,None,None,48.93872,2.46138,46.0,2.0
+NHL,Seattle Kraken,Matty Beniers,F,21,188,79,Hingham,USA,None,L,2021,1,2,Seattle Kraken,897500,14,1,6,7,2,-13,None,None,42.24177,-70.88977,-14.60485,-57.65625
+NHL,Seattle Kraken,Oliver Bjorkstrand,F,28,183,80,Herning,Denmark,Herning IK,R,2013,3,89,Columbus Blue Jackets,5400000,14,6,6,12,0,2,None,None,56.13615,8.97662,56.0,10.0
+NHL,Seattle Kraken,André Burakovsky,F,28,187,91,Klagenfurt,Sweden,IF Malmö Redhawks,L,2013,1,23,Washington Capitals,5500000,6,0,2,2,0,-2,None,None,None,None,62.0,15.0
+NHL,Seattle Kraken,Jordan Eberle,F,33,180,85,Regina,Canada,Regina Kings,R,2008,1,22,Edmonton Oilers,5500000,13,1,3,4,9,-8,None,None,50.45008,-104.6178,60.10867,-113.64258
+NHL,Seattle Kraken,Yanni Gourde,F,31,175,78,St-Narcisse-de-Beaurivage,Canada,None,L,None,None,None,None,5166666,14,2,5,7,22,4,None,None,46.49309,-71.25336,60.10867,-113.64258
+NHL,Seattle Kraken,Tye Kartye,F,22,185,90,Kingston,Canada,None,L,None,None,None,None,859167,13,2,2,4,7,-3,None,None,44.22976,-76.48098,60.10867,-113.64258
+NHL,Seattle Kraken,Jared McCann,F,27,185,84,Stratford,Canada,London MHA,L,2014,1,24,Vancouver Canucks,5000000,14,6,3,9,11,-6,None,None,43.36679,-80.94972,60.10867,-113.64258
+NHL,Seattle Kraken,Jaden Schwartz,F,31,179,86,Melfort,Canada,Melfort MHA,L,2010,1,14,St. Louis Blues,5500000,14,7,6,13,4,-4,None,None,52.86673,-104.61768,60.10867,-113.64258
+NHL,Seattle Kraken,Devin Shore,F,29,185,93,Ajax,Canada,Ajax-Pickering Raiders,L,2012,2,61,Dallas Stars,775000,8,1,1,2,4,-1,None,None,43.85012,-79.03288,60.10867,-113.64258
+NHL,Seattle Kraken,Brandon Tanev,F,31,183,82,Toronto,Canada,None,L,None,None,None,None,3500000,1,0,0,0,0,-1,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Seattle Kraken,Eeli Tolvanen,F,24,179,87,Vihti,Finland,NuPS,L,2017,1,30,Nashville Predators,1450000,14,3,5,8,4,1,None,None,60.41699,24.31965,64.0,26.0
+NHL,Seattle Kraken,Alexander Wennberg,F,29,186,89,Nacka,Sweden,Boo IF,L,2013,1,14,Columbus Blue Jackets,4500000,14,0,3,3,8,1,None,None,59.31077,18.17551,62.0,15.0
+NHL,Seattle Kraken,Ryan Winterton,F,20,188,86,Markham,Canada,Whitby MHA,R,2021,3,67,Seattle Kraken,828333,1,0,0,0,0,0,None,None,43.86682,-79.2663,60.10867,-113.64258
+NHL,Seattle Kraken,Shane Wright,F,19,183,90,Burlington,Canada,Burlington (ON) MHA,R,2022,1,4,Seattle Kraken,918333,1,0,0,0,0,0,None,None,43.38621,-79.83713,60.10867,-113.64258
+NHL,Seattle Kraken,Kailer Yamamoto,F,25,173,69,Spokane,USA,None,R,2017,1,22,Edmonton Oilers,1500000,14,2,2,4,2,-5,None,None,47.65966,-117.42908,-14.60485,-57.65625
+NHL,St. Louis Blues,Jordan Binnington,G,30,188,78,Richmond Hill,Canada,Vaughan Kings MHA,L,2011,3,88,St. Louis Blues,6000000,8,None,None,None,None,None,2.58,0.919,43.87111,-79.43725,60.10867,-113.64258
+NHL,St. Louis Blues,Joel Hofer,G,23,196,81,Winnipeg,Canada,Assiniboine Park MHA,L,2018,4,107,St. Louis Blues,775000,4,None,None,None,None,None,2.5,0.918,49.8844,-97.14704,60.10867,-113.64258
+NHL,St. Louis Blues,Robert Bortuzzo,D,34,193,98,Thunder Bay,Canada,None,R,2007,3,78,Pittsburgh Penguins,950000,3,0,0,0,7,1,None,None,48.38202,-89.25018,60.10867,-113.64258
+NHL,St. Louis Blues,Justin Faulk,D,31,183,98,South St. Paul,USA,None,R,2010,2,37,Carolina Hurricanes,6500000,12,0,4,4,4,7,None,None,-23.5475,-46.63611,-14.60485,-57.65625
+NHL,St. Louis Blues,Torey Krug,D,32,175,84,Royal Oak,USA,None,L,None,None,None,None,6500000,12,0,2,2,4,4,None,None,42.48948,-83.14465,-14.60485,-57.65625
+NHL,St. Louis Blues,Nick Leddy,D,32,183,93,Eden Prairie,USA,None,L,2009,1,16,Minnesota Wild,4000000,12,1,2,3,2,-2,None,None,44.85469,-93.47079,-14.60485,-57.65625
+NHL,St. Louis Blues,Colton Parayko,D,30,197,104,St. Albert,Canada,St. Albert MHA,R,2012,3,86,St. Louis Blues,6500000,12,1,1,2,4,-3,None,None,53.63344,-113.63533,60.10867,-113.64258
+NHL,St. Louis Blues,Scott Perunovich,D,25,178,79,Hibbing,USA,Hibbing Chisholm YHA,L,2018,2,45,St. Louis Blues,775000,3,0,0,0,0,0,None,None,47.42715,-92.93769,-14.60485,-57.65625
+NHL,St. Louis Blues,Marco Scandella,D,33,191,95,Montréal,Canada,None,L,2008,2,55,Minnesota Wild,3275000,12,0,1,1,4,0,None,None,45.50884,-73.58781,60.10867,-113.64258
+NHL,St. Louis Blues,Tyler Tucker,D,23,188,93,Thunder Bay,Canada,None,L,2018,7,200,St. Louis Blues,800000,8,1,1,2,6,1,None,None,48.38202,-89.25018,60.10867,-113.64258
+NHL,St. Louis Blues,Nikita Alexandrov,F,23,185,80,Burgwedel,Russia,Iserlohner EC,L,2019,2,62,St. Louis Blues,816667,2,0,0,0,0,0,None,None,None,None,60.0,100.0
+NHL,St. Louis Blues,Samuel Blais,F,27,188,95,Montmagny,Canada,AHM Montmagny/L’Islet,L,2014,6,176,St. Louis Blues,1000000,12,1,3,4,4,0,None,None,46.98043,-70.55493,60.10867,-113.64258
+NHL,St. Louis Blues,Pavel Buchnevich,F,28,186,89,Cherepovets,Russia,Severstal Cherepovets,L,2013,3,75,New York Rangers,5800000,10,1,3,4,4,2,None,None,59.13333,37.9,60.0,100.0
+NHL,St. Louis Blues,Kevin Hayes,F,31,196,98,Dorchester,USA,None,L,2010,1,24,Chicago Blackhawks,3571429,12,2,3,5,6,1,None,None,38.53947,-76.03249,-14.60485,-57.65625
+NHL,St. Louis Blues,Kasperi Kapanen,F,27,185,88,Kuopio,Finland,KalPa,R,2014,1,22,Pittsburgh Penguins,3200000,12,2,4,6,0,0,None,None,62.89238,27.67703,64.0,26.0
+NHL,St. Louis Blues,Jordan Kyrou,F,25,183,79,Toronto,Canada,Mississauga Senators MHA,R,2016,2,35,St. Louis Blues,8125000,12,2,4,6,4,-2,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,St. Louis Blues,Jake Neighbours,F,21,183,91,Airdrie,Canada,Airdrie MHA,L,2020,1,26,St. Louis Blues,835833,12,2,0,2,0,-2,None,None,51.28674,-114.00728,60.10867,-113.64258
+NHL,St. Louis Blues,Brandon Saad,F,31,185,93,Pittsburgh,USA,None,L,2011,2,43,Chicago Blackhawks,4500000,12,3,1,4,8,3,None,None,40.44062,-79.99589,-14.60485,-57.65625
+NHL,St. Louis Blues,Brayden Schenn,F,32,185,91,Saskatoon,Canada,Saskatoon Redwings,L,2009,1,5,Los Angeles Kings,6500000,12,2,3,5,6,-3,None,None,52.13238,-106.66892,60.10867,-113.64258
+NHL,St. Louis Blues,Oskar Sundqvist,F,29,190,95,Boden,Sweden,Bodens IK,R,2012,3,81,Pittsburgh Penguins,775000,12,2,3,5,0,0,None,None,66.04393,21.29977,62.0,15.0
+NHL,St. Louis Blues,Robert Thomas,F,24,183,85,Aurora,Canada,York Simcoe MHA,R,2017,1,20,St. Louis Blues,8125000,12,6,5,11,2,4,None,None,44.00011,-79.46632,60.10867,-113.64258
+NHL,St. Louis Blues,Alexei Toropchenko,F,24,197,101,Moskva,Russia,Dynamo Moskva,L,2017,4,113,St. Louis Blues,1250000,12,1,2,3,10,0,None,None,55.75222,37.61556,60.0,100.0
+NHL,St. Louis Blues,Jakub Vrána,F,27,183,89,Praha,Czechia,HC Letci Letnany,L,2014,1,13,Washington Capitals,2625000,10,1,4,5,2,2,None,None,50.08804,14.42076,49.75,15.0
+NHL,Tampa Bay Lightning,Jonas Johansson,G,28,195,100,Gävle,Sweden,Hille/Åbyggeby IK,L,2014,3,61,Buffalo Sabres,775000,11,None,None,None,None,None,3.36,0.901,60.67452,17.14174,62.0,15.0
+NHL,Tampa Bay Lightning,Matt Tomkins,G,29,191,88,Edmonton,Canada,Sherwood Park MHA,L,2012,7,199,Chicago Blackhawks,775000,3,None,None,None,None,None,3.4,0.889,53.55014,-113.46871,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Andrei Vasilevsky,G,29,193,102,Tyumen,Russia,Salavat Yulaev Ufa,L,2012,1,19,Tampa Bay Lightning,9500000,None,None,None,None,None,None,None,None,57.15222,65.52722,60.0,100.0
+NHL,Tampa Bay Lightning,Erik Cernak,D,26,192,102,Kosice,Slovakia,HC Kosice,R,2015,2,43,Los Angeles Kings,5200000,14,0,3,3,6,-2,None,None,48.71395,21.25808,48.66667,19.5
+NHL,Tampa Bay Lightning,Calvin de Haan,D,32,185,88,Carp,Canada,Ottawa Valley MHA,L,2009,1,12,New York Islanders,775000,11,0,2,2,4,0,None,None,45.31827,-76.02063,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Victor Hedman,D,32,198,111,Örnsköldsvik,Sweden,Modo HK,L,2009,1,2,Tampa Bay Lightning,7875000,14,3,14,17,12,2,None,None,63.29091,18.71525,62.0,15.0
+NHL,Tampa Bay Lightning,Philippe Myers,D,26,197,100,Moncton,Canada,Moncton MHA,R,None,None,None,None,1400000,None,None,None,None,None,None,None,None,46.09454,-64.7965,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Nick Perbix,D,25,188,87,Elk River,USA,None,R,2017,6,169,Tampa Bay Lightning,1125000,12,0,3,3,2,2,None,None,45.30385,-93.56718,-14.60485,-57.65625
+NHL,Tampa Bay Lightning,Darren Raddysh,D,27,183,91,Caledon,Canada,None,R,None,None,None,None,762500,14,0,5,5,4,-5,None,None,43.86544,-79.99322,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Mikhail Sergachyov,D,25,190,98,Nizhnekamsk,Russia,Neftekhimik Nizhnekamsk,L,2016,1,9,Montréal Canadiens,8500000,14,0,8,8,10,-10,None,None,55.63657,51.82447,60.0,100.0
+NHL,Tampa Bay Lightning,Alex Barré-Boulet,F,26,178,82,Montmagny,Canada,None,L,None,None,None,None,758333,12,4,3,7,8,-2,None,None,46.98043,-70.55493,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Logan Brown,F,25,198,103,Raleigh,USA,St. Louis AAA Blues,L,2016,1,11,Ottawa Senators,775000,None,None,None,None,None,None,None,None,35.7721,-78.63861,-14.60485,-57.65625
+NHL,Tampa Bay Lightning,Anthony Cirelli,F,26,183,87,Woodbridge,Canada,Humberview MHA,L,2015,3,72,Tampa Bay Lightning,6250000,14,2,5,7,14,1,None,None,43.78341,-79.59962,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Michael Eyssimont,F,27,183,86,Littleton,USA,None,L,2016,5,142,Los Angeles Kings,800000,13,4,1,5,8,4,None,None,39.61332,-105.01665,-14.60485,-57.65625
+NHL,Tampa Bay Lightning,Luke Glendening,F,34,180,86,Grand Rapids,USA,None,R,None,None,None,None,800000,14,1,0,1,4,-3,None,None,None,None,-14.60485,-57.65625
+NHL,Tampa Bay Lightning,Brandon Hagel,F,25,180,79,Saskatoon,Canada,None,L,2016,6,159,Buffalo Sabres,1500000,14,7,8,15,6,-1,None,None,52.13238,-106.66892,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Tanner Jeannot,F,26,188,94,Estevan,Canada,None,L,None,None,None,None,2665000,14,2,4,6,24,-3,None,None,49.13337,-102.98422,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Nikita Kucherov,F,30,181,83,Maikop,Russia,Belye Medvedi Moskva,L,2011,2,58,Tampa Bay Lightning,9500000,14,11,12,23,6,-1,None,None,44.60778,40.10583,60.0,100.0
+NHL,Tampa Bay Lightning,Waltteri Merelä,F,25,188,89,Ylöjärvi,Finland,Y-Tappara,R,None,None,None,None,870000,11,0,0,0,4,-1,None,None,61.55632,23.59606,64.0,26.0
+NHL,Tampa Bay Lightning,Tyler Motte,F,28,178,87,Port Huron,USA,None,L,2013,4,121,Chicago Blackhawks,800000,4,0,0,0,0,0,None,None,42.97086,-82.42491,-14.60485,-57.65625
+NHL,Tampa Bay Lightning,Nick Paul,F,28,193,102,Mississauga,Canada,Mississauga MHA,L,2013,4,101,Dallas Stars,3150000,14,7,2,9,9,-2,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Brayden Point,F,27,178,83,Calgary,Canada,Blackfoot MHA,R,2014,3,79,Tampa Bay Lightning,9500000,14,6,12,18,2,-7,None,None,51.05011,-114.08529,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Conor Sheary,F,31,173,80,Winchester,USA,None,L,None,None,None,None,2000000,13,1,2,3,4,-3,None,None,39.18566,-78.16333,-14.60485,-57.65625
+NHL,Tampa Bay Lightning,Steven Stamkos,F,33,185,88,Markham,Canada,Markham Waxers MHA,R,2008,1,1,Tampa Bay Lightning,8500000,12,5,10,15,4,-2,None,None,43.86682,-79.2663,60.10867,-113.64258
+NHL,Tampa Bay Lightning,Austin Watson,F,31,193,93,Ann Arbor,USA,None,R,2010,1,18,Nashville Predators,776665,4,0,0,0,10,-2,None,None,42.27756,-83.74088,-14.60485,-57.65625
+NHL,Toronto Maple Leafs,Matt Murray,G,29,194,81,Thunder Bay,Canada,Westfort MHA,L,2012,3,83,Pittsburgh Penguins,4687500,None,None,None,None,None,None,None,None,48.38202,-89.25018,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Ilya Samsonov,G,26,191,93,Magnitogorsk,Russia,Metallurg Magnitogorsk,L,2015,1,22,Washington Capitals,3550000,7,None,None,None,None,None,4.11,0.855,53.41861,59.04722,60.0,100.0
+NHL,Toronto Maple Leafs,Joseph Woll,G,25,191,92,Dardenne Prairie,USA,None,L,2016,3,62,Toronto Maple Leafs,766667,9,None,None,None,None,None,2.91,0.908,38.7695,-90.72902,-14.60485,-57.65625
+NHL,Toronto Maple Leafs,Simon Benoît,D,25,191,92,Laval,Canada,None,L,None,None,None,None,775000,3,0,0,0,0,3,None,None,45.56995,-73.692,60.10867,-113.64258
+NHL,Toronto Maple Leafs,T.J. Brodie,D,33,185,81,Chatham,Canada,Dresden MHA,L,2008,4,114,Calgary Flames,5000000,14,0,2,2,10,6,None,None,42.41224,-82.18494,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Mark Giordano,D,40,185,92,Toronto,Canada,Richmond Hill Stars,L,None,None,None,None,800000,14,1,2,3,2,-4,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Toronto Maple Leafs,John Klingberg,D,31,186,84,Göteborg,Sweden,Lerums BK,R,2010,5,131,Dallas Stars,4150000,13,0,5,5,8,-8,None,None,None,None,62.0,15.0
+NHL,Toronto Maple Leafs,William Lagesson,D,27,189,94,Göteborg,Sweden,HK Kings,L,2014,4,91,Edmonton Oilers,775000,7,0,1,1,2,-3,None,None,None,None,62.0,15.0
+NHL,Toronto Maple Leafs,Timothy Liljegren,D,24,182,87,Kristianstad,Sweden,Kristianstads IK,R,2017,1,17,Toronto Maple Leafs,1400000,10,0,1,1,0,-1,None,None,56.03129,14.15242,62.0,15.0
+NHL,Toronto Maple Leafs,Jake McCabe,D,30,185,93,Eau Claire,USA,None,L,2012,2,44,Buffalo Sabres,2000000,8,0,0,0,4,-6,None,None,44.81135,-91.49849,-14.60485,-57.65625
+NHL,Toronto Maple Leafs,Jake Muzzin,D,34,190,103,Woodstock,Canada,Woodstock MHA,L,2007,5,141,Pittsburgh Penguins,5625000,None,None,None,None,None,None,None,None,43.13339,-80.7497,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Morgan Rielly,D,29,185,102,West Vancouver,Canada,Hollyburn MHA,L,2012,1,5,Toronto Maple Leafs,7500000,14,2,9,11,0,6,None,None,49.36672,-123.16652,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Conor Timmins,D,25,188,93,St. Catharines,Canada,Welland MHA,R,2017,2,32,Colorado Avalanche,1100000,None,None,None,None,None,None,None,None,43.17126,-79.24267,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Tyler Bertuzzi,F,28,188,91,Sudbury,Canada,Sudbury MHA,L,2013,2,58,Detroit Red Wings,5500000,14,3,1,4,12,0,None,None,46.49,-80.99001,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Max Domi,F,28,178,94,Winnipeg,Canada,Don Mills Flyers MHA,L,2013,1,12,Phoenix Coyotes,3000000,14,0,7,7,16,0,None,None,49.8844,-97.14704,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Noah Gregor,F,25,184,86,Edmonton,Canada,Beaumont MHA,L,2016,4,111,San Jose Sharks,775000,14,1,0,1,7,-5,None,None,53.55014,-113.46871,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Calle Järnkrok,F,32,181,84,Gävle,Sweden,Gävle GIK,R,2010,2,51,Detroit Red Wings,2100000,14,4,5,9,4,6,None,None,60.67452,17.14174,62.0,15.0
+NHL,Toronto Maple Leafs,Matthew Knies,F,21,191,98,Phoenix,USA,None,L,2021,2,57,Toronto Maple Leafs,925000,14,3,4,7,10,1,None,None,33.44838,-112.07404,-14.60485,-57.65625
+NHL,Toronto Maple Leafs,David Kämpf,F,28,188,86,Jirkov,Czechia,KLH Chomutov,L,None,None,None,None,2400000,14,0,2,2,6,-3,None,None,50.49979,13.44769,49.75,15.0
+NHL,Toronto Maple Leafs,Mitchell Marner,F,26,183,78,Markham,Canada,Vaughan MHA,R,2015,1,4,Toronto Maple Leafs,10903000,14,5,12,17,6,-1,None,None,43.86682,-79.2663,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Auston Matthews,F,26,191,98,San Ramon,USA,Arizona Bobcats,L,2016,1,1,Toronto Maple Leafs,11640250,14,13,6,19,0,1,None,None,-23.13705,-64.32426,-14.60485,-57.65625
+NHL,Toronto Maple Leafs,Bobby McMann,F,27,188,94,Wainwright,Canada,Wainwright MHA,L,None,None,None,None,762500,None,None,None,None,None,None,None,None,52.83904,-110.85091,60.10867,-113.64258
+NHL,Toronto Maple Leafs,William Nylander,F,27,181,89,Calgary,Sweden,Chicago Mission,R,2014,1,8,Toronto Maple Leafs,6962366,14,9,12,21,4,-1,None,None,None,None,62.0,15.0
+NHL,Toronto Maple Leafs,Ryan Reaves,F,36,188,102,Winnipeg,Canada,Winnipeg Monarchs MHA,R,2005,5,156,St. Louis Blues,1350000,14,0,0,0,12,-11,None,None,49.8844,-97.14704,60.10867,-113.64258
+NHL,Toronto Maple Leafs,Nick Robertson,F,22,178,83,Arcadia,USA,None,L,2019,2,53,Toronto Maple Leafs,796667,3,1,2,3,0,1,None,None,27.21588,-81.85842,-14.60485,-57.65625
+NHL,Toronto Maple Leafs,John Tavares,F,33,185,96,Mississauga,Canada,Oakville MHA,L,2009,1,1,New York Islanders,11000000,14,6,9,15,2,-3,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Vancouver Canucks,Thatcher Demko,G,27,193,87,San Diego,USA,San Diego Jr. Gulls,L,2014,2,36,Vancouver Canucks,5000000,9,None,None,None,None,None,1.61,0.948,32.71571,-117.16472,-14.60485,-57.65625
+NHL,Vancouver Canucks,Casey DeSmith,G,32,183,82,Rochester,USA,None,L,None,None,None,None,1800000,5,None,None,None,None,None,2.82,0.919,43.15478,-77.61556,-14.60485,-57.65625
+NHL,Vancouver Canucks,Guillaume Brisebois,D,26,188,79,Longueuil,Canada,Comité des jeunes Riverains,L,2015,3,66,Vancouver Canucks,775000,None,None,None,None,None,None,None,None,45.53121,-73.51806,60.10867,-113.64258
+NHL,Vancouver Canucks,Ian Cole,D,34,185,102,Ann Arbor,USA,None,L,2007,1,18,St. Louis Blues,3000000,13,0,3,3,15,8,None,None,42.27756,-83.74088,-14.60485,-57.65625
+NHL,Vancouver Canucks,Mark Friedman,D,27,180,84,Toronto,Canada,None,R,2014,3,86,Philadelphia Flyers,775000,10,0,1,1,9,4,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Vancouver Canucks,Filip Hronek,D,26,183,85,Hradec Kralove,Czechia,HC Hradec Kralove,R,2016,2,53,Detroit Red Wings,4400000,13,0,14,14,10,13,None,None,50.20923,15.83277,49.75,15.0
+NHL,Vancouver Canucks,Quinn Hughes,D,24,178,82,Orlando,USA,None,L,2018,1,7,Vancouver Canucks,7850000,13,5,16,21,8,17,None,None,28.53834,-81.37924,-14.60485,-57.65625
+NHL,Vancouver Canucks,Noah Juulsen,D,26,188,91,Surrey,Canada,Abbotsford MHA,R,2015,1,26,Montréal Canadiens,775000,3,0,1,1,4,-1,None,None,49.19,-122.84889,60.10867,-113.64258
+NHL,Vancouver Canucks,Tyler Myers,D,33,203,104,Houston,Canada,Bow Valley MHA,R,2008,1,12,Buffalo Sabres,6000000,13,2,3,5,8,10,None,None,45.74278,-75.67306,60.10867,-113.64258
+NHL,Vancouver Canucks,Tucker Poolman,D,30,188,90,Dubuque,USA,None,R,2013,5,127,Winnipeg Jets,2500000,None,None,None,None,None,None,None,None,42.50056,-90.66457,-14.60485,-57.65625
+NHL,Vancouver Canucks,Carson Soucy,D,29,195,96,Viking,Canada,None,L,2013,5,137,Minnesota Wild,3250000,11,2,3,5,2,7,None,None,53.09737,-111.76449,60.10867,-113.64258
+NHL,Vancouver Canucks,Anthony Beauvillier,F,26,180,82,Sorel,Canada,AHM Bas-Richelieu,L,2015,1,28,New York Islanders,4150000,13,2,3,5,2,6,None,None,46.04178,-73.11358,60.10867,-113.64258
+NHL,Vancouver Canucks,Teodors Blugers,F,29,183,84,Riga,Latvia,BHS,L,2012,2,52,Pittsburgh Penguins,1900000,None,None,None,None,None,None,None,None,56.946,24.10589,57.0,25.0
+NHL,Vancouver Canucks,Brock Boeser,F,26,185,94,Burnsville,USA,None,R,2015,1,23,Vancouver Canucks,6650000,13,11,5,16,0,10,None,None,44.76774,-93.27772,-14.60485,-57.65625
+NHL,Vancouver Canucks,Phil Di Giuseppe,F,30,183,87,Maple,Canada,None,L,2012,2,38,Carolina Hurricanes,775000,13,2,4,6,13,9,None,None,45.32091,-73.83808,60.10867,-113.64258
+NHL,Vancouver Canucks,Conor Garland,F,27,173,82,Scituate,USA,None,R,2015,5,123,Arizona Coyotes,4950000,13,1,2,3,4,4,None,None,42.19593,-70.72587,-14.60485,-57.65625
+NHL,Vancouver Canucks,Nils Höglander,F,22,176,84,Bockträsk,Sweden,Malå IF,L,2019,2,40,Vancouver Canucks,1100000,12,3,2,5,6,7,None,None,65.41667,18.2,62.0,15.0
+NHL,Vancouver Canucks,Dakota Joshua,F,27,191,93,Dearborn,USA,None,L,2014,5,128,Toronto Maple Leafs,825000,12,1,2,3,13,2,None,None,42.32226,-83.17631,-14.60485,-57.65625
+NHL,Vancouver Canucks,Andrey Kuzmenko,F,27,181,88,Yakutsk,Russia,Belye Medvedi Moskva,R,None,None,None,None,5500000,13,3,9,12,0,5,None,None,62.03389,129.73306,60.0,100.0
+NHL,Vancouver Canucks,Sam Lafferty,F,28,188,93,Hollidaysburg,USA,None,R,2014,4,113,Pittsburgh Penguins,1150000,13,3,3,6,20,8,None,None,40.42729,-78.3889,-14.60485,-57.65625
+NHL,Vancouver Canucks,Ilya Mikheyev,F,29,189,87,Omsk,Russia,Avangard Omsk,L,None,None,None,None,4750000,9,5,3,8,0,6,None,None,54.99244,73.36859,60.0,100.0
+NHL,Vancouver Canucks,J.T. Miller,F,30,186,99,East Palestine,USA,None,L,2011,1,15,New York Rangers,8000000,13,8,12,20,12,11,None,None,31.78336,35.23388,-14.60485,-57.65625
+NHL,Vancouver Canucks,Elias Pettersson,F,24,188,84,Sundsvall,Sweden,Ånge IK,L,2017,1,5,Vancouver Canucks,7350000,13,7,17,24,0,9,None,None,62.39129,17.3063,62.0,15.0
+NHL,Vancouver Canucks,Jack Studnicka,F,24,188,88,Tecumseh,Canada,Sun County MHA,R,2017,2,53,Boston Bruins,762500,5,1,0,1,0,2,None,None,42.31678,-82.89983,60.10867,-113.64258
+NHL,Vancouver Canucks,Pius Suter,F,27,180,79,Wallisellen,Switzerland,EHC Wallisellen,L,None,None,None,None,1600000,13,3,0,3,4,2,None,None,47.41499,8.59672,47.00016,8.01427
+NHL,Vegas Golden Knights,Adin Hill,G,27,197,97,Comox,Canada,Blackfoot MHA,L,2015,3,76,Arizona Coyotes,4900000,9,None,None,None,None,None,1.75,0.939,49.71083,-124.88667,60.10867,-113.64258
+NHL,Vegas Golden Knights,Robin Lehner,G,32,192,109,Göteborg,Sweden,IF Mölndal Hockey,L,2009,2,46,Ottawa Senators,5000000,0,None,None,None,None,None,None,None,None,None,62.0,15.0
+NHL,Vegas Golden Knights,Logan Thompson,G,26,191,93,Calgary,Canada,Blackfoot MHA,R,None,None,None,None,766667,6,None,None,None,None,None,2.31,0.923,51.05011,-114.08529,60.10867,-113.64258
+NHL,Vegas Golden Knights,Nicolas Hague,D,24,197,109,Kitchener,Canada,Kitchener MHA,L,2017,2,34,Vegas Golden Knights,2294150,10,1,2,3,14,-1,None,None,43.42537,-80.5112,60.10867,-113.64258
+NHL,Vegas Golden Knights,Ben Hutton,D,30,191,91,Brockville,Canada,South Grenville MHA,L,2012,5,147,Vancouver Canucks,850000,10,0,2,2,11,6,None,None,44.59132,-75.68705,60.10867,-113.64258
+NHL,Vegas Golden Knights,Alec Martinez,D,36,185,95,Rochester Hills,USA,None,L,2007,4,95,Los Angeles Kings,5250000,10,3,1,4,2,4,None,None,42.65837,-83.14993,-14.60485,-57.65625
+NHL,Vegas Golden Knights,Brayden McNabb,D,32,193,97,Saskatoon,Canada,Davidson MHA,L,2009,3,66,Buffalo Sabres,2850000,15,0,7,7,10,13,None,None,52.13238,-106.66892,60.10867,-113.64258
+NHL,Vegas Golden Knights,Daniil Miromanov,F,26,194,91,Moskva,Russia,Sozvezdie Moskva,R,None,None,None,None,762500,None,None,None,None,None,None,None,None,55.75222,37.61556,60.0,100.0
+NHL,Vegas Golden Knights,Brayden Pachal,D,24,188,92,Estevan,Canada,None,R,None,None,None,None,775000,12,1,0,1,10,1,None,None,49.13337,-102.98422,60.10867,-113.64258
+NHL,Vegas Golden Knights,Alex Pietrangelo,D,33,191,97,King City,Canada,King City MHA,R,2008,1,4,St. Louis Blues,8800000,10,1,8,9,0,6,None,None,43.92856,-79.52694,60.10867,-113.64258
+NHL,Vegas Golden Knights,Shea Theodore,D,28,188,89,Langley,Canada,Aldergrove MHA,L,2013,1,26,Anaheim Ducks,5200000,15,3,9,12,0,6,None,None,49.1002,-122.62588,60.10867,-113.64258
+NHL,Vegas Golden Knights,Zach Whitecloud,D,26,188,99,Brandon,Canada,Yellowknife MHA,R,None,None,None,None,2750000,1,0,0,0,0,0,None,None,49.84692,-99.95306,60.10867,-113.64258
+NHL,Vegas Golden Knights,Michael Amadio,F,27,185,93,Sault Ste. Marie,Canada,Soo Greyhounds,R,2014,3,90,Los Angeles Kings,762500,15,2,6,8,2,12,None,None,46.51677,-84.33325,60.10867,-113.64258
+NHL,Vegas Golden Knights,Ivan Barbashev,F,27,184,90,Moskva,Russia,CSKA Moskva,L,2014,2,33,St. Louis Blues,5000000,15,4,1,5,12,4,None,None,55.75222,37.61556,60.0,100.0
+NHL,Vegas Golden Knights,William Carrier,F,28,188,100,LaSalle,Canada,None,L,2013,2,57,St. Louis Blues,1400000,12,3,1,4,4,1,None,None,None,None,60.10867,-113.64258
+NHL,Vegas Golden Knights,Paul Cotter,F,23,188,96,Canton,USA,Honeybaked,L,2018,4,115,Vegas Golden Knights,775000,15,3,3,6,8,0,None,None,23.11667,113.25,-14.60485,-57.65625
+NHL,Vegas Golden Knights,Pavel Dorofeyev,F,23,185,88,Nizhny Tagil,Russia,Sputnik Nizhny Tagil,L,2019,3,79,Vegas Golden Knights,825000,10,1,4,5,2,4,None,None,57.91944,59.965,60.0,100.0
+NHL,Vegas Golden Knights,Jack Eichel,F,27,188,92,North Chelmsford,USA,Dual State River Hawks,R,2015,1,2,Buffalo Sabres,10000000,15,6,9,15,2,4,None,None,42.59981,-71.36728,-14.60485,-57.65625
+NHL,Vegas Golden Knights,Brett Howden,F,25,188,91,Oakbank,Canada,Springfield MHA,L,2016,1,27,Tampa Bay Lightning,1900000,13,2,2,4,21,3,None,None,49.9436,-96.84342,60.10867,-113.64258
+NHL,Vegas Golden Knights,William Karlsson,F,30,183,88,Märsta,Sweden,Arlanda HC,L,2011,2,53,Anaheim Ducks,5900000,15,8,10,18,4,13,None,None,59.62157,17.85476,62.0,15.0
+NHL,Vegas Golden Knights,Keegan Kolesar,F,26,188,97,Brandon,Canada,None,R,2015,3,69,Columbus Blue Jackets,1400000,15,0,1,1,14,0,None,None,49.84692,-99.95306,60.10867,-113.64258
+NHL,Vegas Golden Knights,Jonathan Marchessault,F,32,175,84,Québec,Canada,AHM Rive-Nord,R,None,None,None,None,5000000,15,6,3,9,12,2,None,None,46.81228,-71.21454,60.10867,-113.64258
+NHL,Vegas Golden Knights,Nicolas Roy,F,26,193,91,Amos,Canada,AHM Abitibi-Témiscamingue,R,2015,4,96,Carolina Hurricanes,3000000,7,3,1,4,0,2,None,None,48.56688,-78.11624,60.10867,-113.64258
+NHL,Vegas Golden Knights,Jonas Røndbjerg,F,24,188,88,Rungsted,Denmark,Rungsted IK,L,2017,3,65,Vegas Golden Knights,766667,5,1,2,3,0,3,None,None,55.88973,12.5327,56.0,10.0
+NHL,Vegas Golden Knights,Chandler Stephenson,F,29,183,95,Saskatoon,Canada,Saskatoon Flyers,L,2012,3,77,Washington Capitals,2750000,13,2,8,10,2,0,None,None,52.13238,-106.66892,60.10867,-113.64258
+NHL,Vegas Golden Knights,Mark Stone,F,31,193,96,Winnipeg,Canada,Winnipeg MHA,R,2010,6,178,Ottawa Senators,9500000,15,4,10,14,10,3,None,None,49.8844,-97.14704,60.10867,-113.64258
+NHL,Washington Capitals,Darcy Kuemper,G,33,195,98,Saskatoon,Canada,Saskatoon Bobcats,L,2009,6,161,Minnesota Wild,5250000,8,None,None,None,None,None,3.07,0.892,52.13238,-106.66892,60.10867,-113.64258
+NHL,Washington Capitals,Charlie Lindgren,G,29,185,83,Lakeville,USA,None,R,None,None,None,None,1100000,3,None,None,None,None,None,2.35,0.927,44.64969,-93.24272,-14.60485,-57.65625
+NHL,Washington Capitals,Hunter Shepard,G,28,185,95,Cohasset,USA,None,L,None,None,None,None,775000,1,None,None,None,None,None,4.0,0.818,42.24177,-70.80365,-14.60485,-57.65625
+NHL,Washington Capitals,Alexander Alexeyev,D,23,193,97,St. Petersburg,Russia,Serebryanye Lvy St. Petersburg,L,2018,1,31,Washington Capitals,825000,6,0,0,0,0,-2,None,None,59.93863,30.31413,60.0,100.0
+NHL,Washington Capitals,John Carlson,D,33,190,98,Natick,USA,None,R,2008,1,27,Washington Capitals,8000000,12,1,6,7,4,-5,None,None,42.28343,-71.3495,-14.60485,-57.65625
+NHL,Washington Capitals,Joel Edmundson,D,30,195,102,Brandon,Canada,Brandon MHA,L,2011,2,46,St. Louis Blues,1750000,None,None,None,None,None,None,None,None,49.84692,-99.95306,60.10867,-113.64258
+NHL,Washington Capitals,Martin Fehérváry,D,24,188,92,Bratislava,Slovakia,SHKM Hodonin,L,2018,2,46,Washington Capitals,2675000,12,0,2,2,6,0,None,None,48.14816,17.10674,48.66667,19.5
+NHL,Washington Capitals,Hardy Häman Aktell,D,25,192,90,Kåge,Sweden,Kågedalens AIF,L,2016,4,108,Nashville Predators,870000,5,0,1,1,2,-2,None,None,64.83571,20.98453,62.0,15.0
+NHL,Washington Capitals,Nick Jensen,D,33,185,93,St. Paul,USA,None,R,2009,5,150,Detroit Red Wings,4050000,12,0,2,2,0,-1,None,None,44.94441,-93.09327,-14.60485,-57.65625
+NHL,Washington Capitals,Lucas Johansen,D,25,187,83,Port Moody,Canada,None,L,2016,1,28,Washington Capitals,762500,3,0,1,1,2,-1,None,None,49.28124,-122.82457,60.10867,-113.64258
+NHL,Washington Capitals,Rasmus Sandin,D,23,181,81,Uppsala,Sweden,Gimo IF,L,2018,1,29,Toronto Maple Leafs,1400000,12,0,2,2,6,1,None,None,59.85882,17.63889,62.0,15.0
+NHL,Washington Capitals,Trevor van Riemsdyk,D,32,191,87,Middletown,USA,None,R,None,None,None,None,3000000,10,0,1,1,2,-1,None,None,41.71813,-72.57266,-14.60485,-57.65625
+NHL,Washington Capitals,Nicolas Aubé-Kubel,F,27,180,85,Slave Lake,Canada,AHM Sorel,R,2014,2,48,Philadelphia Flyers,1225000,1,1,1,2,0,2,None,None,55.29306,-114.77722,60.10867,-113.64258
+NHL,Washington Capitals,Nicklas Bäckström,F,35,184,92,Valbo,Sweden,Valbo AIF,L,2006,1,4,Washington Capitals,9200000,8,0,1,1,2,-3,None,None,60.66455,17.07016,62.0,15.0
+NHL,Washington Capitals,Nic Dowd,F,33,188,89,Huntsville,USA,None,R,2009,7,198,Los Angeles Kings,1300000,3,0,0,0,0,0,None,None,34.7304,-86.58594,-14.60485,-57.65625
+NHL,Washington Capitals,Yevgeni Kuznetsov,F,31,186,93,Chelyabinsk,Russia,Traktor Chelyabinsk,L,2010,1,26,Washington Capitals,7800000,12,3,4,7,16,-4,None,None,55.15402,61.42915,60.0,100.0
+NHL,Washington Capitals,Hendrix Lapierre,F,21,183,84,Gatineau,Canada,AHM Alymer,L,2020,1,22,Washington Capitals,863333,4,0,0,0,0,0,None,None,45.47723,-75.70164,60.10867,-113.64258
+NHL,Washington Capitals,Beck Malenstyn,F,25,188,88,White Rock,Canada,South Delta MHA,L,2016,5,145,Washington Capitals,762500,12,1,0,1,0,0,None,None,49.02049,-122.79507,60.10867,-113.64258
+NHL,Washington Capitals,Anthony Mantha,F,29,195,106,Longueuil,Canada,AHM Richelieu,L,2013,1,20,Detroit Red Wings,5700000,10,3,1,4,4,1,None,None,45.53121,-73.51806,60.10867,-113.64258
+NHL,Washington Capitals,Connor McMichael,F,22,183,85,Scarborough,Canada,Ajax-Pickering Raiders,L,2019,1,25,Washington Capitals,863333,12,3,2,5,0,-1,None,None,43.70213,-79.24318,60.10867,-113.64258
+NHL,Washington Capitals,Sonny Milano,F,27,183,88,Massapequa,USA,Long Island Royals,L,2014,1,16,Columbus Blue Jackets,1900000,11,2,2,4,6,-4,None,None,40.68066,-73.47429,-14.60485,-57.65625
+NHL,Washington Capitals,T.J. Oshie,F,36,180,86,Mt. Vernon,USA,None,R,2005,1,24,St. Louis Blues,5750000,12,0,1,1,8,-4,None,None,38.31727,-88.90312,-14.60485,-57.65625
+NHL,Washington Capitals,Alexander Ovechkin,F,38,187,107,Moskva,Russia,Dynamo Moskva,R,2004,1,1,Washington Capitals,9500000,12,2,7,9,4,0,None,None,55.75222,37.61556,60.0,100.0
+NHL,Washington Capitals,Max Pacioretty,F,34,188,98,New Canaan,USA,None,L,2007,1,22,Montréal Canadiens,2000000,None,None,None,None,None,None,None,None,42.02731,-73.32928,-14.60485,-57.65625
+NHL,Washington Capitals,Matthew Phillips,F,25,171,64,Calgary,Canada,Bow Valley MHA,R,2016,6,166,Calgary Flames,775000,12,1,2,3,0,-1,None,None,51.05011,-114.08529,60.10867,-113.64258
+NHL,Washington Capitals,Alexei Protas,F,22,198,102,Vitebsk,Belarus,HK Vitebsk,L,2019,3,91,Washington Capitals,789167,11,0,3,3,2,-1,None,None,55.1904,30.2049,53.0,28.0
+NHL,Washington Capitals,Dylan Strome,F,26,190,91,Mississauga,Canada,Toronto Marlboros MHA,L,2015,1,3,Arizona Coyotes,5000000,12,6,0,6,2,2,None,None,43.5789,-79.6583,60.10867,-113.64258
+NHL,Washington Capitals,Tom Wilson,F,29,193,100,Toronto,Canada,None,R,2012,1,16,Washington Capitals,5166667,12,3,5,8,30,-3,None,None,43.70643,-79.39864,60.10867,-113.64258
+NHL,Winnipeg Jets,Laurent Brossoit,G,30,191,92,Port Alberni,Canada,None,L,2011,6,164,Calgary Flames,1750000,3,None,None,None,None,None,3.25,0.872,49.24133,-124.8028,60.10867,-113.64258
+NHL,Winnipeg Jets,Connor Hellebuyck,G,30,193,94,Commerce,USA,None,L,2012,5,130,Winnipeg Jets,6166667,10,None,None,None,None,None,2.98,0.892,39.80832,-104.93387,-14.60485,-57.65625
+NHL,Winnipeg Jets,Declan Chisholm,D,23,185,86,Bowmanville,Canada,Don Mills Flyers MHA,L,2018,5,150,Winnipeg Jets,775000,None,None,None,None,None,None,None,None,43.91682,-78.68286,60.10867,-113.64258
+NHL,Winnipeg Jets,Dylan DeMelo,D,30,185,88,London,Canada,None,R,2011,6,179,San Jose Sharks,3000000,13,1,6,7,4,7,None,None,42.98339,-81.23304,60.10867,-113.64258
+NHL,Winnipeg Jets,Brenden Dillon,D,32,193,102,Surrey,Canada,Surrey MHA,L,None,None,None,None,3900000,13,3,1,4,22,1,None,None,49.19,-122.84889,60.10867,-113.64258
+NHL,Winnipeg Jets,Ville Heinola,D,22,182,82,Honkajoki,Finland,KJK,L,2019,1,20,Winnipeg Jets,863333,None,None,None,None,None,None,None,None,62.00997,22.24034,64.0,26.0
+NHL,Winnipeg Jets,Josh Morrissey,D,28,183,88,Calgary,Canada,Springbank MHA,L,2013,1,13,Winnipeg Jets,6250000,13,1,9,10,12,6,None,None,51.05011,-114.08529,60.10867,-113.64258
+NHL,Winnipeg Jets,Neal Pionk,D,28,183,86,Omaha,USA,None,R,None,None,None,None,5875000,13,1,4,5,8,1,None,None,41.25626,-95.94043,-14.60485,-57.65625
+NHL,Winnipeg Jets,Dylan Samberg,D,24,193,98,Hermantown,USA,None,L,2017,2,43,Winnipeg Jets,1400000,13,0,2,2,29,2,None,None,46.80689,-92.23825,-14.60485,-57.65625
+NHL,Winnipeg Jets,Nate Schmidt,D,32,183,87,St. Cloud,USA,None,L,None,None,None,None,5950000,12,0,1,1,0,-3,None,None,45.5608,-94.16249,-14.60485,-57.65625
+NHL,Winnipeg Jets,Logan Stanley,D,25,200,105,Kitchener,Canada,Waterloo MHA,L,2016,1,18,Winnipeg Jets,1000000,1,0,0,0,2,0,None,None,43.42537,-80.5112,60.10867,-113.64258
+NHL,Winnipeg Jets,Mason Appleton,F,27,191,89,Green Bay,USA,None,R,2015,6,168,Winnipeg Jets,2166667,13,4,6,10,6,3,None,None,44.51916,-88.01983,-14.60485,-57.65625
+NHL,Winnipeg Jets,Morgan Barron,F,24,193,100,Halifax,Canada,Halifax MHA,L,2017,6,174,New York Rangers,1350000,13,2,2,4,6,0,None,None,44.88392,-63.51171,60.10867,-113.64258
+NHL,Winnipeg Jets,Kyle Connor,F,26,188,81,Clinton Township,USA,Belle Tire,L,2015,1,17,Winnipeg Jets,7142857,13,11,5,16,2,-3,None,None,41.82336,-90.53819,-14.60485,-57.65625
+NHL,Winnipeg Jets,Nikolaj Ehlers,F,27,182,78,Aalborg,Denmark,EHC Biel-Bienne,L,2014,1,9,Winnipeg Jets,6000000,13,2,3,5,4,-5,None,None,57.048,9.9187,56.0,10.0
+NHL,Winnipeg Jets,David Gustafsson,F,23,187,89,Tingsryd,Sweden,Tingsryds AIF,L,2018,2,60,Winnipeg Jets,775000,10,2,0,2,0,1,None,None,56.53333,14.96667,62.0,15.0
+NHL,Winnipeg Jets,Alex Iafallo,F,29,183,91,Eden,USA,None,L,None,None,None,None,4000000,13,4,8,12,2,4,None,None,44.85469,-93.47079,-14.60485,-57.65625
+NHL,Winnipeg Jets,Rasmus Kupari,F,23,188,91,Kotka,Finland,Titaanit,R,2018,1,20,Los Angeles Kings,1000000,13,0,1,1,2,-3,None,None,60.4664,26.94582,64.0,26.0
+NHL,Winnipeg Jets,Adam Lowry,F,30,195,95,St. Louis,Canada,Calgary Buffalos,L,2011,3,67,Winnipeg Jets,3250000,13,2,7,9,16,6,None,None,45.40143,-73.81404,60.10867,-113.64258
+NHL,Winnipeg Jets,Vladislav Namestnikov,F,30,183,82,Voskresensk,Russia,Khimik Voskresensk,L,2011,1,27,Tampa Bay Lightning,2000000,13,1,3,4,0,3,None,None,55.29092,38.67556,60.0,100.0
+NHL,Winnipeg Jets,Nino Niederreiter,F,31,188,99,Chur,Switzerland,EHC Chur,L,2010,1,5,New York Islanders,4000000,13,5,5,10,6,5,None,None,46.84986,9.53287,47.00016,8.01427
+NHL,Winnipeg Jets,Cole Perfetti,F,21,180,84,Whitby,Canada,Whitby Wildcats,L,2020,1,10,Winnipeg Jets,894167,13,3,7,10,6,3,None,None,43.91682,-78.91627,60.10867,-113.64258
+NHL,Winnipeg Jets,Mark Scheifele,F,30,190,94,Kitchener,Canada,Kitchener MHA,R,2011,1,7,Winnipeg Jets,6125000,13,5,11,16,9,-1,None,None,43.42537,-80.5112,60.10867,-113.64258
+NHL,Winnipeg Jets,Gabriel Vilardi,F,24,191,98,Kingston,Canada,None,R,2017,1,11,Los Angeles Kings,3437500,3,0,1,1,0,-1,None,None,44.22976,-76.48098,60.10867,-113.64258

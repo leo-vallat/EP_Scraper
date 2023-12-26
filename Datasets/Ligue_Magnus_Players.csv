@@ -1,0 +1,305 @@
+Ligue,Equipe,Joueur,Position,Age,Taille,Poids,Ville de Naissance,Pays de Naissance,Club Formateur,Shoot,Année de Draft,Ronde de Draft,Position de Draft,Equipe de Draft,Salaire NHL,Match Joué,But,Assist,Point,Pénalités,Plus/Minus,GAA,SVP,Latitude Ville,Longitude Ville,Latitude Pays,Longitude Pays
+Ligue Magnus,Amiens,Clément Fouquerel,G,33,185,84,Caen,France,Cherbourg,L,None,None,None,None,None,10,None,None,None,None,None,2.45,0.926,49.18585,-0.35912,46.0,2.0
+Ligue Magnus,Amiens,Antoine Gilbert,G,22,185,80,Amiens,France,Amiens,L,None,None,None,None,None,6,None,None,None,None,None,3.62,0.889,49.9,2.3,46.0,2.0
+Ligue Magnus,Amiens,Romain Bault,D,33,178,85,Amiens,France,Amiens,R,None,None,None,None,None,15,1,2,3,10,-7,None,None,49.9,2.3,46.0,2.0
+Ligue Magnus,Amiens,Justin Bergeron,D,23,183,86,Magog,Canada,None,L,None,None,None,None,None,15,3,5,8,2,10,None,None,45.26678,-72.14909,60.10867,-113.64258
+Ligue Magnus,Amiens,Jared Freadrich,D,25,180,84,Camrose,Canada,None,R,None,None,None,None,None,15,1,4,5,8,-1,None,None,53.00822,-112.83168,None,None
+Ligue Magnus,Amiens,Dan Gibb,D,31,191,100,Cranbrook,Canada,None,L,None,None,None,None,None,15,1,2,3,15,-1,None,None,49.61222,-115.78194,None,None
+Ligue Magnus,Amiens,Nicolas Leclerc,D,29,168,82,Besançon,France,Besançon,L,None,None,None,None,None,10,0,1,1,2,-3,None,None,47.24878,6.01815,46.0,2.0
+Ligue Magnus,Amiens,Mathieu Mony,D,24,180,85,Rouen,France,Rouen,L,None,None,None,None,None,12,1,0,1,31,-1,None,None,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Amiens,Jaakko Niskala,D,24,186,87,Rovaniemi,Finland,RoKi,R,None,None,None,None,None,15,1,5,6,6,11,None,None,66.5,25.71667,64.0,26.0
+Ligue Magnus,Amiens,Louis Bailleul,F,17,184,94,Valenciennes,France,Valenciennes,L,None,None,None,None,None,2,0,0,0,0,0,None,None,50.35909,3.52506,46.0,2.0
+Ligue Magnus,Amiens,Rayan Belharfi,F,23,175,74,Oran,France,Amiens,L,None,None,None,None,None,15,0,4,4,10,-2,None,None,43.55182,1.53413,46.0,2.0
+Ligue Magnus,Amiens,Danick Bouchard,F,37,176,89,Lorraine,Canada,None,R,None,None,None,None,None,15,4,7,11,8,-1,None,None,48.18972,-73.33389,None,None
+Ligue Magnus,Amiens,Mathieu Boucher,F,26,173,77,Malartic,Canada,None,L,None,None,None,None,None,11,3,2,5,0,3,None,None,48.13633,-78.12533,None,None
+Ligue Magnus,Amiens,Ilies Djemel,F,20,180,79,Le Havre,France,Le Havre,L,None,None,None,None,None,15,0,1,1,4,-4,None,None,49.49346,0.10785,46.0,2.0
+Ligue Magnus,Amiens,Zachary Lavigne,F,25,179,84,Drummondville,Canada,None,L,None,None,None,None,None,15,4,12,16,10,2,None,None,45.88336,-72.48241,None,None
+Ligue Magnus,Amiens,Kaylian Leborgne,F,19,180,83,Mont-Saint-Aignan,France,Rouen,L,None,None,None,None,None,15,2,4,6,4,0,None,None,49.46307,1.09364,46.0,2.0
+Ligue Magnus,Amiens,Matias Lehtonen,F,28,183,79,Turku,Finland,TPS,L,None,None,None,None,None,7,0,2,2,2,1,None,None,60.45148,22.26869,64.0,26.0
+Ligue Magnus,Amiens,Bastien Maïa,F,26,188,83,Rouen,France,Rouen,R,None,None,None,None,None,15,5,5,10,4,1,None,None,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Amiens,Antonin Plagnat,F,23,187,77,Morzine,France,Morzine-Avoriaz,R,None,None,None,None,None,15,4,0,4,10,-4,None,None,46.18149,6.70664,46.0,2.0
+Ligue Magnus,Amiens,Tomas Simonsen,F,21,175,83,Neuilly-sur-Seine,France,Courbevoie,R,None,None,None,None,None,15,8,10,18,2,0,None,None,48.8846,2.26965,46.0,2.0
+Ligue Magnus,Amiens,Thomas Suire,F,25,182,87,Evian-les-Bains,France,Morzine-Avoriaz,L,None,None,None,None,None,15,3,4,7,6,-2,None,None,46.40111,6.58793,46.0,2.0
+Ligue Magnus,Amiens,Julien Tessier,F,25,180,81,St-Marc-des-Carrières,Canada,None,L,None,None,None,None,None,14,6,8,14,0,-3,None,None,46.68335,-72.0491,None,None
+Ligue Magnus,Amiens,Joey West,F,32,175,79,Orleans,Canada,None,L,None,None,None,None,None,None,None,None,None,None,None,None,None,47.4542,-72.3626,None,None
+Ligue Magnus,Angers,Juliàn Barrier,G,30,181,82,Saint-Cyr-l'Ecole,France,Saint-Nazaire,L,None,None,None,None,None,1,None,None,None,None,None,9.0,0.75,48.79865,2.06814,46.0,2.0
+Ligue Magnus,Angers,Evan Cowley,G,28,193,91,Cranbrook,USA,Arvada YHA,L,2013,4,92,Florida Panthers,None,15,None,None,None,None,None,1.95,0.943,42.57125,-83.24547,-14.60485,-57.65625
+Ligue Magnus,Angers,Evan Chappa,D,20,172,72,Toulouse,France,Toulouse-Blagnac,L,None,None,None,None,None,1,0,0,0,0,0,None,None,43.60426,1.44367,46.0,2.0
+Ligue Magnus,Angers,Kylian Fauvel,D,21,191,91,Angers,France,Angers,L,None,None,None,None,None,10,0,0,0,0,-1,None,None,47.47156,-0.55202,46.0,2.0
+Ligue Magnus,Angers,Olivier LeBlanc,D,27,183,78,Québec,Canada,AHM Charlesbourg,L,2014,7,197,Columbus Blue Jackets,None,10,0,1,1,6,2,None,None,46.81228,-71.21454,None,None
+Ligue Magnus,Angers,Robin Lebrun Gilbert,D,20,170,70,Montpellier,France,Montpellier,R,None,None,None,None,None,4,0,0,0,0,1,None,None,43.61093,3.87635,46.0,2.0
+Ligue Magnus,Angers,Vincent Llorca,D,31,193,91,Clermont-Ferrand,France,Mont-Dore,R,None,None,None,None,None,16,1,4,5,14,12,None,None,45.77969,3.08682,46.0,2.0
+Ligue Magnus,Angers,Antonin Manavian,D,36,191,95,Paris,France,Courbevoie,R,None,None,None,None,None,14,2,0,2,39,-4,None,None,48.85341,2.3488,46.0,2.0
+Ligue Magnus,Angers,Neil Manning,D,32,180,84,Nanaimo,Canada,None,L,None,None,None,None,None,16,1,3,4,6,11,None,None,49.16638,-123.94003,None,None
+Ligue Magnus,Angers,Matt Prapavessis,D,32,188,91,Oakville,Canada,None,R,None,None,None,None,None,16,2,13,15,6,7,None,None,43.45011,-79.68292,None,None
+Ligue Magnus,Angers,Nick Ross,D,34,185,94,Lethbridge,Canada,None,L,2007,1,30,Phoenix Coyotes,None,16,3,9,12,12,5,None,None,49.69999,-112.81856,None,None
+Ligue Magnus,Angers,Anthony Bardaro,F,31,178,82,Delta,Italy,Burnaby Winter Club,R,None,None,None,None,None,15,5,9,14,10,0,None,None,45.04,9.83548,42.83333,12.83333
+Ligue Magnus,Angers,Baptiste Couturier,F,23,179,88,Angers,France,Angers,L,None,None,None,None,None,11,0,0,0,0,-2,None,None,47.47156,-0.55202,46.0,2.0
+Ligue Magnus,Angers,Cédric Di Dio Balsamo,F,29,180,80,Briançon,France,Briançon,L,None,None,None,None,None,16,7,6,13,6,7,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Angers,Robin Gaborit,F,32,182,92,Cholet,France,Cholet,R,None,None,None,None,None,14,1,3,4,8,1,None,None,47.05893,-0.87974,46.0,2.0
+Ligue Magnus,Angers,Ethan Gourbil,F,19,181,76,Angers,France,Cholet,L,None,None,None,None,None,1,0,0,0,0,-1,None,None,47.47156,-0.55202,46.0,2.0
+Ligue Magnus,Angers,Philippe Halley,F,31,178,80,Québec,Canada,None,L,None,None,None,None,None,16,3,15,18,15,12,None,None,46.81228,-71.21454,None,None
+Ligue Magnus,Angers,Nick Moutrey,F,28,191,94,Toronto,Canada,None,L,2013,4,105,Columbus Blue Jackets,None,16,8,6,14,8,11,None,None,43.70011,-79.4163,None,None
+Ligue Magnus,Angers,Maxime Orlov,F,20,183,79,Belfort,France,Belfort,L,None,None,None,None,None,11,0,1,1,4,-2,None,None,47.64218,6.85385,46.0,2.0
+Ligue Magnus,Angers,Hugo Proux,F,22,175,74,Cholet,France,Cholet,L,None,None,None,None,None,2,0,0,0,0,-1,None,None,47.05893,-0.87974,46.0,2.0
+Ligue Magnus,Angers,Brodie Reid,F,34,183,85,Delta,Canada,None,R,None,None,None,None,None,16,11,4,15,2,-1,None,None,49.14399,-122.9068,None,None
+Ligue Magnus,Angers,Nicolas Ritz,F,31,180,87,Dijon,France,Dijon,L,None,None,None,None,None,12,5,5,10,10,4,None,None,47.31667,5.01667,46.0,2.0
+Ligue Magnus,Angers,Téo Sarliève,F,24,177,78,Clermont-Ferrand,France,Clermont,R,None,None,None,None,None,9,0,1,1,29,5,None,None,45.77969,3.08682,46.0,2.0
+Ligue Magnus,Angers,Nikita Scherbak,F,27,188,87,Moskva,Russia,Vastom Moskva,L,2014,1,26,Montréal Canadiens,None,15,3,11,14,28,-2,None,None,55.75222,37.61556,60.0,100.0
+Ligue Magnus,Angers,Marius Serer,F,30,173,83,Amiens,France,Amiens,L,None,None,None,None,None,15,1,2,3,4,-1,None,None,49.9,2.3,46.0,2.0
+Ligue Magnus,Angers,Peter Valier,F,31,180,82,Pontoise,France,Cergy-Pontoise,R,None,None,None,None,None,16,4,8,12,8,6,None,None,49.05,2.1,46.0,2.0
+Ligue Magnus,Anglet,Guillaume Duquenne,G,30,182,87,Saint-Pol-sur-Mer,France,Dunkerque,L,None,None,None,None,None,3,None,None,None,None,None,5.58,0.835,51.03116,2.33983,46.0,2.0
+Ligue Magnus,Anglet,Max Kleiber,G,18,None,None,Thonon-les-Bains,France,None,L,None,None,None,None,None,0,None,None,None,None,None,None,None,46.37049,6.47985,46.0,2.0
+Ligue Magnus,Anglet,Dylan St. Cyr,G,24,173,76,Las Vegas,USA,None,L,None,None,None,None,None,14,None,None,None,None,None,3.69,0.89,36.17497,-115.13722,-14.60485,-57.65625
+Ligue Magnus,Anglet,Sam Dunn,D,25,188,98,Bewdley,Canada,None,R,None,None,None,None,None,16,0,4,4,12,-4,None,None,44.08342,-78.31623,None,None
+Ligue Magnus,Anglet,Arnaud Faure,F,27,183,90,Grenoble,France,Grenoble,L,None,None,None,None,None,7,0,0,0,2,0,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Anglet,Théo Frémond,D,21,181,83,Bayonne,France,Anglet,L,None,None,None,None,None,10,0,0,0,0,-3,None,None,43.49316,-1.473,46.0,2.0
+Ligue Magnus,Anglet,Baptiste Manciot,D,20,184,72,Bordeaux,France,Bordeaux,R,None,None,None,None,None,1,0,0,0,0,None,None,None,44.84044,-0.5805,46.0,2.0
+Ligue Magnus,Anglet,Joachim Marot,D,19,182,70,Papeete,France,Anglet,L,None,None,None,None,None,3,0,0,0,0,-2,None,None,-17.5347,-149.56843,46.0,2.0
+Ligue Magnus,Anglet,Trey Phillips,D,30,175,83,Okotoks,Canada,Okotoks MHA,L,None,None,None,None,None,6,0,3,3,0,-7,None,None,50.72399,-113.9654,None,None
+Ligue Magnus,Anglet,Mathieu Pons,D,29,180,77,Grenoble,France,Grenoble,L,None,None,None,None,None,16,0,1,1,20,-4,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Anglet,Cole Thiessen,D,25,178,82,Aurora,Canada,None,R,None,None,None,None,None,16,0,11,11,8,-10,None,None,44.00011,-79.46632,None,None
+Ligue Magnus,Anglet,Michael Young,D,25,185,95,Medford,USA,None,R,None,None,None,None,None,15,1,2,3,10,-4,None,None,42.32652,-122.87559,-14.60485,-57.65625
+Ligue Magnus,Anglet,Nicolas Arrossamena,F,33,182,87,Saint-Pierre-et-Miquelon,France,Saint-Pierre,R,None,None,None,None,None,16,3,2,5,6,-14,None,None,46.83333,-56.33333,46.0,2.0
+Ligue Magnus,Anglet,Hugo Baron,F,21,174,74,Tarbes,France,Anglet,L,None,None,None,None,None,16,0,5,5,7,-7,None,None,43.23407,0.07139,46.0,2.0
+Ligue Magnus,Anglet,Robin Bouney,F,20,181,76,Bayonne,France,Anglet,L,None,None,None,None,None,3,0,0,0,0,0,None,None,43.49316,-1.473,46.0,2.0
+Ligue Magnus,Anglet,Maurin Bouvet,F,28,182,80,Amiens,France,Amiens,L,None,None,None,None,None,16,5,9,14,10,-2,None,None,49.9,2.3,46.0,2.0
+Ligue Magnus,Anglet,Thomas Decock,F,37,180,83,Tours,France,Anglet,L,None,None,None,None,None,6,0,0,0,70,-3,None,None,47.39484,0.70398,46.0,2.0
+Ligue Magnus,Anglet,Vincent Deslauriers,F,27,178,86,Ste-Anne-des-Plaines,Canada,None,R,None,None,None,None,None,16,5,6,11,6,-5,None,None,45.76468,-73.81156,None,None
+Ligue Magnus,Anglet,Colin Doyle,F,25,180,84,Campbellford,Canada,None,R,None,None,None,None,None,11,2,5,7,14,-1,None,None,44.30842,-77.79949,None,None
+Ligue Magnus,Anglet,Keith Getson,F,25,180,88,Bridgewater,Canada,None,L,None,None,None,None,None,16,3,9,12,14,1,None,None,44.37856,-64.51882,None,None
+Ligue Magnus,Anglet,Logan Giner,F,19,177,71,Le Chesnay,France,AC Boulogne-Billancourt,L,None,None,None,None,None,3,0,0,0,0,0,None,None,48.8222,2.12213,46.0,2.0
+Ligue Magnus,Anglet,Fabien Kazarine,F,28,179,81,Compiègne,France,Compiègne,L,None,None,None,None,None,16,8,3,11,35,-3,None,None,49.41794,2.82606,46.0,2.0
+Ligue Magnus,Anglet,Craig Puffer,F,28,175,77,Greenwich,USA,None,L,None,None,None,None,None,16,8,8,16,0,-4,None,None,41.02649,-73.62846,-14.60485,-57.65625
+Ligue Magnus,Anglet,Victor Ranger,F,24,172,77,Epinal,France,Nantes,R,None,None,None,None,None,10,1,2,3,2,-3,None,None,48.18324,6.45304,46.0,2.0
+Ligue Magnus,Anglet,Hugo Reinhardt,F,27,180,91,Kungsbacka,Sweden,Hanhals IF,L,None,None,None,None,None,15,3,2,5,18,-12,None,None,57.45058,12.15061,62.0,15.0
+Ligue Magnus,Anglet,Samuel Rousseau,F,22,176,72,Strasbourg,France,Strasbourg,L,None,None,None,None,None,15,4,3,7,8,2,None,None,48.58392,7.74553,46.0,2.0
+Ligue Magnus,Bordeaux,Isidore Agnel,G,18,180,79,Grenoble,France,Grenoble,L,None,None,None,None,None,0,None,None,None,None,None,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Bordeaux,Victor Bodin,G,22,185,87,Singapore,France,Golden State Elite Eagles,L,None,None,None,None,None,2,None,None,None,None,None,5.16,0.826,None,None,46.0,2.0
+Ligue Magnus,Bordeaux,Quentin Papillon,G,26,177,79,Rouen,France,Rouen,L,None,None,None,None,None,16,None,None,None,None,None,2.8,0.92,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Bordeaux,Mathis Thirion,G,19,183,70,Rouen,France,Rouen,L,None,None,None,None,None,0,None,None,None,None,None,None,None,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Bordeaux,Charles-David Beaudoin,D,29,180,81,Drummondville,Canada,None,R,None,None,None,None,None,13,0,2,2,15,-4,None,None,45.88336,-72.48241,None,None
+Ligue Magnus,Bordeaux,Kévin Dusseau,D,32,187,95,Rouen,France,Cherbourg,L,None,None,None,None,None,16,0,3,3,16,-2,None,None,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Bordeaux,Antti Kauppila,D,34,177,92,Tornio,Finland,TIHC,L,None,None,None,None,None,5,0,4,4,0,1,None,None,65.84811,24.14662,64.0,26.0
+Ligue Magnus,Bordeaux,Thomas Le Mée,D,20,180,65,Bordeaux,France,Bordeaux,R,None,None,None,None,None,2,0,0,0,0,-2,None,None,44.84044,-0.5805,46.0,2.0
+Ligue Magnus,Bordeaux,Bastien Lemaitre,D,22,181,80,Fontainebleau,France,Bordeaux,R,None,None,None,None,None,11,1,2,3,14,-2,None,None,48.40908,2.70177,46.0,2.0
+Ligue Magnus,Bordeaux,Mattéo Mahieu,D,21,175,74,Paris,France,None,L,None,None,None,None,None,15,0,1,1,0,0,None,None,48.85341,2.3488,46.0,2.0
+Ligue Magnus,Bordeaux,Axel Prissaint,D,25,186,89,Amiens,France,Amiens,L,None,None,None,None,None,16,0,4,4,10,3,None,None,49.9,2.3,46.0,2.0
+Ligue Magnus,Bordeaux,Kevin Spinozzi,D,27,188,91,Granby,France,None,L,None,None,None,None,None,12,2,4,6,4,0,None,None,None,None,46.0,2.0
+Ligue Magnus,Bordeaux,Baptiste Bruche,F,23,185,85,Amiens,France,Amiens,R,None,None,None,None,None,16,2,2,4,8,-1,None,None,49.9,2.3,46.0,2.0
+Ligue Magnus,Bordeaux,Raphaël Cacheux,F,18,180,62,Mont-Saint-Aignan,France,Rouen,L,None,None,None,None,None,4,1,0,1,0,-1,None,None,49.46307,1.09364,46.0,2.0
+Ligue Magnus,Bordeaux,Enzo Carry,F,20,187,90,Bayonne,France,Anglet,L,None,None,None,None,None,13,5,1,6,10,3,None,None,43.49316,-1.473,46.0,2.0
+Ligue Magnus,Bordeaux,Guillaume Desjardin,F,20,177,70,Bordeaux,France,Bordeaux,R,None,None,None,None,None,3,0,0,0,0,0,None,None,44.84044,-0.5805,46.0,2.0
+Ligue Magnus,Bordeaux,Malo Faurie,F,19,173,63,Avignon,France,Avignon,L,None,None,None,None,None,1,0,0,0,0,0,None,None,43.94834,4.80892,46.0,2.0
+Ligue Magnus,Bordeaux,Valentin Grossetete,F,19,182,82,Clermont-Ferrand,France,Clermont,L,None,None,None,None,None,3,0,2,2,2,0,None,None,45.77969,3.08682,46.0,2.0
+Ligue Magnus,Bordeaux,Tom Guidoux,F,19,177,64,Grenoble,France,Grenoble,R,None,None,None,None,None,3,0,1,1,0,0,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Bordeaux,Julien Guillaume,F,27,182,82,Besançon,France,Besançon,R,None,None,None,None,None,16,1,5,6,6,-1,None,None,47.24878,6.01815,46.0,2.0
+Ligue Magnus,Bordeaux,Nikita Jevpalovs,F,29,186,95,Riga,Latvia,Aisbergs,R,None,None,None,None,None,16,6,10,16,10,-3,None,None,56.946,24.10589,57.0,25.0
+Ligue Magnus,Bordeaux,Maxime Legault,F,34,185,91,Mont-Tremblant,Canada,None,R,2009,7,194,Buffalo Sabres,None,None,None,None,None,None,None,None,None,46.4094,-74.78,None,None
+Ligue Magnus,Bordeaux,Rudy Matima,F,26,185,88,Ivry-sur-Seine,France,Athis-Paray,L,None,None,None,None,None,16,5,6,11,4,3,None,None,48.81568,2.38487,46.0,2.0
+Ligue Magnus,Bordeaux,Paul Montean,F,19,180,75,Bordeaux,France,Bordeaux,L,None,None,None,None,None,3,0,0,0,0,-2,None,None,44.84044,-0.5805,46.0,2.0
+Ligue Magnus,Bordeaux,Rudolfs Polcs,F,22,190,88,Riga,Latvia,HS Riga,L,None,None,None,None,None,3,2,2,4,0,4,None,None,56.946,24.10589,57.0,25.0
+Ligue Magnus,Bordeaux,Alexei Polodyan,F,25,181,76,St. Petersburg,Russia,Serebryanye Lvy St. Petersburg,L,None,None,None,None,None,9,3,1,4,8,-1,None,None,59.93863,30.31413,60.0,100.0
+Ligue Magnus,Bordeaux,Mathieu Pompei,F,32,173,77,Laval,Canada,None,R,None,None,None,None,None,3,0,4,4,4,1,None,None,45.56995,-73.692,None,None
+Ligue Magnus,Bordeaux,Loïk Poudrier,F,31,174,75,Thetford Mines,Canada,Lausanne HC,L,None,None,None,None,None,9,3,2,5,2,0,None,None,46.09371,-71.30539,None,None
+Ligue Magnus,Bordeaux,Aina Rambelo,F,32,181,88,Bordeaux,France,Bordeaux,L,None,None,None,None,None,16,3,3,6,12,-2,None,None,44.84044,-0.5805,46.0,2.0
+Ligue Magnus,Bordeaux,Samuel Salonen,F,29,180,84,Vaasa,Finland,Sport,L,None,None,None,None,None,16,6,5,11,6,1,None,None,63.096,21.61577,64.0,26.0
+Ligue Magnus,Bordeaux,Vince Tartari,F,22,188,74,Talence,France,Bordeaux,L,None,None,None,None,None,5,0,1,1,6,2,None,None,44.80849,-0.58915,46.0,2.0
+Ligue Magnus,Bordeaux,Julius Valtonen,F,28,190,92,Tuusula,Finland,Jokerit,R,None,None,None,None,None,15,1,7,8,2,-2,None,None,60.40368,25.02638,64.0,26.0
+Ligue Magnus,Briançon,Jan Broz,G,26,180,81,Trebic,Czechia,HHK Velke Mezirici,L,None,None,None,None,None,15,None,None,None,None,None,2.8,0.913,49.21492,15.88166,49.75,15.0
+Ligue Magnus,Briançon,Elliot Lévêque,G,19,178,65,Cholet,France,Cholet,L,None,None,None,None,None,1,None,None,None,None,None,4.01,0.879,47.05893,-0.87974,46.0,2.0
+Ligue Magnus,Briançon,Aurélien Chausserie-Laprée,D,23,175,85,Bordeaux,France,Bordeaux,L,None,None,None,None,None,9,0,0,0,2,-5,None,None,44.84044,-0.5805,46.0,2.0
+Ligue Magnus,Briançon,Hugo Deberge,D,20,182,84,Clermont-Ferrand,France,Clermont,L,None,None,None,None,None,11,0,1,1,4,-6,None,None,45.77969,3.08682,46.0,2.0
+Ligue Magnus,Briançon,Milán Horváth,D,22,188,88,Székesfehérvár,Hungary,None,L,None,None,None,None,None,16,1,3,4,10,-9,None,None,47.18995,18.41034,47.0,20.0
+Ligue Magnus,Briançon,Jani Kluuskeri,D,25,174,83,Uusikaupunki,Finland,UJK,R,None,None,None,None,None,16,4,4,8,58,-11,None,None,60.80043,21.40841,64.0,26.0
+Ligue Magnus,Briançon,Arnaud Lazzaroni,D,31,188,74,Valence,France,Valence,L,None,None,None,None,None,16,0,5,5,8,2,None,None,44.9256,4.90956,46.0,2.0
+Ligue Magnus,Briançon,Jesper Åkerman,D,28,184,83,Stockholm,Sweden,Skellefteå AIK,L,None,None,None,None,None,16,0,7,7,10,3,None,None,59.32938,18.06871,62.0,15.0
+Ligue Magnus,Briançon,Benjamin Berard,F,24,178,80,Grenoble,France,Grenoble,L,None,None,None,None,None,16,6,4,10,8,0,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Briançon,Lucas Bonnardel,F,26,189,87,Briançon,France,Briançon,L,None,None,None,None,None,5,0,1,1,6,-4,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Briançon,Nils Carnbäck,F,26,185,80,Göteborg,Sweden,Bäcken HC,L,None,None,None,None,None,13,0,8,8,12,-3,None,None,57.70716,11.96679,62.0,15.0
+Ligue Magnus,Briançon,Bastien Colomban,F,21,189,85,Briançon,France,Briançon,L,None,None,None,None,None,16,2,1,3,0,-6,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Briançon,Robin Colomban,F,25,189,87,Briançon,France,Briançon,L,None,None,None,None,None,16,5,10,15,4,-3,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Briançon,Quentin Fauchon,F,30,185,85,Villeneuve-Saint-Georges,France,Viry,R,None,None,None,None,None,16,3,3,6,0,-10,None,None,48.73219,2.44925,46.0,2.0
+Ligue Magnus,Briançon,Alexis Hermant,F,22,179,69,Clichy-la-Garenne,France,Asnières,L,None,None,None,None,None,16,2,1,3,4,-6,None,None,48.90018,2.30952,46.0,2.0
+Ligue Magnus,Briançon,Bálint Horváth,F,24,185,84,Gyõr,Hungary,None,L,None,None,None,None,None,16,4,7,11,10,-3,None,None,47.68333,17.63512,47.0,20.0
+Ligue Magnus,Briançon,Eetu Mäki,F,23,176,85,Oulu,Finland,Hermes,R,None,None,None,None,None,6,2,3,5,2,2,None,None,65.01236,25.46816,64.0,26.0
+Ligue Magnus,Briançon,Yonis Penet,F,19,181,84,Briançon,France,Briançon,R,None,None,None,None,None,None,None,None,None,None,None,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Briançon,Thomas Raby,F,22,180,81,Briançon,France,Briançon,L,None,None,None,None,None,12,1,1,2,4,-5,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Briançon,Sean Richards,F,24,180,84,St. Albert,Canada,None,L,None,None,None,None,None,16,3,6,9,72,-3,None,None,53.63344,-113.63533,None,None
+Ligue Magnus,Briançon,Dimitri Thillet,F,30,186,88,Briançon,France,Briançon,L,None,None,None,None,None,12,4,3,7,0,3,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Briançon,Gaëtan Villiot,F,24,170,76,Briançon,France,Briançon,L,None,None,None,None,None,16,5,2,7,4,0,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Briançon,Valère Vrielynck,F,35,180,92,Reims,France,Reims,L,None,None,None,None,None,16,1,1,2,2,0,None,None,49.26526,4.02853,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Evan Duroc,G,17,176,67,Le Mans,France,Courbevoie,None,None,None,None,None,None,0,None,None,None,None,None,None,None,48.0021,0.20251,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Olivier Richard,G,27,188,83,Aix-en-Provence,France,Angers,L,None,None,None,None,None,4,None,None,None,None,None,4.09,0.885,43.5283,5.44973,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Sebastian Ylönen,G,32,186,83,Rouen,France,Rouen,L,None,None,None,None,None,13,None,None,None,None,None,2.73,0.91,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Raphaël Brites,D,18,179,76,Paris,France,Fontenay,L,None,None,None,None,None,8,0,0,0,0,0,None,None,48.85341,2.3488,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Patrick Coulombe,D,38,175,79,St-Fabien,Canada,None,L,None,None,None,None,None,16,1,6,7,6,-7,None,None,45.28198,-72.98804,None,None
+Ligue Magnus,Cergy-Pontoise,Aurélien Dorey,D,29,192,94,Mont-Saint-Aignan,France,Rouen,L,None,None,None,None,None,16,1,3,4,13,1,None,None,49.46307,1.09364,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Raphaël Faure,D,30,181,86,Caen,France,Caen,L,None,None,None,None,None,15,0,0,0,41,-1,None,None,49.18585,-0.35912,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Daniels Gorsanovs,D,21,182,74,Jelgava,Latvia,Zemgale,R,None,None,None,None,None,16,1,3,4,6,4,None,None,56.65,23.71278,57.0,25.0
+Ligue Magnus,Cergy-Pontoise,Vincent Melin,D,25,182,82,Arras,France,Viry,L,None,None,None,None,None,16,1,5,6,43,5,None,None,50.29301,2.78186,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Philémon Rouault,D,19,178,70,Pontoise,France,Cergy-Pontoise,L,None,None,None,None,None,None,None,None,None,None,None,None,None,49.05,2.1,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Nikita Shalei,D,22,181,74,Minsk,France,Anglet,R,None,None,None,None,None,16,1,4,5,2,-2,None,None,None,None,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Robert Baillargeon,F,29,183,75,Springfield,USA,None,R,2012,5,136,Ottawa Senators,None,16,3,5,8,18,-6,None,None,39.80172,-89.64371,-14.60485,-57.65625
+Ligue Magnus,Cergy-Pontoise,Alex Barber,F,24,180,77,Dublin,USA,None,R,None,None,None,None,None,16,5,11,16,12,-1,None,None,40.09923,-83.11408,-14.60485,-57.65625
+Ligue Magnus,Cergy-Pontoise,Idris Blanchet,F,20,172,65,St Germain-en-Laye,France,Argenteuil,L,None,None,None,None,None,1,0,0,0,0,0,None,None,48.89643,2.0904,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Eliott Bourgoin,F,20,175,65,Paris,France,Français Volants Paris,L,None,None,None,None,None,4,0,0,0,2,-1,None,None,48.85341,2.3488,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Tristan Crozier,F,25,180,83,North Vancouver,Canada,North Shore Winter Club,R,None,None,None,None,None,15,2,4,6,46,-2,None,None,49.24966,-123.11934,None,None
+Ligue Magnus,Cergy-Pontoise,Colin Delatour,F,20,173,70,Pontoise,France,Cergy-Pontoise,L,None,None,None,None,None,6,2,0,2,2,0,None,None,49.05,2.1,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Emils Gegeris,F,24,180,84,Riga,Latvia,HS Riga,L,None,None,None,None,None,5,2,3,5,0,1,None,None,56.946,24.10589,57.0,25.0
+Ligue Magnus,Cergy-Pontoise,Théo Gueurif,F,21,180,85,Saint-Martin-d'Hères,France,Villard-de-Lans,L,None,None,None,None,None,16,3,5,8,4,-8,None,None,45.1787,5.76281,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Aleksi Hämäläinen,F,27,182,84,Suonenjoki,Finland,SuKiKa,L,None,None,None,None,None,16,7,8,15,14,1,None,None,62.61667,27.13333,64.0,26.0
+Ligue Magnus,Cergy-Pontoise,Sayam Limtong,F,21,175,76,Montmorency,France,Deuil-la-Barre,R,None,None,None,None,None,16,3,5,8,2,2,None,None,48.98826,2.3434,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Tomas Pardo,F,19,178,60,Barcelona,France,Cergy-Pontoise,L,None,None,None,None,None,12,0,2,2,6,0,None,None,41.38415,2.18637,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Philéas Perrenoud,F,19,179,72,Strasbourg,France,Strasbourg,L,None,None,None,None,None,15,2,3,5,4,-6,None,None,48.58392,7.74553,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Louis Petit,F,25,177,77,Saint-Vallier,France,Dijon,R,None,None,None,None,None,3,2,1,3,0,4,None,None,45.17154,4.81758,46.0,2.0
+Ligue Magnus,Cergy-Pontoise,Gage Torrel,F,29,175,81,Monticello,USA,None,L,None,None,None,None,None,16,8,5,13,2,3,None,None,45.30552,-93.79414,-14.60485,-57.65625
+Ligue Magnus,Chamonix,Tom Aubrun,G,28,183,79,Chamonix-Mont-Blanc,France,Chamonix,L,None,None,None,None,None,13,None,None,None,None,None,2.45,0.929,45.92375,6.86933,46.0,2.0
+Ligue Magnus,Chamonix,Lucas Mugnier,G,24,196,80,Chamonix-Mont-Blanc,France,Chamonix,L,None,None,None,None,None,2,None,None,None,None,None,2.51,0.921,45.92375,6.86933,46.0,2.0
+Ligue Magnus,Chamonix,J.C. Brassard,D,28,180,82,Scituate,USA,None,L,None,None,None,None,None,15,1,10,11,10,-1,None,None,42.19593,-70.72587,-14.60485,-57.65625
+Ligue Magnus,Chamonix,Valentin Coffy,D,23,180,67,Thonon-les-Bains,France,Morzine-Avoriaz,R,None,None,None,None,None,15,0,3,3,2,-5,None,None,46.37049,6.47985,46.0,2.0
+Ligue Magnus,Chamonix,Alexis Dogémont,D,20,185,86,Nantes,France,Nantes,R,None,None,None,None,None,6,0,0,0,0,0,None,None,47.21725,-1.55336,46.0,2.0
+Ligue Magnus,Chamonix,Camil Durand,F,27,186,90,Chamonix-Mont-Blanc,France,Chamonix,R,None,None,None,None,None,15,0,3,3,14,-1,None,None,45.92375,6.86933,46.0,2.0
+Ligue Magnus,Chamonix,Mikko Kuukka,D,38,193,92,Hämeenkyrö,Finland,Ilves,L,None,None,None,None,None,11,1,0,1,2,-1,None,None,61.63913,23.19531,64.0,26.0
+Ligue Magnus,Chamonix,Jakub Müller,D,24,188,91,Slany,Czechia,HC Kladno,R,None,None,None,None,None,14,2,3,5,2,0,None,None,50.23046,14.08693,49.75,15.0
+Ligue Magnus,Chamonix,Jérémie Penz,D,24,184,84,Sallanches,France,Saint-Gervais,L,None,None,None,None,None,15,3,2,5,12,-2,None,None,45.94423,6.63162,46.0,2.0
+Ligue Magnus,Chamonix,Gabriel Chabot,F,27,173,82,St. Albert,Canada,St. Albert MHA,R,None,None,None,None,None,15,6,10,16,13,-4,None,None,53.63344,-113.63533,None,None
+Ligue Magnus,Chamonix,Lauric Convert,F,24,177,75,Grenoble,France,Grenoble,R,None,None,None,None,None,9,0,1,1,27,-1,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Chamonix,Marius Hénin,F,20,180,65,Talence,France,Bordeaux,L,None,None,None,None,None,10,0,0,0,0,-2,None,None,44.80849,-0.58915,46.0,2.0
+Ligue Magnus,Chamonix,Stanislav Lopachuk,F,31,180,78,Minsk,Belarus,Yunost Minsk,L,None,None,None,None,None,14,4,5,9,6,-7,None,None,53.9,27.56667,53.0,28.0
+Ligue Magnus,Chamonix,Clément Masson,F,37,167,67,Paris,France,Viry,R,None,None,None,None,None,15,5,7,12,4,-5,None,None,48.85341,2.3488,46.0,2.0
+Ligue Magnus,Chamonix,Julius Persson,F,29,184,84,None,Sweden,Bofors IK,L,None,None,None,None,None,14,5,6,11,33,2,None,None,None,None,62.0,15.0
+Ligue Magnus,Chamonix,Aleksi Poikola,F,27,180,84,Espoo,Finland,Blues,L,None,None,None,None,None,15,1,3,4,18,1,None,None,60.2052,24.6522,64.0,26.0
+Ligue Magnus,Chamonix,Jari Sailio,F,37,179,84,Hyvinkää,Finland,Jää-Ahmat,L,None,None,None,None,None,3,2,3,5,4,1,None,None,60.63333,24.86667,64.0,26.0
+Ligue Magnus,Chamonix,Valtteri Suni,F,23,174,79,Hämeenlinna,Finland,Nikkarit,L,None,None,None,None,None,13,3,2,5,8,2,None,None,60.99596,24.46434,64.0,26.0
+Ligue Magnus,Chamonix,Matthias Terrier,F,32,180,84,Chamonix-Mont-Blanc,France,Chamonix,L,None,None,None,None,None,15,1,4,5,18,-2,None,None,45.92375,6.86933,46.0,2.0
+Ligue Magnus,Chamonix,Malo Ville,F,28,180,80,Chamonix-Mont-Blanc,France,Chamonix,L,None,None,None,None,None,11,2,2,4,0,-2,None,None,45.92375,6.86933,46.0,2.0
+Ligue Magnus,Chamonix,Jack Walker,F,27,183,84,Edina,USA,None,L,2016,6,152,Toronto Maple Leafs,None,14,5,6,11,0,-7,None,None,44.88969,-93.34995,-14.60485,-57.65625
+Ligue Magnus,Chamonix,Bastien Zago,F,23,186,82,Cluses,France,Saint-Gervais,L,None,None,None,None,None,14,0,0,0,2,-1,None,None,46.06251,6.57497,46.0,2.0
+Ligue Magnus,Gap,Samu Perhonen,G,30,196,89,Jämsänkoski,Finland,Kiekko-Sudet,L,2011,3,62,Edmonton Oilers,None,14,None,None,None,None,None,2.97,0.9,61.919,25.17011,64.0,26.0
+Ligue Magnus,Gap,Gaetan Richard,G,24,183,80,Briançon,France,Briançon,L,None,None,None,None,None,7,None,None,None,None,None,4.66,0.845,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Gap,Fabien Bourgeois,D,28,173,80,Thonon-les-Bains,France,Morzine-Avoriaz,R,None,None,None,None,None,16,0,4,4,4,5,None,None,46.37049,6.47985,46.0,2.0
+Ligue Magnus,Gap,Nathan Cal,D,18,173,69,Gap,France,Gap,L,None,None,None,None,None,14,0,0,0,2,-2,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Gap,Loris Chauvin,F,19,186,76,Gap,France,Gap,L,None,None,None,None,None,7,0,0,0,2,-3,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Gap,Yohan Coulaud,D,23,180,82,Gap,France,Gap,L,None,None,None,None,None,15,3,3,6,12,5,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Gap,Léo Faure,D,19,190,86,Briançon,France,Briançon,L,None,None,None,None,None,5,0,0,0,0,-1,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Gap,Mahé Forestier,D,19,190,80,Gap,France,Gap,L,None,None,None,None,None,1,0,0,0,0,0,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Gap,Chad Langlais,D,37,173,71,Spokane,USA,None,L,None,None,None,None,None,15,1,7,8,2,-3,None,None,47.65966,-117.42908,-14.60485,-57.65625
+Ligue Magnus,Gap,Valtteri Meisaari,D,24,192,95,Oulu,Finland,Kärpät,L,None,None,None,None,None,16,0,2,2,28,-4,None,None,65.01236,25.46816,64.0,26.0
+Ligue Magnus,Gap,Paul Nassivet,D,20,192,85,Angers,France,Angers,L,None,None,None,None,None,16,2,2,4,8,-8,None,None,47.47156,-0.55202,46.0,2.0
+Ligue Magnus,Gap,Nathan Bermond-Gonnet,F,18,None,None,Briançon,France,Briançon,None,None,None,None,None,None,6,0,0,0,0,-1,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Gap,Raphael Chauvel,F,19,180,74,Amiens,France,Caen,L,None,None,None,None,None,16,0,2,2,4,-8,None,None,49.9,2.3,46.0,2.0
+Ligue Magnus,Gap,Julien Correia,F,35,173,78,Rouen,France,Rouen,L,None,None,None,None,None,16,5,13,18,2,3,None,None,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Gap,Loïc Coulaud,F,26,176,80,Gap,France,Gap,R,None,None,None,None,None,3,1,0,1,0,1,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Gap,Arthur Escallier,F,19,179,68,Gap,France,Gap,L,None,None,None,None,None,8,1,0,1,0,0,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Gap,Antonin Fine,F,17,181,82,Briançon,France,Briançon,L,None,None,None,None,None,3,0,0,0,0,-2,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Gap,Bostjan Golicic,F,34,183,88,Kranj,Slovenia,HK Bled,L,None,None,None,None,None,16,3,8,11,8,-6,None,None,46.23887,14.35561,46.08333,15.0
+Ligue Magnus,Gap,Romain Gutierrez,F,31,177,83,Domont,France,Franconville,L,None,None,None,None,None,16,4,5,9,18,-2,None,None,49.02782,2.32638,46.0,2.0
+Ligue Magnus,Gap,Paul Joubert,F,23,178,76,Saint-Pierre-et-Miquelon,France,Saint-Pierre,R,None,None,None,None,None,16,6,5,11,10,2,None,None,46.83333,-56.33333,46.0,2.0
+Ligue Magnus,Gap,Teemu Loizeau,F,24,192,91,Sallanches,France,Megève,L,None,None,None,None,None,16,3,4,7,21,8,None,None,45.94423,6.63162,46.0,2.0
+Ligue Magnus,Gap,Jordan Mugnier,F,27,184,86,Chamonix-Mont-Blanc,France,Chamonix,L,None,None,None,None,None,12,1,5,6,14,0,None,None,45.92375,6.86933,46.0,2.0
+Ligue Magnus,Gap,Sébastien Rohat,F,38,175,75,Briançon,France,Briançon,R,None,None,None,None,None,16,1,1,2,0,-4,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Gap,Olegs Sislannikovs,F,27,177,84,Riga,Latvia,Prizma Riga,R,None,None,None,None,None,10,4,3,7,6,-2,None,None,56.946,24.10589,57.0,25.0
+Ligue Magnus,Gap,Axel Tarabusi,F,22,175,72,Gap,France,Gap,L,None,None,None,None,None,16,3,4,7,0,0,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Gap,Tuomas Vartiainen,F,27,179,80,Oulu,Finland,Kärpät,R,None,None,None,None,None,12,7,5,12,8,-2,None,None,65.01236,25.46816,64.0,26.0
+Ligue Magnus,Grenoble,Raphaël Garnier,G,26,182,82,Angers,France,Caen,L,None,None,None,None,None,6,None,None,None,None,None,1.99,0.921,47.47156,-0.55202,46.0,2.0
+Ligue Magnus,Grenoble,Eliot Peltier,G,19,179,73,Epinal,France,Epinal,L,None,None,None,None,None,1,None,None,None,None,None,0.0,0.0,48.18324,6.45304,46.0,2.0
+Ligue Magnus,Grenoble,Jakub Stepanek,G,37,188,80,Vsetin,Czechia,HC Vsetin,L,None,None,None,None,None,10,None,None,None,None,None,2.4,0.91,49.33871,17.99619,49.75,15.0
+Ligue Magnus,Grenoble,Ewen Tran,G,19,175,73,Paris,France,AC Boulogne-Billancourt,R,None,None,None,None,None,0,None,None,None,None,None,None,None,48.85341,2.3488,46.0,2.0
+Ligue Magnus,Grenoble,Pierre Crinon,D,28,195,105,Reims,France,Reims,L,None,None,None,None,None,11,0,2,2,56,4,None,None,49.26526,4.02853,46.0,2.0
+Ligue Magnus,Grenoble,Mathis Despatie,D,20,181,78,Ste-Agathe-des-Monts,France,AHM Sainte-Agathe-des-Monts,L,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,46.0,2.0
+Ligue Magnus,Grenoble,Kyle Hardy,D,35,175,80,Montréal,Canada,Deux Rives,L,None,None,None,None,None,16,4,7,11,8,7,None,None,45.50884,-73.58781,None,None
+Ligue Magnus,Grenoble,Maxim Lamarche,D,31,191,99,Laval,Canada,None,R,None,None,None,None,None,16,2,8,10,10,7,None,None,45.56995,-73.692,None,None
+Ligue Magnus,Grenoble,Lucien Onno,D,24,180,80,Paris,France,Villard-de-Lans,R,None,None,None,None,None,16,0,3,3,4,2,None,None,48.85341,2.3488,46.0,2.0
+Ligue Magnus,Grenoble,Jonathan Racine,D,30,188,88,Montréal,Canada,AHM St-Jérôme,L,2011,3,87,Florida Panthers,None,16,1,3,4,16,6,None,None,45.50884,-73.58781,None,None
+Ligue Magnus,Grenoble,Jere Rouhiainen,D,27,182,78,Tampere,Finland,Tappara,L,None,None,None,None,None,15,4,9,13,2,7,None,None,61.49911,23.78712,64.0,26.0
+Ligue Magnus,Grenoble,Charles Schmitt,D,22,179,77,Montpellier,France,Montpellier,R,None,None,None,None,None,6,0,0,0,0,0,None,None,43.61093,3.87635,46.0,2.0
+Ligue Magnus,Grenoble,Niklas Terglav,D,19,180,78,Baie-Comeau,France,Briançon,L,None,None,None,None,None,1,0,0,0,0,0,None,None,None,None,46.0,2.0
+Ligue Magnus,Grenoble,Brent Aubin,F,37,178,86,Sainte-Sophie,Canada,None,R,None,None,None,None,None,13,9,3,12,14,-2,None,None,45.81678,-73.89919,None,None
+Ligue Magnus,Grenoble,Matias Bachelet,F,20,181,80,Grenoble,France,Grenoble,L,None,None,None,None,None,14,3,5,8,0,6,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Grenoble,Aurélien Dair,F,24,187,75,Chambéry,France,Chambéry,R,None,None,None,None,None,9,4,6,10,8,6,None,None,45.56628,5.92079,46.0,2.0
+Ligue Magnus,Grenoble,Flavian Dair,F,21,175,73,Chambéry,France,Chambéry,L,None,None,None,None,None,16,2,3,5,8,3,None,None,45.56628,5.92079,46.0,2.0
+Ligue Magnus,Grenoble,Zackary Daneau,F,23,183,86,Trois-Rivières,Canada,None,R,None,None,None,None,None,16,0,2,2,2,2,None,None,46.34515,-72.5477,None,None
+Ligue Magnus,Grenoble,Nicolas Deschamps,F,33,185,93,LaSalle,Canada,AHM Delson,L,2008,2,35,Anaheim Ducks,None,16,5,11,16,8,1,None,None,45.43038,-73.63518,None,None
+Ligue Magnus,Grenoble,Loïc Farnier,F,27,182,84,Romans-sur-Isère,France,Valence,L,None,None,None,None,None,16,1,3,4,6,4,None,None,45.0496,5.06602,46.0,2.0
+Ligue Magnus,Grenoble,Damien Fleury,F,37,181,84,Caen,France,Caen,R,None,None,None,None,None,12,2,6,8,12,2,None,None,49.18585,-0.35912,46.0,2.0
+Ligue Magnus,Grenoble,Valentin Grossetete,F,19,182,82,Clermont-Ferrand,France,Clermont,L,None,None,None,None,None,1,0,0,0,2,0,None,None,45.77969,3.08682,46.0,2.0
+Ligue Magnus,Grenoble,Adel Koudri,F,24,182,75,Annecy,France,Annecy,R,None,None,None,None,None,16,8,6,14,2,5,None,None,45.90878,6.12565,46.0,2.0
+Ligue Magnus,Grenoble,Alexandre Lavoie,F,30,181,83,Anjou,Canada,None,R,None,None,None,None,None,16,8,17,25,2,8,None,None,45.60008,-73.54917,None,None
+Ligue Magnus,Grenoble,Roman Lyubimov,F,31,188,97,Tver,Russia,THK Tver,R,None,None,None,None,None,None,None,None,None,None,None,None,None,56.85836,35.90057,60.0,100.0
+Ligue Magnus,Grenoble,Julien Munoz,F,25,173,78,Grenoble,France,Villard-de-Lans,R,None,None,None,None,None,12,0,2,2,2,-1,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Grenoble,Timothé Quattrone,F,22,180,89,Annecy,France,Annecy,L,None,None,None,None,None,14,1,1,2,2,3,None,None,45.90878,6.12565,46.0,2.0
+Ligue Magnus,Grenoble,Markus Søberg,F,28,184,84,Oslo,Norway,Manglerud Star,R,2013,6,165,Columbus Blue Jackets,None,10,2,2,4,0,3,None,None,59.91273,10.74609,62.0,10.0
+Ligue Magnus,Grenoble,Sacha Treille,F,36,193,96,Grenoble,France,Grenoble,L,None,None,None,None,None,16,5,10,15,5,9,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Marseille,Marek Ciliak,G,33,183,89,Zvolen,Slovakia,HKM Zvolen,L,None,None,None,None,None,14,None,None,None,None,None,1.93,0.937,48.57442,19.15324,48.66667,19.5
+Ligue Magnus,Marseille,Florian Gourdin,G,22,184,75,Digne-les-Bains,France,Gap,L,None,None,None,None,None,3,None,None,None,None,None,3.38,0.86,44.09252,6.23199,46.0,2.0
+Ligue Magnus,Marseille,Louis Cirgues,D,22,183,85,Gap,France,Gap,L,None,None,None,None,None,8,0,0,0,0,-4,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Marseille,Sasha Djigaouri,D,21,189,90,Saint-Martin-d'Hères,France,Grenoble,R,None,None,None,None,None,16,1,2,3,2,-1,None,None,45.1787,5.76281,46.0,2.0
+Ligue Magnus,Marseille,Roberts Kalkis,D,24,188,100,Riga,Latvia,EVHS,L,None,None,None,None,None,16,0,4,4,8,0,None,None,56.946,24.10589,57.0,25.0
+Ligue Magnus,Marseille,Colin Morillon,D,26,181,82,Marseille,France,Epinal,R,None,None,None,None,None,16,0,5,5,6,7,None,None,43.29695,5.38107,46.0,2.0
+Ligue Magnus,Marseille,Tommy Parran,D,28,180,84,Shaker Heights,USA,None,L,None,None,None,None,None,8,0,1,1,4,3,None,None,41.47394,-81.53707,-14.60485,-57.65625
+Ligue Magnus,Marseille,Tyler Rockwell,D,27,178,79,San Jose,USA,None,L,None,None,None,None,None,16,2,8,10,4,4,None,None,14.96823,145.61998,-14.60485,-57.65625
+Ligue Magnus,Marseille,Guillaume Roussel,D,21,183,89,Neuilly-Plaisance,France,Neuilly-sur-Marne,L,None,None,None,None,None,15,1,3,4,29,0,None,None,48.86342,2.506,46.0,2.0
+Ligue Magnus,Marseille,Maurice Zwikel,D,16,171,70,Thonon-les-Bains,France,Rouen,L,None,None,None,None,None,7,0,1,1,2,3,None,None,46.37049,6.47985,46.0,2.0
+Ligue Magnus,Marseille,Lucas Colombin,F,21,178,80,Sallanches,France,Chamonix,R,None,None,None,None,None,14,3,2,5,12,-2,None,None,45.94423,6.63162,46.0,2.0
+Ligue Magnus,Marseille,Fabien Colotti,F,27,179,81,Saint-Martin-d'Hères,France,Grenoble,L,None,None,None,None,None,12,3,4,7,4,-6,None,None,45.1787,5.76281,46.0,2.0
+Ligue Magnus,Marseille,Teddy Da Costa,F,37,180,85,Melun,France,Dammarie,R,None,None,None,None,None,13,4,3,7,6,-5,None,None,48.5457,2.65356,46.0,2.0
+Ligue Magnus,Marseille,Jan Dufek,F,26,183,83,Brno,Czechia,HCM Warrior Brno,L,None,None,None,None,None,16,2,3,5,6,3,None,None,49.19522,16.60796,49.75,15.0
+Ligue Magnus,Marseille,Filip Dvorak,F,26,186,82,Brno,Czechia,HC Kometa Brno,R,None,None,None,None,None,16,2,2,4,8,2,None,None,49.19522,16.60796,49.75,15.0
+Ligue Magnus,Marseille,Martin Kadlec,F,34,180,73,Kadan,Czechia,SK Kadan,R,None,None,None,None,None,14,4,2,6,56,4,None,None,50.38333,13.26667,49.75,15.0
+Ligue Magnus,Marseille,Maxence Leroux,F,24,172,70,Melun,France,Dammarie,R,None,None,None,None,None,16,1,2,3,4,-2,None,None,48.5457,2.65356,46.0,2.0
+Ligue Magnus,Marseille,Patrik Machac,F,29,178,80,Beroun,Czechia,HC Kladno,L,None,None,None,None,None,16,2,4,6,8,2,None,None,49.96382,14.072,49.75,15.0
+Ligue Magnus,Marseille,Nicolas Ruel,F,27,178,82,Saint-Martin-d'Hères,France,Villard-de-Lans,L,None,None,None,None,None,16,4,5,9,9,7,None,None,45.1787,5.76281,46.0,2.0
+Ligue Magnus,Marseille,Aurelien Serres,F,18,170,66,Gap,France,Gap,R,None,None,None,None,None,7,0,0,0,0,-3,None,None,44.55858,6.07868,46.0,2.0
+Ligue Magnus,Marseille,Paul Siraudin,F,20,180,80,Genève,France,Annecy,L,None,None,None,None,None,16,3,4,7,6,5,None,None,46.14621,6.16244,46.0,2.0
+Ligue Magnus,Marseille,Gennadi Stolyarov,F,37,193,91,Moskva,Russia,Dynamo Moskva,L,2004,8,257,Detroit Red Wings,None,15,4,10,14,10,4,None,None,55.75222,37.61556,60.0,100.0
+Ligue Magnus,Marseille,Bryan Ten Braak,F,33,188,77,Dammarie-les-Lys,France,Dammarie,L,None,None,None,None,None,16,3,2,5,12,0,None,None,48.51667,2.65,46.0,2.0
+Ligue Magnus,Marseille,David Åslin,F,34,184,93,Mora,Sweden,Norrtälje IK,L,None,None,None,None,None,3,3,2,5,0,4,None,None,60.95791,14.51138,62.0,15.0
+Ligue Magnus,Nice,Nikita Bespalov,G,35,186,83,Moskva,Russia,Krylia Sovetov Moskva,L,None,None,None,None,None,16,None,None,None,None,None,3.67,0.885,55.75222,37.61556,60.0,100.0
+Ligue Magnus,Nice,Isaac Charpentier,G,24,180,70,Epinal,France,Epinal,L,None,None,None,None,None,None,None,None,None,None,None,None,None,48.18324,6.45304,46.0,2.0
+Ligue Magnus,Nice,Conrad Mölder,G,24,185,87,Tallinn,Estonia,HC Purikad,L,None,None,None,None,None,1,None,None,None,None,None,4.0,0.871,59.43696,24.75353,59.0,26.0
+Ligue Magnus,Nice,Lou Silighini,G,20,175,70,Niort,France,Niort,L,None,None,None,None,None,0,None,None,None,None,None,None,None,46.32313,-0.45877,46.0,2.0
+Ligue Magnus,Nice,Yohann Alzon,F,23,183,78,Taipei,Chinese Taipei,Taipei Silver Monsters,L,None,None,None,None,None,7,0,0,0,0,-1,None,None,25.13734,121.54079,25.13734,121.54079
+Ligue Magnus,Nice,Louis Bélisle,D,32,175,80,L'Ancienne-Lorette,Canada,None,L,None,None,None,None,None,17,4,5,9,4,-8,None,None,46.79392,-71.35191,None,None
+Ligue Magnus,Nice,Ivan Esipov,D,21,180,85,Moskva,France,Krylia Sovetov Moskva,L,None,None,None,None,None,17,0,5,5,2,-9,None,None,None,None,46.0,2.0
+Ligue Magnus,Nice,Marc-André Lévesque,D,32,188,91,Longueuil,Canada,None,R,None,None,None,None,None,17,3,3,6,6,-4,None,None,45.53121,-73.51806,None,None
+Ligue Magnus,Nice,Roope Reini,D,24,179,81,Raisio,Finland,TPS,L,None,None,None,None,None,6,2,0,2,0,-4,None,None,60.48592,22.16895,64.0,26.0
+Ligue Magnus,Nice,Yoan Salve,D,23,182,77,Rouen,France,Rouen,L,None,None,None,None,None,17,1,2,3,14,-10,None,None,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Nice,Lucas Villain,D,23,176,73,Rouen,France,Rouen,R,None,None,None,None,None,17,0,3,3,6,-8,None,None,49.44313,1.09932,46.0,2.0
+Ligue Magnus,Nice,Norbert Abramov,F,30,186,88,Cergy,France,Cergy-Pontoise,R,None,None,None,None,None,17,3,6,9,8,-5,None,None,49.03645,2.07613,46.0,2.0
+Ligue Magnus,Nice,Daniel Babka,F,26,194,94,Martin,Slovakia,MHC Martin,L,None,None,None,None,None,17,3,2,5,10,-8,None,None,49.06651,18.92399,48.66667,19.5
+Ligue Magnus,Nice,Kasper Elo,F,29,185,75,Helsinki,Finland,EKS,L,None,None,None,None,None,6,1,2,3,2,0,None,None,60.16952,24.93545,64.0,26.0
+Ligue Magnus,Nice,Kaïs Faure-Brac,F,20,185,97,Briançon,France,Briançon,L,None,None,None,None,None,14,0,1,1,0,-6,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Nice,Ondrej Kopta,F,28,190,84,Plzen,Czechia,HC Plzen,L,None,None,None,None,None,13,3,4,7,6,-2,None,None,49.74747,13.37759,49.75,15.0
+Ligue Magnus,Nice,Mikael Kuronen,F,31,182,77,Tampere,Finland,Ilves,R,None,None,None,None,None,17,1,5,6,0,-3,None,None,61.49911,23.78712,64.0,26.0
+Ligue Magnus,Nice,Jesper Larinmaa,F,25,181,90,Turku,Finland,TPS,L,None,None,None,None,None,15,3,7,10,8,-7,None,None,60.45148,22.26869,64.0,26.0
+Ligue Magnus,Nice,Joonas Larinmaa,F,31,173,75,Turku,Finland,TPS,L,None,None,None,None,None,14,1,5,6,6,-9,None,None,60.45148,22.26869,64.0,26.0
+Ligue Magnus,Nice,Yevgeni Nikiforov,F,30,181,81,Ufa,Russia,Salavat Yulaev Ufa,L,None,None,None,None,None,17,4,9,13,15,2,None,None,54.74306,55.96779,60.0,100.0
+Ligue Magnus,Nice,Andrei Rychagov,F,41,181,92,Samara,Russia,SKA St. Petersburg,L,None,None,None,None,None,17,1,10,11,12,-2,None,None,53.20007,50.15,60.0,100.0
+Ligue Magnus,Nice,Bryan Sautereau,F,23,185,87,La Chapelle-sur-Erdre,France,Nantes,R,None,None,None,None,None,17,4,1,5,6,-6,None,None,47.29964,-1.55239,46.0,2.0
+Ligue Magnus,Nice,Alexis Sutor,F,24,172,70,Nice,France,Nice,R,None,None,None,None,None,16,1,1,2,2,-7,None,None,43.70313,7.26608,46.0,2.0
+Ligue Magnus,Nice,Louis Vitou,F,23,182,80,Nice,France,Nice,L,None,None,None,None,None,16,2,1,3,6,-10,None,None,43.70313,7.26608,46.0,2.0
+Ligue Magnus,Rouen,Tonin Caubet,G,21,173,73,Bayonne,France,Bordeaux,L,None,None,None,None,None,5,None,None,None,None,None,4.26,0.849,43.49316,-1.473,46.0,2.0
+Ligue Magnus,Rouen,Matija Pintaric,G,34,181,84,Maribor,Slovenia,HK Maribor,L,None,None,None,None,None,13,None,None,None,None,None,1.29,0.954,46.55472,15.64667,46.08333,15.0
+Ligue Magnus,Rouen,Côme Soghomonian,G,18,198,83,Caen,France,Caen,R,None,None,None,None,None,0,None,None,None,None,None,None,None,49.18585,-0.35912,46.0,2.0
+Ligue Magnus,Rouen,Enzo Cantagallo,D,25,180,85,Grenoble,France,Villard-de-Lans,R,None,None,None,None,None,5,0,2,2,0,1,None,None,45.17869,5.71479,46.0,2.0
+Ligue Magnus,Rouen,Florian Chakiachvili,D,31,186,88,Briançon,France,Briançon,L,None,None,None,None,None,15,3,12,15,16,7,None,None,44.89978,6.64201,46.0,2.0
+Ligue Magnus,Rouen,Noa Goncalves-Nivelais,D,19,174,68,Saint-Martin-d'Hères,France,Villard-de-Lans,R,None,None,None,None,None,10,0,4,4,4,6,None,None,45.1787,5.76281,46.0,2.0
+Ligue Magnus,Rouen,Sacha Guimond,D,32,190,85,Ville-Marie,Canada,None,L,None,None,None,None,None,13,2,7,9,0,14,None,None,47.33345,-79.43297,None,None
+Ligue Magnus,Rouen,Emil Kristensen,D,31,184,81,Esbjerg,Denmark,Esbjerg IK,R,None,None,None,None,None,15,5,9,14,8,15,None,None,55.47028,8.45187,56.0,10.0
+Ligue Magnus,Rouen,Kristaps Sotnieks,D,36,183,94,Riga,Latvia,None,L,None,None,None,None,None,15,1,4,5,2,4,None,None,56.946,24.10589,57.0,25.0
+Ligue Magnus,Rouen,Fiorenzo Villard,D,18,178,71,Mont-Saint-Aignan,France,Rouen,L,None,None,None,None,None,2,1,0,1,2,3,None,None,49.46307,1.09364,46.0,2.0
+Ligue Magnus,Rouen,Dylan Yeo,D,37,181,95,Prince Albert,Canada,None,L,None,None,None,None,None,15,2,2,4,27,11,None,None,53.20008,-105.76772,None,None
+Ligue Magnus,Rouen,Antoine Addamo,F,19,187,80,Beaumont,France,Clermont,L,None,None,None,None,None,7,0,1,1,0,-3,None,None,50.41359,2.96485,46.0,2.0
+Ligue Magnus,Rouen,Joris Bedin,F,30,172,80,Saint-Martin-d'Hères,France,Grenoble,L,None,None,None,None,None,15,4,5,9,4,8,None,None,45.1787,5.76281,46.0,2.0
+Ligue Magnus,Rouen,Marcel Hascak,F,36,183,87,Poprad,Slovakia,HK Poprad,R,None,None,None,None,None,9,3,9,12,6,8,None,None,49.06144,20.29798,48.66667,19.5
+Ligue Magnus,Rouen,Jordan Hervé,F,20,183,90,Sèvres,France,AC Boulogne-Billancourt,L,None,None,None,None,None,14,1,5,6,16,14,None,None,48.82292,2.21757,46.0,2.0
+Ligue Magnus,Rouen,Milan Kytnár,F,34,183,83,Topolcany,Slovakia,HC Topolcany,L,2007,5,127,Edmonton Oilers,None,15,1,9,10,6,5,None,None,48.56667,18.18333,48.66667,19.5
+Ligue Magnus,Rouen,Loïc Lampérier,F,34,187,92,Mont-Saint-Aignan,France,Louviers,L,None,None,None,None,None,14,7,9,16,4,7,None,None,49.46307,1.09364,46.0,2.0
+Ligue Magnus,Rouen,Alexandre Mallet,F,31,185,93,Amqui,Canada,None,R,2012,2,57,Vancouver Canucks,None,10,3,9,12,4,2,None,None,48.46382,-67.43134,None,None
+Ligue Magnus,Rouen,Vincent Nesa,F,27,172,69,Saint-Cyr-l'Ecole,France,Meudon,R,None,None,None,None,None,15,1,5,6,10,11,None,None,48.79865,2.06814,46.0,2.0
+Ligue Magnus,Rouen,Tommy Perret,F,20,184,90,Saint-Martin-d'Hères,France,Villard-de-Lans,R,None,None,None,None,None,14,4,3,7,2,7,None,None,45.1787,5.76281,46.0,2.0
+Ligue Magnus,Rouen,Francis Perron,F,27,183,75,Laval,Canada,None,L,2014,7,190,Ottawa Senators,None,11,5,6,11,2,-2,None,None,45.56995,-73.692,None,None
+Ligue Magnus,Rouen,Anthony Rech,F,31,180,85,Sallanches,France,Chamonix,L,None,None,None,None,None,15,6,10,16,12,5,None,None,45.94423,6.63162,46.0,2.0
+Ligue Magnus,Rouen,Quentin Tomasino,F,21,173,71,Saint-Martin-d'Hères,France,Grenoble,R,None,None,None,None,None,15,8,1,9,2,9,None,None,45.1787,5.76281,46.0,2.0
+Ligue Magnus,Rouen,Rolands Vigners,F,32,188,88,Riga,Latvia,None,L,None,None,None,None,None,13,9,2,11,4,9,None,None,56.946,24.10589,57.0,25.0

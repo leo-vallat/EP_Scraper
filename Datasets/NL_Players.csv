@@ -1,0 +1,382 @@
+Ligue,Equipe,Joueur,Position,Age,Taille,Poids,Ville de Naissance,Pays de Naissance,Club Formateur,Shoot,Année de Draft,Ronde de Draft,Position de Draft,Equipe de Draft,Salaire NHL,Match Joué,But,Assist,Point,Pénalités,Plus/Minus,GAA,SVP,Latitude Ville,Longitude Ville,Latitude Pays,Longitude Pays
+NL,Ajoie,Damiano Ciaccio,G,34,191,89,Grandson,Switzerland,None,L,None,None,None,None,None,13,None,None,None,None,None,2.47,0.925,46.80946,6.646,47.00016,8.01427
+NL,Ajoie,Tim Wolf,G,31,186,80,Zürich,Switzerland,Zürcher SC,L,None,None,None,None,None,7,None,None,None,None,None,4.14,0.882,47.36667,8.55,47.00016,8.01427
+NL,Ajoie,Alain Birbaum,D,38,172,82,Fribourg,Switzerland,HC Gottéron,L,None,None,None,None,None,14,0,1,1,2,-10,None,None,46.80237,7.15128,47.00016,8.01427
+NL,Ajoie,T.J. Brennan,D,34,185,98,Moorestown,USA,None,L,2007,2,31,Buffalo Sabres,None,15,0,6,6,10,-9,None,None,39.96706,-74.94267,-14.60485,-57.65625
+NL,Ajoie,Kevin Fey,D,32,173,83,Bern,Switzerland,SC Bern,L,None,None,None,None,None,19,2,3,5,8,2,None,None,46.94809,7.44744,47.00016,8.01427
+NL,Ajoie,Jannik Fischer,D,33,184,94,Baar,Switzerland,EV Zug,L,None,None,None,None,None,19,0,1,1,6,0,None,None,47.19625,8.52954,47.00016,8.01427
+NL,Ajoie,Éric Gélinas,D,32,193,93,Vanier,Canada,None,L,2009,2,54,New Jersey Devils,None,10,3,1,4,25,1,None,None,48.35694,-74.3375,60.10867,-113.64258
+NL,Ajoie,Valentin Pilet,D,26,190,94,None,Switzerland,HC Yverdon les Bains,L,None,None,None,None,None,15,0,0,0,6,-3,None,None,None,None,47.00016,8.01427
+NL,Ajoie,Bastien Pouilly,D,27,173,77,Courtételle,Switzerland,HC Ajoie,L,None,None,None,None,None,8,0,0,0,2,-3,None,None,47.34074,7.31827,47.00016,8.01427
+NL,Ajoie,Adam Rundqvist,F,33,179,84,Karlstad,Sweden,VEU Feldkirch,L,None,None,None,None,None,18,0,0,0,4,-3,None,None,59.3793,13.50357,62.0,15.0
+NL,Ajoie,Joel Scheidegger,D,28,184,85,None,Switzerland,EHC Thun,L,None,None,None,None,None,18,0,2,2,8,-3,None,None,None,None,47.00016,8.01427
+NL,Ajoie,Thomas Thiry,D,26,191,102,Saint-Germain-en-Laye,France,Annecy,R,None,None,None,None,None,19,0,1,1,10,-5,None,None,48.89643,2.0904,46.0,2.0
+NL,Ajoie,Fabio Arnold,F,27,190,94,Zürich,Switzerland,EHC Wettingen-Baden,L,None,None,None,None,None,12,0,1,1,4,-4,None,None,47.36667,8.55,47.00016,8.01427
+NL,Ajoie,Guillaume Asselin,F,31,180,88,Québec,Canada,None,R,None,None,None,None,None,14,2,4,6,10,-7,None,None,46.81228,-71.21454,60.10867,-113.64258
+NL,Ajoie,Daniel Audette,F,27,175,75,Blainville,Canada,AHM Blainville,L,2014,5,147,Montréal Canadiens,None,18,7,7,14,2,-7,None,None,45.66678,-73.88249,60.10867,-113.64258
+NL,Ajoie,Kevin Bozon,F,27,187,90,Chamonix-Mont-Blanc,France,Genève-Servette HC,L,None,None,None,None,None,5,1,0,1,2,1,None,None,45.92375,6.86933,46.0,2.0
+NL,Ajoie,Philip-Michaël Devos,F,33,183,81,Sorel-Tracy,Canada,None,L,None,None,None,None,None,16,0,7,7,6,-3,None,None,46.04178,-73.11358,60.10867,-113.64258
+NL,Ajoie,Thibault Frossard,F,30,178,78,Vendlincourt,Switzerland,HC Ajoie,L,None,None,None,None,None,19,2,2,4,2,-8,None,None,47.4526,7.15128,47.00016,8.01427
+NL,Ajoie,Frédérik Gauthier,F,28,195,108,Laval,Canada,AHM St-Lin,L,2013,1,21,Toronto Maple Leafs,None,19,3,3,6,8,-9,None,None,45.56995,-73.692,60.10867,-113.64258
+NL,Ajoie,Jonathan Hazen,F,33,183,85,Val-Bélair,Canada,None,R,None,None,None,None,None,19,10,6,16,4,0,None,None,46.8667,-71.4333,60.10867,-113.64258
+NL,Ajoie,Ueli Huber,F,28,183,86,Luzern,Switzerland,HC Luzern,R,None,None,None,None,None,15,0,1,1,0,-7,None,None,47.05048,8.30635,47.00016,8.01427
+NL,Ajoie,Gilian Kohler,F,23,172,74,Biel-Bienne,Switzerland,EHC Biel-Bienne,L,None,None,None,None,None,16,3,4,7,4,-3,None,None,47.13713,7.24608,47.00016,8.01427
+NL,Ajoie,Steven Macquat,F,27,180,81,Bonfol,Switzerland,HC Ajoie,R,None,None,None,None,None,16,1,0,1,0,-3,None,None,47.47738,7.15221,47.00016,8.01427
+NL,Ajoie,Matteo Romanenghi,F,28,178,87,Morbio Inferiore,Switzerland,HC Chiasso,L,None,None,None,None,None,19,2,3,5,8,-2,None,None,45.84915,9.01907,47.00016,8.01427
+NL,Ajoie,Reto Schmutz,F,31,183,85,Wald,Switzerland,PIKES EHC Oberthurgau,L,None,None,None,None,None,13,0,1,1,2,-7,None,None,47.27595,8.91405,47.00016,8.01427
+NL,Ajoie,Gregory Sciaroni,F,34,182,93,Bellinzona,Switzerland,HC Ambrì-Piotta,R,None,None,None,None,None,6,1,0,1,2,-2,None,None,46.19278,9.01703,47.00016,8.01427
+NL,Ajoie,Kyen Sopa,F,23,177,83,Flawil,Switzerland,EHC Uzwil,R,None,None,None,None,None,2,0,2,2,0,0,None,None,47.41301,9.18324,47.00016,8.01427
+NL,Ajoie,Dmytro Timashov,F,27,177,85,Kirovograd,Sweden,Sollentuna HC,L,2015,5,125,Toronto Maple Leafs,None,3,2,3,5,6,6,None,None,None,None,62.0,15.0
+NL,Ambrì-Piotta,Benjamin Conz,G,32,179,93,St. Ursanne,Switzerland,HC Ajoie,R,None,None,None,None,None,8,None,None,None,None,None,1.91,0.94,47.36474,7.15436,47.00016,8.01427
+NL,Ambrì-Piotta,Janne Juvonen,G,29,185,85,Kiihtelysvaara,Finland,Eno Jets,L,2013,7,203,Nashville Predators,None,15,None,None,None,None,None,2.73,0.917,62.49525,30.25081,64.0,26.0
+NL,Ambrì-Piotta,Isacco Dotti,D,30,187,94,Entre Ríos,Switzerland,HC Ambrì-Piotta,L,None,None,None,None,None,8,0,1,1,4,2,None,None,-32.16667,-58.53333,47.00016,8.01427
+NL,Ambrì-Piotta,Zaccheo Dotti,D,29,186,91,Mairengo,Switzerland,HC Ambrì-Piotta,L,None,None,None,None,None,19,1,2,3,10,1,None,None,46.49,8.78863,47.00016,8.01427
+NL,Ambrì-Piotta,Tobias Fohrler,D,26,195,105,Troisdorf,Germany,Kölner EC,R,None,None,None,None,None,19,1,1,2,6,0,None,None,50.80901,7.14968,51.5,10.5
+NL,Ambrì-Piotta,Tim Heed,D,32,183,85,Göteborg,Sweden,Södertälje SK,R,2010,5,132,Anaheim Ducks,None,19,3,11,14,6,-4,None,None,57.70716,11.96679,62.0,15.0
+NL,Ambrì-Piotta,Rocco Pezzullo,D,22,185,84,None,Switzerland,HC Ambrì-Piotta,L,None,None,None,None,None,18,1,2,3,2,6,None,None,None,None,47.00016,8.01427
+NL,Ambrì-Piotta,Simone Terraneo,D,19,181,86,Biasca,Switzerland,HC Ambrì-Piotta,L,None,None,None,None,None,18,1,3,4,8,1,None,None,46.35972,8.96965,47.00016,8.01427
+NL,Ambrì-Piotta,Jesse Virtanen,D,32,181,84,Rauma,Finland,Lukko,L,None,None,None,None,None,19,7,6,13,12,-3,None,None,61.12724,21.51127,64.0,26.0
+NL,Ambrì-Piotta,Dario Wüthrich,D,24,187,92,Trub,Switzerland,EHC Wettingen-Baden,R,None,None,None,None,None,18,0,2,2,8,0,None,None,46.94168,7.87996,47.00016,8.01427
+NL,Ambrì-Piotta,Yannick Brüschweiler,F,24,178,78,None,Switzerland,GCK Lions,L,None,None,None,None,None,14,0,1,1,4,-1,None,None,None,None,47.00016,8.01427
+NL,Ambrì-Piotta,Dario Bürgler,F,35,185,93,Illgau,Switzerland,EHC Seewen,R,None,None,None,None,None,20,7,5,12,2,0,None,None,46.98764,8.72509,47.00016,8.01427
+NL,Ambrì-Piotta,Laurent Dauphin,F,28,183,84,Repentigny,Canada,AHM Repentigny,L,2013,2,39,Phoenix Coyotes,None,15,4,9,13,31,5,None,None,45.74222,-73.45008,60.10867,-113.64258
+NL,Ambrì-Piotta,Tommaso De Luca,F,18,183,85,Aosta,Italy,HC Ambrì-Piotta,L,None,None,None,None,None,17,2,5,7,6,0,None,None,45.73764,7.31722,42.83333,12.83333
+NL,Ambrì-Piotta,Floran Douay,F,28,190,98,Sallanches,France,Megève,L,None,None,None,None,None,20,1,5,6,14,-3,None,None,45.94423,6.63162,46.0,2.0
+NL,Ambrì-Piotta,Nando Eggenberger,F,24,188,92,Chur,Switzerland,EHC Chur,L,None,None,None,None,None,16,2,3,5,25,3,None,None,46.84986,9.53287,47.00016,8.01427
+NL,Ambrì-Piotta,Alex Formenton,F,24,191,88,Barrie,Canada,Toronto Young Nationals,L,2017,2,47,Ottawa Senators,None,8,1,2,3,2,0,None,None,44.40011,-79.66634,60.10867,-113.64258
+NL,Ambrì-Piotta,Daniele Grassi,F,30,180,85,Bellinzona,Switzerland,HC Ambrì-Piotta,R,None,None,None,None,None,19,0,3,3,16,-4,None,None,46.19278,9.01703,47.00016,8.01427
+NL,Ambrì-Piotta,André Heim,F,25,187,90,Interlaken,Switzerland,SC Unterseen-Interlaken,L,None,None,None,None,None,10,2,3,5,2,4,None,None,46.68387,7.86638,47.00016,8.01427
+NL,Ambrì-Piotta,Valentin Hofer,F,21,180,80,None,Switzerland,EV Zug,R,None,None,None,None,None,3,0,0,0,0,0,None,None,None,None,47.00016,8.01427
+NL,Ambrì-Piotta,Johnny Kneubuehler,F,27,184,75,Reiden,Switzerland,Genève-Servette HC,L,None,None,None,None,None,20,4,5,9,10,-2,None,None,47.24719,7.97135,47.00016,8.01427
+NL,Ambrì-Piotta,Diego Kostner,F,31,183,82,Bressanone,Italy,Gherdëina,R,None,None,None,None,None,13,3,1,4,6,-2,None,None,46.71503,11.65598,42.83333,12.83333
+NL,Ambrì-Piotta,Manix Landry,F,20,180,82,Salt Lake City,Canada,GDT Bellinzona,L,2021,5,139,Arizona Coyotes,None,17,2,0,2,2,-10,None,None,None,None,60.10867,-113.64258
+NL,Ambrì-Piotta,Jakob Lilja,F,30,184,89,Limhamn,Sweden,Limhamn HK,L,None,None,None,None,None,19,6,11,17,4,6,None,None,55.58333,12.95,62.0,15.0
+NL,Ambrì-Piotta,Inti Pestoni,F,32,173,80,Faido,Switzerland,HC Ambrì-Piotta,L,None,None,None,None,None,20,5,8,13,2,3,None,None,46.477,8.80125,47.00016,8.01427
+NL,Ambrì-Piotta,Michael Spacek,F,26,180,85,Marianske Lazne,Czechia,HC Pardubice,R,2015,4,108,Winnipeg Jets,None,19,6,11,17,4,1,None,None,49.96459,12.70118,49.75,15.0
+NL,Ambrì-Piotta,Dominic Zwerger,F,27,183,93,Dornbirn,Austria,Dornbirner EC,L,None,None,None,None,None,10,1,4,5,0,0,None,None,47.41427,9.74195,47.33333,13.33333
+NL,Bern,Daniel Manzato,G,39,184,85,Fribourg,Switzerland,HC Gottéron,L,2002,5,160,Carolina Hurricanes,None,0,None,None,None,None,None,None,None,46.80237,7.15128,47.00016,8.01427
+NL,Bern,Adam Reideborn,G,31,184,81,Stockholm,Sweden,AIK,L,None,None,None,None,None,16,None,None,None,None,None,2.21,0.921,59.32938,18.06871,62.0,15.0
+NL,Bern,Philip Wüthrich,G,25,182,76,Bern,Switzerland,SC Bern,L,None,None,None,None,None,6,None,None,None,None,None,2.57,0.905,46.94809,7.44744,47.00016,8.01427
+NL,Bern,Julius Honka,D,27,181,84,Jyväskylä,Finland,Diskos,R,2014,1,14,Dallas Stars,None,19,3,7,10,12,5,None,None,62.24147,25.72088,64.0,26.0
+NL,Bern,Samuel Kreis,D,29,180,84,Egnach,Switzerland,EHC Burgdorf,L,None,None,None,None,None,21,0,5,5,13,-5,None,None,47.54268,9.38048,47.00016,8.01427
+NL,Bern,Romain Loeffel,D,32,178,85,La Chaux-de-Fonds,Switzerland,HC La Chaux-de-Fonds,R,None,None,None,None,None,21,1,10,11,6,-2,None,None,47.09993,6.82586,47.00016,8.01427
+NL,Bern,Patrik Nemeth,D,31,192,103,Stockholm,Sweden,AIK,L,2010,2,41,Dallas Stars,None,21,0,3,3,12,8,None,None,59.32938,18.06871,62.0,15.0
+NL,Bern,Claude-Curdin Paschoud,D,29,193,96,Davos,Switzerland,HC Davos,L,None,None,None,None,None,11,0,2,2,0,1,None,None,46.80429,9.83723,47.00016,8.01427
+NL,Bern,Ramon Untersander,D,32,184,87,Alt Sankt-Johann,Switzerland,SC Rheintal,R,None,None,None,None,None,21,0,12,12,4,-7,None,None,47.1931,9.28126,47.00016,8.01427
+NL,Bern,Jesse Zgraggen,D,30,185,95,Lethbridge,Switzerland,None,L,None,None,None,None,None,8,0,0,0,6,4,None,None,None,None,47.00016,8.01427
+NL,Bern,Thierry Bader,F,26,187,80,Winterthur,Switzerland,EHC Uzwil,L,None,None,None,None,None,21,3,5,8,6,1,None,None,47.50564,8.72413,47.00016,8.01427
+NL,Bern,Benjamin Baumgartner,F,23,176,81,Zell am See,Austria,Vienna Young Tigers,L,2020,6,161,New Jersey Devils,None,20,4,6,10,17,6,None,None,47.28333,12.7,47.33333,13.33333
+NL,Bern,Joshua Fahrni,F,21,181,86,Thun,Switzerland,EHC Thun,R,None,None,None,None,None,10,0,0,0,0,-2,None,None,46.75118,7.62166,47.00016,8.01427
+NL,Bern,Noah Fuss,F,22,172,76,None,Switzerland,EHC Biel-Bienne,L,None,None,None,None,None,19,1,0,1,6,2,None,None,None,None,47.00016,8.01427
+NL,Bern,Dominik Kahun,F,28,180,79,Planá,Germany,HC Marianske Lazne,L,None,None,None,None,None,21,6,15,21,0,-3,None,None,None,None,51.5,10.5
+NL,Bern,Corban Knight,F,33,185,86,Oliver,Canada,Fort Saskatchewan MHA,R,2009,5,135,Florida Panthers,None,15,5,8,13,2,-7,None,None,46.47,-76.50889,60.10867,-113.64258
+NL,Bern,Marco Lehmann,F,24,175,75,Lauperswil,Switzerland,EHC Wetzikon,L,None,None,None,None,None,21,5,9,14,4,5,None,None,46.96564,7.74214,47.00016,8.01427
+NL,Bern,Joona Luoto,F,26,190,91,Tampere,Finland,LeKi,L,None,None,None,None,None,17,7,4,11,12,4,None,None,61.49911,23.78712,64.0,26.0
+NL,Bern,Simon Moser,F,34,187,97,Bern,Switzerland,SC Langnau,L,None,None,None,None,None,21,4,0,4,6,-2,None,None,46.94809,7.44744,47.00016,8.01427
+NL,Bern,Fabian Ritzmann,F,21,192,97,Scuol,Switzerland,CdH Engiadina,L,None,None,None,None,None,21,0,1,1,29,0,None,None,46.79671,10.29804,47.00016,8.01427
+NL,Bern,Colton Sceviour,F,34,183,86,Red Deer,Canada,Red Deer MHA,R,2007,4,112,Dallas Stars,None,5,0,0,0,2,-5,None,None,52.26682,-113.802,60.10867,-113.64258
+NL,Bern,Tristan Scherwey,F,32,176,85,Wunnewil Flamatt,Switzerland,HC Gottéron,L,None,None,None,None,None,21,6,5,11,12,2,None,None,46.88994,7.32204,47.00016,8.01427
+NL,Bern,Thierry Schild,F,18,180,79,Zollikofen,Switzerland,HC Münchenbuchsee-Moosseedorf,R,None,None,None,None,None,17,1,1,2,6,1,None,None,46.99905,7.45809,47.00016,8.01427
+NL,Bern,Joël Vermin,F,31,180,87,Frauenkappelen,Switzerland,SC Bern,L,2013,7,186,Tampa Bay Lightning,None,21,6,4,10,6,-2,None,None,46.95425,7.33835,47.00016,8.01427
+NL,Biel-Bienne,Harri Säteri,G,33,186,89,Toijala,Finland,Tappara,L,2008,4,106,San Jose Sharks,None,15,None,None,None,None,None,2.09,0.923,61.1678,23.83819,64.0,26.0
+NL,Biel-Bienne,Joren van Pottelberghe,G,26,191,85,Zug,Switzerland,EV Zug,L,2015,4,110,Detroit Red Wings,None,6,None,None,None,None,None,3.23,0.895,47.17242,8.51745,47.00016,8.01427
+NL,Biel-Bienne,Yanik Burren,D,26,182,86,Bern,Switzerland,EHC Bern 96,R,None,None,None,None,None,20,1,4,5,6,-1,None,None,46.94809,7.44744,47.00016,8.01427
+NL,Biel-Bienne,Luca Christen,D,25,177,79,None,Switzerland,EHC Napf,R,None,None,None,None,None,15,0,4,4,2,0,None,None,None,None,47.00016,8.01427
+NL,Biel-Bienne,Noah Delémont,D,21,178,77,Biel-Bienne,Switzerland,EHC Biel-Bienne,L,None,None,None,None,None,19,1,3,4,10,6,None,None,47.13713,7.24608,47.00016,8.01427
+NL,Biel-Bienne,Beat Forster,D,40,185,99,Bütschwil-Ganterschwil,Switzerland,SC Herisau,L,2001,3,78,Phoenix Coyotes,None,20,0,3,3,8,-1,None,None,47.36022,9.07213,47.00016,8.01427
+NL,Biel-Bienne,Robin Grossmann,D,36,180,88,Dintikon,Switzerland,HC Wohlen/Freiamt,L,None,None,None,None,None,20,1,1,2,8,-3,None,None,47.3616,8.22181,47.00016,8.01427
+NL,Biel-Bienne,Viktor Lööv,D,30,191,98,Södertälje,Sweden,Södertälje SK,L,2012,7,209,Toronto Maple Leafs,None,None,None,None,None,None,None,None,None,59.19554,17.62525,62.0,15.0
+NL,Biel-Bienne,Ville Pokka,D,29,183,90,Tornio,Finland,TIHC,R,2012,2,34,New York Islanders,None,16,0,3,3,2,-7,None,None,65.84811,24.14662,64.0,26.0
+NL,Biel-Bienne,Yannick Rathgeb,D,28,185,88,Langenthal,Switzerland,SC Langenthal,R,None,None,None,None,None,19,1,8,9,12,-7,None,None,47.21526,7.79607,47.00016,8.01427
+NL,Biel-Bienne,Yanick Stampfli,F,23,187,80,None,Switzerland,EHC Zuchwil,L,None,None,None,None,None,16,0,0,0,6,-6,None,None,None,None,47.00016,8.01427
+NL,Biel-Bienne,Alexander Yakovenko,D,25,180,80,Karaganda,Russia,Yunost Karaganda,L,None,None,None,None,None,12,3,7,10,4,-4,None,None,50.70139,59.71944,60.0,100.0
+NL,Biel-Bienne,Jérôme Bachofner,F,27,180,80,Dübendorf,Switzerland,EHC Wallisellen,L,None,None,None,None,None,4,0,0,0,2,-1,None,None,47.39724,8.61872,47.00016,8.01427
+NL,Biel-Bienne,Damien Brunner,F,37,180,85,Kloten,Switzerland,EHC Kloten,R,None,None,None,None,None,12,2,2,4,2,0,None,None,47.45152,8.58491,47.00016,8.01427
+NL,Biel-Bienne,Rihards Bukarts,F,27,180,88,Jurmala,Latvia,SK Saga,R,None,None,None,None,None,6,1,1,2,0,-1,None,None,56.968,23.77038,57.0,25.0
+NL,Biel-Bienne,Jérémie Bärtschi,F,21,177,75,None,Switzerland,EHC Biel-Bienne,L,None,None,None,None,None,7,0,0,0,2,1,None,None,None,None,47.00016,8.01427
+NL,Biel-Bienne,Luca Cunti,F,34,185,86,Zürich,Switzerland,Grasshopper Club,L,2007,3,75,Tampa Bay Lightning,None,14,1,1,2,14,-2,None,None,47.36667,8.55,47.00016,8.01427
+NL,Biel-Bienne,Ian Derungs,F,23,174,76,Frauenfeld,Switzerland,EHC Kloten,L,None,None,None,None,None,13,0,0,0,0,-9,None,None,47.55776,8.89893,47.00016,8.01427
+NL,Biel-Bienne,Gaëtan Haas,F,31,183,82,Biel-Bienne,Switzerland,EHC Biel-Bienne,R,None,None,None,None,None,14,4,5,9,10,0,None,None,47.13713,7.24608,47.00016,8.01427
+NL,Biel-Bienne,Aleksi Heponiemi,F,24,178,70,Tampere,Finland,Ilves,L,2017,2,40,Florida Panthers,None,None,None,None,None,None,None,None,None,61.49911,23.78712,64.0,26.0
+NL,Biel-Bienne,Luca Hischier,F,28,187,89,Naters,Switzerland,EHC Visp,L,None,None,None,None,None,10,2,2,4,2,3,None,None,46.32536,7.98912,47.00016,8.01427
+NL,Biel-Bienne,Fabio Hofer,F,32,170,75,Lustenau,Austria,EHC Lustenau,R,None,None,None,None,None,4,0,0,0,4,0,None,None,47.42642,9.65851,47.33333,13.33333
+NL,Biel-Bienne,Tino Kessler,F,27,180,78,Weesen,Switzerland,HC Prättigau-Herrschaft,R,None,None,None,None,None,20,5,5,10,6,4,None,None,47.13447,9.09644,47.00016,8.01427
+NL,Biel-Bienne,Mike Künzle,F,29,193,95,Zürich,Switzerland,EHC Illnau-Effretikon,R,None,None,None,None,None,7,1,0,1,6,-6,None,None,47.36667,8.55,47.00016,8.01427
+NL,Biel-Bienne,Jesper Olofsson,F,31,180,87,Örnsköldsvik,Sweden,Modo HK,L,None,None,None,None,None,19,7,6,13,2,-2,None,None,63.29091,18.71525,62.0,15.0
+NL,Biel-Bienne,Toni Rajala,F,32,179,76,Parkano,Finland,PK-83,L,2009,4,101,Edmonton Oilers,None,19,7,9,16,27,-4,None,None,62.01667,23.01667,64.0,26.0
+NL,Biel-Bienne,Liekit Reichle,F,20,186,86,Zürich,Switzerland,Zürcher SC,L,None,None,None,None,None,20,0,5,5,0,0,None,None,47.36667,8.55,47.00016,8.01427
+NL,Biel-Bienne,Jere Sallinen,F,33,187,91,Espoo,Finland,Jäähonka,L,2009,6,163,Minnesota Wild,None,20,7,10,17,2,0,None,None,60.2052,24.6522,64.0,26.0
+NL,Biel-Bienne,Elvis Schläpfer,F,22,182,80,None,Switzerland,EHC Zunzgen-Sissach,L,None,None,None,None,None,20,0,1,1,0,-9,None,None,None,None,47.00016,8.01427
+NL,Biel-Bienne,Ramon Tanner,F,24,171,81,Appenzell,Switzerland,SC Herisau,L,None,None,None,None,None,20,1,1,2,10,-8,None,None,47.33103,9.40996,47.00016,8.01427
+NL,Davos,Sandro Aeschlimann,G,28,184,84,Zäziwil,Switzerland,EHC Worb,L,None,None,None,None,None,15,None,None,None,None,None,1.99,0.933,46.90196,7.66185,47.00016,8.01427
+NL,Davos,Gilles Senn,G,27,195,99,Bülach,Switzerland,EHC Saastal,L,2017,5,129,New Jersey Devils,None,6,None,None,None,None,None,2.35,0.917,47.49706,8.56764,47.00016,8.01427
+NL,Davos,Laurin Solèr,G,17,192,86,Zürich,Switzerland,SC Rapperswil-Jona,L,None,None,None,None,None,0,None,None,None,None,None,None,None,47.36667,8.55,47.00016,8.01427
+NL,Davos,Davyd Barandun,D,23,181,91,Sumy,Switzerland,EHC St. Moritz,L,None,None,None,None,None,21,1,0,1,10,1,None,None,None,None,47.00016,8.01427
+NL,Davos,Klas Dahlbeck,D,32,191,93,Katrineholm,Sweden,Katrineholms HF,L,2011,3,79,Chicago Blackhawks,None,21,2,5,7,10,3,None,None,58.99587,16.20721,62.0,15.0
+NL,Davos,Dominik Egli,D,25,174,81,Frauenfeld,Switzerland,EHC Frauenfeld,R,None,None,None,None,None,14,0,6,6,4,-2,None,None,47.55776,8.89893,47.00016,8.01427
+NL,Davos,Michael Fora,D,28,191,97,Giubiasco,Switzerland,GDT Bellinzona,R,None,None,None,None,None,5,0,1,1,10,-2,None,None,46.17246,9.00793,47.00016,8.01427
+NL,Davos,Enzo Guebey,D,24,184,90,Sallanches,France,Saint-Gervais,R,None,None,None,None,None,5,1,0,1,0,-1,None,None,45.94423,6.63162,46.0,2.0
+NL,Davos,Oliver Heinen,D,23,183,81,None,Switzerland,EHC Visp,L,None,None,None,None,None,17,0,0,0,10,-4,None,None,None,None,47.00016,8.01427
+NL,Davos,Sven Jung,D,28,187,86,Oberthal,Switzerland,SC Langnau,L,None,None,None,None,None,21,0,5,5,10,7,None,None,46.91612,7.67569,47.00016,8.01427
+NL,Davos,Tim Minder,D,21,185,86,Weinfelden,Switzerland,SC Weinfelden,R,None,None,None,None,None,19,0,0,0,2,-2,None,None,47.54237,9.15713,47.00016,8.01427
+NL,Davos,Kristian Näkyvä,D,32,184,90,Helsinki,Finland,Kiekko-Tiikerit,L,None,None,None,None,None,20,2,10,12,8,9,None,None,60.16952,24.93545,64.0,26.0
+NL,Davos,Noah Schneeberger,D,35,187,85,Langenthal,Switzerland,SC Langnau,R,None,None,None,None,None,7,0,0,0,0,1,None,None,47.21526,7.79607,47.00016,8.01427
+NL,Davos,Andres Ambühl,F,40,176,84,Davos,Switzerland,HC Davos,R,None,None,None,None,None,21,3,4,7,2,-1,None,None,46.80429,9.83723,47.00016,8.01427
+NL,Davos,Leon Bristedt,F,28,174,86,Stockholm,Sweden,IK Waxholm,L,None,None,None,None,None,12,3,4,7,6,-1,None,None,59.32938,18.06871,62.0,15.0
+NL,Davos,Enzo Corvi,F,30,184,85,Cazis,Switzerland,EHC Chur,R,None,None,None,None,None,12,2,3,5,0,-5,None,None,46.7194,9.43271,47.00016,8.01427
+NL,Davos,Chris Egli,F,27,183,81,Sursee,Switzerland,HC Davos,L,None,None,None,None,None,19,2,2,4,12,2,None,None,47.14929,8.12719,47.00016,8.01427
+NL,Davos,Yannick Frehner,F,25,178,87,None,Switzerland,EHC Chur,R,None,None,None,None,None,21,3,3,6,31,1,None,None,None,None,47.00016,8.01427
+NL,Davos,Rico Gredig,F,18,185,80,None,Switzerland,EHC Chur,L,None,None,None,None,None,12,0,1,1,2,-2,None,None,None,None,47.00016,8.01427
+NL,Davos,Gian-Marco Hammerer,F,21,188,80,Davos,Switzerland,HC Davos,L,None,None,None,None,None,21,2,1,3,6,2,None,None,46.80429,9.83723,47.00016,8.01427
+NL,Davos,Tomas Jurco,F,30,188,85,Kosice,Slovakia,HC Kosice,L,2011,2,35,Detroit Red Wings,None,13,5,2,7,4,-2,None,None,48.71395,21.25808,48.66667,19.5
+NL,Davos,Simon Knak,F,21,186,90,Zürich,Switzerland,EHC Kloten,L,2021,6,179,Nashville Predators,None,15,1,5,6,4,6,None,None,47.36667,8.55,47.00016,8.01427
+NL,Davos,Joakim Nordström,F,31,188,88,Stockholm,Sweden,Hanvikens SK,L,2010,3,90,Chicago Blackhawks,None,21,4,8,12,6,3,None,None,59.32938,18.06871,62.0,15.0
+NL,Davos,Valentin Nussbaumer,F,23,180,84,Delémont,Switzerland,HC Ajoie,L,2019,7,207,Arizona Coyotes,None,21,6,9,15,8,6,None,None,47.36493,7.34453,47.00016,8.01427
+NL,Davos,Aleksi Peltonen,F,25,178,81,Helsinki,Finland,HC Lugano,L,None,None,None,None,None,2,0,0,0,0,0,None,None,60.16952,24.93545,64.0,26.0
+NL,Davos,Raphael Prassl,F,25,185,81,Zürich,Switzerland,Zürcher SC,L,None,None,None,None,None,19,0,1,1,12,-3,None,None,47.36667,8.55,47.00016,8.01427
+NL,Davos,Dennis Rasmussen,F,33,192,94,Västerås,Sweden,Surahammars IF,L,None,None,None,None,None,16,1,7,8,4,5,None,None,59.61617,16.55276,62.0,15.0
+NL,Davos,Matej Stransky,F,30,193,98,Ostrava,Czechia,HC Vitkovice,R,2011,6,165,Dallas Stars,None,20,10,4,14,12,5,None,None,49.83465,18.28204,49.75,15.0
+NL,Davos,Marc Wieser,F,36,180,82,Küblis,Switzerland,HC Davos,R,None,None,None,None,None,21,2,8,10,4,-3,None,None,46.91446,9.77929,47.00016,8.01427
+NL,Genève-Servette,Gauthier Descloux,G,27,181,74,Fribourg,Switzerland,Lausanne HC,L,None,None,None,None,None,9,None,None,None,None,None,2.42,0.917,46.80237,7.15128,47.00016,8.01427
+NL,Genève-Servette,Robert Mayer,G,34,185,91,Havirov,Switzerland,HC Havirov,L,None,None,None,None,None,13,None,None,None,None,None,3.39,0.872,None,None,47.00016,8.01427
+NL,Genève-Servette,Tim Berni,D,23,183,82,Männedorf,Switzerland,EHC Dübendorf,L,2018,6,159,Columbus Blue Jackets,None,9,2,4,6,4,0,None,None,47.25686,8.69893,47.00016,8.01427
+NL,Genève-Servette,Giancarlo Chanton,D,20,188,85,Büsserach,Switzerland,EHC Laufen,L,None,None,None,None,None,20,0,4,4,4,0,None,None,47.39415,7.54117,47.00016,8.01427
+NL,Genève-Servette,Arnaud Jacquemet,F,35,185,90,Sion,Switzerland,None,R,None,None,None,None,None,18,0,1,1,4,-8,None,None,46.22739,7.35559,47.00016,8.01427
+NL,Genève-Servette,Roger Karrer,D,26,180,82,Zürich,Switzerland,EHC Wallisellen,R,None,None,None,None,None,16,0,2,2,4,-5,None,None,47.36667,8.55,47.00016,8.01427
+NL,Genève-Servette,Simon Le Coultre,D,24,182,83,Le Sentier,Switzerland,HC Vallée de Joux,L,None,None,None,None,None,20,3,8,11,8,0,None,None,46.60798,6.23236,47.00016,8.01427
+NL,Genève-Servette,Theodor Lennström,D,29,186,86,Stockholm,Sweden,AIK,L,None,None,None,None,None,9,0,5,5,4,4,None,None,59.32938,18.06871,62.0,15.0
+NL,Genève-Servette,Marco Maurer,D,35,189,97,Affoltern am Albis,Switzerland,EV Zug,L,None,None,None,None,None,15,1,1,2,4,-10,None,None,47.24496,8.53299,47.00016,8.01427
+NL,Genève-Servette,Sami Vatanen,D,32,179,84,Jyväskylä,Finland,JYP,R,2009,4,106,Anaheim Ducks,None,20,4,15,19,4,-3,None,None,62.24147,25.72088,64.0,26.0
+NL,Genève-Servette,Mike Völlmin,D,30,183,82,Wilmington,USA,None,R,None,None,None,None,None,20,1,1,2,6,3,None,None,39.74595,-75.54659,-14.60485,-57.65625
+NL,Genève-Servette,Alessio Bertaggia,F,30,174,79,Lugano,Switzerland,HC Lugano,L,None,None,None,None,None,17,2,3,5,25,-1,None,None,46.01008,8.96004,47.00016,8.01427
+NL,Genève-Servette,Eliot Berthon,F,31,171,84,Lyon,France,Lyon,L,None,None,None,None,None,8,0,0,0,2,-1,None,None,45.74846,4.84671,46.0,2.0
+NL,Genève-Servette,Christophe Cavalleri,F,21,193,83,None,Switzerland,Genève-Servette HC,L,None,None,None,None,None,11,0,1,1,0,0,None,None,None,None,47.00016,8.01427
+NL,Genève-Servette,Valtteri Filppula,F,39,182,86,Vantaa,Finland,EVU,L,2002,3,95,Detroit Red Wings,None,20,4,10,14,8,1,None,None,60.29414,25.04099,64.0,26.0
+NL,Genève-Servette,Teemu Hartikainen,F,33,186,106,Kuopio,Finland,KalPa,L,2008,6,163,Edmonton Oilers,None,20,5,8,13,8,-6,None,None,62.89238,27.67703,64.0,26.0
+NL,Genève-Servette,Josh Jooris,F,33,185,89,Burlington,Canada,Lausanne HC,R,None,None,None,None,None,20,5,3,8,6,2,None,None,43.38621,-79.83713,60.10867,-113.64258
+NL,Genève-Servette,Guillaume Maillard,F,25,183,88,Lausanne,Switzerland,Lausanne HC,L,None,None,None,None,None,18,1,1,2,4,-4,None,None,46.516,6.63282,47.00016,8.01427
+NL,Genève-Servette,Sakari Manninen,F,31,179,81,Oulu,Finland,Ahmat Haukipudas,L,None,None,None,None,None,20,6,8,14,12,-5,None,None,65.01236,25.46816,64.0,26.0
+NL,Genève-Servette,Marco Miranda,F,25,189,89,Zürich,Switzerland,EHC Dübendorf,L,None,None,None,None,None,20,1,2,3,6,-10,None,None,47.36667,8.55,47.00016,8.01427
+NL,Genève-Servette,Marc-Antoine Pouliot,F,38,185,85,Québec,Canada,AHM Sainte-Foy/Sillery,R,2003,1,22,Edmonton Oilers,None,19,4,2,6,12,-3,None,None,46.81228,-71.21454,60.10867,-113.64258
+NL,Genève-Servette,Vincent Praplan,F,29,183,87,Sierre,Switzerland,HC Sierre,R,None,None,None,None,None,20,4,7,11,12,6,None,None,46.29192,7.53559,47.00016,8.01427
+NL,Genève-Servette,Tanner Richard,F,30,182,87,Markham,Switzerland,SC Rapperswil-Jona,L,2012,3,71,Tampa Bay Lightning,None,13,0,3,3,10,-2,None,None,None,None,47.00016,8.01427
+NL,Genève-Servette,Noah Rod,F,27,184,88,La Chaux-de-Fonds,Switzerland,Forward Morges HC,L,2014,2,53,San Jose Sharks,None,20,4,3,7,33,-5,None,None,47.09993,6.82586,47.00016,8.01427
+NL,Genève-Servette,Daniel Winnik,F,38,188,92,Toronto,Canada,Toronto Marlboros MHA,L,2004,9,265,Arizona Coyotes,None,18,4,3,7,26,0,None,None,43.70011,-79.4163,60.10867,-113.64258
+NL,Gottéron,Reto Berra,G,36,194,99,Bülach,Switzerland,EHC Bülach,L,2006,4,106,St. Louis Blues,None,17,None,None,None,None,None,1.79,0.934,47.49706,8.56764,47.00016,8.01427
+NL,Gottéron,Bryan Rüegger,G,23,183,84,None,Switzerland,EV Zug,R,None,None,None,None,None,4,None,None,None,None,None,2.76,0.921,None,None,47.00016,8.01427
+NL,Gottéron,Andreas Borgman,D,28,183,91,Stockholm,Sweden,Huddinge IK,L,None,None,None,None,None,21,3,11,14,8,12,None,None,59.32938,18.06871,62.0,15.0
+NL,Gottéron,Raphael Díaz,D,37,181,89,Baar,Switzerland,EV Zug,R,None,None,None,None,None,21,0,4,4,14,12,None,None,47.19625,8.52954,47.00016,8.01427
+NL,Gottéron,Mauro Dufner,D,28,177,82,None,Switzerland,EHC Kreuzlingen,L,None,None,None,None,None,17,0,2,2,10,4,None,None,None,None,47.00016,8.01427
+NL,Gottéron,Ryan Gunderson,D,38,177,78,Bensalem,USA,None,L,None,None,None,None,None,21,1,11,12,2,5,None,None,40.10455,-74.95128,-14.60485,-57.65625
+NL,Gottéron,Benoit Jecker,D,29,187,87,Fribourg,Switzerland,HC Gottéron,L,None,None,None,None,None,21,2,1,3,2,1,None,None,46.80237,7.15128,47.00016,8.01427
+NL,Gottéron,Simon Seiler,D,27,188,92,Frauenfeld,Switzerland,EHC Frauenfeld,L,None,None,None,None,None,20,0,0,0,16,4,None,None,47.55776,8.89893,47.00016,8.01427
+NL,Gottéron,Maximilian Streule,D,20,182,82,None,Switzerland,Zürcher SC,L,None,None,None,None,None,17,0,0,0,31,-6,None,None,None,None,47.00016,8.01427
+NL,Gottéron,Dave Sutter,D,31,195,105,Douala,Switzerland,HC Monthey,R,None,None,None,None,None,8,0,1,1,0,3,None,None,None,None,47.00016,8.01427
+NL,Gottéron,Christoph Bertschy,F,29,178,84,Le Mouret,Switzerland,HC Gottéron,R,2012,6,158,Minnesota Wild,None,21,9,6,15,16,6,None,None,46.73183,7.18749,47.00016,8.01427
+NL,Gottéron,Dominik Binias,F,21,180,85,Chodov,Czechia,HC Karlovy Vary,R,None,None,None,None,None,20,0,2,2,0,0,None,None,50.24018,12.74551,49.75,15.0
+NL,Gottéron,Andrei Bykov,F,35,173,70,Moskva,Switzerland,HC Gottéron,L,None,None,None,None,None,13,0,0,0,0,-1,None,None,55.75,36.83333,47.00016,8.01427
+NL,Gottéron,Jacob de la Rose,F,28,189,95,Arvika,Sweden,Arvika HC,L,2013,2,34,Montréal Canadiens,None,21,8,6,14,6,2,None,None,59.65528,12.58518,62.0,15.0
+NL,Gottéron,Chris DiDomenico,F,34,180,83,Woodbridge,Canada,North York Rangers MHA,R,2007,6,164,Toronto Maple Leafs,None,21,7,12,19,6,5,None,None,43.78341,-79.59962,60.10867,-113.64258
+NL,Gottéron,Luca Gauch,F,20,None,None,None,Switzerland,HC Gottéron,R,None,None,None,None,None,1,0,0,0,0,1,None,None,None,None,47.00016,8.01427
+NL,Gottéron,Mauro Jörg,F,33,183,92,Chur,Switzerland,EHC Chur,L,2010,7,204,New Jersey Devils,None,21,1,2,3,2,1,None,None,46.84986,9.53287,47.00016,8.01427
+NL,Gottéron,Nathan Marchon,F,26,176,77,Fribourg,Switzerland,HC Gottéron,L,None,None,None,None,None,21,2,10,12,2,9,None,None,46.80237,7.15128,47.00016,8.01427
+NL,Gottéron,Killian Mottet,F,32,177,76,Evionnaz,Switzerland,HC Gottéron,L,None,None,None,None,None,20,3,4,7,4,0,None,None,46.18096,7.02232,47.00016,8.01427
+NL,Gottéron,Sandro Schmid,F,23,179,77,Murten,Switzerland,EHC SenSee,L,None,None,None,None,None,21,3,4,7,6,4,None,None,46.92827,7.11715,47.00016,8.01427
+NL,Gottéron,Julien Sprunger,F,37,194,90,Fribourg,Switzerland,HC Gottéron,R,2004,4,117,Minnesota Wild,None,21,5,5,10,2,3,None,None,46.80237,7.15128,47.00016,8.01427
+NL,Gottéron,Marcus Sörensen,F,31,181,79,Södertälje,Sweden,IK Tälje,L,2010,4,106,Ottawa Senators,None,21,15,8,23,12,11,None,None,59.19554,17.62525,62.0,15.0
+NL,Gottéron,Lucas Wallmark,F,28,183,81,Umeå,Sweden,IF Björklöven,L,2014,4,97,Carolina Hurricanes,None,21,3,11,14,27,10,None,None,63.82842,20.25972,62.0,15.0
+NL,Gottéron,Samuel Walser,F,31,190,95,Mümliswil-Ramiswil,Switzerland,EHC Olten,L,None,None,None,None,None,21,4,1,5,6,3,None,None,47.34262,7.70385,47.00016,8.01427
+NL,Kloten,Erik Liljequist,G,17,185,78,Barcelona,Switzerland,EHC Bülach,L,None,None,None,None,None,0,None,None,None,None,None,None,None,41.4031,2.1712,47.00016,8.01427
+NL,Kloten,Juha Metsola,G,34,177,69,Tampere,Finland,Ilves,L,None,None,None,None,None,18,None,None,None,None,None,2.95,0.904,61.49911,23.78712,64.0,26.0
+NL,Kloten,Jan Rutz,G,21,178,72,Gossau,Switzerland,EHC Uzwil,L,None,None,None,None,None,0,None,None,None,None,None,None,None,47.41551,9.25482,47.00016,8.01427
+NL,Kloten,Sandro Zurkirchen,G,33,180,80,Schwyz,Switzerland,EHC Seewen,L,None,None,None,None,None,4,None,None,None,None,None,2.65,0.912,47.02076,8.65414,47.00016,8.01427
+NL,Kloten,Nathan Beaulieu,D,30,188,91,Stratford,Canada,Strathroy District MHA,L,2011,1,17,Montréal Canadiens,None,None,None,None,None,None,None,None,None,43.36679,-80.94972,60.10867,-113.64258
+NL,Kloten,Mika Henauer,D,23,178,81,Zürich,Switzerland,SC Bern,L,None,None,None,None,None,9,0,0,0,6,-1,None,None,47.36667,8.55,47.00016,8.01427
+NL,Kloten,Matthew Kellenberger,D,24,183,83,Toronto,Canada,None,R,None,None,None,None,None,13,0,1,1,4,-1,None,None,43.70011,-79.4163,60.10867,-113.64258
+NL,Kloten,Steve Kellenberger,F,36,173,81,Bülach,Switzerland,EHC Kloten,L,None,None,None,None,None,21,0,3,3,6,-4,None,None,47.49706,8.56764,47.00016,8.01427
+NL,Kloten,Simon Kindschi,D,27,192,104,Davos,Switzerland,HC Davos,L,None,None,None,None,None,14,0,1,1,10,-4,None,None,46.80429,9.83723,47.00016,8.01427
+NL,Kloten,Matteo Nodari,D,35,183,86,Lugano,Switzerland,HC Lugano,R,None,None,None,None,None,16,0,1,1,6,-2,None,None,46.01008,8.96004,47.00016,8.01427
+NL,Kloten,Leandro Profico,F,33,178,85,Chur,Switzerland,EHC Chur,L,None,None,None,None,None,21,0,2,2,10,-7,None,None,46.84986,9.53287,47.00016,8.01427
+NL,Kloten,David Reinbacher,D,19,189,88,Hohenems,Austria,EHC Lustenau,R,2023,1,5,Montréal Canadiens,950000,5,1,0,1,2,0,None,None,47.38327,9.69882,47.33333,13.33333
+NL,Kloten,Rajan Sataric,D,31,187,85,Solothurn,Switzerland,EHC Zuchwil,L,None,None,None,None,None,21,0,3,3,4,-5,None,None,47.20791,7.53714,47.00016,8.01427
+NL,Kloten,Nicholas Steiner,D,32,182,92,Eggiwil,Switzerland,EHC Kloten,L,None,None,None,None,None,20,0,2,2,12,-4,None,None,46.87575,7.79567,47.00016,8.01427
+NL,Kloten,Miro Aaltonen,F,30,180,78,Joensuu,Finland,Jokipojat,L,2013,6,177,Anaheim Ducks,None,20,5,6,11,8,-12,None,None,62.60118,29.76316,64.0,26.0
+NL,Kloten,Jonathan Ang,F,25,181,75,Markham,Canada,Markham Waxers MHA,R,2016,4,94,Florida Panthers,None,21,3,3,6,12,-7,None,None,43.86682,-79.2663,60.10867,-113.64258
+NL,Kloten,Keanu Derungs,F,21,188,76,Ilanz,Switzerland,EHC Kloten,L,None,None,None,None,None,15,4,0,4,6,-3,None,None,46.77413,9.20461,47.00016,8.01427
+NL,Kloten,Dominik Diem,F,26,181,84,Zürich,Switzerland,GCK Lions,L,None,None,None,None,None,19,0,8,8,0,0,None,None,47.36667,8.55,47.00016,8.01427
+NL,Kloten,Kevin Lindemann,F,21,175,81,None,Switzerland,EHC Kloten,L,None,None,None,None,None,20,0,0,0,2,-2,None,None,None,None,47.00016,8.01427
+NL,Kloten,Michael Loosli,F,28,182,85,Boll,Switzerland,SC Langnau,L,None,None,None,None,None,21,3,2,5,6,1,None,None,46.95422,7.54855,47.00016,8.01427
+NL,Kloten,Marc Marchon,F,28,179,87,Vuisternens-en-Ogoz,Switzerland,EV Zug,L,None,None,None,None,None,19,6,4,10,35,-2,None,None,46.70424,7.0561,47.00016,8.01427
+NL,Kloten,Rafael Meier,F,18,184,76,Bülach,Switzerland,EV Dielsdorf-Niederhasli,L,None,None,None,None,None,6,0,0,0,2,-2,None,None,47.49706,8.56764,47.00016,8.01427
+NL,Kloten,Dario Meyer,F,26,185,82,Bern,Switzerland,SC Bern,L,None,None,None,None,None,12,0,0,0,27,-7,None,None,46.94809,7.44744,47.00016,8.01427
+NL,Kloten,Tyler Morley,F,31,173,81,Burnaby,Canada,Grandview Steelers,L,None,None,None,None,None,10,2,4,6,2,-1,None,None,49.26636,-122.95263,60.10867,-113.64258
+NL,Kloten,Patrick Obrist,F,30,185,86,Dornbirn,Austria,Dornbirner EC,L,None,None,None,None,None,12,0,0,0,7,-1,None,None,47.41427,9.74195,47.33333,13.33333
+NL,Kloten,Niko Ojamäki,F,28,181,84,Pori,Finland,Ässät,R,None,None,None,None,None,21,2,7,9,4,-10,None,None,61.48333,21.78333,64.0,26.0
+NL,Kloten,Mischa Ramel,F,20,168,72,None,Switzerland,EHC Olten,L,None,None,None,None,None,15,4,3,7,2,-1,None,None,None,None,47.00016,8.01427
+NL,Kloten,Harrison Schreiber,F,22,196,91,Manhattan,USA,EV Zug,L,None,None,None,None,None,21,2,0,2,8,-4,None,None,40.78343,-73.96625,-14.60485,-57.65625
+NL,Kloten,Axel Simic,F,24,174,84,Gumefens,Switzerland,HC Bulle-La Gruyère,R,None,None,None,None,None,21,7,4,11,2,-3,None,None,46.67794,7.07665,47.00016,8.01427
+NL,Kloten,Deniss Smirnovs,F,24,177,80,None,Latvia,HS Riga,L,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,57.0,25.0
+NL,Langnau,Luca Boltshauser,G,30,183,86,Zürich,Switzerland,Zürcher SC,L,None,None,None,None,None,11,None,None,None,None,None,3.36,0.905,47.36667,8.55,47.00016,8.01427
+NL,Langnau,Stéphane Charlin,G,23,191,84,None,Switzerland,Genève-Servette HC,L,None,None,None,None,None,12,None,None,None,None,None,2.82,0.924,None,None,47.00016,8.01427
+NL,Langnau,Seya Scheidegger,G,19,None,None,None,Switzerland,EHC Thun,L,None,None,None,None,None,0,None,None,None,None,None,None,None,None,None,47.00016,8.01427
+NL,Langnau,Samuel Erni,D,32,175,78,Frauenfeld,Switzerland,EHC Frauenfeld,L,None,None,None,None,None,20,2,1,3,16,-4,None,None,47.55776,8.89893,47.00016,8.01427
+NL,Langnau,Bastian Guggenheim,D,21,186,90,None,Switzerland,EHC Bern 96,L,None,None,None,None,None,18,1,1,2,12,-8,None,None,None,None,47.00016,8.01427
+NL,Langnau,Noah Meier,D,21,180,85,None,Switzerland,Zürcher SC,L,None,None,None,None,None,21,0,3,3,2,-3,None,None,None,None,47.00016,8.01427
+NL,Langnau,Juuso Riikola,D,30,184,86,Joensuu,Finland,SaiPa,L,None,None,None,None,None,21,0,9,9,12,-1,None,None,62.60118,29.76316,64.0,26.0
+NL,Langnau,Vili Saarijärvi,D,26,178,83,Rovaniemi,Finland,RoKi,R,2015,3,73,Detroit Red Wings,None,20,3,10,13,2,-3,None,None,66.5,25.71667,64.0,26.0
+NL,Langnau,Sebastian Schilt,D,36,187,89,Hasle-Rüegsau,Switzerland,SC Langnau,L,None,None,None,None,None,4,0,0,0,2,-3,None,None,47.01436,7.65112,47.00016,8.01427
+NL,Langnau,Brian Zanetti,D,20,190,87,Lugano,Switzerland,HC Lugano,L,2021,4,110,Philadelphia Flyers,None,14,0,1,1,2,-3,None,None,46.01008,8.96004,47.00016,8.01427
+NL,Langnau,Miro Zryd,D,29,186,90,Adelboden,Switzerland,EHC Adelboden,L,None,None,None,None,None,21,0,0,0,2,-3,None,None,46.49142,7.56031,47.00016,8.01427
+NL,Langnau,Pascal Berger,F,34,177,81,Burgdorf,Switzerland,EHC Burgdorf,R,None,None,None,None,None,21,0,0,0,29,-6,None,None,47.05901,7.62786,47.00016,8.01427
+NL,Langnau,Nolan Diem,F,30,181,86,Herisau,Switzerland,Villars HC,R,None,None,None,None,None,16,1,4,5,6,0,None,None,47.38615,9.27916,47.00016,8.01427
+NL,Langnau,Jiri Felcman,F,18,193,90,Hradec Kralove,Czechia,HC Hradec Kralove,L,2023,3,93,Chicago Blackhawks,None,2,0,0,0,0,0,None,None,50.20923,15.83277,49.75,15.0
+NL,Langnau,Timo Jenni,F,19,None,None,None,Switzerland,None,L,None,None,None,None,None,6,0,0,0,0,0,None,None,None,None,47.00016,8.01427
+NL,Langnau,Oskars Lapinskis,F,21,178,77,Riga,Latvia,None,L,None,None,None,None,None,21,1,0,1,2,-6,None,None,56.946,24.10589,57.0,25.0
+NL,Langnau,Anthony Louis,F,28,175,70,Winfield,USA,Chicago Blues,L,2013,6,181,Chicago Blackhawks,None,2,1,2,3,0,0,None,None,37.23775,-96.83749,-14.60485,-57.65625
+NL,Langnau,Sean Malone,F,28,183,89,Buffalo,USA,None,L,2013,6,159,Buffalo Sabres,None,20,5,9,14,4,-5,None,None,42.88645,-78.87837,-14.60485,-57.65625
+NL,Langnau,Saku Mäenalanen,F,29,192,94,Tornio,Finland,Kiekko-Ketut,L,2013,5,125,Nashville Predators,None,15,3,2,5,6,-6,None,None,65.84811,24.14662,64.0,26.0
+NL,Langnau,Harri Pesonen,F,35,182,90,Muurame,Finland,JYP,L,None,None,None,None,None,19,3,3,6,10,-7,None,None,62.13333,25.66667,64.0,26.0
+NL,Langnau,Patrick Petrini,F,21,175,72,None,Switzerland,HC Ambrì-Piotta,R,None,None,None,None,None,19,2,2,4,4,0,None,None,None,None,47.00016,8.01427
+NL,Langnau,Dario Rohrbach,F,25,181,83,None,Switzerland,EHC Sursee,R,None,None,None,None,None,21,1,2,3,6,-8,None,None,None,None,47.00016,8.01427
+NL,Langnau,Matthias Rossi,F,32,185,101,Menziken,Switzerland,EHC Aarau,R,None,None,None,None,None,6,0,0,0,2,-4,None,None,47.23965,8.18996,47.00016,8.01427
+NL,Langnau,Aleksi Saarela,F,26,179,91,Helsinki,Finland,LaJy,L,2015,3,89,New York Rangers,None,21,12,5,17,4,0,None,None,60.16952,24.93545,64.0,26.0
+NL,Langnau,Joel Salzgeber,F,22,177,81,None,Switzerland,EHC Raron,L,None,None,None,None,None,21,1,1,2,4,-9,None,None,None,None,47.00016,8.01427
+NL,Langnau,Flavio Schmutz,F,29,185,83,Andwil,Switzerland,SC Weinfelden,L,None,None,None,None,None,19,3,1,4,6,-1,None,None,47.43855,9.27436,47.00016,8.01427
+NL,Langnau,Julian Schmutz,F,29,174,78,Bern,Switzerland,SC Langenthal,R,None,None,None,None,None,20,3,8,11,8,0,None,None,46.94809,7.44744,47.00016,8.01427
+NL,Langnau,Keijo Weibel,F,22,174,81,Bern,Switzerland,EHC Thun,L,None,None,None,None,None,16,0,1,1,6,0,None,None,46.94809,7.44744,47.00016,8.01427
+NL,Lausanne,Connor Hughes,G,27,193,102,London,Switzerland,None,L,None,None,None,None,None,9,None,None,None,None,None,1.87,0.937,51.54348,-0.17505,47.00016,8.01427
+NL,Lausanne,Kevin Pasche,G,20,178,77,Lausanne,Switzerland,HC Yverdon les Bains,R,None,None,None,None,None,5,None,None,None,None,None,1.38,0.938,46.516,6.63282,47.00016,8.01427
+NL,Lausanne,Ivars Punnenovs,G,29,185,91,Riga,Latvia,None,L,None,None,None,None,None,8,None,None,None,None,None,4.18,0.827,56.946,24.10589,57.0,25.0
+NL,Lausanne,Christian Djoos,D,29,181,82,Göteborg,Sweden,Brynäs IF,L,2012,7,195,Washington Capitals,None,18,1,10,11,6,-1,None,None,57.70716,11.96679,62.0,15.0
+NL,Lausanne,Lukas Frick,D,29,188,90,Zuberwangen,Switzerland,EHC Uzwil,L,None,None,None,None,None,21,0,5,5,4,1,None,None,47.46713,9.08543,47.00016,8.01427
+NL,Lausanne,Joël Genazzi,F,35,185,90,London,Switzerland,EHC Dübendorf,L,None,None,None,None,None,20,0,2,2,8,4,None,None,51.54348,-0.17505,47.00016,8.01427
+NL,Lausanne,Andrea Glauser,D,27,182,86,Zauggenried,Switzerland,HC Gottéron,R,None,None,None,None,None,18,1,3,4,6,3,None,None,47.07274,7.53549,47.00016,8.01427
+NL,Lausanne,Fabian Heldner,D,27,193,95,Visp,Switzerland,EHC Visp,R,None,None,None,None,None,19,0,1,1,4,-1,None,None,46.2937,7.88149,47.00016,8.01427
+NL,Lausanne,Igor Jelovac,D,28,195,98,Villars-sur-Ollon,Switzerland,Villars HC,L,None,None,None,None,None,9,1,2,3,12,0,None,None,46.29832,7.05631,47.00016,8.01427
+NL,Lausanne,Aurélien Marti,D,29,190,92,None,Switzerland,Lausanne HC,L,None,None,None,None,None,21,0,2,2,8,-2,None,None,None,None,47.00016,8.01427
+NL,Lausanne,Lawrence Pilut,D,27,180,88,Tingsryd,Sweden,Tingsryds AIF,L,None,None,None,None,None,21,3,5,8,10,8,None,None,56.53333,14.96667,62.0,15.0
+NL,Lausanne,Dario Sidler,D,20,171,75,None,Switzerland,KSC Küssnacht am Rigi,R,None,None,None,None,None,13,0,0,0,2,-1,None,None,None,None,47.00016,8.01427
+NL,Lausanne,Cody Almond,F,34,188,90,Calgary,Switzerland,None,L,2007,5,140,Minnesota Wild,None,12,0,4,4,33,2,None,None,None,None,47.00016,8.01427
+NL,Lausanne,Tim Bozon,F,29,186,92,St. Louis,France,Mannheimer ERC,L,2012,3,64,Montréal Canadiens,None,21,7,3,10,4,-3,None,None,-21.28585,55.41124,46.0,2.0
+NL,Lausanne,Jason Fuchs,F,28,175,75,Bern,Switzerland,HC Lugano,L,None,None,None,None,None,21,3,4,7,2,-2,None,None,46.94809,7.44744,47.00016,8.01427
+NL,Lausanne,Henrik Haapala,F,29,175,75,Lempäälä,Finland,LeKi,L,None,None,None,None,None,3,0,0,0,2,-1,None,None,61.31667,23.75,64.0,26.0
+NL,Lausanne,Makai Holdener,F,26,183,79,Genève,Switzerland,Genève-Servette HC,R,None,None,None,None,None,21,4,1,5,4,2,None,None,46.20222,6.14569,47.00016,8.01427
+NL,Lausanne,Michael Hügli,F,27,183,84,Seedorf,Switzerland,EHC Wettingen-Baden,R,None,None,None,None,None,21,4,3,7,10,3,None,None,47.03445,7.31249,47.00016,8.01427
+NL,Lausanne,Ken Jäger,F,25,186,83,Davos,Switzerland,HC Davos,R,None,None,None,None,None,20,6,4,10,4,-2,None,None,46.80429,9.83723,47.00016,8.01427
+NL,Lausanne,Ronalds Kenins,F,32,182,91,Riga,Latvia,Metalurgs Liepaja,L,None,None,None,None,None,14,0,2,2,4,-4,None,None,56.946,24.10589,57.0,25.0
+NL,Lausanne,Robin Kovács,F,26,182,84,Stockholm,Sweden,Flemingsbergs IK,L,2015,3,62,New York Rangers,None,19,4,10,14,8,5,None,None,59.32938,18.06871,62.0,15.0
+NL,Lausanne,Marco Pedretti,F,32,184,95,None,Switzerland,HC Ajoie,L,None,None,None,None,None,10,0,1,1,2,0,None,None,None,None,47.00016,8.01427
+NL,Lausanne,Michael Raffl,F,34,184,93,Villach,Austria,Villacher SV,L,None,None,None,None,None,None,None,None,None,None,None,None,None,46.61028,13.85583,47.33333,13.33333
+NL,Lausanne,Damien Riat,F,26,183,82,Genève,Switzerland,Genève-Servette HC,R,2016,4,117,Washington Capitals,None,19,5,5,10,10,3,None,None,46.20222,6.14569,47.00016,8.01427
+NL,Lausanne,Théo Rochette,F,21,180,78,Neuchâtel,Switzerland,HC Neuchâtel,L,None,None,None,None,None,21,5,8,13,6,-3,None,None,46.99179,6.931,47.00016,8.01427
+NL,Lausanne,Miikka Salomäki,F,30,181,92,Raahe,Finland,TeKi,L,2011,2,52,Nashville Predators,None,16,4,9,13,12,6,None,None,64.68333,24.48333,64.0,26.0
+NL,Lausanne,Jiri Sekac,F,31,189,91,Kladno,Czechia,HC Kladno,L,None,None,None,None,None,19,2,8,10,29,3,None,None,50.14734,14.10285,49.75,15.0
+NL,Lausanne,Antti Suomela,F,29,183,81,Espoo,Finland,EPS,L,None,None,None,None,None,21,6,9,15,6,5,None,None,60.2052,24.6522,64.0,26.0
+NL,Lugano,Mikko Koskinen,G,35,200,92,Vantaa,Finland,EVU,L,2009,2,31,New York Islanders,None,11,None,None,None,None,None,3.05,0.88,60.29414,25.04099,64.0,26.0
+NL,Lugano,Niklas Schlegel,G,29,178,75,Zürich,Switzerland,Zürcher SC,L,None,None,None,None,None,11,None,None,None,None,None,2.44,0.915,47.36667,8.55,47.00016,8.01427
+NL,Lugano,Santeri Alatalo,D,33,180,80,Tampere,Switzerland,EHC Kloten,L,None,None,None,None,None,17,1,6,7,14,2,None,None,None,None,47.00016,8.01427
+NL,Lugano,Calle Andersson,D,29,190,94,Malmö,Sweden,HC Lugano,R,2012,4,119,New York Rangers,None,20,0,2,2,2,-5,None,None,55.60587,13.00073,62.0,15.0
+NL,Lugano,Samuel Guerra,D,30,183,85,Sorengo,Switzerland,HC Ambri-Piotta,L,None,None,None,None,None,14,0,2,2,4,-10,None,None,45.99766,8.93783,47.00016,8.01427
+NL,Lugano,Leandro Hausheer,D,20,193,88,Zürich,Switzerland,None,R,None,None,None,None,None,16,0,0,0,2,-3,None,None,47.36667,8.55,47.00016,8.01427
+NL,Lugano,Joey LaLeggia,F,31,178,84,Burnaby,Canada,None,L,2012,5,123,Edmonton Oilers,None,21,5,8,13,8,-7,None,None,49.26636,-122.95263,60.10867,-113.64258
+NL,Lugano,Mirco Müller,D,28,193,94,Winterthur,Switzerland,EHC Winterthur,L,2013,1,18,San Jose Sharks,None,21,1,6,7,27,11,None,None,47.50564,8.72413,47.00016,8.01427
+NL,Lugano,Jesper Peltonen,D,25,178,81,Helsinki,Finland,HC Lugano,L,None,None,None,None,None,21,1,2,3,4,4,None,None,60.16952,24.93545,64.0,26.0
+NL,Lugano,Arno Snellman,D,20,180,75,Helsinki,Finland,KJT,L,None,None,None,None,None,2,0,0,0,0,0,None,None,60.16952,24.93545,64.0,26.0
+NL,Lugano,Bernd Wolf,D,26,177,84,Wien,Austria,None,L,None,None,None,None,None,15,1,1,2,2,3,None,None,48.20849,16.37208,47.33333,13.33333
+NL,Lugano,Mark Arcobello,F,35,172,79,Milford,USA,Southern Connecticut YHA,R,None,None,None,None,None,19,5,10,15,6,-1,None,None,41.22232,-73.0565,-14.60485,-57.65625
+NL,Lugano,Lorenzo Canonica,F,20,181,87,Lugano,Switzerland,HC Lugano,L,None,None,None,None,None,10,0,1,1,0,1,None,None,46.01008,8.96004,47.00016,8.01427
+NL,Lugano,Daniel Carr,F,32,183,88,Sherwood Park,Canada,None,L,None,None,None,None,None,20,11,12,23,43,10,None,None,53.51684,-113.3187,60.10867,-113.64258
+NL,Lugano,Roberts Cjunskis,F,20,184,88,Marupe,Latvia,HS Prizma/Pardaugava,L,None,None,None,None,None,9,1,1,2,0,-2,None,None,56.88639,23.95889,57.0,25.0
+NL,Lugano,Cole Cormier,F,21,178,81,Düsseldorf,Canada,HC Sierre,L,None,None,None,None,None,7,1,0,1,0,-3,None,None,None,None,60.10867,-113.64258
+NL,Lugano,Luca Fazzini,F,28,176,86,Lugano,Switzerland,HC Lugano,R,None,None,None,None,None,21,4,9,13,38,-7,None,None,46.01008,8.96004,47.00016,8.01427
+NL,Lugano,Jeremi Gerber,F,23,186,88,Langnau im Emmental,Switzerland,SC Bern,L,None,None,None,None,None,11,0,0,0,0,-5,None,None,46.93936,7.78738,47.00016,8.01427
+NL,Lugano,Markus Granlund,F,30,180,85,Oulu,Finland,Laser HT,L,2011,2,45,Calgary Flames,None,12,3,5,8,6,-3,None,None,65.01236,25.46816,64.0,26.0
+NL,Lugano,Michael Joly,F,28,180,79,Gatineau,Canada,None,L,None,None,None,None,None,18,9,11,20,2,9,None,None,45.47723,-75.70164,60.10867,-113.64258
+NL,Lugano,Giovanni Morini,F,28,187,89,Como,Italy,Como,L,None,None,None,None,None,21,2,6,8,6,-2,None,None,45.80819,9.0832,42.83333,12.83333
+NL,Lugano,Marco Müller,F,29,174,81,Zuchwil,Switzerland,EHC Olten,L,None,None,None,None,None,12,1,2,3,2,-7,None,None,47.20173,7.56649,47.00016,8.01427
+NL,Lugano,Stéphane Patry,F,23,181,79,Genève,Switzerland,CP de Meyrin,L,None,None,None,None,None,4,1,0,1,0,-1,None,None,46.20222,6.14569,47.00016,8.01427
+NL,Lugano,Arttu Ruotsalainen,F,26,175,85,Oulu,Finland,Kärpät,L,None,None,None,None,None,21,3,5,8,4,-3,None,None,65.01236,25.46816,64.0,26.0
+NL,Lugano,Calvin Thürkauf,F,26,188,93,Zug,Switzerland,EV Zug,L,2016,7,185,Columbus Blue Jackets,None,21,11,13,24,20,9,None,None,47.17242,8.51745,47.00016,8.01427
+NL,Lugano,Matthew Verboon,F,23,185,89,Richmond Hill,Switzerland,HC Trois-Chêne,L,None,None,None,None,None,21,3,2,5,6,-2,None,None,None,None,47.00016,8.01427
+NL,Lugano,Julian Walker,F,37,187,93,Bern,Switzerland,SC Bern,R,2006,6,162,Minnesota Wild,None,21,2,0,2,4,-5,None,None,46.94809,7.44744,47.00016,8.01427
+NL,Lugano,Riccardo Werder,F,22,181,88,None,Switzerland,HC Lugano,R,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,47.00016,8.01427
+NL,Lugano,Marco Zanetti,F,21,173,74,Varese,Italy,HC Chiasso,R,None,None,None,None,None,19,1,2,3,4,-4,None,None,45.82058,8.82511,42.83333,12.83333
+NL,Rapperswil-Jona,Robin Meyer,G,23,189,73,None,Switzerland,KSC Küssnacht am Rigi,L,None,None,None,None,None,6,None,None,None,None,None,2.67,0.911,None,None,47.00016,8.01427
+NL,Rapperswil-Jona,Melvin Nyffeler,G,28,178,84,Volketswil,Switzerland,EHC Illnau-Effretikon,L,None,None,None,None,None,17,None,None,None,None,None,2.41,0.915,47.39016,8.69085,47.00016,8.01427
+NL,Rapperswil-Jona,David Aebischer,D,23,180,83,Heitenried,Switzerland,HC Gottéron,R,None,None,None,None,None,20,3,7,10,6,-3,None,None,46.82762,7.29944,47.00016,8.01427
+NL,Rapperswil-Jona,Inaki Baragano,D,22,178,80,Lausanne,Switzerland,HC Yverdon les Bains,R,None,None,None,None,None,21,0,6,6,0,-5,None,None,46.516,6.63282,47.00016,8.01427
+NL,Rapperswil-Jona,Luca Capaul,D,24,178,78,Uznach,Switzerland,EHC Chur,L,None,None,None,None,None,3,0,0,0,0,0,None,None,47.22421,8.98263,47.00016,8.01427
+NL,Rapperswil-Jona,Emil Djuse,D,30,181,84,Östersund,Sweden,Östersunds IK,L,None,None,None,None,None,16,2,2,4,14,-1,None,None,63.1792,14.63566,62.0,15.0
+NL,Rapperswil-Jona,Colin Gerber,D,25,191,85,None,Switzerland,EHC Burgdorf,L,None,None,None,None,None,21,0,1,1,6,-2,None,None,None,None,47.00016,8.01427
+NL,Rapperswil-Jona,Tim Grossniklaus,D,28,184,92,Beatenberg,Switzerland,SC Bern,L,None,None,None,None,None,8,0,1,1,0,-5,None,None,46.69896,7.79428,47.00016,8.01427
+NL,Rapperswil-Jona,Fabian Maier,D,32,185,95,None,Switzerland,SC Weinfelden,L,None,None,None,None,None,21,1,2,3,4,-1,None,None,None,None,47.00016,8.01427
+NL,Rapperswil-Jona,Maxim Noreau,D,36,180,89,Montréal,Canada,AHM Lac St-Louis,R,None,None,None,None,None,21,2,7,9,8,-5,None,None,45.50884,-73.58781,60.10867,-113.64258
+NL,Rapperswil-Jona,Nathan Vouardoux,D,22,185,82,None,Switzerland,HC Sierre,R,None,None,None,None,None,21,2,2,4,0,1,None,None,None,None,47.00016,8.01427
+NL,Rapperswil-Jona,Yannick-Lennart Albrecht,F,29,190,92,Visp,Switzerland,EHC Visp,L,None,None,None,None,None,15,3,0,3,8,0,None,None,46.2937,7.88149,47.00016,8.01427
+NL,Rapperswil-Jona,Mats Alge,F,20,180,84,Uznach,Switzerland,SC Rapperswil-Jona,L,None,None,None,None,None,5,0,0,0,0,0,None,None,47.22421,8.98263,47.00016,8.01427
+NL,Rapperswil-Jona,Petr Cajka,F,22,184,85,Kadan,Czechia,HC Letci Letnany,L,None,None,None,None,None,18,1,0,1,25,-3,None,None,50.38333,13.26667,49.75,15.0
+NL,Rapperswil-Jona,Roman Cervenka,F,37,181,88,Praha,Czechia,HC Slavia Praha,L,None,None,None,None,None,17,4,7,11,8,1,None,None,50.08804,14.42076,49.75,15.0
+NL,Rapperswil-Jona,Brett Connolly,F,31,191,90,Campbell River,Canada,Prince George MHA,R,2010,1,6,Tampa Bay Lightning,None,9,1,0,1,4,-7,None,None,50.01634,-125.24459,60.10867,-113.64258
+NL,Rapperswil-Jona,Nico Dünner,F,29,182,85,Emmenbrücke,Switzerland,HC Luzern,L,None,None,None,None,None,21,4,4,8,12,-1,None,None,47.08877,8.2721,47.00016,8.01427
+NL,Rapperswil-Jona,Sandro Forrer,F,26,177,75,Steckborn,Switzerland,EHC Illnau-Effretikon,L,None,None,None,None,None,19,2,3,5,6,2,None,None,47.66667,8.98333,47.00016,8.01427
+NL,Rapperswil-Jona,Martin Frk,F,30,185,95,Pelhrimov,Czechia,HC Karlovy Vary,R,2012,2,49,Detroit Red Wings,None,None,None,None,None,None,None,None,None,49.41667,15.16667,49.75,15.0
+NL,Rapperswil-Jona,Nicklas Jensen,F,30,192,99,Herning,Denmark,None,L,2011,1,29,Vancouver Canucks,None,16,4,5,9,4,-6,None,None,56.13615,8.97662,56.0,10.0
+NL,Rapperswil-Jona,Dominic Lammer,F,31,173,76,Zürich,Switzerland,EHC Kloten,L,None,None,None,None,None,21,3,5,8,8,-3,None,None,47.36667,8.55,47.00016,8.01427
+NL,Rapperswil-Jona,Tyler Moy,F,28,185,88,La Jolla,Switzerland,None,R,2015,6,175,Nashville Predators,None,21,9,5,14,8,-7,None,None,None,None,47.00016,8.01427
+NL,Rapperswil-Jona,Victor Rask,F,30,187,90,Leksand,Sweden,Leksands IF,L,2011,2,42,Carolina Hurricanes,None,16,3,5,8,4,-5,None,None,60.7303,14.99994,62.0,15.0
+NL,Rapperswil-Jona,Jordan Schroeder,F,33,175,79,Lakeville,USA,None,R,2009,1,22,Vancouver Canucks,None,20,0,8,8,8,-6,None,None,44.64969,-93.24272,-14.60485,-57.65625
+NL,Rapperswil-Jona,Jonas Taibel,F,19,181,83,Feldkirch,Switzerland,VEU Feldkirch,L,None,None,None,None,None,1,0,0,0,0,0,None,None,None,None,47.00016,8.01427
+NL,Rapperswil-Jona,Gian-Marco Wetter,F,23,174,77,Appenzell,Switzerland,SC Rheintal,L,None,None,None,None,None,21,1,3,4,4,-10,None,None,47.33103,9.40996,47.00016,8.01427
+NL,Rapperswil-Jona,Jeremy Wick,F,34,178,84,Grand Valley,Canada,None,R,None,None,None,None,None,21,2,2,4,14,-1,None,None,43.9168,-80.33298,60.10867,-113.64258
+NL,Rapperswil-Jona,Sandro Zangger,F,29,185,93,Jona,Switzerland,SC Rapperswil-Jona,R,None,None,None,None,None,21,0,0,0,0,-3,None,None,47.22983,8.83884,47.00016,8.01427
+NL,ZSC,Simon Hrubec,G,32,186,87,Vimperk,Czechia,HC Vimperk,L,None,None,None,None,None,16,None,None,None,None,None,1.85,0.931,49.05857,13.78286,49.75,15.0
+NL,ZSC,Jeffrey Meier,G,25,183,83,Langnau am Albis,Switzerland,Zürcher SC,R,None,None,None,None,None,None,None,None,None,None,None,None,None,47.28885,8.5411,47.00016,8.01427
+NL,ZSC,Robin Zumbühl,G,24,179,73,None,Switzerland,EHC Urdorf,L,None,None,None,None,None,5,None,None,None,None,None,2.21,0.923,None,None,47.00016,8.01427
+NL,ZSC,Phil Baltisberger,D,27,185,94,Schlieren,Switzerland,EHC Urdorf,L,None,None,None,None,None,15,0,0,0,2,1,None,None,47.39668,8.44763,47.00016,8.01427
+NL,ZSC,Patrick Geering,D,33,179,90,Zürich,Switzerland,EHC Urdorf,L,None,None,None,None,None,21,0,2,2,8,-1,None,None,47.36667,8.55,47.00016,8.01427
+NL,ZSC,Scott Harrington,D,30,188,93,Kingston,Canada,Greater Kingston MHA,L,2011,2,54,Pittsburgh Penguins,None,5,0,1,1,0,0,None,None,44.22976,-76.48098,60.10867,-113.64258
+NL,ZSC,Dean Kukan,D,30,187,84,Volketswil,Switzerland,EHC Urdorf,L,None,None,None,None,None,21,2,15,17,6,14,None,None,47.39016,8.69085,47.00016,8.01427
+NL,ZSC,Mikko Lehtonen,D,29,182,89,Turku,Finland,Kiekko-67,L,None,None,None,None,None,20,2,12,14,6,11,None,None,60.45148,22.26869,64.0,26.0
+NL,ZSC,Christian Marti,D,30,193,97,Bülach,Switzerland,EHC Bülach,L,None,None,None,None,None,21,0,7,7,6,6,None,None,47.49706,8.56764,47.00016,8.01427
+NL,ZSC,Dario Trutmann,D,31,183,85,Zug,Switzerland,EV Zug,R,None,None,None,None,None,16,0,2,2,4,10,None,None,47.17242,8.51745,47.00016,8.01427
+NL,ZSC,Daniil Ustinkov,D,17,183,90,None,Switzerland,Zürcher SC,L,None,None,None,None,None,9,0,1,1,0,4,None,None,None,None,47.00016,8.01427
+NL,ZSC,Yannick Weber,D,35,181,91,Morges,Switzerland,SC Bern,R,2007,3,73,Montréal Canadiens,None,21,1,2,3,6,5,None,None,46.51127,6.49854,47.00016,8.01427
+NL,ZSC,Sven Andrighetto,F,30,178,85,Sumiswald,Switzerland,EHC Dübendorf,L,2013,3,86,Montréal Canadiens,None,10,4,3,7,4,1,None,None,47.02747,7.74526,47.00016,8.01427
+NL,ZSC,Rudolfs Balcers,F,26,180,82,Liepaja,Latvia,Metalurgs Liepaja,L,2015,5,142,San Jose Sharks,None,21,9,7,16,12,7,None,None,56.50474,21.01085,57.0,25.0
+NL,ZSC,Chris Baltisberger,F,32,184,94,Zofingen,Switzerland,EHC Urdorf,R,None,None,None,None,None,21,4,5,9,4,4,None,None,47.28779,7.94586,47.00016,8.01427
+NL,ZSC,Simon Bodenmann,F,35,178,82,Urnäsch,Switzerland,EHC Winterthur,L,None,None,None,None,None,18,3,1,4,6,3,None,None,47.31669,9.2795,47.00016,8.01427
+NL,ZSC,Jesper Frödén,F,29,179,80,Stockholm,Sweden,FoC Farsta,R,None,None,None,None,None,21,12,8,20,10,8,None,None,59.32938,18.06871,62.0,15.0
+NL,ZSC,Derek Grant,F,33,191,95,Abbotsford,Canada,Abbotsford MHA,L,2008,4,119,Ottawa Senators,None,20,8,8,16,10,5,None,None,49.05798,-122.25257,60.10867,-113.64258
+NL,ZSC,Denis Hollenstein,F,34,183,88,Mosnang,Switzerland,EHC Kloten,L,None,None,None,None,None,18,3,11,14,12,5,None,None,47.36252,9.04296,47.00016,8.01427
+NL,ZSC,Juho Lammikko,F,27,190,92,Noormarkku,Finland,Ässät,L,2014,3,65,Florida Panthers,None,18,8,13,21,6,10,None,None,61.59274,21.86846,64.0,26.0
+NL,ZSC,Denis Malgin,F,26,175,80,Olten,Switzerland,EHC Biel-Bienne,R,2015,4,102,Florida Panthers,None,18,5,11,16,8,3,None,None,47.34999,7.90329,47.00016,8.01427
+NL,ZSC,Willy Riedi,F,25,189,93,None,Switzerland,EV Dielsdorf-Niederhasli,L,None,None,None,None,None,18,2,3,5,14,6,None,None,None,None,47.00016,8.01427
+NL,ZSC,Vinzenz Rohrer,F,19,178,73,Rankweil,Austria,VEU Feldkirch,R,2022,3,75,Montréal Canadiens,None,19,3,2,5,4,4,None,None,47.27108,9.64308,47.33333,13.33333
+NL,ZSC,Reto Schäppi,F,32,195,95,Zürich,Switzerland,EHC Wallisellen,L,None,None,None,None,None,19,1,2,3,10,4,None,None,47.36667,8.55,47.00016,8.01427
+NL,ZSC,Justin Sigrist,F,24,180,78,Hombrechtikon,Switzerland,EHC Uzwil,L,None,None,None,None,None,19,2,1,3,25,5,None,None,47.25298,8.77212,47.00016,8.01427
+NL,ZSC,Yannick Zehnder,F,25,182,84,Zug,Switzerland,EV Zug,L,None,None,None,None,None,16,1,2,3,2,1,None,None,47.17242,8.51745,47.00016,8.01427
+NL,Zug,Leonardo Genoni,G,36,182,87,Semione,Switzerland,Zürcher SC,L,None,None,None,None,None,12,None,None,None,None,None,2.14,0.927,46.40011,8.96742,47.00016,8.01427
+NL,Zug,Luca Hollenstein,G,23,178,79,Mosnang,Switzerland,EHC Chur,L,None,None,None,None,None,8,None,None,None,None,None,1.84,0.932,47.36252,9.04296,47.00016,8.01427
+NL,Zug,Lukas Bengtsson,D,29,178,82,Stockholm,Sweden,Huddinge IK,R,None,None,None,None,None,18,2,9,11,0,19,None,None,59.32938,18.06871,62.0,15.0
+NL,Zug,Tobias Geisser,D,24,193,91,Stans,Switzerland,EHC Engelberg-Titlis,L,2017,4,120,Washington Capitals,None,20,1,8,9,4,13,None,None,46.95805,8.36609,47.00016,8.01427
+NL,Zug,Nico Gross,D,23,186,86,Pontresina,Switzerland,EHC St. Moritz,L,2018,4,101,New York Rangers,None,12,1,2,3,8,4,None,None,46.4955,9.90126,47.00016,8.01427
+NL,Zug,Niklas Hansson,D,28,183,82,Jonstorp,Sweden,Jonstorps IF,R,2013,3,68,Dallas Stars,None,20,1,6,7,14,5,None,None,56.2338,12.67184,62.0,15.0
+NL,Zug,Leon Muggli,D,17,182,75,Cham,Switzerland,EV Zug,L,None,None,None,None,None,17,1,2,3,4,9,None,None,47.18213,8.46358,47.00016,8.01427
+NL,Zug,Elia Riva,D,25,178,82,Claro,Switzerland,HC Ambrì-Piotta,L,None,None,None,None,None,17,0,2,2,8,4,None,None,46.25763,9.02252,47.00016,8.01427
+NL,Zug,Dominik Schlumpf,D,32,183,85,Mönchaltorf,Switzerland,EHC Wallisellen,R,None,None,None,None,None,19,0,1,1,14,1,None,None,47.30958,8.72029,47.00016,8.01427
+NL,Zug,Livio Stadler,D,25,183,80,Steinhausen,Switzerland,EV Zug,L,None,None,None,None,None,20,0,9,9,0,15,None,None,47.1951,8.48581,47.00016,8.01427
+NL,Zug,Dario Allenspach,F,21,183,73,Herisau,Switzerland,SC Herisau,L,None,None,None,None,None,20,2,2,4,4,4,None,None,47.38615,9.27916,47.00016,8.01427
+NL,Zug,Attilio Biasca,F,20,185,88,Zug,Switzerland,EV Zug,L,None,None,None,None,None,14,2,2,4,2,-1,None,None,47.17242,8.51745,47.00016,8.01427
+NL,Zug,Fabrice Herzog,F,28,189,80,Frauenfeld,Switzerland,EHC Frauenfeld,L,2013,5,142,Toronto Maple Leafs,None,20,11,4,15,8,12,None,None,47.55776,8.89893,47.00016,8.01427
+NL,Zug,Grégory Hofmann,F,30,182,79,Biel-Bienne,Switzerland,HC La Chaux-de-Fonds,L,2011,4,103,Carolina Hurricanes,None,20,6,8,14,2,13,None,None,47.13713,7.24608,47.00016,8.01427
+NL,Zug,Jan Kovar,F,33,182,94,Pisek,Czechia,IHC Pisek,R,None,None,None,None,None,17,3,11,14,10,8,None,None,49.3088,14.1475,49.75,15.0
+NL,Zug,Sven Leuenberger,F,24,178,89,Hüttikon,Switzerland,EHC Wettingen-Baden,R,None,None,None,None,None,20,1,1,2,10,-1,None,None,47.4426,8.38807,47.00016,8.01427
+NL,Zug,Lino Martschini,F,30,168,66,Luzern,Switzerland,EV Zug,R,None,None,None,None,None,20,10,7,17,10,13,None,None,47.05048,8.30635,47.00016,8.01427
+NL,Zug,Marc Michaelis,F,28,180,85,Mannheim,Germany,Mannheimer ERC,L,None,None,None,None,None,20,7,12,19,4,14,None,None,49.4891,8.46694,51.5,10.5
+NL,Zug,Tim Muggli,F,20,184,81,Cham,Switzerland,EV Zug,R,None,None,None,None,None,7,0,0,0,4,0,None,None,47.18213,8.46358,47.00016,8.01427
+NL,Zug,Brian O'Neill,F,35,175,78,Yardley,USA,None,R,None,None,None,None,None,20,6,8,14,6,14,None,None,40.24566,-74.846,-14.60485,-57.65625
+NL,Zug,Louis Robin,F,20,176,71,Yverdon-les-Bains,Switzerland,HC Yverdon les Bains,R,None,None,None,None,None,16,0,3,3,0,4,None,None,46.77852,6.64115,47.00016,8.01427
+NL,Zug,Sven Senteler,F,31,185,90,Zürich,Switzerland,None,L,None,None,None,None,None,20,4,7,11,4,11,None,None,47.36667,8.55,47.00016,8.01427
+NL,Zug,Dario Simion,F,29,189,88,Locarno,Switzerland,HC Ambrì-Piotta,R,None,None,None,None,None,20,7,2,9,0,0,None,None,46.17086,8.79953,47.00016,8.01427
+NL,Zug,Reto Suri,F,34,182,81,Zürich,Switzerland,EHC Kloten,L,None,None,None,None,None,None,None,None,None,None,None,None,None,47.36667,8.55,47.00016,8.01427
+NL,Zug,Andreas Wingerli,F,26,173,77,Lycksele,Sweden,Lycksele SK,L,None,None,None,None,None,20,5,5,10,8,5,None,None,64.54832,18.71622,62.0,15.0
